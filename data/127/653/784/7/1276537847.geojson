@@ -1,0 +1,70 @@
+{
+  "id": 1276537847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.90472,8.00758,-80.90472,8.00758",
+    "geom:latitude":8.00758,
+    "geom:longitude":-80.90472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Canoa",
+    "gn:country_code":"PA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708011,
+    "gn:latitude":8.00758,
+    "gn:longitude":-80.90472,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Canoa",
+    "gn:population":22,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708011
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e71f3d463927114aad4d2c274ed7517a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693187,
+            "locality_id":1276537847,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276537847,
+    "wof:lastmodified":1537001173,
+    "wof:name":"La Canoa",
+    "wof:parent_id":1108693187,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.90472,
+    8.00758,
+    -80.90472,
+    8.00758
+],
+  "geometry": {"coordinates":[-80.90472,8.00758],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243249701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95,8.63333,-79.95,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":-79.95,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"PA",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707852,
+    "gn:latitude":8.63333,
+    "gn:longitude":-79.95,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707852
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fc8036ce8ed267063778539f0cd79847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1243249701,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1243249701,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1243249701,
+    "wof:lastmodified":1537085990,
+    "wof:name":"La Cruz",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95,
+    8.63333,
+    -79.95,
+    8.63333
+],
+  "geometry": {"coordinates":[-79.95,8.63333],"type":"Point"}
+}

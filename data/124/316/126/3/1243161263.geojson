@@ -1,0 +1,73 @@
+{
+  "id": 1243161263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.90309,8.53187,-80.90309,8.53187",
+    "geom:latitude":8.53187,
+    "geom:longitude":-80.90309,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Loma Chata",
+    "gn:country_code":"PA",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705646,
+    "gn:latitude":8.53187,
+    "gn:longitude":-80.90309,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Loma Chata",
+    "gn:population":101,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Loma Chata"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705646
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a20f7c155f2dc0f666ba6a286dffaefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1243161263,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243161263,
+    "wof:lastmodified":1537676383,
+    "wof:name":"Loma Chata",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.90309,
+    8.53187,
+    -80.90309,
+    8.53187
+],
+  "geometry": {"coordinates":[-80.90309000000001,8.53187],"type":"Point"}
+}

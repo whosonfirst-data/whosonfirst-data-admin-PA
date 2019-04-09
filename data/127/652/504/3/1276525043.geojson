@@ -1,0 +1,73 @@
+{
+  "id": 1276525043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.74891,8.31568,-81.74891,8.31568",
+    "geom:latitude":8.31568,
+    "geom:longitude":-81.74891,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Mojoso",
+    "gn:country_code":"PA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347478,
+    "gn:latitude":8.31568,
+    "gn:longitude":-81.74891,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Mojoso",
+    "gn:population":121,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Mojoso"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347478
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7020b185de823608d06fbca1104684b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1276525043,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276525043,
+    "wof:lastmodified":1537676514,
+    "wof:name":"Quebrada Mojoso",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.74891,
+    8.31568,
+    -81.74891,
+    8.31568
+],
+  "geometry": {"coordinates":[-81.74891,8.31568],"type":"Point"}
+}

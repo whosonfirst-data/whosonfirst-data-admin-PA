@@ -1,0 +1,70 @@
+{
+  "id": 1276556639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.66783,8.35446,-82.66783,8.35446",
+    "geom:latitude":8.35446,
+    "geom:longitude":-82.66783,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Trinchera",
+    "gn:country_code":"PA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706054,
+    "gn:latitude":8.35446,
+    "gn:longitude":-82.66783,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Trinchera",
+    "gn:population":1,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706054
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a38f93271a035f3b3b8356e6cc4f2c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":1276556639,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1276556639,
+    "wof:lastmodified":1536976226,
+    "wof:name":"La Trinchera",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.66783000000002,
+    8.35446,
+    -82.66783000000002,
+    8.35446
+],
+  "geometry": {"coordinates":[-82.66783000000002,8.35446],"type":"Point"}
+}

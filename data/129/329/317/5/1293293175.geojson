@@ -1,0 +1,67 @@
+{
+  "id": 1293293175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.79667,9.17333,-79.79667,9.17333",
+    "geom:latitude":9.17333,
+    "geom:longitude":-79.79667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Frijoles",
+    "gn:country_code":"PA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709463,
+    "gn:latitude":9.17333,
+    "gn:longitude":-79.79667,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Frijoles",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709463
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"de3de1508a578b8a895add24fea7d262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1293293175,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1293293175,
+    "wof:lastmodified":1537064308,
+    "wof:name":"Frijoles",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.79666999999998,
+    9.17333,
+    -79.79666999999998,
+    9.17333
+],
+  "geometry": {"coordinates":[-79.79666999999998,9.17333],"type":"Point"}
+}

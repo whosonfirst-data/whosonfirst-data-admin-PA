@@ -1,0 +1,109 @@
+{
+  "id": 421167799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.53333,8.35,-82.53333,8.35",
+    "geom:latitude":8.35,
+    "geom:longitude":-82.53333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0430\u0440\u0443\u043c\u0430\u043b"
+    ],
+    "name:chi_x_preferred":[
+        "\u74dc\u9c81\u9a6c\u5c14"
+    ],
+    "name:dut_x_preferred":[
+        "Guarumal"
+    ],
+    "name:eng_x_preferred":[
+        "Guarumal"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10e0\u10e3\u10db\u10d0\u10da\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Guarumal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10e0\u10e3\u10db\u10d0\u10da\u10d8"
+    ],
+    "name:spa_x_preferred":[
+        "Guarumal"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u9c81\u9a6c\u5c14"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3708892,
+    "qs:gn_pop":1526,
+    "qs:name":"Guarumal",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":150242,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":157072,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708892,
+        "gp:id":157072,
+        "qs:id":150242,
+        "wd:id":"Q5614181",
+        "wk:page":"Guarumal, Chiriqu\u00ed"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008744,
+    "wof:geomhash":"f73957333ca9a133edff8e8f560e9a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":421167799,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421167799,
+    "wof:lastmodified":1527716152,
+    "wof:name":"Guarumal",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:population":1526,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.53333,
+    8.35,
+    -82.53333,
+    8.35
+],
+  "geometry": {"coordinates":[-82.53333000000001,8.35],"type":"Point"}
+}

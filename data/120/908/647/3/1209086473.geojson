@@ -1,0 +1,64 @@
+{
+  "id": 1209086473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.75799,8.60243,-81.75799,8.60243",
+    "geom:latitude":8.60243,
+    "geom:longitude":-81.75799,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jurigote",
+    "gn:country_code":"PA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348079,
+    "gn:latitude":8.60243,
+    "gn:longitude":-81.75799,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Jurigote",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jurigote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348079
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"94775c4e9fcdb0ff21df87c81cc53381",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209086473
+        }
+    ],
+    "wof:id":1209086473,
+    "wof:lastmodified":1537676517,
+    "wof:name":"Jurigote",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.75799,
+    8.60243,
+    -81.75799,
+    8.60243
+],
+  "geometry": {"coordinates":[-81.75799000000001,8.60243],"type":"Point"}
+}

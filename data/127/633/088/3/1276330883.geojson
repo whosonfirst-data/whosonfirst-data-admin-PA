@@ -1,0 +1,70 @@
+{
+  "id": 1276330883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.4,7.53333,-80.4,7.53333",
+    "geom:latitude":7.53333,
+    "geom:longitude":-80.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Palmosa",
+    "gn:country_code":"PA",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707016,
+    "gn:latitude":7.53333,
+    "gn:longitude":-80.4,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"La Palmosa",
+    "gn:population":11,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707016
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4218f01af974a9ef8185ce21635c37cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1276330883,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1276330883,
+    "wof:lastmodified":1536782334,
+    "wof:name":"La Palmosa",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.4,
+    7.53333,
+    -80.4,
+    7.53333
+],
+  "geometry": {"coordinates":[-80.40000000000001,7.53333],"type":"Point"}
+}

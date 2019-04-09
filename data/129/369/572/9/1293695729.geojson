@@ -1,0 +1,73 @@
+{
+  "id": 1293695729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81003,8.33419,-82.81003,8.33419",
+    "geom:latitude":8.33419,
+    "geom:longitude":-82.81003,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manaca Norte",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347303,
+    "gn:latitude":8.33419,
+    "gn:longitude":-82.81003,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Manaca Norte",
+    "gn:population":1294,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manaca Norte"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347303
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"75a86c76527ed2219bdd6e9be53f2c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1293695729,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293695729,
+    "wof:lastmodified":1537676510,
+    "wof:name":"Manaca Norte",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":1294,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81003,
+    8.33419,
+    -82.81003,
+    8.33419
+],
+  "geometry": {"coordinates":[-82.81003,8.33419],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343462007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.39059,8.43501,-82.39059,8.43501",
+    "geom:latitude":8.43501,
+    "geom:longitude":-82.39059,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Llano Grande",
+    "gn:country_code":"PA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705726,
+    "gn:latitude":8.43501,
+    "gn:longitude":-82.39059,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Llano Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705726
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6761681ddbd1f23a3e2179ad5a1b1803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1343462007,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1343462007,
+    "wof:lastmodified":1537676385,
+    "wof:name":"Llano Grande",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.39059,
+    8.43501,
+    -82.39059,
+    8.43501
+],
+  "geometry": {"coordinates":[-82.39059,8.43501],"type":"Point"}
+}

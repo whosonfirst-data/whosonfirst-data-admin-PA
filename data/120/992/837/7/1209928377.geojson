@@ -1,0 +1,67 @@
+{
+  "id": 1209928377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.53333,9.36667,-82.53333,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":-82.53333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dos Bocas",
+    "gn:country_code":"PA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711588,
+    "gn:latitude":9.36667,
+    "gn:longitude":-82.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dos Bocas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711588
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"79609fe4beb0e92792567b04476a5b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1209928377,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1209928377,
+    "wof:lastmodified":1536393848,
+    "wof:name":"Dos Bocas",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.53333,
+    9.36667,
+    -82.53333,
+    9.36667
+],
+  "geometry": {"coordinates":[-82.53333000000001,9.36667],"type":"Point"}
+}

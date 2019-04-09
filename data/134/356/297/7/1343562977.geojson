@@ -1,0 +1,76 @@
+{
+  "id": 1343562977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.32749,8.55167,-80.32749,8.55167",
+    "geom:latitude":8.55167,
+    "geom:longitude":-80.32749,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sonadora",
+    "gn:country_code":"PA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706300,
+    "gn:latitude":8.55167,
+    "gn:longitude":-80.32749,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Sonadora",
+    "gn:population":515,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sonadora"
+    ],
+    "name:und_x_variant":[
+        "La Sonadora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706300
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f769ec83cca9fa29543c499951ce84bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1343562977,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1343562977,
+    "wof:lastmodified":1537676392,
+    "wof:name":"Sonadora",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":515,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.32749,
+    8.55167,
+    -80.32749,
+    8.55167
+],
+  "geometry": {"coordinates":[-80.32749,8.55167],"type":"Point"}
+}

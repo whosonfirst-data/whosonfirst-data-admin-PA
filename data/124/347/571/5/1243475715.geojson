@@ -1,0 +1,67 @@
+{
+  "id": 1243475715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.05,7.46667,-80.05,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":-80.05,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Arena",
+    "gn:country_code":"PA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708177,
+    "gn:latitude":7.46667,
+    "gn:longitude":-80.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Arena",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708177
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"81f63909c4e6b361b969ffd7efdd7382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":1243475715,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1243475715,
+    "wof:lastmodified":1536763688,
+    "wof:name":"La Arena",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.05,
+    7.46667,
+    -80.05,
+    7.46667
+],
+  "geometry": {"coordinates":[-80.05,7.46667],"type":"Point"}
+}

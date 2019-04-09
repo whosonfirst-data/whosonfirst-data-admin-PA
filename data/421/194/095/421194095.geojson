@@ -1,0 +1,75 @@
+{
+  "id": 421194095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.543,8.807385,-82.543,8.807385",
+    "geom:latitude":8.807385,
+    "geom:longitude":-82.543,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Alto Pineda",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":337,
+    "qs:photos_1k":68,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":337,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":358894,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793677,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421175373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793677,
+        "qs:id":358894
+    },
+    "wof:country":"PA",
+    "wof:created":1459009794,
+    "wof:geomhash":"0978c84eb9f1923cb3fe6e7276970c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175373,
+            "locality_id":421194095,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421194095,
+    "wof:lastmodified":1500018266,
+    "wof:name":"Alto Pineda",
+    "wof:parent_id":421175373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.543,
+    8.807385,
+    -82.543,
+    8.807385
+],
+  "geometry": {"coordinates":[-82.54300000000001,8.807385],"type":"Point"}
+}

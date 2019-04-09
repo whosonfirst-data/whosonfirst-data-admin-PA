@@ -1,0 +1,75 @@
+{
+  "id": 1277098889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88571,8.71115,-79.88571,8.71115",
+    "geom:latitude":8.71115,
+    "geom:longitude":-79.88571,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rancho Carge",
+    "gn:country_code":"PA",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702028,
+    "gn:latitude":8.71115,
+    "gn:longitude":-79.88571,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Rancho Carge",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702028
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be407a6cf1084d1e3331fdfb4908225f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1277098889,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1277098889,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1277098889,
+    "wof:lastmodified":1536744105,
+    "wof:name":"Rancho Carge",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88571,
+    8.71115,
+    -79.88571,
+    8.71115
+],
+  "geometry": {"coordinates":[-79.88571,8.71115],"type":"Point"}
+}

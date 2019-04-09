@@ -1,0 +1,75 @@
+{
+  "id": 1310584891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.08663,8.14011,-81.08663,8.14011",
+    "geom:latitude":8.14011,
+    "geom:longitude":-81.08663,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Pedro del Espino",
+    "gn:country_code":"PA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701290,
+    "gn:latitude":8.14011,
+    "gn:longitude":-81.08663,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Pedro del Espino",
+    "gn:population":554,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro",
+        "San Pedro del Espino"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701290,
+        "wk:page":"San_Pedro_del_Espino"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0ea0bdf38ced14e7cac5b9368135ff0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1310584891,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310584891,
+    "wof:lastmodified":1537676341,
+    "wof:name":"San Pedro del Espino",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":554,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08663,
+    8.14011,
+    -81.08663,
+    8.14011
+],
+  "geometry": {"coordinates":[-81.08663,8.14011],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276246587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.3999,9.27415,-82.3999,9.27415",
+    "geom:latitude":9.27415,
+    "geom:longitude":-82.3999,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quebrada Nigua",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211142,
+    "gn:latitude":9.27415,
+    "gn:longitude":-82.3999,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Quebrada Nigua",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Nigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211142
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7d307fdf29eeb99993bf63e0122e4e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1276246587,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1276246587,
+    "wof:lastmodified":1537676505,
+    "wof:name":"Quebrada Nigua",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.3999,
+    9.27415,
+    -82.3999,
+    9.27415
+],
+  "geometry": {"coordinates":[-82.3999,9.27415],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226444395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.18721,8.39876,-80.18721,8.39876",
+    "geom:latitude":8.39876,
+    "geom:longitude":-80.18721,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Chiru",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711133,
+    "gn:latitude":8.39876,
+    "gn:longitude":-80.18721,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Chir\u00fa",
+    "gn:population":531,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chir\u00fa",
+        "El Chir\u00fa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711133,
+        "wk:page":"El_Chir%C3%BA"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"53720ae472354569ecbf455695254059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1226444395,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226444395,
+    "wof:lastmodified":1537676453,
+    "wof:name":"El Chiru",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":531,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.18721,
+    8.39876,
+    -80.18721,
+    8.39876
+],
+  "geometry": {"coordinates":[-80.18720999999999,8.39876],"type":"Point"}
+}

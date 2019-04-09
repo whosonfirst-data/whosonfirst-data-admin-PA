@@ -1,0 +1,80 @@
+{
+  "id": 890430967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81333,8.85583,-79.81333,8.85583",
+    "geom:latitude":8.85583,
+    "geom:longitude":-79.81333,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":8408,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "La Laguna"
+    ],
+    "qs:name":"Guadalupe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":339,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708954,
+        "gp:id":157060,
+        "qs:id":150243,
+        "wd:id":"Q998796",
+        "wk:page":"Guadalupe"
+    },
+    "wof:country":"PA",
+    "wof:created":1469051873,
+    "wof:geomhash":"e01f5b52c3f4478a63f72f6c85d80756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":890430967,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":890430967,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":890430967,
+    "wof:lastmodified":1527729739,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":8408,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81333,
+    8.85583,
+    -79.81333,
+    8.85583
+],
+  "geometry": {"coordinates":[-79.81332999999999,8.85583],"type":"Point"}
+}

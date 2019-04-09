@@ -1,0 +1,81 @@
+{
+  "id": 1343248463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88539,8.63427,-79.88539,8.63427",
+    "geom:latitude":8.63427,
+    "geom:longitude":-79.88539,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701228,
+    "gn:latitude":8.63427,
+    "gn:longitude":-79.88539,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Santa Cruz",
+    "gn:population":406,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701228
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2bf2ce246cd7fb9418580746de5bad3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1343248463,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1343248463,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343248463,
+    "wof:lastmodified":1537676340,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":406,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88539,
+    8.63427,
+    -79.88539,
+    8.63427
+],
+  "geometry": {"coordinates":[-79.88539,8.63427],"type":"Point"}
+}

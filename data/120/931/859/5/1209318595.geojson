@@ -1,0 +1,64 @@
+{
+  "id": 1209318595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.13053,8.93692,-82.13053,8.93692",
+    "geom:latitude":8.93692,
+    "geom:longitude":-82.13053,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quebrada del Bajo",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702252,
+    "gn:latitude":8.93692,
+    "gn:longitude":-82.13053,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Quebrada del Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada del Bajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702252
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"40c43292be73e40eba67177d6670eae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209318595
+        }
+    ],
+    "wof:id":1209318595,
+    "wof:lastmodified":1537676351,
+    "wof:name":"Quebrada del Bajo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.13053000000002,
+    8.93692,
+    -82.13053000000002,
+    8.93692
+],
+  "geometry": {"coordinates":[-82.13053000000002,8.93692],"type":"Point"}
+}

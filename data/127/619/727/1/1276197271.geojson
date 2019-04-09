@@ -1,0 +1,79 @@
+{
+  "id": 1276197271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06028,8.91861,-80.06028,8.91861",
+    "geom:latitude":8.91861,
+    "geom:longitude":-80.06028,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Quebrada de La Cachorra",
+    "gn:country_code":"PA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702255,
+    "gn:latitude":8.91861,
+    "gn:longitude":-80.06028,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Quebrada de La Cachorra",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cir\u00ed",
+        "Quebrada de La Cachorra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702255
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cae56ae5935223cdda8f87cbb1e8bfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276197271,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276197271,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1276197271,
+    "wof:lastmodified":1537676352,
+    "wof:name":"Quebrada de La Cachorra",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06028,
+    8.91861,
+    -80.06028,
+    8.91861
+],
+  "geometry": {"coordinates":[-80.06028000000001,8.91861],"type":"Point"}
+}

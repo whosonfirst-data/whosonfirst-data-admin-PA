@@ -1,0 +1,70 @@
+{
+  "id": 1343750919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21667,8.06667,-81.21667,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":-81.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bella Vista",
+    "gn:country_code":"PA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714174,
+    "gn:latitude":8.06667,
+    "gn:longitude":-81.21667,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Bella Vista",
+    "gn:population":25,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714174
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0078fd3d31ae7b5356840d1da25bfff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1343750919,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343750919,
+    "wof:lastmodified":1536823782,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21667,
+    8.06667,
+    -81.21667,
+    8.06667
+],
+  "geometry": {"coordinates":[-81.21666999999999,8.06667],"type":"Point"}
+}

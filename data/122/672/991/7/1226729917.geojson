@@ -1,0 +1,70 @@
+{
+  "id": 1226729917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.72741,8.37302,-81.72741,8.37302",
+    "geom:latitude":8.37302,
+    "geom:longitude":-81.72741,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Maraca",
+    "gn:country_code":"PA",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3704612,
+    "gn:latitude":8.37302,
+    "gn:longitude":-81.72741,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Maraca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Maraca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704612
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2db84e521b5bd063c8934609080b4e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1226729917,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226729917,
+    "wof:lastmodified":1537676370,
+    "wof:name":"Maraca",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.72740999999998,
+    8.37302,
+    -81.72740999999998,
+    8.37302
+],
+  "geometry": {"coordinates":[-81.72740999999998,8.37302],"type":"Point"}
+}

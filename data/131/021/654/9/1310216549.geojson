@@ -1,0 +1,73 @@
+{
+  "id": 1310216549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.5193,8.62093,-80.5193,8.62093",
+    "geom:latitude":8.62093,
+    "geom:longitude":-80.5193,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cerro Corral",
+    "gn:country_code":"PA",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712743,
+    "gn:latitude":8.62093,
+    "gn:longitude":-80.5193,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Corral",
+    "gn:population":113,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Corral"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712743
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be71698aca1d97fa2237c69f94bb331b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1310216549,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310216549,
+    "wof:lastmodified":1537676470,
+    "wof:name":"Cerro Corral",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.5193,
+    8.62093,
+    -80.5193,
+    8.62093
+],
+  "geometry": {"coordinates":[-80.5193,8.62093],"type":"Point"}
+}

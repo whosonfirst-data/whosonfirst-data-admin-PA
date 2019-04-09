@@ -1,0 +1,61 @@
+{
+  "id": 1209595589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.66667,8.46667,-81.66667,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":-81.66667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Aguacate",
+    "gn:country_code":"PA",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715082,
+    "gn:latitude":8.46667,
+    "gn:longitude":-81.66667,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Aguacate",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715082
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d7ed0304bce3040d700207661fc8750d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209595589
+        }
+    ],
+    "wof:id":1209595589,
+    "wof:lastmodified":1536282335,
+    "wof:name":"Aguacate",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.66667,
+    8.46667,
+    -81.66667,
+    8.46667
+],
+  "geometry": {"coordinates":[-81.66667,8.46667],"type":"Point"}
+}

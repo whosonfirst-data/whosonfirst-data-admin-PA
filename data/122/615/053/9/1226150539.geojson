@@ -1,0 +1,70 @@
+{
+  "id": 1226150539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.30122,8.76511,-80.30122,8.76511",
+    "geom:latitude":8.76511,
+    "geom:longitude":-80.30122,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alto de San Miguel",
+    "gn:country_code":"PA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714768,
+    "gn:latitude":8.76511,
+    "gn:longitude":-80.30122,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Alto de San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altos de San Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714768
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"35f072e965a9e72d4274d5fcdcb5886d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1226150539,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226150539,
+    "wof:lastmodified":1537676489,
+    "wof:name":"Alto de San Miguel",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.30122,
+    8.76511,
+    -80.30122,
+    8.76511
+],
+  "geometry": {"coordinates":[-80.30122,8.76511],"type":"Point"}
+}

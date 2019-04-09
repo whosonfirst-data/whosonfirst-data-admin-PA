@@ -1,0 +1,67 @@
+{
+  "id": 1292923799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25,7.98333,-81.25,7.98333",
+    "geom:latitude":7.98333,
+    "geom:longitude":-81.25,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Cajon",
+    "gn:country_code":"PA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711278,
+    "gn:latitude":7.98333,
+    "gn:longitude":-81.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Caj\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711278
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8503b71e953778b93dc2c3c018dab21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1292923799,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1292923799,
+    "wof:lastmodified":1536602476,
+    "wof:name":"El Cajon",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25,
+    7.98333,
+    -81.25,
+    7.98333
+],
+  "geometry": {"coordinates":[-81.25,7.98333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226322789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.93333,8.36667,-81.93333,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-81.93333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Paloma",
+    "gn:country_code":"PA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712658,
+    "gn:latitude":8.36667,
+    "gn:longitude":-81.93333,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Cerro Paloma",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712658
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b6f837014e167338c60f0c11ee949481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1226322789,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226322789,
+    "wof:lastmodified":1536821780,
+    "wof:name":"Cerro Paloma",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.93333,
+    8.36667,
+    -81.93333,
+    8.36667
+],
+  "geometry": {"coordinates":[-81.93333,8.36667],"type":"Point"}
+}

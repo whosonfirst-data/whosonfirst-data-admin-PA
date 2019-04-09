@@ -1,0 +1,76 @@
+{
+  "id": 1277087471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46583,8.72422,-82.46583,8.72422",
+    "geom:latitude":8.72422,
+    "geom:longitude":-82.46583,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Palmira Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703495,
+    "gn:latitude":8.72422,
+    "gn:longitude":-82.46583,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Palmira Abajo",
+    "gn:population":429,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmira Abajo"
+    ],
+    "name:und_x_variant":[
+        "Palmiras Sur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421175373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703495
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"60099e6905cf6a0abaf45eed382832e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175373,
+            "locality_id":1277087471,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1277087471,
+    "wof:lastmodified":1537676362,
+    "wof:name":"Palmira Abajo",
+    "wof:parent_id":421175373,
+    "wof:placetype":"locality",
+    "wof:population":429,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46583000000003,
+    8.72422,
+    -82.46583000000003,
+    8.72422
+],
+  "geometry": {"coordinates":[-82.46583000000003,8.72422],"type":"Point"}
+}

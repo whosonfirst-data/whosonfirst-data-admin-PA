@@ -1,0 +1,81 @@
+{
+  "id": 1360161163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89606,8.80842,-79.89606,8.80842",
+    "geom:latitude":8.80842,
+    "geom:longitude":-79.89606,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Vaca de Monte Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700245,
+    "gn:latitude":8.80842,
+    "gn:longitude":-79.89606,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Vaca de Monte Abajo",
+    "gn:population":213,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vaca de Monte Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700245
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d4009780fb58b6c733e6be4cc626d2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1360161163,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1360161163,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1360161163,
+    "wof:lastmodified":1537676332,
+    "wof:name":"Vaca de Monte Abajo",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89605999999998,
+    8.80842,
+    -79.89605999999998,
+    8.80842
+],
+  "geometry": {"coordinates":[-79.89605999999998,8.80842],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226129565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.66302,8.42487,-81.66302,8.42487",
+    "geom:latitude":8.42487,
+    "geom:longitude":-81.66302,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Miel",
+    "gn:country_code":"PA",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712678,
+    "gn:latitude":8.42487,
+    "gn:longitude":-81.66302,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cerro Miel",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Miel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712678
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c3904f407f8ffefe8e70eba50a0893a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1226129565,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226129565,
+    "wof:lastmodified":1537676469,
+    "wof:name":"Cerro Miel",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.66301999999997,
+    8.42487,
+    -81.66301999999997,
+    8.42487
+],
+  "geometry": {"coordinates":[-81.66301999999997,8.42487],"type":"Point"}
+}

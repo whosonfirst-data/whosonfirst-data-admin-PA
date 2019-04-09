@@ -1,0 +1,67 @@
+{
+  "id": 1209403835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01944,7.66389,-81.01944,7.66389",
+    "geom:latitude":7.66389,
+    "geom:longitude":-81.01944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Campamento de Mariato",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713327,
+    "gn:latitude":7.66389,
+    "gn:longitude":-81.01944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Campamento de Mariato",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perequet\u00e9",
+        "Perequeta",
+        "Campamento de Mariato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713327
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b1e7e16e4485f1a1b79d1f3f995c4119",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209403835
+        }
+    ],
+    "wof:id":1209403835,
+    "wof:lastmodified":1537676476,
+    "wof:name":"Campamento de Mariato",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01944,
+    7.66389,
+    -81.01944,
+    7.66389
+],
+  "geometry": {"coordinates":[-81.01944,7.66389],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293281333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.86667,8.05,-80.86667,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":-80.86667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Palenque",
+    "gn:country_code":"PA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703578,
+    "gn:latitude":8.05,
+    "gn:longitude":-80.86667,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Palenque",
+    "gn:population":66,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703578
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0b69732a4d8bb36a7d883b510ea70629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693187,
+            "locality_id":1293281333,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293281333,
+    "wof:lastmodified":1537081074,
+    "wof:name":"Palenque",
+    "wof:parent_id":1108693187,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.86667,
+    8.05,
+    -80.86667,
+    8.05
+],
+  "geometry": {"coordinates":[-80.86667,8.05],"type":"Point"}
+}

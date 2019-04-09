@@ -1,0 +1,83 @@
+{
+  "id": 1293369577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.93314,8.90864,-79.93314,8.90864",
+    "geom:latitude":8.90864,
+    "geom:longitude":-79.93314,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Lajas",
+    "gn:country_code":"PA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706452,
+    "gn:latitude":8.90864,
+    "gn:longitude":-79.93314,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Lajas",
+    "gn:population":157,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Lajas N\u00famero Uno",
+        "Las Lajas N\u00famero Dos",
+        "Las Lajas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706452
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"444b1beb829d0393024142ce698a6d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1293369577,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1293369577,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293369577,
+    "wof:lastmodified":1537676394,
+    "wof:name":"Las Lajas",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93314000000002,
+    8.90864,
+    -79.93314000000002,
+    8.90864
+],
+  "geometry": {"coordinates":[-79.93314000000002,8.90864],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259965239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.17722,9.29144,-79.17722,9.29144",
+    "geom:latitude":9.29144,
+    "geom:longitude":-79.17722,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Saina",
+    "gn:country_code":"PA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10181555,
+    "gn:latitude":9.29144,
+    "gn:longitude":-79.17722,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"La Sa\u00edna",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Sa\u00edna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10181555
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5e8d049334017ecf8e3ce04f49172e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1259965239,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1259965239,
+    "wof:lastmodified":1537676498,
+    "wof:name":"La Saina",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.17721999999998,
+    9.29144,
+    -79.17721999999998,
+    9.29144
+],
+  "geometry": {"coordinates":[-79.17721999999998,9.29144],"type":"Point"}
+}

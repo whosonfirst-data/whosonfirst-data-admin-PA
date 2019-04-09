@@ -1,0 +1,72 @@
+{
+  "id": 1310103113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.75,8.08333,-80.75,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-80.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Canacilla",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713250,
+    "gn:latitude":8.08333,
+    "gn:longitude":-80.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ca\u00f1acilla",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1a Cillas",
+        "Ca\u00f1acilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713250
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"247b2ec20f71249fca6bbf3033643e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693273,
+            "locality_id":1310103113,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1310103113,
+    "wof:lastmodified":1537676475,
+    "wof:name":"Canacilla",
+    "wof:parent_id":1108693273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.75,
+    8.08333,
+    -80.75,
+    8.08333
+],
+  "geometry": {"coordinates":[-80.75,8.08333],"type":"Point"}
+}

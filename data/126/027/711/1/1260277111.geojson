@@ -1,0 +1,70 @@
+{
+  "id": 1260277111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13591,8.28469,-81.13591,8.28469",
+    "geom:latitude":8.28469,
+    "geom:longitude":-81.13591,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Corita de Los Perez",
+    "gn:country_code":"PA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711962,
+    "gn:latitude":8.28469,
+    "gn:longitude":-81.13591,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Corita de Los P\u00e9rez",
+    "gn:population":39,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711962
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3d78974c827b4e54fc3f75b899e6b474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1260277111,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1260277111,
+    "wof:lastmodified":1536720868,
+    "wof:name":"Corita de Los Perez",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13591,
+    8.28469,
+    -81.13591,
+    8.28469
+],
+  "geometry": {"coordinates":[-81.13591,8.28469],"type":"Point"}
+}

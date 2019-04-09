@@ -1,0 +1,75 @@
+{
+  "id": 1343834553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.02083,8.92972,-80.02083,8.92972",
+    "geom:latitude":8.92972,
+    "geom:longitude":-80.02083,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Carano",
+    "gn:country_code":"PA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711217,
+    "gn:latitude":8.92972,
+    "gn:longitude":-80.02083,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"El Cara\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711217
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"590383bc98deb82fef6d8741eca23c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1343834553,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1343834553,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343834553,
+    "wof:lastmodified":1536704326,
+    "wof:name":"El Carano",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.02083,
+    8.92972,
+    -80.02083,
+    8.92972
+],
+  "geometry": {"coordinates":[-80.02083,8.92972],"type":"Point"}
+}

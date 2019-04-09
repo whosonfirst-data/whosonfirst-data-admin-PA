@@ -1,0 +1,64 @@
+{
+  "id": 1209423815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.56294,8.29017,-81.56294,8.29017",
+    "geom:latitude":8.29017,
+    "geom:longitude":-81.56294,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bajo de Cerro Iglesias",
+    "gn:country_code":"PA",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348006,
+    "gn:latitude":8.29017,
+    "gn:longitude":-81.56294,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Bajo de Cerro Iglesias",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajo de Cerro Iglesias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348006
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5c2b70f53526dca5edb8b16ff6fafe9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209423815
+        }
+    ],
+    "wof:id":1209423815,
+    "wof:lastmodified":1537676516,
+    "wof:name":"Bajo de Cerro Iglesias",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.56294,
+    8.29017,
+    -81.56294,
+    8.29017
+],
+  "geometry": {"coordinates":[-81.56294,8.29017],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1225821767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90636,8.62978,-79.90636,8.62978",
+    "geom:latitude":8.62978,
+    "geom:longitude":-79.90636,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"PA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705411,
+    "gn:latitude":8.62978,
+    "gn:longitude":-79.90636,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Cerritos",
+    "gn:population":155,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Cerritos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705411
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c0c2f28424e2b824842fc144ba411138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1225821767,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1225821767,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1225821767,
+    "wof:lastmodified":1537676379,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90635999999998,
+    8.62978,
+    -79.90635999999998,
+    8.62978
+],
+  "geometry": {"coordinates":[-79.90635999999998,8.62978],"type":"Point"}
+}

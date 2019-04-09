@@ -1,0 +1,73 @@
+{
+  "id": 1293184677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25559,7.70106,-81.25559,7.70106",
+    "geom:latitude":7.70106,
+    "geom:longitude":-81.25559,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Tigre de Los Amarillos",
+    "gn:country_code":"PA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10247941,
+    "gn:latitude":7.70106,
+    "gn:longitude":-81.25559,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Tigre de Los Amarillos",
+    "gn:population":224,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tigre de Los Amarillos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10247941
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f3b3758beaf8d74054131502d084ae78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1293184677,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293184677,
+    "wof:lastmodified":1537676506,
+    "wof:name":"El Tigre de Los Amarillos",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25559,
+    7.70106,
+    -81.25559,
+    7.70106
+],
+  "geometry": {"coordinates":[-81.25559,7.70106],"type":"Point"}
+}

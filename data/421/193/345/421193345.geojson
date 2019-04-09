@@ -1,0 +1,92 @@
+{
+  "id": 421193345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93694,8.45722,-78.93694,8.45722",
+    "geom:latitude":8.45722,
+    "geom:longitude":-78.93694,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "San Miguel"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30df\u30b2\u30eb"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguel"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701345,
+    "qs:gn_pop":751,
+    "qs:name":"San Miguel",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":888747,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160196,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701345,
+        "gp:id":160196,
+        "qs:id":888747,
+        "wd:id":"Q21055598"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009768,
+    "wof:geomhash":"7bbd0ec99dbca0fe51ad32e525e80946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":421193345,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421193345,
+    "wof:lastmodified":1553816381,
+    "wof:name":"San Miguel",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:population":751,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93694,
+    8.45722,
+    -78.93694,
+    8.45722
+],
+  "geometry": {"coordinates":[-78.93694000000001,8.45722],"type":"Point"}
+}

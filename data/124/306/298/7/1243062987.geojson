@@ -1,0 +1,70 @@
+{
+  "id": 1243062987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.46427,8.13678,-81.46427,8.13678",
+    "geom:latitude":8.13678,
+    "geom:longitude":-81.46427,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Tejal",
+    "gn:country_code":"PA",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348700,
+    "gn:latitude":8.13678,
+    "gn:longitude":-81.46427,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"El Tejal",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tejal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348700
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"88bd2d082bb3053e74d42ee9b20e281b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1243062987,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243062987,
+    "wof:lastmodified":1537676522,
+    "wof:name":"El Tejal",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.46427,
+    8.13678,
+    -81.46427,
+    8.13678
+],
+  "geometry": {"coordinates":[-81.46427,8.13678],"type":"Point"}
+}

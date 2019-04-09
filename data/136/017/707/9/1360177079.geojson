@@ -1,0 +1,78 @@
+{
+  "id": 1360177079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.64239,7.95178,-80.64239,7.95178",
+    "geom:latitude":7.95178,
+    "geom:longitude":-80.64239,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Llano de La Cruz",
+    "gn:country_code":"PA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705768,
+    "gn:latitude":7.95178,
+    "gn:longitude":-80.64239,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano de La Cruz",
+    "gn:population":188,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano de La Cruz"
+    ],
+    "name:und_x_variant":[
+        "Juan de la Cruz",
+        "Juan La Cruz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705768,
+        "wk:page":"Llano_de_la_Cruz"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5ad707aa84088e5eac91a9404a741da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1360177079,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1360177079,
+    "wof:lastmodified":1537676386,
+    "wof:name":"Llano de La Cruz",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.64239,
+    7.95178,
+    -80.64239,
+    7.95178
+],
+  "geometry": {"coordinates":[-80.64239000000001,7.95178],"type":"Point"}
+}

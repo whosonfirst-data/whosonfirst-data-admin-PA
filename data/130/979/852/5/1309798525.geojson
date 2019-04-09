@@ -1,0 +1,70 @@
+{
+  "id": 1309798525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63333,7.86667,-80.63333,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":-80.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Penas Moradas",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703091,
+    "gn:latitude":7.86667,
+    "gn:longitude":-80.63333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Pe\u00f1as Moradas",
+    "gn:population":84,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703091
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"302178dee802c3ad023d5d04b42a91bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1309798525,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1309798525,
+    "wof:lastmodified":1536942147,
+    "wof:name":"Penas Moradas",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63333,
+    7.86667,
+    -80.63333,
+    7.86667
+],
+  "geometry": {"coordinates":[-80.63333,7.86667],"type":"Point"}
+}

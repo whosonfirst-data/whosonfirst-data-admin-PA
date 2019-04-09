@@ -1,0 +1,67 @@
+{
+  "id": 1193159995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.20159,7.58529,-78.20159,7.58529",
+    "geom:latitude":7.58529,
+    "geom:longitude":-78.20159,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Molino",
+    "gn:country_code":"PA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764199,
+    "gn:latitude":7.58529,
+    "gn:longitude":-78.20159,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"El Molino",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764199
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7b9758c54b3bdd9468e366f8279b81bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1193159995,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1193159995,
+    "wof:lastmodified":1536368935,
+    "wof:name":"El Molino",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.20159,
+    7.58529,
+    -78.20159,
+    7.58529
+],
+  "geometry": {"coordinates":[-78.20159,7.58529],"type":"Point"}
+}

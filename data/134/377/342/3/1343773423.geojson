@@ -1,0 +1,73 @@
+{
+  "id": 1343773423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.22276,8.72207,-80.22276,8.72207",
+    "geom:latitude":8.72207,
+    "geom:longitude":-80.22276,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"PA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701292,
+    "gn:latitude":8.72207,
+    "gn:longitude":-80.22276,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Pedro",
+    "gn:population":677,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701292
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d66c9867633aac988cf7176270b5aa1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1343773423,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1343773423,
+    "wof:lastmodified":1537676341,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":677,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.22276,
+    8.72207,
+    -80.22276,
+    8.72207
+],
+  "geometry": {"coordinates":[-80.22275999999999,8.72207],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343757921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78699,8.27179,-80.78699,8.27179",
+    "geom:latitude":8.27179,
+    "geom:longitude":-80.78699,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Tetas",
+    "gn:country_code":"PA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706195,
+    "gn:latitude":8.27179,
+    "gn:longitude":-80.78699,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Tetas",
+    "gn:population":137,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Tetas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706195
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3969b264097aa95608c898bb5e943302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1343757921,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343757921,
+    "wof:lastmodified":1537676390,
+    "wof:name":"Las Tetas",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78699,
+    8.27179,
+    -80.78699,
+    8.27179
+],
+  "geometry": {"coordinates":[-80.78699,8.27179],"type":"Point"}
+}

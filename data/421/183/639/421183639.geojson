@@ -1,0 +1,90 @@
+{
+  "id": 421183639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.45,9.05,-79.45,9.05",
+    "geom:latitude":9.05,
+    "geom:longitude":-79.45,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Juan D\u00edaz"
+    ],
+    "name:eng_x_preferred":[
+        "Juan D\u00edaz"
+    ],
+    "name:ita_x_preferred":[
+        "Juan D\u00edaz"
+    ],
+    "name:spa_x_preferred":[
+        "Juan D\u00edaz"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3708306,
+    "qs:gn_pop":0,
+    "qs:name":"Juan D\u00edaz",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982668,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":157228,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708306,
+        "gp:id":157228,
+        "qs:id":982668,
+        "wd:id":"Q5949184"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009377,
+    "wof:geomhash":"a37c85e407bd657ff7af63772697c05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":421183639,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421183639,
+    "wof:lastmodified":1527717697,
+    "wof:name":"Juan D\u00edaz",
+    "wof:parent_id":421175375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.45,
+    9.05,
+    -79.45,
+    9.05
+],
+  "geometry": {"coordinates":[-79.45,9.05],"type":"Point"}
+}

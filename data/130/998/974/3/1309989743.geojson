@@ -1,0 +1,70 @@
+{
+  "id": 1309989743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.19876,8.20142,-81.19876,8.20142",
+    "geom:latitude":8.20142,
+    "geom:longitude":-81.19876,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cerro Redondo",
+    "gn:country_code":"PA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712634,
+    "gn:latitude":8.20142,
+    "gn:longitude":-81.19876,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cerro Redondo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Redondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712634
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fa7e17835b48de66283e70b26d21a3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1309989743,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1309989743,
+    "wof:lastmodified":1537676468,
+    "wof:name":"Cerro Redondo",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.19876,
+    8.20142,
+    -81.19876,
+    8.20142
+],
+  "geometry": {"coordinates":[-81.19875999999999,8.20142],"type":"Point"}
+}

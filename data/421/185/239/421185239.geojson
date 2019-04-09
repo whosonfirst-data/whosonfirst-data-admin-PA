@@ -1,0 +1,87 @@
+{
+  "id": 421185239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58333,8.98333,-79.58333,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":-79.58333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Cocli"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3712135,
+    "qs:gn_pop":0,
+    "qs:name":"Cocol\u00ed",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887572,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155662,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421203467,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712135,
+        "gp:id":155662,
+        "qs:id":887572
+    },
+    "wof:country":"PA",
+    "wof:created":1459009436,
+    "wof:geomhash":"f64103af84de70cdaa141c04fb998a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421185239,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421185239,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421185239,
+    "wof:lastmodified":1501268796,
+    "wof:name":"Cocol\u00ed",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58333,
+    8.98333,
+    -79.58333,
+    8.98333
+],
+  "geometry": {"coordinates":[-79.58333,8.98333],"type":"Point"}
+}

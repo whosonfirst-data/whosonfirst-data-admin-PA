@@ -1,0 +1,67 @@
+{
+  "id": 1259963607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.35333,7.915,-81.35333,7.915",
+    "geom:latitude":7.915,
+    "geom:longitude":-81.35333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Mariposa",
+    "gn:country_code":"PA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707254,
+    "gn:latitude":7.915,
+    "gn:longitude":-81.35333,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"La Mariposa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707254
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"35d53120e161aaf36dfb50028b9ca1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1259963607,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259963607,
+    "wof:lastmodified":1536663817,
+    "wof:name":"La Mariposa",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.35333,
+    7.915,
+    -81.35333,
+    7.915
+],
+  "geometry": {"coordinates":[-81.35333,7.915],"type":"Point"}
+}

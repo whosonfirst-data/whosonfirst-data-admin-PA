@@ -1,0 +1,67 @@
+{
+  "id": 1276343981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.26667,8.65,-82.26667,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":-82.26667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cerro Guabal",
+    "gn:country_code":"PA",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712703,
+    "gn:latitude":8.65,
+    "gn:longitude":-82.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cerro Guabal",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421169889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712703
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0cda28bbee7f41cf8003498b2a92de59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421169889,
+            "locality_id":1276343981,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1276343981,
+    "wof:lastmodified":1536764445,
+    "wof:name":"Cerro Guabal",
+    "wof:parent_id":421169889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.26666999999998,
+    8.65,
+    -82.26666999999998,
+    8.65
+],
+  "geometry": {"coordinates":[-82.26666999999998,8.65],"type":"Point"}
+}

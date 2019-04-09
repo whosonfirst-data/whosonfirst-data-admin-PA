@@ -1,0 +1,73 @@
+{
+  "id": 1293501515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.21438,8.97805,-82.21438,8.97805",
+    "geom:latitude":8.97805,
+    "geom:longitude":-82.21438,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Los Chiricanos",
+    "gn:country_code":"PA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705394,
+    "gn:latitude":8.97805,
+    "gn:longitude":-82.21438,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Chiricanos",
+    "gn:population":513,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Chiricanos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        1108693209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705394
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ecc2b73bb187e603919307d299a91390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693209,
+            "locality_id":1293501515,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1293501515,
+    "wof:lastmodified":1537676379,
+    "wof:name":"Los Chiricanos",
+    "wof:parent_id":1108693209,
+    "wof:placetype":"locality",
+    "wof:population":513,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.21438,
+    8.97805,
+    -82.21438,
+    8.97805
+],
+  "geometry": {"coordinates":[-82.21438000000001,8.97805],"type":"Point"}
+}

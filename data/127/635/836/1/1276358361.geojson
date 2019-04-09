@@ -1,0 +1,67 @@
+{
+  "id": 1276358361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.8,7.75,-80.8,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":-80.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Playitas",
+    "gn:country_code":"PA",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706230,
+    "gn:latitude":7.75,
+    "gn:longitude":-80.8,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Las Playitas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706230
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"892f1f51489ba62be009cdd386f1120b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693227,
+            "locality_id":1276358361,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276358361,
+    "wof:lastmodified":1536744738,
+    "wof:name":"Las Playitas",
+    "wof:parent_id":1108693227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.8,
+    7.75,
+    -80.8,
+    7.75
+],
+  "geometry": {"coordinates":[-80.8,7.75],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276750129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76123,8.86835,-79.76123,8.86835",
+    "geom:latitude":8.86835,
+    "geom:longitude":-79.76123,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Quebrada Rodeo",
+    "gn:country_code":"PA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702142,
+    "gn:latitude":8.86835,
+    "gn:longitude":-79.76123,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Quebrada Rodeo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Rodeo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702142
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"851fb26dffc2b5755e27739dca05f69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1276750129,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1276750129,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1276750129,
+    "wof:lastmodified":1537676349,
+    "wof:name":"Quebrada Rodeo",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76123,
+    8.86835,
+    -79.76123,
+    8.86835
+],
+  "geometry": {"coordinates":[-79.76123,8.86835],"type":"Point"}
+}

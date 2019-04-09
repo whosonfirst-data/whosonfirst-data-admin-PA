@@ -1,0 +1,67 @@
+{
+  "id": 1310427713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58333,8.08333,-80.58333,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-80.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Correa",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711871,
+    "gn:latitude":8.08333,
+    "gn:longitude":-80.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Correa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711871
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d8d41a5a104d78a0d1a30602f529b652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1310427713,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1310427713,
+    "wof:lastmodified":1537028043,
+    "wof:name":"Correa",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58333,
+    8.08333,
+    -80.58333,
+    8.08333
+],
+  "geometry": {"coordinates":[-80.58333,8.08333],"type":"Point"}
+}

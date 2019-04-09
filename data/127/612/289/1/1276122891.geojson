@@ -1,0 +1,70 @@
+{
+  "id": 1276122891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14307,8.41271,-78.14307,8.41271",
+    "geom:latitude":8.41271,
+    "geom:longitude":-78.14307,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Senon",
+    "gn:country_code":"PA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701010,
+    "gn:latitude":8.41271,
+    "gn:longitude":-78.14307,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Sen\u00f3n",
+    "gn:population":9,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701010
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5d65f4d4381f7b457dea6eb9937fd33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1276122891,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1276122891,
+    "wof:lastmodified":1537057988,
+    "wof:name":"Senon",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14307,
+    8.41271,
+    -78.14307,
+    8.41271
+],
+  "geometry": {"coordinates":[-78.14306999999999,8.41271],"type":"Point"}
+}

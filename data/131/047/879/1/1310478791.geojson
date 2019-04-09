@@ -1,0 +1,70 @@
+{
+  "id": 1310478791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.87373,8.88163,-81.87373,8.88163",
+    "geom:latitude":8.88163,
+    "geom:longitude":-81.87373,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Poman Creek",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702615,
+    "gn:latitude":8.88163,
+    "gn:longitude":-81.87373,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Poman Creek",
+    "gn:population":85,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702615
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f531434fab97455edfe3c31fd0b9996e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1310478791,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1310478791,
+    "wof:lastmodified":1536955530,
+    "wof:name":"Poman Creek",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.87373000000002,
+    8.88163,
+    -81.87373000000002,
+    8.88163
+],
+  "geometry": {"coordinates":[-81.87373000000002,8.88163],"type":"Point"}
+}

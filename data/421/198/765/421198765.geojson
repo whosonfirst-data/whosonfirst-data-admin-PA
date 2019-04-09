@@ -1,0 +1,108 @@
+{
+  "id": 421198765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.43333,8.36667,-82.43333,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-82.43333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u4f69\u5fb7\u96f7\u52a0\u5c14"
+    ],
+    "name:dut_x_preferred":[
+        "Pedregal"
+    ],
+    "name:eng_x_preferred":[
+        "Pedregal"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d4\u10d3\u10e0\u10d4\u10d2\u10d0\u10da\u10d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10d3\u10e0\u10d4\u10d2\u10d0\u10da\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Pedregal"
+    ],
+    "name:spa_x_preferred":[
+        "Pedregal"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Pedregal"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u96f7\u52a0\u5c14"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3703229,
+    "qs:gn_pop":16285,
+    "qs:name":"Pedregal",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1204701,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159442,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703229,
+        "gp:id":159442,
+        "qs:id":1204701,
+        "wd:id":"Q4899055",
+        "wk:page":"Pedregal, Boquer\u00f3n"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009959,
+    "wof:geomhash":"9f7aa5daf1d640d2a40d9f0c5095648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":421198765,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421198765,
+    "wof:lastmodified":1514494898,
+    "wof:name":"Pedregal",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":16285,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.43333,
+    8.36667,
+    -82.43333,
+    8.36667
+],
+  "geometry": {"coordinates":[-82.43333,8.36667],"type":"Point"}
+}

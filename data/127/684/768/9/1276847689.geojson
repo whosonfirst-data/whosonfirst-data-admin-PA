@@ -1,0 +1,67 @@
+{
+  "id": 1276847689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.8,8.38333,-81.8,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":-81.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Hormiga",
+    "gn:country_code":"PA",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702188,
+    "gn:latitude":8.38333,
+    "gn:longitude":-81.8,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Quebrada Hormiga",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702188
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e02d6e6949dd1ed16c91589a1479daad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1276847689,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276847689,
+    "wof:lastmodified":1537081114,
+    "wof:name":"Quebrada Hormiga",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.8,
+    8.38333,
+    -81.8,
+    8.38333
+],
+  "geometry": {"coordinates":[-81.8,8.38333],"type":"Point"}
+}

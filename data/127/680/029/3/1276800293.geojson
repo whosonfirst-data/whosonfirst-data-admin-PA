@@ -1,0 +1,74 @@
+{
+  "id": 1276800293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88189,9.37328,-79.88189,9.37328",
+    "geom:latitude":9.37328,
+    "geom:longitude":-79.88189,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"310.0",
+    "gn:asciiname":"Coco Solo",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712123,
+    "gn:latitude":9.37328,
+    "gn:longitude":-79.88189,
+    "gn:modification_date":"2014-11-29",
+    "gn:name":"Coco Solo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coco Solito",
+        "Coco Solo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712123,
+        "wk:page":"Coco_Solo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0bd9937d845fd184926fced47d4a4958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1276800293,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1276800293,
+    "wof:lastmodified":1537676463,
+    "wof:name":"Coco Solo",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88189,
+    9.37328,
+    -79.88189,
+    9.37328
+],
+  "geometry": {"coordinates":[-79.88189,9.37328],"type":"Point"}
+}

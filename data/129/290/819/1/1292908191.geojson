@@ -1,0 +1,70 @@
+{
+  "id": 1292908191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.6119,7.96945,-77.6119,7.96945",
+    "geom:latitude":7.96945,
+    "geom:longitude":-77.6119,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bajo Grande",
+    "gn:country_code":"PA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203162,
+    "gn:latitude":7.96945,
+    "gn:longitude":-77.6119,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Bajo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajo Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203162
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c130ca8fc95d501e427079ddeaab0c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1292908191,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1292908191,
+    "wof:lastmodified":1537676503,
+    "wof:name":"Bajo Grande",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.6119,
+    7.96945,
+    -77.6119,
+    7.96945
+],
+  "geometry": {"coordinates":[-77.61190000000001,7.96945],"type":"Point"}
+}

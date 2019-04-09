@@ -1,0 +1,76 @@
+{
+  "id": 1360287271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42251,8.43701,-80.42251,8.43701",
+    "geom:latitude":8.43701,
+    "geom:longitude":-80.42251,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Congo",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712007,
+    "gn:latitude":8.43701,
+    "gn:longitude":-80.42251,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Congo",
+    "gn:population":803,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Congo"
+    ],
+    "name:und_x_variant":[
+        "Congo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712007
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"85d1254806b738173b606b9bfc05c5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1360287271,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1360287271,
+    "wof:lastmodified":1537676463,
+    "wof:name":"El Congo",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":803,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42251,
+    8.43701,
+    -80.42251,
+    8.43701
+],
+  "geometry": {"coordinates":[-80.42251,8.43701],"type":"Point"}
+}

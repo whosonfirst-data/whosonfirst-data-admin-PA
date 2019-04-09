@@ -1,0 +1,73 @@
+{
+  "id": 1243087655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.23111,9.12832,-79.23111,9.12832",
+    "geom:latitude":9.12832,
+    "geom:longitude":-79.23111,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Naranjal",
+    "gn:country_code":"PA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703972,
+    "gn:latitude":9.12832,
+    "gn:longitude":-79.23111,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Naranjal",
+    "gn:population":552,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Naranjal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703972
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9d19d0e5ed8d4af07b72d83e1fab9411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1243087655,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1243087655,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Naranjal",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.23111,
+    9.12832,
+    -79.23111,
+    9.12832
+],
+  "geometry": {"coordinates":[-79.23111,9.12832],"type":"Point"}
+}

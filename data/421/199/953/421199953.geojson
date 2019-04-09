@@ -1,0 +1,98 @@
+{
+  "id": 421199953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61667,7.9,-80.61667,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":-80.61667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:nld_x_preferred":[
+        "Pes\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Pes\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Pes\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u585e"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3703011,
+    "qs:gn_pop":3141,
+    "qs:name":"Pese",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Herrera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"4",
+    "qs:qs_id":203486,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793391,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703011,
+        "gp:id":26793391,
+        "qs:id":203486,
+        "qs_pg:id":203486,
+        "wd:id":"Q2064060",
+        "wk:page":"Pes\u00e9"
+    },
+    "wof:country":"PA",
+    "wof:created":1459010006,
+    "wof:geomhash":"bb8a1f87ce208ef04f7980fdfd374956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "localadmin_id":421199953,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":421199953,
+    "wof:lastmodified":1527716409,
+    "wof:name":"Pese",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"localadmin",
+    "wof:population":3141,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61667,
+    7.9,
+    -80.61667,
+    7.9
+],
+  "geometry": {"coordinates":[-80.61667,7.9],"type":"Point"}
+}

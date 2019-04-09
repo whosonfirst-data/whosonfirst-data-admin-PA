@@ -1,0 +1,63 @@
+{
+  "id": 1209892535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75,8.7,-79.75,8.7",
+    "geom:latitude":8.7,
+    "geom:longitude":-79.75,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Majagual",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704780,
+    "gn:latitude":8.7,
+    "gn:longitude":-79.75,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Majagual",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704780
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0ca8e297acdc6cb89fe2601d6135ac2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1209892535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209892535,
+    "wof:lastmodified":1536390084,
+    "wof:name":"Majagual",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75,
+    8.7,
+    -79.75,
+    8.7
+],
+  "geometry": {"coordinates":[-79.75,8.7],"type":"Point"}
+}

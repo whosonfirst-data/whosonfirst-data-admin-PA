@@ -1,0 +1,73 @@
+{
+  "id": 1310005123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.08424,8.82618,-78.08424,8.82618",
+    "geom:latitude":8.82618,
+    "geom:longitude":-78.08424,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Palmira",
+    "gn:country_code":"PA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194278,
+    "gn:latitude":8.82618,
+    "gn:longitude":-78.08424,
+    "gn:modification_date":"2017-08-18",
+    "gn:name":"Palmira",
+    "gn:population":153,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmira"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194278
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2239e2d9fe6570eefdd4723c895aa370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1310005123,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1310005123,
+    "wof:lastmodified":1537676500,
+    "wof:name":"Palmira",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.08424000000002,
+    8.82618,
+    -78.08424000000002,
+    8.82618
+],
+  "geometry": {"coordinates":[-78.08424000000002,8.82618],"type":"Point"}
+}

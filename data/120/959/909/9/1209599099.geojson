@@ -1,0 +1,61 @@
+{
+  "id": 1209599099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.38333,7.83333,-81.38333,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":-81.38333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Pita del Yaya",
+    "gn:country_code":"PA",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706850,
+    "gn:latitude":7.83333,
+    "gn:longitude":-81.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Pita del Yaya",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706850
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5f82ea88d32ca3e0db9e65c33f57a428",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209599099
+        }
+    ],
+    "wof:id":1209599099,
+    "wof:lastmodified":1536282227,
+    "wof:name":"La Pita del Yaya",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.38333,
+    7.83333,
+    -81.38333,
+    7.83333
+],
+  "geometry": {"coordinates":[-81.38333,7.83333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293314693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.73535,8.10879,-80.73535,8.10879",
+    "geom:latitude":8.10879,
+    "geom:longitude":-80.73535,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Salamanca",
+    "gn:country_code":"PA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706660,
+    "gn:latitude":8.10879,
+    "gn:longitude":-80.73535,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"La Salamanca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Salamanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706660
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"762b225ec0e7245f5146554007ccc93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693273,
+            "locality_id":1293314693,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1293314693,
+    "wof:lastmodified":1537676398,
+    "wof:name":"La Salamanca",
+    "wof:parent_id":1108693273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.73535,
+    8.10879,
+    -80.73535,
+    8.10879
+],
+  "geometry": {"coordinates":[-80.73535,8.10879],"type":"Point"}
+}

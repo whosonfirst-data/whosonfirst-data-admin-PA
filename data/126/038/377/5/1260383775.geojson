@@ -1,0 +1,71 @@
+{
+  "id": 1260383775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.51358,7.93344,-80.51358,7.93344",
+    "geom:latitude":7.93344,
+    "geom:longitude":-80.51358,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Barrero",
+    "gn:country_code":"PA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711416,
+    "gn:latitude":7.93344,
+    "gn:longitude":-80.51358,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"El Barrero",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Barrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711416,
+        "wk:page":"El_Barrero"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a432e25644c0cadd597042dc7aaf345a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1260383775,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1260383775,
+    "wof:lastmodified":1537676457,
+    "wof:name":"El Barrero",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.51358,
+    7.93344,
+    -80.51358,
+    7.93344
+],
+  "geometry": {"coordinates":[-80.51358,7.93344],"type":"Point"}
+}

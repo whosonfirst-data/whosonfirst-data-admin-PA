@@ -1,0 +1,74 @@
+{
+  "id": 1242772225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.16082,7.6851,-80.16082,7.6851",
+    "geom:latitude":7.6851,
+    "geom:longitude":-80.16082,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Paraiso",
+    "gn:country_code":"PA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3703375,
+    "gn:latitude":7.6851,
+    "gn:longitude":-80.16082,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Para\u00edso",
+    "gn:population":234,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Para\u00edso"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703375,
+        "wk:page":"Para%C3%ADso%2C_Los_Santos"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ca3089a98bb9416ff2bdcacaf75b9fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693255,
+            "locality_id":1242772225,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1242772225,
+    "wof:lastmodified":1537676361,
+    "wof:name":"Paraiso",
+    "wof:parent_id":1108693255,
+    "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.16082,
+    7.6851,
+    -80.16082,
+    7.6851
+],
+  "geometry": {"coordinates":[-80.16082,7.6851],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293693065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03333,9.11667,-80.03333,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-80.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Ullama",
+    "gn:country_code":"PA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706030,
+    "gn:latitude":9.11667,
+    "gn:longitude":-80.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Ullama",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ullama",
+        "La Ullama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706030
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"638b94bda1b79dea03cb5c5c4dca0c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1293693065,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1293693065,
+    "wof:lastmodified":1537676388,
+    "wof:name":"La Ullama",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03333,
+    9.11667,
+    -80.03333,
+    9.11667
+],
+  "geometry": {"coordinates":[-80.03333000000001,9.11667],"type":"Point"}
+}

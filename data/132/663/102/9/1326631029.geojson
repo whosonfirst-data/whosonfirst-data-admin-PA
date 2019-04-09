@@ -1,0 +1,72 @@
+{
+  "id": 1326631029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13222,9.18944,-80.13222,9.18944",
+    "geom:latitude":9.18944,
+    "geom:longitude":-80.13222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Bendito",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711364,
+    "gn:latitude":9.18944,
+    "gn:longitude":-80.13222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Bendito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bendito",
+        "El Bendito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711364
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1c1d04cffbadfe40a1201c1a837eeab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1326631029,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1326631029,
+    "wof:lastmodified":1537676456,
+    "wof:name":"El Bendito",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13221999999998,
+    9.18944,
+    -80.13221999999998,
+    9.18944
+],
+  "geometry": {"coordinates":[-80.13221999999998,9.18944],"type":"Point"}
+}

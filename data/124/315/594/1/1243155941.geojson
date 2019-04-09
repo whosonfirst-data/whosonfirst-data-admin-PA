@@ -1,0 +1,67 @@
+{
+  "id": 1243155941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85,7.43333,-80.85,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":-80.85,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Rompio",
+    "gn:country_code":"PA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710000,
+    "gn:latitude":7.43333,
+    "gn:longitude":-80.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Romp\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710000
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f0768d2075db9801aa35fa4fad8ae5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1243155941,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243155941,
+    "wof:lastmodified":1536727792,
+    "wof:name":"El Rompio",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85,
+    7.43333,
+    -80.85,
+    7.43333
+],
+  "geometry": {"coordinates":[-80.84999999999999,7.43333],"type":"Point"}
+}

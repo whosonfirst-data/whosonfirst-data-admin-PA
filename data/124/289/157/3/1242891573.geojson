@@ -1,0 +1,67 @@
+{
+  "id": 1242891573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.29278,9.24917,-82.29278,9.24917",
+    "geom:latitude":9.24917,
+    "geom:longitude":-82.29278,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Redmans Settlement",
+    "gn:country_code":"PA",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3741035,
+    "gn:latitude":9.24917,
+    "gn:longitude":-82.29278,
+    "gn:modification_date":"1995-09-08",
+    "gn:name":"Redmans Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        1108693191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3741035
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"450b2a158853db76542745a3a0027152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693191,
+            "locality_id":1242891573,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1242891573,
+    "wof:lastmodified":1536608687,
+    "wof:name":"Redmans Settlement",
+    "wof:parent_id":1108693191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.29278000000002,
+    9.24917,
+    -82.29278000000002,
+    9.24917
+],
+  "geometry": {"coordinates":[-82.29278000000002,9.24917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242991939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.80858,9.01347,-77.80858,9.01347",
+    "geom:latitude":9.01347,
+    "geom:longitude":-77.80858,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Navagandi",
+    "gn:country_code":"PA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703933,
+    "gn:latitude":9.01347,
+    "gn:longitude":-77.80858,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Navagand\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Napakanti",
+        "Navagand\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703933
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"786d69ae6158f9ba644eafd91fb7dc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "locality_id":1242991939,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":1242991939,
+    "wof:lastmodified":1537676365,
+    "wof:name":"Navagandi",
+    "wof:parent_id":1108693213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.80858,
+    9.01347,
+    -77.80858,
+    9.01347
+],
+  "geometry": {"coordinates":[-77.80858000000001,9.01347],"type":"Point"}
+}

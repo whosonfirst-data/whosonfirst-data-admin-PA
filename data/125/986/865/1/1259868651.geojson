@@ -1,0 +1,72 @@
+{
+  "id": 1259868651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.53333,8.01667,-81.53333,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-81.53333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Cabimo",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711315,
+    "gn:latitude":8.01667,
+    "gn:longitude":-81.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Cabimo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabimo",
+        "El Cabimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711315
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fa33e9a47366a239810131053ab3d78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1259868651,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259868651,
+    "wof:lastmodified":1537676455,
+    "wof:name":"El Cabimo",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.53333,
+    8.01667,
+    -81.53333,
+    8.01667
+],
+  "geometry": {"coordinates":[-81.53333000000001,8.01667],"type":"Point"}
+}

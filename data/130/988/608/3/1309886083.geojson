@@ -1,0 +1,71 @@
+{
+  "id": 1309886083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.65,8.41667,-81.65,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-81.65,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Calabacito de Miranda",
+    "gn:country_code":"PA",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713459,
+    "gn:latitude":8.41667,
+    "gn:longitude":-81.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Calabacito de Miranda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabacito de Miranda",
+        "Calabacito de Miranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713459
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cb74e465fd6b04aed94e60d447c15f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1309886083,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1309886083,
+    "wof:lastmodified":1537676477,
+    "wof:name":"Calabacito de Miranda",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.65,
+    8.41667,
+    -81.65,
+    8.41667
+],
+  "geometry": {"coordinates":[-81.65000000000001,8.41667],"type":"Point"}
+}

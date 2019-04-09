@@ -1,0 +1,61 @@
+{
+  "id": 1209636687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.48333,7.9,-80.48333,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":-80.48333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cana Brava Numero Tres",
+    "gn:country_code":"PA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713253,
+    "gn:latitude":7.9,
+    "gn:longitude":-80.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ca\u00f1a Brava N\u00famero Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713253
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b719754c2881173a023cd3ed7f058ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209636687
+        }
+    ],
+    "wof:id":1209636687,
+    "wof:lastmodified":1536281021,
+    "wof:name":"Cana Brava Numero Tres",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.48333000000002,
+    7.9,
+    -80.48333000000002,
+    7.9
+],
+  "geometry": {"coordinates":[-80.48333000000002,7.9],"type":"Point"}
+}

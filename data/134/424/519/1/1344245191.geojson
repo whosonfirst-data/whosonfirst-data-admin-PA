@@ -1,0 +1,70 @@
+{
+  "id": 1344245191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54916,8.2349,-77.54916,8.2349",
+    "geom:latitude":8.2349,
+    "geom:longitude":-77.54916,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boca de Rio Tigre",
+    "gn:country_code":"PA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194882,
+    "gn:latitude":8.2349,
+    "gn:longitude":-77.54916,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Boca de R\u00edo Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de R\u00edo Tigre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194882
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"00f6bc9fdf6d89e3465856647d0c06c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693203,
+            "locality_id":1344245191,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1344245191,
+    "wof:lastmodified":1537676502,
+    "wof:name":"Boca de Rio Tigre",
+    "wof:parent_id":1108693203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54916,
+    8.2349,
+    -77.54916,
+    8.2349
+],
+  "geometry": {"coordinates":[-77.54916,8.2349],"type":"Point"}
+}

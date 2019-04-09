@@ -1,0 +1,70 @@
+{
+  "id": 1310106089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.05474,9.06439,-80.05474,9.06439",
+    "geom:latitude":9.06439,
+    "geom:longitude":-80.05474,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cana Brava",
+    "gn:country_code":"PA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713266,
+    "gn:latitude":9.06439,
+    "gn:longitude":-80.05474,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ca\u00f1a Brava",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1a Brava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713266
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2678d3d5d0ca0adaf10cf7d53b550f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1310106089,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1310106089,
+    "wof:lastmodified":1537676475,
+    "wof:name":"Cana Brava",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.05474,
+    9.06439,
+    -80.05474,
+    9.06439
+],
+  "geometry": {"coordinates":[-80.05474,9.06439],"type":"Point"}
+}

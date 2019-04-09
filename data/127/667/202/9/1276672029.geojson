@@ -1,0 +1,73 @@
+{
+  "id": 1276672029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.40347,9.2408,-82.40347,9.2408",
+    "geom:latitude":9.2408,
+    "geom:longitude":-82.40347,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quebrada Cacao",
+    "gn:country_code":"PA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211144,
+    "gn:latitude":9.2408,
+    "gn:longitude":-82.40347,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Cacao",
+    "gn:population":169,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Cacao"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211144
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c9512bd04f2566e638a736193acfd0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1276672029,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1276672029,
+    "wof:lastmodified":1537676505,
+    "wof:name":"Quebrada Cacao",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.40347,
+    9.2408,
+    -82.40347,
+    9.2408
+],
+  "geometry": {"coordinates":[-82.40347,9.2408],"type":"Point"}
+}

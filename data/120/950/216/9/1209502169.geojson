@@ -1,0 +1,68 @@
+{
+  "id": 1209502169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.96667,8.93333,-81.96667,8.93333",
+    "geom:latitude":8.93333,
+    "geom:longitude":-81.96667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mananti Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704694,
+    "gn:latitude":8.93333,
+    "gn:longitude":-81.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Manant\u00ed Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manat\u00ed Creek",
+        "Mananti",
+        "Manat\u00ed",
+        "Quebrada Manat\u00ed",
+        "Manant\u00ed Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704694
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9ad84b08bae8a8c039401929a8a17935",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209502169
+        }
+    ],
+    "wof:id":1209502169,
+    "wof:lastmodified":1537676371,
+    "wof:name":"Mananti Abajo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.96667,
+    8.93333,
+    -81.96667,
+    8.93333
+],
+  "geometry": {"coordinates":[-81.96666999999999,8.93333],"type":"Point"}
+}

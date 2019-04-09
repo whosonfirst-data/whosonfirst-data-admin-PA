@@ -1,0 +1,70 @@
+{
+  "id": 1293777833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.14485,7.90443,-81.14485,7.90443",
+    "geom:latitude":7.90443,
+    "geom:longitude":-81.14485,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Palmar",
+    "gn:country_code":"PA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710294,
+    "gn:latitude":7.90443,
+    "gn:longitude":-81.14485,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Palmar",
+    "gn:population":25,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710294
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f75147710b67ef1c764072a0bf84fc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693263,
+            "locality_id":1293777833,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293777833,
+    "wof:lastmodified":1536864255,
+    "wof:name":"El Palmar",
+    "wof:parent_id":1108693263,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.14485,
+    7.90443,
+    -81.14485,
+    7.90443
+],
+  "geometry": {"coordinates":[-81.14485000000001,7.90443],"type":"Point"}
+}

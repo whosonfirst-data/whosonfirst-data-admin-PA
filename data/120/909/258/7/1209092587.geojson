@@ -1,0 +1,61 @@
+{
+  "id": 1209092587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71667,8.88333,-79.71667,8.88333",
+    "geom:latitude":8.88333,
+    "geom:longitude":-79.71667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Torno Malo",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700520,
+    "gn:latitude":8.88333,
+    "gn:longitude":-79.71667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Torno Malo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700520
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"209f82f93405721c11ddf9701a5dd80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209092587
+        }
+    ],
+    "wof:id":1209092587,
+    "wof:lastmodified":1536297990,
+    "wof:name":"Torno Malo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71667,
+    8.88333,
+    -79.71667,
+    8.88333
+],
+  "geometry": {"coordinates":[-79.71666999999999,8.88333],"type":"Point"}
+}

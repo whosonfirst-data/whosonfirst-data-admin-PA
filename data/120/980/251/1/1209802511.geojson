@@ -1,0 +1,70 @@
+{
+  "id": 1209802511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.78586,8.67457,-81.78586,8.67457",
+    "geom:latitude":8.67457,
+    "geom:longitude":-81.78586,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cuoronte",
+    "gn:country_code":"PA",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10347421,
+    "gn:latitude":8.67457,
+    "gn:longitude":-81.78586,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Cuoronte",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuoronte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347421
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d00a54e8d7ef0aa08f7fb16503fafc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1209802511,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1209802511,
+    "wof:lastmodified":1537676513,
+    "wof:name":"Cuoronte",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.78586,
+    8.67457,
+    -81.78586,
+    8.67457
+],
+  "geometry": {"coordinates":[-81.78586,8.67457],"type":"Point"}
+}

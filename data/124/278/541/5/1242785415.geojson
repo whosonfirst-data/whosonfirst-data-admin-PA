@@ -1,0 +1,67 @@
+{
+  "id": 1242785415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,8.91667,-80.23333,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-80.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Espaveral",
+    "gn:country_code":"PA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710889,
+    "gn:latitude":8.91667,
+    "gn:longitude":-80.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Espaveral",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710889
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"60c40be7fa87bebccac4c335c2aa9114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1242785415,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1242785415,
+    "wof:lastmodified":1536764622,
+    "wof:name":"El Espaveral",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333000000002,
+    8.91667,
+    -80.23333000000002,
+    8.91667
+],
+  "geometry": {"coordinates":[-80.23333000000002,8.91667],"type":"Point"}
+}

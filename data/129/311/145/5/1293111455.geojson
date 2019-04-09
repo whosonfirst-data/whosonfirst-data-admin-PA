@@ -1,0 +1,67 @@
+{
+  "id": 1293111455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.65,8.15,-81.65,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":-81.65,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Quebrada de Lajas",
+    "gn:country_code":"PA",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702254,
+    "gn:latitude":8.15,
+    "gn:longitude":-81.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Quebrada de Lajas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702254
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4795ac7b7204c5355ae6a475c39fed1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693277,
+            "locality_id":1293111455,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293111455,
+    "wof:lastmodified":1536831146,
+    "wof:name":"Quebrada de Lajas",
+    "wof:parent_id":1108693277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.65,
+    8.15,
+    -81.65,
+    8.15
+],
+  "geometry": {"coordinates":[-81.65000000000001,8.15],"type":"Point"}
+}

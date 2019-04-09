@@ -1,0 +1,74 @@
+{
+  "id": 1293578387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.15988,8.27252,-81.15988,8.27252",
+    "geom:latitude":8.27252,
+    "geom:longitude":-81.15988,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Marcelo",
+    "gn:country_code":"PA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701356,
+    "gn:latitude":8.27252,
+    "gn:longitude":-81.15988,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Marcelo",
+    "gn:population":66,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Marcelo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701356,
+        "wk:page":"San_Marcelo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"550aedbbcd6ac68d13bf5517f2d05484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1293578387,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293578387,
+    "wof:lastmodified":1537676342,
+    "wof:name":"San Marcelo",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.15988,
+    8.27252,
+    -81.15988,
+    8.27252
+],
+  "geometry": {"coordinates":[-81.15988,8.27252],"type":"Point"}
+}

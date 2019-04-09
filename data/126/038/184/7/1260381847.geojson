@@ -1,0 +1,73 @@
+{
+  "id": 1260381847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.84238,9.21522,-78.84238,9.21522",
+    "geom:latitude":9.21522,
+    "geom:longitude":-78.84238,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jenene",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708410,
+    "gn:latitude":9.21522,
+    "gn:longitude":-78.84238,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Jenen\u00e9",
+    "gn:population":157,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jenen\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708410
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6bb26f3d72b81725a509223e013cab8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1260381847,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1260381847,
+    "wof:lastmodified":1537676419,
+    "wof:name":"Jenene",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.84238,
+    9.21522,
+    -78.84238,
+    9.21522
+],
+  "geometry": {"coordinates":[-78.84238000000001,9.21522],"type":"Point"}
+}

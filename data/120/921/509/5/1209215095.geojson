@@ -1,0 +1,67 @@
+{
+  "id": 1209215095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.15751,9.01097,-80.15751,9.01097",
+    "geom:latitude":9.01097,
+    "geom:longitude":-80.15751,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Los Cedros",
+    "gn:country_code":"PA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705437,
+    "gn:latitude":9.01097,
+    "gn:longitude":-80.15751,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Cedros",
+    "gn:population":164,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Cedros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705437
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"99d79197d1419e1ef974bb08ec228003",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209215095
+        }
+    ],
+    "wof:id":1209215095,
+    "wof:lastmodified":1537676380,
+    "wof:name":"Los Cedros",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.15751,
+    9.01097,
+    -80.15751,
+    9.01097
+],
+  "geometry": {"coordinates":[-80.15751,9.01097],"type":"Point"}
+}

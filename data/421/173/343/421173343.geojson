@@ -1,0 +1,95 @@
+{
+  "id": 421173343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.73333,8.6,-82.73333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-82.73333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5723\u5b89\u5fb7\u70c8\u65af"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:unk_x_variant":[
+        "San Andreas"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701578,
+    "qs:gn_pop":1242,
+    "qs:name":"San Andr\u00e9s",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":287278,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160120,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701578,
+        "gp:id":160120,
+        "qs:id":287278,
+        "wd:id":"Q19360701"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008979,
+    "wof:geomhash":"de4e8a124df0d6644f3772aedfa60b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":421173343,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421173343,
+    "wof:lastmodified":1514494903,
+    "wof:name":"San Andr\u00e9s",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":1242,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.73333,
+    8.6,
+    -82.73333,
+    8.6
+],
+  "geometry": {"coordinates":[-82.73333,8.6],"type":"Point"}
+}

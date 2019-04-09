@@ -1,0 +1,101 @@
+{
+  "id": 421183105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85,8.83944,-79.85,8.83944",
+    "geom:latitude":8.83944,
+    "geom:longitude":-79.85,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "El Espino"
+    ],
+    "name:eng_x_preferred":[
+        "El Espino"
+    ],
+    "name:ita_x_preferred":[
+        "El Espino"
+    ],
+    "name:spa_x_preferred":[
+        "El Espino"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3710875,
+    "qs:gn_pop":1717,
+    "qs:name":"El Espino",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":962279,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":156222,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710875,
+        "gp:id":156222,
+        "qs:id":962279,
+        "wd:id":"Q21042830"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009358,
+    "wof:geomhash":"fef6e9a952026c47139ff24cef380085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":421183105,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":421183105,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421183105,
+    "wof:lastmodified":1527716488,
+    "wof:name":"El Espino",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":1717,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85,
+    8.83944,
+    -79.85,
+    8.83944
+],
+  "geometry": {"coordinates":[-79.84999999999999,8.83944],"type":"Point"}
+}

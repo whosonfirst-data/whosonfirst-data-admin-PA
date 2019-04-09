@@ -1,0 +1,73 @@
+{
+  "id": 1343449937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.8978,8.14579,-80.8978,8.14579",
+    "geom:latitude":8.14579,
+    "geom:longitude":-80.8978,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Llano de La Cruz",
+    "gn:country_code":"PA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705767,
+    "gn:latitude":8.14579,
+    "gn:longitude":-80.8978,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano de La Cruz",
+    "gn:population":409,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano de La Cruz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705767
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c4baca9f1d3b3ce19ef3292f878a483e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1343449937,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343449937,
+    "wof:lastmodified":1537676386,
+    "wof:name":"Llano de La Cruz",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":409,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.8978,
+    8.14579,
+    -80.8978,
+    8.14579
+],
+  "geometry": {"coordinates":[-80.8978,8.14579],"type":"Point"}
+}

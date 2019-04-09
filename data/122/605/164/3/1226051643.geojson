@@ -1,0 +1,67 @@
+{
+  "id": 1226051643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.28333,8.55,-82.28333,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-82.28333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Pita",
+    "gn:country_code":"PA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706895,
+    "gn:latitude":8.55,
+    "gn:longitude":-82.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Pita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421169889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706895
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a37bc16d259750da79325a0e4e5224b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421169889,
+            "locality_id":1226051643,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226051643,
+    "wof:lastmodified":1536716890,
+    "wof:name":"La Pita",
+    "wof:parent_id":421169889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.28333,
+    8.55,
+    -82.28333,
+    8.55
+],
+  "geometry": {"coordinates":[-82.28333000000001,8.55],"type":"Point"}
+}

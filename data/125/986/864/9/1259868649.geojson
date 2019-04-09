@@ -1,0 +1,70 @@
+{
+  "id": 1259868649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.49837,7.92228,-81.49837,7.92228",
+    "geom:latitude":7.92228,
+    "geom:longitude":-81.49837,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cerro Bubi",
+    "gn:country_code":"PA",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712773,
+    "gn:latitude":7.92228,
+    "gn:longitude":-81.49837,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Bub\u00ed",
+    "gn:population":5,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712773
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7e1e22f403ab8f94c8ed1b0e1b54a673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1259868649,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259868649,
+    "wof:lastmodified":1536800611,
+    "wof:name":"Cerro Bubi",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.49837,
+    7.92228,
+    -81.49837,
+    7.92228
+],
+  "geometry": {"coordinates":[-81.49836999999999,7.92228],"type":"Point"}
+}

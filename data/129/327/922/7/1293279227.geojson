@@ -1,0 +1,73 @@
+{
+  "id": 1293279227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.48225,8.53949,-81.48225,8.53949",
+    "geom:latitude":8.53949,
+    "geom:longitude":-81.48225,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guayabito",
+    "gn:country_code":"PA",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10348681,
+    "gn:latitude":8.53949,
+    "gn:longitude":-81.48225,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Guayabito",
+    "gn:population":420,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guayabito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348681
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"75f3440a00cdd49d76bb891d77b030b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1293279227,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1293279227,
+    "wof:lastmodified":1537676521,
+    "wof:name":"Guayabito",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:population":420,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.48225,
+    8.53949,
+    -81.48225,
+    8.53949
+],
+  "geometry": {"coordinates":[-81.48224999999999,8.53949],"type":"Point"}
+}

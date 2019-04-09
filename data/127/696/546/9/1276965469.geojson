@@ -1,0 +1,82 @@
+{
+  "id": 1276965469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96641,8.97091,-79.96641,8.97091",
+    "geom:latitude":8.97091,
+    "geom:longitude":-79.96641,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Arosemena",
+    "gn:country_code":"PA",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3714641,
+    "gn:latitude":8.97091,
+    "gn:longitude":-79.96641,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Arosemena",
+    "gn:population":127,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quebrada Grande",
+        "Arosemena"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714641
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d53f586241f621df8348601879405623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1276965469,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1276965469,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1276965469,
+    "wof:lastmodified":1537676488,
+    "wof:name":"Arosemena",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96641,
+    8.97091,
+    -79.96641,
+    8.97091
+],
+  "geometry": {"coordinates":[-79.96641,8.97091],"type":"Point"}
+}

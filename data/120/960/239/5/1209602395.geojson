@@ -1,0 +1,61 @@
+{
+  "id": 1209602395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1,8.55,-82.1,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-82.1,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Soloy",
+    "gn:country_code":"PA",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700892,
+    "gn:latitude":8.55,
+    "gn:longitude":-82.1,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Soloy",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700892
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b9dfef78b106d91f2396697159966daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209602395
+        }
+    ],
+    "wof:id":1209602395,
+    "wof:lastmodified":1536282124,
+    "wof:name":"Soloy",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1,
+    8.55,
+    -82.1,
+    8.55
+],
+  "geometry": {"coordinates":[-82.09999999999999,8.55],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276955725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.76667,8.43333,-81.76667,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-81.76667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guaca",
+    "gn:country_code":"PA",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708980,
+    "gn:latitude":8.43333,
+    "gn:longitude":-81.76667,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Guaca",
+    "gn:population":176,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708980
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cc1cf85a9961ebf39975770b6ff7f67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1276955725,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276955725,
+    "wof:lastmodified":1536940407,
+    "wof:name":"Guaca",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.76666999999998,
+    8.43333,
+    -81.76666999999998,
+    8.43333
+],
+  "geometry": {"coordinates":[-81.76666999999998,8.43333],"type":"Point"}
+}

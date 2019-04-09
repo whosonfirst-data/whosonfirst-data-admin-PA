@@ -1,0 +1,71 @@
+{
+  "id": 1226024913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.89345,8.36251,-81.89345,8.36251",
+    "geom:latitude":8.36251,
+    "geom:longitude":-81.89345,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cabecera de Dupi",
+    "gn:country_code":"PA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713619,
+    "gn:latitude":8.36251,
+    "gn:longitude":-81.89345,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cabecera de Dup\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabecera de Dup\u00ed",
+        "Cabecera del Dup\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713619
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9995342d5a9c24ed3b3c0a24f081fb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1226024913,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226024913,
+    "wof:lastmodified":1537676478,
+    "wof:name":"Cabecera de Dupi",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.89345,
+    8.36251,
+    -81.89345,
+    8.36251
+],
+  "geometry": {"coordinates":[-81.89345,8.36251],"type":"Point"}
+}

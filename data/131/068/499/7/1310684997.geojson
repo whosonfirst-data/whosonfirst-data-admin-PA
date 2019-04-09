@@ -1,0 +1,77 @@
+{
+  "id": 1310684997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.9509,8.14226,-80.9509,8.14226",
+    "geom:latitude":8.14226,
+    "geom:longitude":-80.9509,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Canacillas Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713243,
+    "gn:latitude":8.14226,
+    "gn:longitude":-80.9509,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Ca\u00f1acillas Arriba",
+    "gn:population":475,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1acillas Arriba"
+    ],
+    "name:und_x_variant":[
+        "Ca\u00f1acilla del An\u00f3n",
+        "Ca\u00f1acillas de An\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713243
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c414fba572725adcc48a2b06fd9548a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1310684997,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310684997,
+    "wof:lastmodified":1537676475,
+    "wof:name":"Canacillas Arriba",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":475,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.9509,
+    8.14226,
+    -80.9509,
+    8.14226
+],
+  "geometry": {"coordinates":[-80.9509,8.14226],"type":"Point"}
+}

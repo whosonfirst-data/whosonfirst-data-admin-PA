@@ -1,0 +1,64 @@
+{
+  "id": 1209606749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.38576,7.86678,-80.38576,7.86678",
+    "geom:latitude":7.86678,
+    "geom:longitude":-80.38576,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Espigadilla Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709681,
+    "gn:latitude":7.86678,
+    "gn:longitude":-80.38576,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Espigadilla Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Espigadilla Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709681
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"521fd682f75f5d2b3c335192e82d30ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209606749
+        }
+    ],
+    "wof:id":1209606749,
+    "wof:lastmodified":1537676428,
+    "wof:name":"Espigadilla Arriba",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.38576,
+    7.86678,
+    -80.38576,
+    7.86678
+],
+  "geometry": {"coordinates":[-80.38576,7.86678],"type":"Point"}
+}

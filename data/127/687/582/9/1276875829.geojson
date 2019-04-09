@@ -1,0 +1,73 @@
+{
+  "id": 1276875829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.77423,8.50488,-82.77423,8.50488",
+    "geom:latitude":8.50488,
+    "geom:longitude":-82.77423,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Roble",
+    "gn:country_code":"PA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347253,
+    "gn:latitude":8.50488,
+    "gn:longitude":-82.77423,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Roble",
+    "gn:population":666,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Roble"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347253
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f4a32dd6bf2df7bbe294fd92f938ff08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1276875829,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1276875829,
+    "wof:lastmodified":1537676507,
+    "wof:name":"El Roble",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":666,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.77423,
+    8.50488,
+    -82.77423,
+    8.50488
+],
+  "geometry": {"coordinates":[-82.77423,8.50488],"type":"Point"}
+}

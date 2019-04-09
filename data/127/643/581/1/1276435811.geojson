@@ -1,0 +1,73 @@
+{
+  "id": 1276435811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13681,8.32381,-81.13681,8.32381",
+    "geom:latitude":8.32381,
+    "geom:longitude":-81.13681,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Lajillas",
+    "gn:country_code":"PA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706430,
+    "gn:latitude":8.32381,
+    "gn:longitude":-81.13681,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Lajillas",
+    "gn:population":131,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Lajillas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706430
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cd5264dbe6b5ff4974b69fa0be2cefbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1276435811,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276435811,
+    "wof:lastmodified":1537676394,
+    "wof:name":"Las Lajillas",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13681,
+    8.32381,
+    -81.13681,
+    8.32381
+],
+  "geometry": {"coordinates":[-81.13681,8.32381],"type":"Point"}
+}

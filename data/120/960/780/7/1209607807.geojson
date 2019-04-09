@@ -1,0 +1,67 @@
+{
+  "id": 1209607807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85091,8.03242,-80.85091,8.03242",
+    "geom:latitude":8.03242,
+    "geom:longitude":-80.85091,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Paredes",
+    "gn:country_code":"PA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706271,
+    "gn:latitude":8.03242,
+    "gn:longitude":-80.85091,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Paredes",
+    "gn:population":206,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Paredes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706271
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a25f680028979becbc14302e4803fbe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209607807
+        }
+    ],
+    "wof:id":1209607807,
+    "wof:lastmodified":1537676391,
+    "wof:name":"Las Paredes",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85091,
+    8.03242,
+    -80.85091,
+    8.03242
+],
+  "geometry": {"coordinates":[-80.85091,8.03242],"type":"Point"}
+}

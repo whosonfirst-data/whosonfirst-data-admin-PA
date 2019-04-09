@@ -1,0 +1,67 @@
+{
+  "id": 1360207537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.27917,7.73333,-78.27917,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":-78.27917,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Caracoles",
+    "gn:country_code":"PA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764187,
+    "gn:latitude":7.73333,
+    "gn:longitude":-78.27917,
+    "gn:modification_date":"1998-08-18",
+    "gn:name":"Caracoles",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764187
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"da2220525b3c21c985b5c230ca9a5d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1360207537,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1360207537,
+    "wof:lastmodified":1536769564,
+    "wof:name":"Caracoles",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.27917,
+    7.73333,
+    -78.27917,
+    7.73333
+],
+  "geometry": {"coordinates":[-78.27916999999999,7.73333],"type":"Point"}
+}

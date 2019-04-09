@@ -1,0 +1,80 @@
+{
+  "id": 421181915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.25,8.45,-82.25,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-82.25,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3705989,
+    "qs:gn_pop":1163,
+    "qs:name":"Las Victorias",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":510819,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793854,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421169889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705989,
+        "gp:id":26793854,
+        "qs:id":510819
+    },
+    "wof:country":"PA",
+    "wof:created":1459009312,
+    "wof:geomhash":"b7272cc648e20c74295afa55b0e0dce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421169889,
+            "locality_id":421181915,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421181915,
+    "wof:lastmodified":1527716325,
+    "wof:name":"Las Victorias",
+    "wof:parent_id":421169889,
+    "wof:placetype":"locality",
+    "wof:population":1163,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.25,
+    8.45,
+    -82.25,
+    8.45
+],
+  "geometry": {"coordinates":[-82.25,8.45],"type":"Point"}
+}

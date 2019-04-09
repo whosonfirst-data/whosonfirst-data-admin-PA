@@ -1,0 +1,70 @@
+{
+  "id": 1343462653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.20931,8.96147,-82.20931,8.96147",
+    "geom:latitude":8.96147,
+    "geom:longitude":-82.20931,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gualaca",
+    "gn:country_code":"PA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347335,
+    "gn:latitude":8.96147,
+    "gn:longitude":-82.20931,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Gualaca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gualaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347335
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5504c9a9b450a197f91e55a767bb4210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1343462653,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1343462653,
+    "wof:lastmodified":1537676510,
+    "wof:name":"Gualaca",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.20931,
+    8.96147,
+    -82.20931,
+    8.96147
+],
+  "geometry": {"coordinates":[-82.20931,8.96147],"type":"Point"}
+}

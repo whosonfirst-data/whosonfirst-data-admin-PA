@@ -1,0 +1,74 @@
+{
+  "id": 1326952283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.62271,8.06317,-80.62271,8.06317",
+    "geom:latitude":8.06317,
+    "geom:longitude":-80.62271,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Potuga",
+    "gn:country_code":"PA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702534,
+    "gn:latitude":8.06317,
+    "gn:longitude":-80.62271,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Potuga",
+    "gn:population":795,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Potuga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702534,
+        "wk:page":"Potuga"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0e808a6925a6e521a9794953036bc498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1326952283,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1326952283,
+    "wof:lastmodified":1537676356,
+    "wof:name":"Potuga",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":795,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.62271,
+    8.06317,
+    -80.62271,
+    8.06317
+],
+  "geometry": {"coordinates":[-80.62271,8.06317],"type":"Point"}
+}

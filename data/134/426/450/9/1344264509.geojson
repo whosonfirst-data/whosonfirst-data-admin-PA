@@ -1,0 +1,67 @@
+{
+  "id": 1344264509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28333,8.5,-80.28333,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":-80.28333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Chapa",
+    "gn:country_code":"PA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707981,
+    "gn:latitude":8.5,
+    "gn:longitude":-80.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Chapa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707981
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5bfceca24b4c1c6f70a8bd16f7787d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1344264509,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1344264509,
+    "wof:lastmodified":1537075155,
+    "wof:name":"La Chapa",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28333,
+    8.5,
+    -80.28333,
+    8.5
+],
+  "geometry": {"coordinates":[-80.28333000000001,8.5],"type":"Point"}
+}

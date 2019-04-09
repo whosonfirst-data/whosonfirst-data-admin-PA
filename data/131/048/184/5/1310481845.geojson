@@ -1,0 +1,70 @@
+{
+  "id": 1310481845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.79748,8.30352,-81.79748,8.30352",
+    "geom:latitude":8.30352,
+    "geom:longitude":-81.79748,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Iglesias Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347479,
+    "gn:latitude":8.30352,
+    "gn:longitude":-81.79748,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Cerro Iglesias N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Iglesias N\u00famero Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347479
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e44e13a722e0e93161b4b7b3c479b454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1310481845,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1310481845,
+    "wof:lastmodified":1537676514,
+    "wof:name":"Cerro Iglesias Numero Dos",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.79748000000002,
+    8.30352,
+    -81.79748000000002,
+    8.30352
+],
+  "geometry": {"coordinates":[-81.79748000000002,8.30352],"type":"Point"}
+}

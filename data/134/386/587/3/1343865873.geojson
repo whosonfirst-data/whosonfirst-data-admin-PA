@@ -1,0 +1,73 @@
+{
+  "id": 1343865873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21342,8.52335,-80.21342,8.52335",
+    "geom:latitude":8.52335,
+    "geom:longitude":-80.21342,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tranquilla Norte",
+    "gn:country_code":"PA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348744,
+    "gn:latitude":8.52335,
+    "gn:longitude":-80.21342,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tranquilla Norte",
+    "gn:population":221,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tranquilla Norte"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348744
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1e46470d5b14e8f97d39a0a565e5350a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1343865873,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1343865873,
+    "wof:lastmodified":1537676522,
+    "wof:name":"Tranquilla Norte",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":221,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21342,
+    8.52335,
+    -80.21342,
+    8.52335
+],
+  "geometry": {"coordinates":[-80.21342,8.52335],"type":"Point"}
+}

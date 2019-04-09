@@ -1,0 +1,70 @@
+{
+  "id": 1327342415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.64554,8.44379,-82.64554,8.44379",
+    "geom:latitude":8.44379,
+    "geom:longitude":-82.64554,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"PA",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701353,
+    "gn:latitude":8.44379,
+    "gn:longitude":-82.64554,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701353
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e1782d3eb506f6d1184987318e6be1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":1327342415,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1327342415,
+    "wof:lastmodified":1537676342,
+    "wof:name":"San Martin",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.64554,
+    8.44379,
+    -82.64554,
+    8.44379
+],
+  "geometry": {"coordinates":[-82.64554,8.44379],"type":"Point"}
+}

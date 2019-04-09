@@ -1,0 +1,92 @@
+{
+  "id": 890438869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9,8.75,-79.9,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":-79.9,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":4059,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "L\u00eddice"
+    ],
+    "name:eng_x_preferred":[
+        "L\u00eddice"
+    ],
+    "name:ger_x_preferred":[
+        "L\u00eddice de Capira"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00eddice"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00eddice"
+    ],
+    "qs:name":"L\u00eddice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705894,
+        "gp:id":158342,
+        "qs:id":1046603,
+        "wd:id":"Q931897",
+        "wk:page":"L\u00eddice"
+    },
+    "wof:country":"PA",
+    "wof:created":1469052212,
+    "wof:geomhash":"5d713fa86e9f18f3559d23a26e6562fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":890438869,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":890438869,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":890438869,
+    "wof:lastmodified":1527735421,
+    "wof:name":"L\u00eddice",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":4059,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9,
+    8.75,
+    -79.9,
+    8.75
+],
+  "geometry": {"coordinates":[-79.90000000000001,8.75],"type":"Point"}
+}

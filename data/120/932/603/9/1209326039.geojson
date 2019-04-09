@@ -1,0 +1,61 @@
+{
+  "id": 1209326039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41667,8.55,-80.41667,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-80.41667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Marica Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704522,
+    "gn:latitude":8.55,
+    "gn:longitude":-80.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Marica Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704522
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"403a46e1871c541e51e1efcfd458d44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209326039
+        }
+    ],
+    "wof:id":1209326039,
+    "wof:lastmodified":1536290532,
+    "wof:name":"Marica Abajo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41667,
+    8.55,
+    -80.41667,
+    8.55
+],
+  "geometry": {"coordinates":[-80.41667,8.55],"type":"Point"}
+}

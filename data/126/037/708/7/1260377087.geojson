@@ -1,0 +1,81 @@
+{
+  "id": 1260377087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.97603,8.56742,-79.97603,8.56742",
+    "geom:latitude":8.56742,
+    "geom:longitude":-79.97603,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Pozos",
+    "gn:country_code":"PA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705020,
+    "gn:latitude":8.56742,
+    "gn:longitude":-79.97603,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Pozos",
+    "gn:population":359,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Pozos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705020
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"312f3f8767f3365c38801043a9315d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1260377087,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1260377087,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1260377087,
+    "wof:lastmodified":1537676374,
+    "wof:name":"Los Pozos",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97603000000002,
+    8.56742,
+    -79.97603000000002,
+    8.56742
+],
+  "geometry": {"coordinates":[-79.97603000000002,8.56742],"type":"Point"}
+}

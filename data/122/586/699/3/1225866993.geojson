@@ -1,0 +1,73 @@
+{
+  "id": 1225866993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70783,7.94757,-80.70783,7.94757",
+    "geom:latitude":7.94757,
+    "geom:longitude":-80.70783,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Polonia",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706816,
+    "gn:latitude":7.94757,
+    "gn:longitude":-80.70783,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Polonia",
+    "gn:population":148,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Polonia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706816
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"945b3420ae12124aaa6e963f884ffdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1225866993,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1225866993,
+    "wof:lastmodified":1537676400,
+    "wof:name":"La Polonia",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70783,
+    7.94757,
+    -80.70783,
+    7.94757
+],
+  "geometry": {"coordinates":[-80.70783,7.94757],"type":"Point"}
+}

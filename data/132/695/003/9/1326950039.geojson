@@ -1,0 +1,72 @@
+{
+  "id": 1326950039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.16667,9.03333,-79.16667,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":-79.16667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rio Chico",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701895,
+    "gn:latitude":9.03333,
+    "gn:longitude":-79.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00edo Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chico",
+        "R\u00edo Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701895
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9c987b6b1beacf713a878a69d4bbb782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1326950039,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1326950039,
+    "wof:lastmodified":1537676347,
+    "wof:name":"Rio Chico",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.16667,
+    9.03333,
+    -79.16667,
+    9.03333
+],
+  "geometry": {"coordinates":[-79.16667,9.03333],"type":"Point"}
+}

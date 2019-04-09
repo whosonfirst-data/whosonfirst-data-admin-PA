@@ -1,0 +1,67 @@
+{
+  "id": 1309689411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.85,8.43333,-81.85,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-81.85,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Piedra",
+    "gn:country_code":"PA",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712646,
+    "gn:latitude":8.43333,
+    "gn:longitude":-81.85,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Cerro Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712646
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2bf8cc04875eb9e8b7791daa87c2e688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1309689411,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1309689411,
+    "wof:lastmodified":1537095722,
+    "wof:name":"Cerro Piedra",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.85,
+    8.43333,
+    -81.85,
+    8.43333
+],
+  "geometry": {"coordinates":[-81.84999999999999,8.43333],"type":"Point"}
+}

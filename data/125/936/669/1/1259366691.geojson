@@ -1,0 +1,73 @@
+{
+  "id": 1259366691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85,8.25,-80.85,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":-80.85,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Corotu",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711944,
+    "gn:latitude":8.25,
+    "gn:longitude":-80.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Corot\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Coral",
+        "Corales",
+        "Corot\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711944
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"557c08f3fe1aa1702106bdcdfd24492f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1259366691,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259366691,
+    "wof:lastmodified":1537676462,
+    "wof:name":"Corotu",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85,
+    8.25,
+    -80.85,
+    8.25
+],
+  "geometry": {"coordinates":[-80.84999999999999,8.25],"type":"Point"}
+}

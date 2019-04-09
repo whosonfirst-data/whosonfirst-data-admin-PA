@@ -1,0 +1,71 @@
+{
+  "id": 1343585291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08267,9.23979,-80.08267,9.23979",
+    "geom:latitude":9.23979,
+    "geom:longitude":-80.08267,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nuevo Chagres",
+    "gn:country_code":"PA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3703831,
+    "gn:latitude":9.23979,
+    "gn:longitude":-80.08267,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Nuevo Chagres",
+    "gn:population":410,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703831,
+        "wk:page":"Nuevo_Chagres"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"45d60b8414ca91c414b0d4b183eb6ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1343585291,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1343585291,
+    "wof:lastmodified":1537570196,
+    "wof:name":"Nuevo Chagres",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:population":410,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08267,
+    9.23979,
+    -80.08267,
+    9.23979
+],
+  "geometry": {"coordinates":[-80.08266999999999,9.23979],"type":"Point"}
+}

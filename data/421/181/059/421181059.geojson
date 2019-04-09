@@ -1,0 +1,76 @@
+{
+  "id": 421181059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56667,8.65,-80.56667,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":-80.56667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3704502,
+    "qs:gn_pop":0,
+    "qs:name":"Marta",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":210,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":210,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":474976,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159045,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704502,
+        "gp:id":159045,
+        "qs:id":474976
+    },
+    "wof:country":"PA",
+    "wof:created":1459009283,
+    "wof:geomhash":"422f5890686893587101184dc39629ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":421181059,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421181059,
+    "wof:lastmodified":1500018276,
+    "wof:name":"Marta",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56667,
+    8.65,
+    -80.56667,
+    8.65
+],
+  "geometry": {"coordinates":[-80.56667,8.65],"type":"Point"}
+}

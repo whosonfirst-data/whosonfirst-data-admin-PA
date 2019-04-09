@@ -1,0 +1,67 @@
+{
+  "id": 1276140103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.56944,7.92472,-81.56944,7.92472",
+    "geom:latitude":7.92472,
+    "geom:longitude":-81.56944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Vaca",
+    "gn:country_code":"PA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706019,
+    "gn:latitude":7.92472,
+    "gn:longitude":-81.56944,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"La Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706019
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"420612272f8f1457dee1a71ffe655807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1276140103,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276140103,
+    "wof:lastmodified":1537036080,
+    "wof:name":"La Vaca",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.56944,
+    7.92472,
+    -81.56944,
+    7.92472
+],
+  "geometry": {"coordinates":[-81.56944,7.92472],"type":"Point"}
+}

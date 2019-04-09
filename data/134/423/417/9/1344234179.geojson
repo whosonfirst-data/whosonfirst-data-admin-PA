@@ -1,0 +1,73 @@
+{
+  "id": 1344234179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.92275,8.86947,-81.92275,8.86947",
+    "geom:latitude":8.86947,
+    "geom:longitude":-81.92275,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Neque",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347371,
+    "gn:latitude":8.86947,
+    "gn:longitude":-81.92275,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro \u00d1eque",
+    "gn:population":183,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro \u00d1eque"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347371
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"667977be1927f9ecf27844fcdef68dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1344234179,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1344234179,
+    "wof:lastmodified":1537676511,
+    "wof:name":"Cerro Neque",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.92275,
+    8.86947,
+    -81.92275,
+    8.86947
+],
+  "geometry": {"coordinates":[-81.92274999999999,8.86947],"type":"Point"}
+}

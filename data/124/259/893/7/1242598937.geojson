@@ -1,0 +1,70 @@
+{
+  "id": 1242598937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28333,7.85,-80.28333,7.85",
+    "geom:latitude":7.85,
+    "geom:longitude":-80.28333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Albina del Calabazo",
+    "gn:country_code":"PA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708186,
+    "gn:latitude":7.85,
+    "gn:longitude":-80.28333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"La Albina del Calabazo",
+    "gn:population":3,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708186
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"05ceb1516c8225b1cb427c9f16416a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693219,
+            "locality_id":1242598937,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1242598937,
+    "wof:lastmodified":1537031600,
+    "wof:name":"La Albina del Calabazo",
+    "wof:parent_id":1108693219,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28333,
+    7.85,
+    -80.28333,
+    7.85
+],
+  "geometry": {"coordinates":[-80.28333000000001,7.85],"type":"Point"}
+}

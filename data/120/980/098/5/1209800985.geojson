@@ -1,0 +1,74 @@
+{
+  "id": 1209800985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.84606,8.36618,-78.84606,8.36618",
+    "geom:latitude":8.36618,
+    "geom:longitude":-78.84606,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Ensenada",
+    "gn:country_code":"PA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3707778,
+    "gn:latitude":8.36618,
+    "gn:longitude":-78.84606,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Ensenada",
+    "gn:population":94,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Ensenada"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707778,
+        "wk:page":"La_Ensenada"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4bf689f95e37d541e194992c8821af1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1209800985,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1209800985,
+    "wof:lastmodified":1537676412,
+    "wof:name":"La Ensenada",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.84606,
+    8.36618,
+    -78.84606,
+    8.36618
+],
+  "geometry": {"coordinates":[-78.84605999999999,8.36618],"type":"Point"}
+}

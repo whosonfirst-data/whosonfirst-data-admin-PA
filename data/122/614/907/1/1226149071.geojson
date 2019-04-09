@@ -1,0 +1,67 @@
+{
+  "id": 1226149071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1,9.15,-80.1,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":-80.1,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cardenillo",
+    "gn:country_code":"PA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713003,
+    "gn:latitude":9.15,
+    "gn:longitude":-80.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cardenillo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713003
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f5cf5b3b53a9146733bb97e53398cdb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1226149071,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1226149071,
+    "wof:lastmodified":1537069826,
+    "wof:name":"Cardenillo",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1,
+    9.15,
+    -80.1,
+    9.15
+],
+  "geometry": {"coordinates":[-80.09999999999999,9.15],"type":"Point"}
+}

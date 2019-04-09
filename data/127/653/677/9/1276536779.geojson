@@ -1,0 +1,73 @@
+{
+  "id": 1276536779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.62247,8.30023,-77.62247,8.30023",
+    "geom:latitude":8.30023,
+    "geom:longitude":-77.62247,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Pulida",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194755,
+    "gn:latitude":8.30023,
+    "gn:longitude":-77.62247,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Pulida",
+    "gn:population":148,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Pulida"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194755
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ec3c17f9dc3d4a920f42cbd4ccf81ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693203,
+            "locality_id":1276536779,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1276536779,
+    "wof:lastmodified":1537676502,
+    "wof:name":"La Pulida",
+    "wof:parent_id":1108693203,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.62246999999998,
+    8.30023,
+    -77.62246999999998,
+    8.30023
+],
+  "geometry": {"coordinates":[-77.62246999999998,8.30023],"type":"Point"}
+}

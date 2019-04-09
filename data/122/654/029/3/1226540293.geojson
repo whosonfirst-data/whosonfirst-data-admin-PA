@@ -1,0 +1,67 @@
+{
+  "id": 1226540293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.605,9.32389,-79.605,9.32389",
+    "geom:latitude":9.32389,
+    "geom:longitude":-79.605,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Paraiso",
+    "gn:country_code":"PA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703372,
+    "gn:latitude":9.32389,
+    "gn:longitude":-79.605,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703372
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6df2741c2bdbd86d67c07f1bfc15b20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1226540293,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1226540293,
+    "wof:lastmodified":1537005176,
+    "wof:name":"Paraiso",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.605,
+    9.32389,
+    -79.605,
+    9.32389
+],
+  "geometry": {"coordinates":[-79.605,9.32389],"type":"Point"}
+}

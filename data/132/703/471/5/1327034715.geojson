@@ -1,0 +1,70 @@
+{
+  "id": 1327034715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07057,8.60148,-78.07057,8.60148",
+    "geom:latitude":8.60148,
+    "geom:longitude":-78.07057,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Alto del Cristo",
+    "gn:country_code":"PA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194331,
+    "gn:latitude":8.60148,
+    "gn:longitude":-78.07057,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Alto del Cristo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto del Cristo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194331
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"769026e8f77f668f8aca22cd2ec4c272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1327034715,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1327034715,
+    "wof:lastmodified":1537676501,
+    "wof:name":"Alto del Cristo",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07056999999998,
+    8.60148,
+    -78.07056999999998,
+    8.60148
+],
+  "geometry": {"coordinates":[-78.07056999999998,8.60148],"type":"Point"}
+}

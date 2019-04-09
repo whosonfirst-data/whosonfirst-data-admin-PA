@@ -1,0 +1,115 @@
+{
+  "id": 85763949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":31294073.11663,
+    "geom:bbox":"-79.55308,8.958296,-79.55308,8.958296",
+    "geom:latitude":8.958296,
+    "geom:longitude":-79.55308,
+    "gn:latitude":8.96667,
+    "gn:longitude":-79.55,
+    "iso:country":"PA",
+    "lbl:latitude":8.958296,
+    "lbl:longitude":-79.55308,
+    "mps:latitude":8.956365,
+    "mps:longitude":-79.564437,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:fra_x_preferred":[
+        "Calidonia"
+    ],
+    "name:spa_x_preferred":[
+        "Calidonia"
+    ],
+    "name:spa_x_variant":[
+        "Caledonia"
+    ],
+    "name:unk_x_variant":[
+        "Caledonia",
+        "Calidonia"
+    ],
+    "qs:gn_adm0_cc":"PA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3703443,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Calidonia",
+    "qs:local_max":4729,
+    "qs:local_sum":17462,
+    "qs:localhoods":20,
+    "qs:name":"Calidonia",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:name_adm2":"Panam\u00e1",
+    "qs:name_lau":"Ancon",
+    "qs:name_local":"Ciudad de Panam\u00e1",
+    "qs:photo_max":136,
+    "qs:photo_sum":2125,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":109,
+    "qs:woe_adm0":23424924,
+    "qs:woe_adm1":2346558,
+    "qs:woe_adm2":26793125,
+    "qs:woe_lau":26793491,
+    "qs:woe_local":159386,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":10,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        421196975,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713415,
+        "gp:id":155169,
+        "qs:id":1082641
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"379a332f84721c811860ea5615a8b78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":-1,
+            "neighbourhood_id":85763949,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":85763949,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858863,
+    "wof:name":"Calidonia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55308,
+    8.958296,
+    -79.55308,
+    8.958296
+],
+  "geometry": {"coordinates":[-79.55307999999999,8.958296],"type":"Point"}
+}

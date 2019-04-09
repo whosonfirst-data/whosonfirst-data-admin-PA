@@ -1,0 +1,73 @@
+{
+  "id": 1226035781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.88581,9.16215,-78.88581,9.16215",
+    "geom:latitude":9.16215,
+    "geom:longitude":-78.88581,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Loma del Naranjo",
+    "gn:country_code":"PA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764149,
+    "gn:latitude":9.16215,
+    "gn:longitude":-78.88581,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Loma del Naranjo",
+    "gn:population":239,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Loma del Naranjo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764149
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5ab141a82906cf80a80f91f22d42cf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1226035781,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1226035781,
+    "wof:lastmodified":1537676493,
+    "wof:name":"Loma del Naranjo",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.88580999999998,
+    9.16215,
+    -78.88580999999998,
+    9.16215
+],
+  "geometry": {"coordinates":[-78.88580999999998,9.16215],"type":"Point"}
+}

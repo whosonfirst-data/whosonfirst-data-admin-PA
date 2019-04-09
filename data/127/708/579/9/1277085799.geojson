@@ -1,0 +1,75 @@
+{
+  "id": 1277085799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7387,8.43486,-80.7387,8.43486",
+    "geom:latitude":8.43486,
+    "geom:longitude":-80.7387,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Rincon",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710035,
+    "gn:latitude":8.43486,
+    "gn:longitude":-80.7387,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Rinc\u00f3n",
+    "gn:population":39,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n",
+        "El Rinc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710035
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"411db7a25a4648228144b5a898cf8bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":1277085799,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1277085799,
+    "wof:lastmodified":1537676433,
+    "wof:name":"El Rincon",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7387,
+    8.43486,
+    -80.7387,
+    8.43486
+],
+  "geometry": {"coordinates":[-80.73869999999999,8.43486],"type":"Point"}
+}

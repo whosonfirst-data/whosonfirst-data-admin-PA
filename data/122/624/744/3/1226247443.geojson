@@ -1,0 +1,67 @@
+{
+  "id": 1226247443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14368,8.59472,-78.14368,8.59472",
+    "geom:latitude":8.59472,
+    "geom:longitude":-78.14368,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Placido",
+    "gn:country_code":"PA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702749,
+    "gn:latitude":8.59472,
+    "gn:longitude":-78.14368,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Pl\u00e1cido",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702749
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"52148f19790275356efb5bfd9067b4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1226247443,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1226247443,
+    "wof:lastmodified":1536931869,
+    "wof:name":"Placido",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14368,
+    8.59472,
+    -78.14368,
+    8.59472
+],
+  "geometry": {"coordinates":[-78.14368,8.59472],"type":"Point"}
+}

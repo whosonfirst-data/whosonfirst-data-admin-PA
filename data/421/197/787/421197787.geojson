@@ -1,0 +1,93 @@
+{
+  "id": 421197787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.4,8.46667,-82.4,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":-82.4,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:nor_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:spa_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:spa_x_variant":[
+        "Quinte\u00f1o"
+    ],
+    "name:unk_x_variant":[
+        "Quiteno"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3710066,
+    "qs:gn_pop":1146,
+    "qs:name":"El Quite\u00f1o",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":150246,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":156727,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710066,
+        "gp:id":156727,
+        "qs:id":150246,
+        "wd:id":"Q5351970"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009925,
+    "wof:geomhash":"8a8511807981070b6b2eced253f40553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":421197787,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421197787,
+    "wof:lastmodified":1527716408,
+    "wof:name":"El Quite\u00f1o",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":1146,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.4,
+    8.46667,
+    -82.4,
+    8.46667
+],
+  "geometry": {"coordinates":[-82.40000000000001,8.46667],"type":"Point"}
+}

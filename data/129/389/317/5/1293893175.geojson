@@ -1,0 +1,74 @@
+{
+  "id": 1293893175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.2033,8.91835,-82.2033,8.91835",
+    "geom:latitude":8.91835,
+    "geom:longitude":-82.2033,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barranquilla Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714329,
+    "gn:latitude":8.91835,
+    "gn:longitude":-82.2033,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Barranquilla N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barranquilla N\u00famero Dos"
+    ],
+    "name:und_x_variant":[
+        "Barranquila",
+        "Barranquilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        1108693209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714329
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a559e79a52f4205b4b1b1a8ba832c8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693209,
+            "locality_id":1293893175,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1293893175,
+    "wof:lastmodified":1537676485,
+    "wof:name":"Barranquilla Numero Dos",
+    "wof:parent_id":1108693209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.2033,
+    8.91835,
+    -82.2033,
+    8.91835
+],
+  "geometry": {"coordinates":[-82.2033,8.91835],"type":"Point"}
+}

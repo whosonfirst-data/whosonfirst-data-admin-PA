@@ -1,0 +1,61 @@
+{
+  "id": 1209320715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03333,9.18333,-80.03333,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":-80.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vino Tinto",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700062,
+    "gn:latitude":9.18333,
+    "gn:longitude":-80.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Vino Tinto",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700062
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"48da45501dfd46e0ee65168d5e714402",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209320715
+        }
+    ],
+    "wof:id":1209320715,
+    "wof:lastmodified":1536290704,
+    "wof:name":"Vino Tinto",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03333,
+    9.18333,
+    -80.03333,
+    9.18333
+],
+  "geometry": {"coordinates":[-80.03333000000001,9.18333],"type":"Point"}
+}

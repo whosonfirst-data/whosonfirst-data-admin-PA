@@ -1,0 +1,73 @@
+{
+  "id": 1242579493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.20438,8.77794,-80.20438,8.77794",
+    "geom:latitude":8.77794,
+    "geom:longitude":-80.20438,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Brazo de U",
+    "gn:country_code":"PA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713787,
+    "gn:latitude":8.77794,
+    "gn:longitude":-80.20438,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Brazo de U",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Brazo de U"
+    ],
+    "name:und_x_variant":[
+        "Brazos de U"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713787
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"baebb591a618d6a00017f2caa0bb41e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1242579493,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1242579493,
+    "wof:lastmodified":1537676480,
+    "wof:name":"Brazo de U",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.20438,
+    8.77794,
+    -80.20438,
+    8.77794
+],
+  "geometry": {"coordinates":[-80.20438,8.77794],"type":"Point"}
+}

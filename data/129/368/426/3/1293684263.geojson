@@ -1,0 +1,74 @@
+{
+  "id": 1293684263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.60397,7.84436,-80.60397,7.84436",
+    "geom:latitude":7.84436,
+    "geom:longitude":-80.60397,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rincon Hondo",
+    "gn:country_code":"PA",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701934,
+    "gn:latitude":7.84436,
+    "gn:longitude":-80.60397,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Rinc\u00f3n Hondo",
+    "gn:population":359,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n Hondo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701934,
+        "wk:page":"Rinc%C3%B3n_Hondo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"43b7fb6d3acd631949d0a8442dabcc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1293684263,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1293684263,
+    "wof:lastmodified":1537676348,
+    "wof:name":"Rincon Hondo",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.60396999999998,
+    7.84436,
+    -80.60396999999998,
+    7.84436
+],
+  "geometry": {"coordinates":[-80.60396999999998,7.84436],"type":"Point"}
+}

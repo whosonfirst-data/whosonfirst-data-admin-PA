@@ -1,0 +1,61 @@
+{
+  "id": 1209493383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.52711,8.26603,-77.52711,8.26603",
+    "geom:latitude":8.26603,
+    "geom:longitude":-77.52711,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Morritos",
+    "gn:country_code":"PA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544072,
+    "gn:latitude":8.26603,
+    "gn:longitude":-77.52711,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Morritos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544072
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b8d88d96bf32f73cc215f925fb37b821",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209493383
+        }
+    ],
+    "wof:id":1209493383,
+    "wof:lastmodified":1536285413,
+    "wof:name":"Morritos",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.52711,
+    8.26603,
+    -77.52711,
+    8.26603
+],
+  "geometry": {"coordinates":[-77.52710999999999,8.26603],"type":"Point"}
+}

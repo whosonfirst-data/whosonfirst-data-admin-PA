@@ -1,0 +1,70 @@
+{
+  "id": 102546995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.1572,7.51778,-78.1572,7.51778",
+    "geom:latitude":7.51778,
+    "geom:longitude":-78.1572,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Jaque"
+    ],
+    "oa:elevation_ft":"29",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":65,
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793100,
+        "localadmin_id":26793369,
+        "planet_id":1,
+        "state_id":2346555
+    },
+    "wof:belongsto":[
+        85632179,
+        85675795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524401,
+        "iata:code":"JQE",
+        "icao:code":"MPJE",
+        "oa:id":"31937",
+        "wd:id":"Q11824446"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"adf6c87d5fb11433c46d27dfaad651f8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546995,
+            "country_id":85632179,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":102546995,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Jaque Airport",
+    "wof:parent_id":85675795,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.1572,
+    7.51778,
+    -78.1572,
+    7.51778
+],
+  "geometry": {"coordinates":[-78.1572,7.51778],"type":"Point"}
+}

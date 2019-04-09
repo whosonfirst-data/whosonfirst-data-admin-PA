@@ -1,0 +1,93 @@
+{
+  "id": 421199673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.450831,9.052698,-79.450831,9.052698",
+    "geom:latitude":9.052698,
+    "geom:longitude":-79.450831,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0648\u062f\u0627\u062f \u062c\u0627\u0631\u062f\u064a\u0646 \u0622\u064a\u0644 \u064a\u0628\u0631\u062a\u0627\u062f\u0648\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0648\u062f\u0627\u062f \u062e\u0627\u0631\u062f\u06cc\u0646"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e3\u10d3\u10d0\u10d3-\u10ee\u10d0\u10e0\u10d3\u10d8\u10dc-\u10d4\u10da-\u10da\u10d8\u10d1\u10d4\u10e0\u10e2\u10d0\u10d3\u10dd\u10e0\u10d8"
+    ],
+    "name:sco_x_preferred":[
+        "Ciudad Jard\u00edn El Libertador"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Jard\u00edn El Libertador"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u723e\u4e01\u57c3\u723e\u5229\u8c9d\u723e\u5854\u591a\u723e\u5e02"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ciudad Jardin San Antonio",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":484030,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793757,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793757,
+        "qs:id":484030
+    },
+    "wof:country":"PA",
+    "wof:created":1459009997,
+    "wof:geomhash":"c21abba36b4f7347190c66508ff2748f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":421199673,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421199673,
+    "wof:lastmodified":1500018306,
+    "wof:name":"Ciudad Jardin San Antonio",
+    "wof:parent_id":421175375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.450831,
+    9.052698,
+    -79.450831,
+    9.052698
+],
+  "geometry": {"coordinates":[-79.45083099999999,9.052698],"type":"Point"}
+}

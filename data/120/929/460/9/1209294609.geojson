@@ -1,0 +1,64 @@
+{
+  "id": 1209294609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.74585,8.61507,-81.74585,8.61507",
+    "geom:latitude":8.61507,
+    "geom:longitude":-81.74585,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Macho",
+    "gn:country_code":"PA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347426,
+    "gn:latitude":8.61507,
+    "gn:longitude":-81.74585,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Cerro Macho",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Macho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347426
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"198de75dd6af7e695c5a3f6d5eb94812",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209294609
+        }
+    ],
+    "wof:id":1209294609,
+    "wof:lastmodified":1537676513,
+    "wof:name":"Cerro Macho",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.74585,
+    8.61507,
+    -81.74585,
+    8.61507
+],
+  "geometry": {"coordinates":[-81.74585,8.61507],"type":"Point"}
+}

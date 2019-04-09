@@ -1,0 +1,67 @@
+{
+  "id": 1259767021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.63333,8.05,-81.63333,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":-81.63333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Bramona",
+    "gn:country_code":"PA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708076,
+    "gn:latitude":8.05,
+    "gn:longitude":-81.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Bramona",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708076
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"575c945b9c4c4cdcb2b341fa1aad2938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1259767021,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259767021,
+    "wof:lastmodified":1536947263,
+    "wof:name":"La Bramona",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.63333,
+    8.05,
+    -81.63333,
+    8.05
+],
+  "geometry": {"coordinates":[-81.63333,8.05],"type":"Point"}
+}

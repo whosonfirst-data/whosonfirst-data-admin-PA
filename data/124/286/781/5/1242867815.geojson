@@ -1,0 +1,72 @@
+{
+  "id": 1242867815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.19639,7.94667,-81.19639,7.94667",
+    "geom:latitude":7.94667,
+    "geom:longitude":-81.19639,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Puerto Orlas",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702388,
+    "gn:latitude":7.94667,
+    "gn:longitude":-81.19639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Puerto Orlas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Orla",
+        "Puerto Orlas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702388
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2b125b80ae4a5901c2a200af72ad9b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693263,
+            "locality_id":1242867815,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242867815,
+    "wof:lastmodified":1537676354,
+    "wof:name":"Puerto Orlas",
+    "wof:parent_id":1108693263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.19639000000002,
+    7.94667,
+    -81.19639000000002,
+    7.94667
+],
+  "geometry": {"coordinates":[-81.19639000000002,7.94667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293711443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51667,9.03333,-79.51667,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":-79.51667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Monte Oscuro",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704133,
+    "gn:latitude":9.03333,
+    "gn:longitude":-79.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Monte Oscuro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704133
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a281137ca9c1fda8e50ff38df13f4fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":1293711443,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293711443,
+    "wof:lastmodified":1536961498,
+    "wof:name":"Monte Oscuro",
+    "wof:parent_id":421175375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51666999999998,
+    9.03333,
+    -79.51666999999998,
+    9.03333
+],
+  "geometry": {"coordinates":[-79.51666999999998,9.03333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293770831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.02231,8.88511,-82.02231,8.88511",
+    "geom:latitude":8.88511,
+    "geom:longitude":-82.02231,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Canazas Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347366,
+    "gn:latitude":8.88511,
+    "gn:longitude":-82.02231,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ca\u00f1azas N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1azas N\u00famero Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347366
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5bc8c72d31d8407c0bce315e47422d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1293770831,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1293770831,
+    "wof:lastmodified":1537676511,
+    "wof:name":"Canazas Numero Dos",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.02231,
+    8.88511,
+    -82.02231,
+    8.88511
+],
+  "geometry": {"coordinates":[-82.02231,8.88511],"type":"Point"}
+}

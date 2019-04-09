@@ -1,0 +1,67 @@
+{
+  "id": 1209235625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6087,7.55121,-80.6087,7.55121",
+    "geom:latitude":7.55121,
+    "geom:longitude":-80.6087,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Prieta",
+    "gn:country_code":"PA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706796,
+    "gn:latitude":7.55121,
+    "gn:longitude":-80.6087,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Prieta",
+    "gn:population":111,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Prieta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706796
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9fabd449a8fa5a816f89c26c11a6c886",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209235625
+        }
+    ],
+    "wof:id":1209235625,
+    "wof:lastmodified":1537676400,
+    "wof:name":"La Prieta",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6087,
+    7.55121,
+    -80.6087,
+    7.55121
+],
+  "geometry": {"coordinates":[-80.6087,7.55121],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293478873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01596,8.49413,-81.01596,8.49413",
+    "geom:latitude":8.49413,
+    "geom:longitude":-81.01596,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Palmarito",
+    "gn:country_code":"PA",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348578,
+    "gn:latitude":8.49413,
+    "gn:longitude":-81.01596,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"El Palmarito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Palmarito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348578
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0ea6c7b45957b8b00735f62b5235d317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1293478873,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293478873,
+    "wof:lastmodified":1537676520,
+    "wof:name":"El Palmarito",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01595999999998,
+    8.49413,
+    -81.01595999999998,
+    8.49413
+],
+  "geometry": {"coordinates":[-81.01595999999998,8.49413],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310612865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21613,8.42359,-80.21613,8.42359",
+    "geom:latitude":8.42359,
+    "geom:longitude":-80.21613,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Maranon",
+    "gn:country_code":"PA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710423,
+    "gn:latitude":8.42359,
+    "gn:longitude":-80.21613,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Mara\u00f1\u00f3n",
+    "gn:population":400,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mara\u00f1on",
+        "El Mara\u00f1\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710423
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ce805df99df0d153b2886f1477d8b8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1310612865,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310612865,
+    "wof:lastmodified":1537676440,
+    "wof:name":"El Maranon",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21613,
+    8.42359,
+    -80.21613,
+    8.42359
+],
+  "geometry": {"coordinates":[-80.21613000000001,8.42359],"type":"Point"}
+}

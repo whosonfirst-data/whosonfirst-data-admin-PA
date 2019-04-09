@@ -1,0 +1,73 @@
+{
+  "id": 1260064021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29899,7.93498,-81.29899,7.93498",
+    "geom:latitude":7.93498,
+    "geom:longitude":-81.29899,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Polancos",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705041,
+    "gn:latitude":7.93498,
+    "gn:longitude":-81.29899,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Polancos",
+    "gn:population":200,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Polancos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705041
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9b7d03130acece6cb58dd08a43bb5453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1260064021,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1260064021,
+    "wof:lastmodified":1537676374,
+    "wof:name":"Los Polancos",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29899,
+    7.93498,
+    -81.29899,
+    7.93498
+],
+  "geometry": {"coordinates":[-81.29899,7.93498],"type":"Point"}
+}

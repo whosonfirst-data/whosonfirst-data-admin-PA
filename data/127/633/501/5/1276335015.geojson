@@ -1,0 +1,73 @@
+{
+  "id": 1276335015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55947,9.39589,-79.55947,9.39589",
+    "geom:latitude":9.39589,
+    "geom:longitude":-79.55947,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Boqueron Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179838,
+    "gn:latitude":9.39589,
+    "gn:longitude":-79.55947,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Boquer\u00f3n Arriba",
+    "gn:population":108,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boquer\u00f3n Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179838
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"069d60439869f45a29607fc1df63ff57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1276335015,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1276335015,
+    "wof:lastmodified":1537676497,
+    "wof:name":"Boqueron Arriba",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:population":108,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55946999999998,
+    9.39589,
+    -79.55946999999998,
+    9.39589
+],
+  "geometry": {"coordinates":[-79.55946999999998,9.39589],"type":"Point"}
+}

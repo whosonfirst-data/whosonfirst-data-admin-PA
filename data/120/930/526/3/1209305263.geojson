@@ -1,0 +1,69 @@
+{
+  "id": 1209305263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9343,8.3425,-78.9343,8.3425",
+    "geom:latitude":8.3425,
+    "geom:longitude":-78.9343,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Guinea",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3707590,
+    "gn:latitude":8.3425,
+    "gn:longitude":-78.9343,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Guinea",
+    "gn:population":83,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guinea",
+        "La Guinea"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707590,
+        "wk:page":"La_Guinea"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6bd9b26f78a80cf22ab62ce25882ca25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209305263
+        }
+    ],
+    "wof:id":1209305263,
+    "wof:lastmodified":1537676409,
+    "wof:name":"La Guinea",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9343,
+    8.3425,
+    -78.9343,
+    8.3425
+],
+  "geometry": {"coordinates":[-78.93429999999999,8.3425],"type":"Point"}
+}

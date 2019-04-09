@@ -1,0 +1,73 @@
+{
+  "id": 1343566073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.03211,8.55434,-78.03211,8.55434",
+    "geom:latitude":8.55434,
+    "geom:longitude":-78.03211,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nicanor",
+    "gn:country_code":"PA",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194334,
+    "gn:latitude":8.55434,
+    "gn:longitude":-78.03211,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Nicanor",
+    "gn:population":276,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nicanor"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194334
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ced2db30c48939427f3981c46a2800ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1343566073,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1343566073,
+    "wof:lastmodified":1537676501,
+    "wof:name":"Nicanor",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:population":276,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.03211,
+    8.55434,
+    -78.03211,
+    8.55434
+],
+  "geometry": {"coordinates":[-78.03211,8.55434],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327334041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.29185,9.5662,-79.29185,9.5662",
+    "geom:latitude":9.5662,
+    "geom:longitude":-79.29185,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Playa Chiquita",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702688,
+    "gn:latitude":9.5662,
+    "gn:longitude":-79.29185,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Playa Chiquita",
+    "gn:population":105,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa Chiquita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702688,
+        "wk:page":"Playa_Chiquita"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"dffcba7766d4c88dd745ab69abf67524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693271,
+            "locality_id":1327334041,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1327334041,
+    "wof:lastmodified":1537676357,
+    "wof:name":"Playa Chiquita",
+    "wof:parent_id":1108693271,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.29185,
+    9.5662,
+    -79.29185,
+    9.5662
+],
+  "geometry": {"coordinates":[-79.29185,9.5662],"type":"Point"}
+}

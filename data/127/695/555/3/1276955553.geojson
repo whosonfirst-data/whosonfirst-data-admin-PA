@@ -1,0 +1,70 @@
+{
+  "id": 1276955553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.8,8.45,-81.8,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-81.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Llano de Olla",
+    "gn:country_code":"PA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705744,
+    "gn:latitude":8.45,
+    "gn:longitude":-81.8,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano de Olla",
+    "gn:population":16,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705744
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e57fbf3a6d7a5e59b58b5c71ceba9c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1276955553,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276955553,
+    "wof:lastmodified":1536940620,
+    "wof:name":"Llano de Olla",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.8,
+    8.45,
+    -81.8,
+    8.45
+],
+  "geometry": {"coordinates":[-81.8,8.45],"type":"Point"}
+}

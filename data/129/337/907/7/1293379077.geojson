@@ -1,0 +1,74 @@
+{
+  "id": 1293379077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25266,8.02323,-81.25266,8.02323",
+    "geom:latitude":8.02323,
+    "geom:longitude":-81.25266,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Asiento Bonito",
+    "gn:country_code":"PA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714609,
+    "gn:latitude":8.02323,
+    "gn:longitude":-81.25266,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Asiento Bonito",
+    "gn:population":116,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siento Bonito",
+        "Asiento Bonito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714609
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7885a53805f9cb1c73e4e1981dbad8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1293379077,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293379077,
+    "wof:lastmodified":1537676488,
+    "wof:name":"Asiento Bonito",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25265999999998,
+    8.02323,
+    -81.25265999999998,
+    8.02323
+],
+  "geometry": {"coordinates":[-81.25265999999998,8.02323],"type":"Point"}
+}

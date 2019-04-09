@@ -1,0 +1,70 @@
+{
+  "id": 1226055651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.68311,8.64025,-82.68311,8.64025",
+    "geom:latitude":8.64025,
+    "geom:longitude":-82.68311,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Maquenca",
+    "gn:country_code":"PA",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707274,
+    "gn:latitude":8.64025,
+    "gn:longitude":-82.68311,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Maquenca",
+    "gn:population":9,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707274
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d18afbbbe8ad25e0c25748a58edf3fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1226055651,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226055651,
+    "wof:lastmodified":1536711128,
+    "wof:name":"La Maquenca",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.68311,
+    8.64025,
+    -82.68311,
+    8.64025
+],
+  "geometry": {"coordinates":[-82.68311,8.64025],"type":"Point"}
+}

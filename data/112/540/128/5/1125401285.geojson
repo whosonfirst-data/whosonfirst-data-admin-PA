@@ -1,0 +1,78 @@
+{
+  "id": 1125401285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58599,9.610905,-79.58599,9.610905",
+    "geom:latitude":9.610905,
+    "geom:longitude":-79.58599,
+    "gn:gn_country":"PA",
+    "iso:country":"PA",
+    "lbl:latitude":9.610905,
+    "lbl:longitude":-79.58599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PA",
+    "qs_pg:gn_country":"PA",
+    "qs_pg:name":"Puerto Lindo",
+    "qs_pg:name_adm0":"Panam\u00e1",
+    "qs_pg:name_adm1":"Col\u00f3n",
+    "qs_pg:photos":368,
+    "qs_pg:photos_1k":75,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":492,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898948,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424924,
+    "qs_pg:woe_id":26793306,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424924,
+    "woe:name_adm0":"Panam\u00e1",
+    "woe:name_adm1":"Col\u00f3n",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793306,
+        "qs_pg:id":898948
+    },
+    "wof:country":"PA",
+    "wof:created":1497049338,
+    "wof:geomhash":"8517b543bacc8ec4d4124974001eedc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "localadmin_id":1125401285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125401285,
+    "wof:lastmodified":1509390061,
+    "wof:name":"Puerto Lindo",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58599,
+    9.610905,
+    -79.58599,
+    9.610905
+],
+  "geometry": {"coordinates":[-79.58599,9.610905],"type":"Point"}
+}

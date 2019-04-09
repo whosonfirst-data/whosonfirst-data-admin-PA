@@ -1,0 +1,67 @@
+{
+  "id": 1276749047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46667,9.05,-79.46667,9.05",
+    "geom:latitude":9.05,
+    "geom:longitude":-79.46667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Santa Pera",
+    "gn:country_code":"PA",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701154,
+    "gn:latitude":9.05,
+    "gn:longitude":-79.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Pera",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701154
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"81185fa1078ce590a148369f16a64187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":1276749047,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1276749047,
+    "wof:lastmodified":1536719260,
+    "wof:name":"Santa Pera",
+    "wof:parent_id":421175375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46667,
+    9.05,
+    -79.46667,
+    9.05
+],
+  "geometry": {"coordinates":[-79.46666999999999,9.05],"type":"Point"}
+}

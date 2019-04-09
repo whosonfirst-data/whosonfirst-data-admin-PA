@@ -1,0 +1,67 @@
+{
+  "id": 1226164073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.36667,7.73333,-80.36667,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":-80.36667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Codicioso",
+    "gn:country_code":"PA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711046,
+    "gn:latitude":7.73333,
+    "gn:longitude":-80.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Codicioso",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711046
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d2ab31d46239262e05e3de86ec6d49cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693219,
+            "locality_id":1226164073,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1226164073,
+    "wof:lastmodified":1537049264,
+    "wof:name":"El Codicioso",
+    "wof:parent_id":1108693219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.36667,
+    7.73333,
+    -80.36667,
+    7.73333
+],
+  "geometry": {"coordinates":[-80.36667,7.73333],"type":"Point"}
+}

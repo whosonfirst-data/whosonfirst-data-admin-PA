@@ -1,0 +1,73 @@
+{
+  "id": 1310188877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.94487,8.10953,-80.94487,8.10953",
+    "geom:latitude":8.10953,
+    "geom:longitude":-80.94487,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Punta Delgadita",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702338,
+    "gn:latitude":8.10953,
+    "gn:longitude":-80.94487,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Punta Delgadita",
+    "gn:population":919,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Punta Delgadita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702338
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5e4ee881c2d8e574063ff0439c516b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1310188877,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310188877,
+    "wof:lastmodified":1537676353,
+    "wof:name":"Punta Delgadita",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":919,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.94487,
+    8.10953,
+    -80.94487,
+    8.10953
+],
+  "geometry": {"coordinates":[-80.94486999999999,8.10953],"type":"Point"}
+}

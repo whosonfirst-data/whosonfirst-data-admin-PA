@@ -1,0 +1,79 @@
+{
+  "id": 421204801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8,9.33333,-79.8,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":-79.8,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Corregimiento Sabanita"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":3701681,
+    "qs:gn_pop":0,
+    "qs:name":"Sabanitas",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":248959,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793323,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701681,
+        "gp:id":26793323,
+        "qs:id":248959
+    },
+    "wof:country":"PA",
+    "wof:created":1459010198,
+    "wof:geomhash":"e0176d1854f2dc16c0bd06cc0c27a882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "localadmin_id":421204801,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421204801,
+    "wof:lastmodified":1501268747,
+    "wof:name":"Sabanitas",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8,
+    9.33333,
+    -79.8,
+    9.33333
+],
+  "geometry": {"coordinates":[-79.8,9.33333],"type":"Point"}
+}

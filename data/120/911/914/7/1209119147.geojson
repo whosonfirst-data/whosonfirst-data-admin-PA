@@ -1,0 +1,66 @@
+{
+  "id": 1209119147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.81667,8.2,-81.81667,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":-81.81667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hato Antioquia",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708748,
+    "gn:latitude":8.2,
+    "gn:longitude":-81.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hato Antioquia",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hato Antioguia",
+        "Hato Antioquia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708748
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c4a3e4d2f13cf9a9a71d7c1a46f53373",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209119147
+        }
+    ],
+    "wof:id":1209119147,
+    "wof:lastmodified":1537676422,
+    "wof:name":"Hato Antioquia",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.81667,
+    8.2,
+    -81.81667,
+    8.2
+],
+  "geometry": {"coordinates":[-81.81667,8.2],"type":"Point"}
+}

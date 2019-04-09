@@ -1,0 +1,83 @@
+{
+  "id": 421193483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.954805,8.475428,-79.954805,8.475428",
+    "geom:latitude":8.475428,
+    "geom:longitude":-79.954805,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Carlos",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":369,
+    "qs:photos_1k":75,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":562,
+    "qs:photos_sr":6,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":903048,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793574,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793574,
+        "qs:id":903048
+    },
+    "wof:country":"PA",
+    "wof:created":1459009773,
+    "wof:geomhash":"c42928774dd637778e46ab23ddc9c5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "localadmin_id":421193483,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "localadmin_id":421193483,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421193483,
+    "wof:lastmodified":1500018208,
+    "wof:name":"San Carlos",
+    "wof:parent_id":421171351,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.954805,
+    8.475428,
+    -79.954805,
+    8.475428
+],
+  "geometry": {"coordinates":[-79.95480499999999,8.475428],"type":"Point"}
+}

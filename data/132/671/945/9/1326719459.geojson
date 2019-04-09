@@ -1,0 +1,67 @@
+{
+  "id": 1326719459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36028,7.94528,-81.36028,7.94528",
+    "geom:latitude":7.94528,
+    "geom:longitude":-81.36028,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Maria",
+    "gn:country_code":"PA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710418,
+    "gn:latitude":7.94528,
+    "gn:longitude":-81.36028,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"El Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710418
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"725d26886896d2ef2a5ddcd4f50fab23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1326719459,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1326719459,
+    "wof:lastmodified":1536714509,
+    "wof:name":"El Maria",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.36028,
+    7.94528,
+    -81.36028,
+    7.94528
+],
+  "geometry": {"coordinates":[-81.36028,7.94528],"type":"Point"}
+}

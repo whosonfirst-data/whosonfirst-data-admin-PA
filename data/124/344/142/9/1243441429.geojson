@@ -1,0 +1,73 @@
+{
+  "id": 1243441429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.90659,8.81912,-81.90659,8.81912",
+    "geom:latitude":8.81912,
+    "geom:longitude":-81.90659,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Calante",
+    "gn:country_code":"PA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347381,
+    "gn:latitude":8.81912,
+    "gn:longitude":-81.90659,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Calante",
+    "gn:population":301,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calante"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347381
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c0ec98661be02bb185973f89b8b6d365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1243441429,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1243441429,
+    "wof:lastmodified":1537676511,
+    "wof:name":"Calante",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.90659000000002,
+    8.81912,
+    -81.90659000000002,
+    8.81912
+],
+  "geometry": {"coordinates":[-81.90659000000002,8.81912],"type":"Point"}
+}

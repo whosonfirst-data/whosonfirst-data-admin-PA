@@ -1,0 +1,75 @@
+{
+  "id": 1293568607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13417,8.92667,-80.13417,8.92667",
+    "geom:latitude":8.92667,
+    "geom:longitude":-80.13417,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Boca de Teria",
+    "gn:country_code":"PA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713987,
+    "gn:latitude":8.92667,
+    "gn:longitude":-80.13417,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Boca de Teri\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713987
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c02ec631eb35e00dffd3cef2db299754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1293568607,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1293568607,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293568607,
+    "wof:lastmodified":1536670166,
+    "wof:name":"Boca de Teria",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13417,
+    8.92667,
+    -80.13417,
+    8.92667
+],
+  "geometry": {"coordinates":[-80.13417,8.92667],"type":"Point"}
+}

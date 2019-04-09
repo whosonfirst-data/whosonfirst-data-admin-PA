@@ -1,0 +1,70 @@
+{
+  "id": 1276896473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.9,7.86667,-80.9,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":-80.9,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cerro de Paja",
+    "gn:country_code":"PA",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712732,
+    "gn:latitude":7.86667,
+    "gn:longitude":-80.9,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Cerro de Paja",
+    "gn:population":39,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712732
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bd893401dc0b2f718f8d97a33a6beade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1276896473,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276896473,
+    "wof:lastmodified":1537018190,
+    "wof:name":"Cerro de Paja",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.9,
+    7.86667,
+    -80.9,
+    7.86667
+],
+  "geometry": {"coordinates":[-80.90000000000001,7.86667],"type":"Point"}
+}

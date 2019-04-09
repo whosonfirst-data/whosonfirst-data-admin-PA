@@ -1,0 +1,94 @@
+{
+  "id": 421201781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.4,8.45,-82.4,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-82.4,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Mata del Nance"
+    ],
+    "name:eng_x_preferred":[
+        "Mata del Nance"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10e2\u10d0-\u10d3\u10d4\u10da-\u10dc\u10d0\u10dc\u10e1\u10d4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e2\u10d0-\u10d3\u10d4\u10da-\u10dc\u10d0\u10dc\u10e1\u10d4"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3704460,
+    "qs:gn_pop":1051,
+    "qs:name":"Mata del Nance",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":214573,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159062,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704460,
+        "gp:id":159062,
+        "qs:id":214573,
+        "wd:id":"Q6785905",
+        "wk:page":"Mata del Nance"
+    },
+    "wof:country":"PA",
+    "wof:created":1459010087,
+    "wof:geomhash":"a52794b0d5a9f4d7837f70455ec854e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":421201781,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421201781,
+    "wof:lastmodified":1527716441,
+    "wof:name":"Mata del Nance",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":1051,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.4,
+    8.45,
+    -82.4,
+    8.45
+],
+  "geometry": {"coordinates":[-82.40000000000001,8.45],"type":"Point"}
+}

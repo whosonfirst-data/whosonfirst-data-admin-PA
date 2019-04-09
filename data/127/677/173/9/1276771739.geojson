@@ -1,0 +1,73 @@
+{
+  "id": 1276771739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.53712,8.51872,-82.53712,8.51872",
+    "geom:latitude":8.51872,
+    "geom:longitude":-82.53712,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cerro Colorado",
+    "gn:country_code":"PA",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712748,
+    "gn:latitude":8.51872,
+    "gn:longitude":-82.53712,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Colorado",
+    "gn:population":300,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Colorado"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712748
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fe3fd4c51608c20a7d22adcb48c3dcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693193,
+            "locality_id":1276771739,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1276771739,
+    "wof:lastmodified":1537676470,
+    "wof:name":"Cerro Colorado",
+    "wof:parent_id":1108693193,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.53712,
+    8.51872,
+    -82.53712,
+    8.51872
+],
+  "geometry": {"coordinates":[-82.53712,8.51872],"type":"Point"}
+}

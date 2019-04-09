@@ -1,0 +1,68 @@
+{
+  "id": 1209095393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01227,8.03333,-81.01227,8.03333",
+    "geom:latitude":8.03333,
+    "geom:longitude":-81.01227,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Graciana",
+    "gn:country_code":"PA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707621,
+    "gn:latitude":8.03333,
+    "gn:longitude":-81.01227,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Graciana",
+    "gn:population":107,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Gradiana",
+        "La Graciana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707621
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1316e53175d4052fddf1de6540ed3609",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209095393
+        }
+    ],
+    "wof:id":1209095393,
+    "wof:lastmodified":1537676409,
+    "wof:name":"La Graciana",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01227,
+    8.03333,
+    -81.01227,
+    8.03333
+],
+  "geometry": {"coordinates":[-81.01227,8.03333],"type":"Point"}
+}

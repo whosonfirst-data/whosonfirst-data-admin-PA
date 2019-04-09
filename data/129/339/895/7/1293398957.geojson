@@ -1,0 +1,73 @@
+{
+  "id": 1293398957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.23856,8.66864,-82.23856,8.66864",
+    "geom:latitude":8.66864,
+    "geom:longitude":-82.23856,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Entre Rios",
+    "gn:country_code":"PA",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347347,
+    "gn:latitude":8.66864,
+    "gn:longitude":-82.23856,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Entre R\u00edos",
+    "gn:population":139,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Entre R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421169889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347347
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"21213f955afc00d51fa49f1f03fd3923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421169889,
+            "locality_id":1293398957,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293398957,
+    "wof:lastmodified":1537676511,
+    "wof:name":"Entre Rios",
+    "wof:parent_id":421169889,
+    "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.23855999999998,
+    8.66864,
+    -82.23855999999998,
+    8.66864
+],
+  "geometry": {"coordinates":[-82.23855999999998,8.66864],"type":"Point"}
+}

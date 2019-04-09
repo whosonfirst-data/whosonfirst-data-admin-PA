@@ -1,0 +1,64 @@
+{
+  "id": 1309901797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.885,9.58917,-78.885,9.58917",
+    "geom:latitude":9.58917,
+    "geom:longitude":-78.885,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Isla Wichitupo Grande",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764160,
+    "gn:latitude":9.58917,
+    "gn:longitude":-78.885,
+    "gn:modification_date":"1998-08-07",
+    "gn:name":"Isla Wichitupo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764160
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6e0f59d10aa5e62bebe11760729ca0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "locality_id":1309901797,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309901797,
+    "wof:lastmodified":1536793014,
+    "wof:name":"Isla Wichitupo Grande",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.885,
+    9.58917,
+    -78.885,
+    9.58917
+],
+  "geometry": {"coordinates":[-78.88500000000001,9.58917],"type":"Point"}
+}

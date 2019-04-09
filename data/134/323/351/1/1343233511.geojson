@@ -1,0 +1,75 @@
+{
+  "id": 1343233511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81667,8.83333,-79.81667,8.83333",
+    "geom:latitude":8.83333,
+    "geom:longitude":-79.81667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gongora",
+    "gn:country_code":"PA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709223,
+    "gn:latitude":8.83333,
+    "gn:longitude":-79.81667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"G\u00f3ngora",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709223
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"33c475239c5a9bc7689236845450d106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1343233511,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1343233511,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343233511,
+    "wof:lastmodified":1537070903,
+    "wof:name":"Gongora",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81667,
+    8.83333,
+    -79.81667,
+    8.83333
+],
+  "geometry": {"coordinates":[-79.81667,8.83333],"type":"Point"}
+}

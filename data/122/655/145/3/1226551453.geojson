@@ -1,0 +1,76 @@
+{
+  "id": 1226551453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7,8.43333,-80.7,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-80.7,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Roda",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706677,
+    "gn:latitude":8.43333,
+    "gn:longitude":-80.7,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"La Roda",
+    "gn:population":6,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rod\u00e1",
+        "La Marcela",
+        "La Roda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706677
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"983aa8eb5982bf6ce7b40f12e2d835b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693249,
+            "locality_id":1226551453,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226551453,
+    "wof:lastmodified":1537676398,
+    "wof:name":"La Roda",
+    "wof:parent_id":1108693249,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7,
+    8.43333,
+    -80.7,
+    8.43333
+],
+  "geometry": {"coordinates":[-80.7,8.43333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243448777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.89831,9.44061,-78.89831,9.44061",
+    "geom:latitude":9.44061,
+    "geom:longitude":-78.89831,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Miria Ubigantupo",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700897,
+    "gn:latitude":9.44061,
+    "gn:longitude":-78.89831,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Miria Ubigantupo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soledad",
+        "Soledad Miri\u00e1 Ubigantupo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700897,
+        "wk:page":"Soledad_Miria"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cce67d83a03a7d7c473b51782126d49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243448777,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243448777,
+    "wof:lastmodified":1537676338,
+    "wof:name":"Miria Ubigantupo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.89831,
+    9.44061,
+    -78.89831,
+    9.44061
+],
+  "geometry": {"coordinates":[-78.89831,9.44061],"type":"Point"}
+}

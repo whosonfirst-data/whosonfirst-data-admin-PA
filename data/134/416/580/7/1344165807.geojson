@@ -1,0 +1,74 @@
+{
+  "id": 1344165807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.27509,8.68134,-82.27509,8.68134",
+    "geom:latitude":8.68134,
+    "geom:longitude":-82.27509,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chiriquicito",
+    "gn:country_code":"PA",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712405,
+    "gn:latitude":8.68134,
+    "gn:longitude":-82.27509,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Chiriquicito",
+    "gn:population":164,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiriquisito",
+        "Chiriquicito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421169889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712405
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fea94bad4e1b4a42724cd4999cd47404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421169889,
+            "locality_id":1344165807,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1344165807,
+    "wof:lastmodified":1537676466,
+    "wof:name":"Chiriquicito",
+    "wof:parent_id":421169889,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.27509,
+    8.68134,
+    -82.27509,
+    8.68134
+],
+  "geometry": {"coordinates":[-82.27509000000001,8.68134],"type":"Point"}
+}

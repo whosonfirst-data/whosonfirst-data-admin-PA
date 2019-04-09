@@ -1,0 +1,61 @@
+{
+  "id": 1209190771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73333,8.98333,-79.73333,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":-79.73333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Loma Seca",
+    "gn:country_code":"PA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705595,
+    "gn:latitude":8.98333,
+    "gn:longitude":-79.73333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Loma Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705595
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"adf0a2005a7ebe74e81d181828fc0b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209190771
+        }
+    ],
+    "wof:id":1209190771,
+    "wof:lastmodified":1536294942,
+    "wof:name":"Loma Seca",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73333000000002,
+    8.98333,
+    -79.73333000000002,
+    8.98333
+],
+  "geometry": {"coordinates":[-79.73333000000002,8.98333],"type":"Point"}
+}

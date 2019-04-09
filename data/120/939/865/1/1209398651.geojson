@@ -1,0 +1,68 @@
+{
+  "id": 1209398651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.94801,7.96059,-80.94801,7.96059",
+    "geom:latitude":7.96059,
+    "geom:longitude":-80.94801,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Barrito",
+    "gn:country_code":"PA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711381,
+    "gn:latitude":7.96059,
+    "gn:longitude":-80.94801,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Barrito",
+    "gn:population":212,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Barrito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711381,
+        "wk:page":"El_Barrito"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"76c8745449aa0fb4c80fcc4964a13d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209398651
+        }
+    ],
+    "wof:id":1209398651,
+    "wof:lastmodified":1537676457,
+    "wof:name":"El Barrito",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.94801,
+    7.96059,
+    -80.94801,
+    7.96059
+],
+  "geometry": {"coordinates":[-80.94801,7.96059],"type":"Point"}
+}

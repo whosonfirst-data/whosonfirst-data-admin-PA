@@ -1,0 +1,74 @@
+{
+  "id": 1310316877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.20533,8.63404,-80.20533,8.63404",
+    "geom:latitude":8.63404,
+    "geom:longitude":-80.20533,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oajaca",
+    "gn:country_code":"PA",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703806,
+    "gn:latitude":8.63404,
+    "gn:longitude":-80.20533,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Oajaca",
+    "gn:population":439,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oaxaca",
+        "Oajaca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703806
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"099942a6b9179d9c8fe0d04acc448c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1310316877,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310316877,
+    "wof:lastmodified":1537676364,
+    "wof:name":"Oajaca",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":439,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.20533,
+    8.63404,
+    -80.20533,
+    8.63404
+],
+  "geometry": {"coordinates":[-80.20533,8.63404],"type":"Point"}
+}

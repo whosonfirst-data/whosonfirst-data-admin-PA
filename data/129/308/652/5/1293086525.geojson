@@ -1,0 +1,63 @@
+{
+  "id": 1293086525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03333,8.96667,-79.03333,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":-79.03333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Charco",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711146,
+    "gn:latitude":8.96667,
+    "gn:longitude":-79.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Charco",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711146
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"febb2f4d2e6149d797365e7f45f790b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1293086525,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293086525,
+    "wof:lastmodified":1536866915,
+    "wof:name":"El Charco",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03333,
+    8.96667,
+    -79.03333,
+    8.96667
+],
+  "geometry": {"coordinates":[-79.03333000000001,8.96667],"type":"Point"}
+}

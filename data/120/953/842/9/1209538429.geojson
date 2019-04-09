@@ -1,0 +1,67 @@
+{
+  "id": 1209538429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98225,8.53068,-77.98225,8.53068",
+    "geom:latitude":8.53068,
+    "geom:longitude":-77.98225,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Punuloso",
+    "gn:country_code":"PA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194726,
+    "gn:latitude":8.53068,
+    "gn:longitude":-77.98225,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Punuloso",
+    "gn:population":295,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Punuloso"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194726
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0b3dcbcc4cf45ec675af3399038e5792",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209538429
+        }
+    ],
+    "wof:id":1209538429,
+    "wof:lastmodified":1537676501,
+    "wof:name":"Punuloso",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":295,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98225,
+    8.53068,
+    -77.98225,
+    8.53068
+],
+  "geometry": {"coordinates":[-77.98224999999999,8.53068],"type":"Point"}
+}

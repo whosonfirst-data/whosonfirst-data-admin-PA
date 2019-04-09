@@ -1,0 +1,86 @@
+{
+  "id": 421188607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6025,9.33611,-79.6025,9.33611",
+    "geom:latitude":9.33611,
+    "geom:longitude":-79.6025,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Salamanca"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701649,
+    "qs:gn_pop":981,
+    "qs:name":"Salamanca",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1103626,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793316,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701649,
+        "gp:id":26793316,
+        "qs:id":1103626,
+        "qs_pg:id":1103626
+    },
+    "wof:country":"PA",
+    "wof:created":1459009571,
+    "wof:geomhash":"da5b63b17da65999ee68f6530c93396d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "localadmin_id":421188607,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421188607,
+    "wof:lastmodified":1505340708,
+    "wof:name":"Salamanca",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"localadmin",
+    "wof:population":981,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6025,
+    9.33611,
+    -79.6025,
+    9.33611
+],
+  "geometry": {"coordinates":[-79.60250000000001,9.33611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225943363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15652,8.24727,-78.15652,8.24727",
+    "geom:latitude":8.24727,
+    "geom:longitude":-78.15652,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Quebrada del Medio",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702247,
+    "gn:latitude":8.24727,
+    "gn:longitude":-78.15652,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Quebrada del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702247
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ba324df3aa2f95b906b174c25d84a20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1225943363,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1225943363,
+    "wof:lastmodified":1536871768,
+    "wof:name":"Quebrada del Medio",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15652,
+    8.24727,
+    -78.15652,
+    8.24727
+],
+  "geometry": {"coordinates":[-78.15652,8.24727],"type":"Point"}
+}

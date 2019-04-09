@@ -1,0 +1,61 @@
+{
+  "id": 1209319219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.0225,8.40111,-78.0225,8.40111",
+    "geom:latitude":8.40111,
+    "geom:longitude":-78.0225,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Plaza",
+    "gn:country_code":"PA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706819,
+    "gn:latitude":8.40111,
+    "gn:longitude":-78.0225,
+    "gn:modification_date":"1998-07-14",
+    "gn:name":"La Plaza",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706819
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d3ae2770f5aa31a0229a4a2c7fdb9a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209319219
+        }
+    ],
+    "wof:id":1209319219,
+    "wof:lastmodified":1536290755,
+    "wof:name":"La Plaza",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.0225,
+    8.401110000000001,
+    -78.0225,
+    8.401110000000001
+],
+  "geometry": {"coordinates":[-78.02249999999999,8.40111],"type":"Point"}
+}

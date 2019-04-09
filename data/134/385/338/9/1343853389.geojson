@@ -1,0 +1,70 @@
+{
+  "id": 1343853389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26667,8.41667,-81.26667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-81.26667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Piedra de Amolar",
+    "gn:country_code":"PA",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702925,
+    "gn:latitude":8.41667,
+    "gn:longitude":-81.26667,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Piedra de Amolar",
+    "gn:population":166,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702925
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2ba4ecf811d24b46ee3cdd7e03acc0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1343853389,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343853389,
+    "wof:lastmodified":1536676840,
+    "wof:name":"Piedra de Amolar",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26666999999998,
+    8.41667,
+    -81.26666999999998,
+    8.41667
+],
+  "geometry": {"coordinates":[-81.26666999999998,8.41667],"type":"Point"}
+}

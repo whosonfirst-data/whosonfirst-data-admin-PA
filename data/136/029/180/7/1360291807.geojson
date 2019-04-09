@@ -1,0 +1,67 @@
+{
+  "id": 1360291807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.63333,9.26667,-79.63333,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-79.63333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Canazas",
+    "gn:country_code":"PA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713187,
+    "gn:latitude":9.26667,
+    "gn:longitude":-79.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ca\u00f1azas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713187
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"958f52795da2afe9e38665f28c1c03df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1360291807,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1360291807,
+    "wof:lastmodified":1536646942,
+    "wof:name":"Canazas",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63333,
+    9.26667,
+    -79.63333,
+    9.26667
+],
+  "geometry": {"coordinates":[-79.63333,9.26667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293195587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.43333,8.3,-81.43333,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-81.43333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Huacas del Padre",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706483,
+    "gn:latitude":8.3,
+    "gn:longitude":-81.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Huacas del Padre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huacas del Padre",
+        "Las Huacas del Padre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706483
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ff447130f4cc64f170da7fd61f65995c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1293195587,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293195587,
+    "wof:lastmodified":1537676395,
+    "wof:name":"Las Huacas del Padre",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.43333,
+    8.3,
+    -81.43333,
+    8.3
+],
+  "geometry": {"coordinates":[-81.43333,8.3],"type":"Point"}
+}

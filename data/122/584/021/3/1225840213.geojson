@@ -1,0 +1,64 @@
+{
+  "id": 1225840213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.50843,7.74932,-81.50843,7.74932",
+    "geom:latitude":7.74932,
+    "geom:longitude":-81.50843,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Zapote",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709792,
+    "gn:latitude":7.74932,
+    "gn:longitude":-81.50843,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"El Zapote",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Zapote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709792
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"40a154fde9ee80769c9e413bb4cd0721",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225840213,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225840213,
+    "wof:lastmodified":1537676430,
+    "wof:name":"El Zapote",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.50843,
+    7.74932,
+    -81.50843,
+    7.74932
+],
+  "geometry": {"coordinates":[-81.50843,7.74932],"type":"Point"}
+}

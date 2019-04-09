@@ -1,0 +1,73 @@
+{
+  "id": 1226134419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.32692,7.53047,-80.32692,7.53047",
+    "geom:latitude":7.53047,
+    "geom:longitude":-80.32692,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nuario",
+    "gn:country_code":"PA",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3703854,
+    "gn:latitude":7.53047,
+    "gn:longitude":-80.32692,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Nuario",
+    "gn:population":92,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuario"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703854
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ad5046c7c5867f030dfe5ba1474e5d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1226134419,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1226134419,
+    "wof:lastmodified":1537676365,
+    "wof:name":"Nuario",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.32692,
+    7.53047,
+    -80.32692,
+    7.53047
+],
+  "geometry": {"coordinates":[-80.32692,7.53047],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209606811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41072,7.70771,-80.41072,7.70771",
+    "geom:latitude":7.70771,
+    "geom:longitude":-80.41072,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cuculita",
+    "gn:country_code":"PA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711750,
+    "gn:latitude":7.70771,
+    "gn:longitude":-80.41072,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cuculita",
+    "gn:population":19,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711750
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6ae6a069dfd5cea99e4e84f39f2f77dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209606811
+        }
+    ],
+    "wof:id":1209606811,
+    "wof:lastmodified":1536281984,
+    "wof:name":"Cuculita",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41072,
+    7.70771,
+    -80.41072,
+    7.70771
+],
+  "geometry": {"coordinates":[-80.41072,7.70771],"type":"Point"}
+}

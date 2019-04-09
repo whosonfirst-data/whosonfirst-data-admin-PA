@@ -1,0 +1,73 @@
+{
+  "id": 1193139231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.31248,8.7344,-80.31248,8.7344",
+    "geom:latitude":8.7344,
+    "geom:longitude":-80.31248,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Paso Real",
+    "gn:country_code":"PA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703306,
+    "gn:latitude":8.7344,
+    "gn:longitude":-80.31248,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Paso Real",
+    "gn:population":247,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso Real"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703306
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"911744dd2ed5941934a73ae55248bf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1193139231,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1193139231,
+    "wof:lastmodified":1537676361,
+    "wof:name":"Paso Real",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.31248000000002,
+    8.7344,
+    -80.31248000000002,
+    8.7344
+],
+  "geometry": {"coordinates":[-80.31248000000002,8.7344],"type":"Point"}
+}

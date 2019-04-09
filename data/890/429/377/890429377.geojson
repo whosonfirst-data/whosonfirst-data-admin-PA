@@ -1,0 +1,78 @@
+{
+  "id": 890429377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.9169,8.85266,-77.9169,8.85266",
+    "geom:latitude":8.85266,
+    "geom:longitude":-77.9169,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":528,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mort\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Mort\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Mort\u00ed Arriba"
+    ],
+    "qs:name":"Mort\u00ed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704075,
+        "gp:id":160527,
+        "qs:id":96511,
+        "wd:id":"Q2784959",
+        "wk:page":"Mort\u00ed"
+    },
+    "wof:country":"PA",
+    "wof:created":1469051812,
+    "wof:geomhash":"d30e86b94aabef434c2a3cf40d363e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":890429377,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":890429377,
+    "wof:lastmodified":1527792790,
+    "wof:name":"Mort\u00ed",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:population":528,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.9169,
+    8.85266,
+    -77.9169,
+    8.85266
+],
+  "geometry": {"coordinates":[-77.9169,8.85266],"type":"Point"}
+}

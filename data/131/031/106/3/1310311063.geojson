@@ -1,0 +1,70 @@
+{
+  "id": 1310311063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06682,9.16357,-80.06682,9.16357",
+    "geom:latitude":9.16357,
+    "geom:longitude":-80.06682,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nuevo Paraiso",
+    "gn:country_code":"PA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764539,
+    "gn:latitude":9.16357,
+    "gn:longitude":-80.06682,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Nuevo Paraiso",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Paraiso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764539
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6f31b1d7d0d02b2a8fab5a14522c6331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1310311063,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1310311063,
+    "wof:lastmodified":1537676494,
+    "wof:name":"Nuevo Paraiso",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06681999999998,
+    9.16357,
+    -80.06681999999998,
+    9.16357
+],
+  "geometry": {"coordinates":[-80.06681999999998,9.16357],"type":"Point"}
+}

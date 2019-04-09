@@ -1,0 +1,67 @@
+{
+  "id": 1293020787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.96389,8.41972,-78.96389,8.41972",
+    "geom:latitude":8.41972,
+    "geom:longitude":-78.96389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rio Isabel",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701844,
+    "gn:latitude":8.41972,
+    "gn:longitude":-78.96389,
+    "gn:modification_date":"1994-11-07",
+    "gn:name":"R\u00edo Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701844
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"00790eed01914152bc8106f8e9116e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1293020787,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293020787,
+    "wof:lastmodified":1536962783,
+    "wof:name":"Rio Isabel",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96389,
+    8.41972,
+    -78.96389,
+    8.41972
+],
+  "geometry": {"coordinates":[-78.96389000000001,8.41972],"type":"Point"}
+}

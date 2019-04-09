@@ -1,0 +1,70 @@
+{
+  "id": 1343953481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58333,7.95,-80.58333,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":-80.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Jazmincito",
+    "gn:country_code":"PA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710601,
+    "gn:latitude":7.95,
+    "gn:longitude":-80.58333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El Jazmincito",
+    "gn:population":69,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710601
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e74fed2de7dfd64980134e54446fcc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1343953481,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1343953481,
+    "wof:lastmodified":1537028883,
+    "wof:name":"El Jazmincito",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58333,
+    7.95,
+    -80.58333,
+    7.95
+],
+  "geometry": {"coordinates":[-80.58333,7.95],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209101365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.11667,8.11667,-81.11667,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":-81.11667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Rosas",
+    "gn:country_code":"PA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704982,
+    "gn:latitude":8.11667,
+    "gn:longitude":-81.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Rosas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704982
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"99f4f4e63db21ab2beb57a0bc2ef091f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209101365
+        }
+    ],
+    "wof:id":1209101365,
+    "wof:lastmodified":1536297722,
+    "wof:name":"Los Rosas",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.11667,
+    8.11667,
+    -81.11667,
+    8.11667
+],
+  "geometry": {"coordinates":[-81.11667,8.11667],"type":"Point"}
+}

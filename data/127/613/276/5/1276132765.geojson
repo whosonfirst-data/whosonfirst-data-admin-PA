@@ -1,0 +1,67 @@
+{
+  "id": 1276132765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38333,9.23333,-82.38333,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":-82.38333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quebrada Jones",
+    "gn:country_code":"PA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702186,
+    "gn:latitude":9.23333,
+    "gn:longitude":-82.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Quebrada Jones",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702186
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1634c591970ecbe750e749b54182f884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1276132765,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1276132765,
+    "wof:lastmodified":1537045415,
+    "wof:name":"Quebrada Jones",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38333,
+    9.23333,
+    -82.38333,
+    9.23333
+],
+  "geometry": {"coordinates":[-82.38333,9.23333],"type":"Point"}
+}

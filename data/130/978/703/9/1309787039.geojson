@@ -1,0 +1,67 @@
+{
+  "id": 1309787039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.04472,7.825,-78.04472,7.825",
+    "geom:latitude":7.825,
+    "geom:longitude":-78.04472,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boca de Pavarando",
+    "gn:country_code":"PA",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713999,
+    "gn:latitude":7.825,
+    "gn:longitude":-78.04472,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Boca de Pavarand\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713999
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"30f86332eee8b853eaec0b62fdf3fec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1309787039,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1309787039,
+    "wof:lastmodified":1536958130,
+    "wof:name":"Boca de Pavarando",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.04472,
+    7.825,
+    -78.04472,
+    7.825
+],
+  "geometry": {"coordinates":[-78.04472,7.825],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243165963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.35,8.0,-81.35,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":-81.35,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rincon de Alfaro",
+    "gn:country_code":"PA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701941,
+    "gn:latitude":8.0,
+    "gn:longitude":-81.35,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Rinc\u00f3n de Alfaro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701941
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"31dd2bc67229f6e87799c84fe25e9ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1243165963,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243165963,
+    "wof:lastmodified":1536713285,
+    "wof:name":"Rincon de Alfaro",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.35,
+    8.0,
+    -81.35,
+    8.0
+],
+  "geometry": {"coordinates":[-81.34999999999999,8.0],"type":"Point"}
+}

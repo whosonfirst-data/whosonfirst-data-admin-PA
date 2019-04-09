@@ -1,0 +1,64 @@
+{
+  "id": 1209628193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.58487,8.4902,-82.58487,8.4902",
+    "geom:latitude":8.4902,
+    "geom:longitude":-82.58487,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Varital",
+    "gn:country_code":"PA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700202,
+    "gn:latitude":8.4902,
+    "gn:longitude":-82.58487,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Varital",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Varital"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700202
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f0a873600ea07990e8af0dd23aa830d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209628193
+        }
+    ],
+    "wof:id":1209628193,
+    "wof:lastmodified":1537676332,
+    "wof:name":"Varital",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.58487,
+    8.4902,
+    -82.58487,
+    8.4902
+],
+  "geometry": {"coordinates":[-82.58487,8.4902],"type":"Point"}
+}

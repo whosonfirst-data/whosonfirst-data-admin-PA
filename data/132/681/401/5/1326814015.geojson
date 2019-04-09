@@ -1,0 +1,67 @@
+{
+  "id": 1326814015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29472,7.97,-81.29472,7.97",
+    "geom:latitude":7.97,
+    "geom:longitude":-81.29472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tolica",
+    "gn:country_code":"PA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700549,
+    "gn:latitude":7.97,
+    "gn:longitude":-81.29472,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"T\u00f3lica",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700549
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c6561454d88a67e2472871fa5f527a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1326814015,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1326814015,
+    "wof:lastmodified":1537071951,
+    "wof:name":"Tolica",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29472,
+    7.97,
+    -81.29472,
+    7.97
+],
+  "geometry": {"coordinates":[-81.29472,7.97],"type":"Point"}
+}

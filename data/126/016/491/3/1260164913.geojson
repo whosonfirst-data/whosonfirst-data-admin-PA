@@ -1,0 +1,73 @@
+{
+  "id": 1260164913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.3387,8.40741,-81.3387,8.40741",
+    "geom:latitude":8.40741,
+    "geom:longitude":-81.3387,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"PA",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713726,
+    "gn:latitude":8.40741,
+    "gn:longitude":-81.3387,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Buena Vista",
+    "gn:population":209,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buena Vista"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713726
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d9fe8c824eeeb7afe4c0bfa1c486b05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1260164913,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1260164913,
+    "wof:lastmodified":1537676479,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.3387,
+    8.40741,
+    -81.3387,
+    8.40741
+],
+  "geometry": {"coordinates":[-81.3387,8.40741],"type":"Point"}
+}

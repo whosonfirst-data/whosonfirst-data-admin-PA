@@ -1,0 +1,64 @@
+{
+  "id": 1209628083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38505,8.40959,-82.38505,8.40959",
+    "geom:latitude":8.40959,
+    "geom:longitude":-82.38505,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mata Limon",
+    "gn:country_code":"PA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347334,
+    "gn:latitude":8.40959,
+    "gn:longitude":-82.38505,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Mata Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mata Lim\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347334
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a2291d3a7fdaa7f9d8a2266190069d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209628083
+        }
+    ],
+    "wof:id":1209628083,
+    "wof:lastmodified":1537676510,
+    "wof:name":"Mata Limon",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38505,
+    8.40959,
+    -82.38505,
+    8.40959
+],
+  "geometry": {"coordinates":[-82.38505000000001,8.40959],"type":"Point"}
+}

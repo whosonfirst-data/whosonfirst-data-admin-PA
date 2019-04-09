@@ -1,0 +1,74 @@
+{
+  "id": 1193262245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.60499,8.04834,-81.60499,8.04834",
+    "geom:latitude":8.04834,
+    "geom:longitude":-81.60499,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Puerto Vidal",
+    "gn:country_code":"PA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702371,
+    "gn:latitude":8.04834,
+    "gn:longitude":-81.60499,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Puerto Vidal",
+    "gn:population":506,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Vidal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702371,
+        "wk:page":"Puerto_Vidal"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6efcb42e608583fbf851fcd3292fae8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1193262245,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1193262245,
+    "wof:lastmodified":1537676353,
+    "wof:name":"Puerto Vidal",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":506,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.60499,
+    8.04834,
+    -81.60499,
+    8.04834
+],
+  "geometry": {"coordinates":[-81.60499,8.04834],"type":"Point"}
+}

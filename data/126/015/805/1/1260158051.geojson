@@ -1,0 +1,67 @@
+{
+  "id": 1260158051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.8,8.93333,-81.8,8.93333",
+    "geom:latitude":8.93333,
+    "geom:longitude":-81.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Tobori",
+    "gn:country_code":"PA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702130,
+    "gn:latitude":8.93333,
+    "gn:longitude":-81.8,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Quebrada Tobori",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702130
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"25414caab23be873da8eeacec64fbac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1260158051,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1260158051,
+    "wof:lastmodified":1536882256,
+    "wof:name":"Quebrada Tobori",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.8,
+    8.93333,
+    -81.8,
+    8.93333
+],
+  "geometry": {"coordinates":[-81.8,8.93333],"type":"Point"}
+}

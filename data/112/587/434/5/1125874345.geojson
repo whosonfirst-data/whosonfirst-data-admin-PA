@@ -1,0 +1,94 @@
+{
+  "id": 1125874345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21667,8.56667,-80.21667,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":-80.21667,
+    "gn:gn_country":"PA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1006,
+    "gn:population":1049,
+    "iso:country":"PA",
+    "lbl:latitude":8.56667,
+    "lbl:longitude":-80.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Entradero"
+    ],
+    "name:eng_x_preferred":[
+        "Entradero"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10dc\u10e2\u10e0\u10d0\u10d3\u10d4\u10e0\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Entradero"
+    ],
+    "name:unk_x_variant":[
+        "El Entradero Marica"
+    ],
+    "qs_pg:aaroncc":"PA",
+    "qs_pg:gn_country":"PA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3710910,
+    "qs_pg:gn_pop":1006,
+    "qs_pg:name":"El Entradero",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":150249,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710910,
+        "qs_pg:id":150249,
+        "wd:id":"Q2307944"
+    },
+    "wof:country":"PA",
+    "wof:created":1497294464,
+    "wof:geomhash":"39e8ced05d25df7fded2f736c2adfc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1125874345,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1125874345,
+    "wof:lastmodified":1514494870,
+    "wof:name":"El Entradero",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":1049,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21667,
+    8.56667,
+    -80.21667,
+    8.56667
+],
+  "geometry": {"coordinates":[-80.21666999999999,8.56667],"type":"Point"}
+}

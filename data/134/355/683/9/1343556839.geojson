@@ -1,0 +1,71 @@
+{
+  "id": 1343556839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93187,8.0729,-80.93187,8.0729",
+    "geom:latitude":8.0729,
+    "geom:longitude":-80.93187,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701565,
+    "gn:latitude":8.0729,
+    "gn:longitude":-80.93187,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701565,
+        "wk:page":"San_Antonio%2C_Panama"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c51cf97947e59469b50e0e739550abbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693187,
+            "locality_id":1343556839,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343556839,
+    "wof:lastmodified":1537676343,
+    "wof:name":"San Antonio",
+    "wof:parent_id":1108693187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93186999999998,
+    8.0729,
+    -80.93186999999998,
+    8.0729
+],
+  "geometry": {"coordinates":[-80.93186999999998,8.0729],"type":"Point"}
+}

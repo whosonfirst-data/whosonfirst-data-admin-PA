@@ -1,0 +1,73 @@
+{
+  "id": 1243385891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.25616,9.17797,-79.25616,9.17797",
+    "geom:latitude":9.17797,
+    "geom:longitude":-79.25616,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Juan Gil",
+    "gn:country_code":"PA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708288,
+    "gn:latitude":9.17797,
+    "gn:longitude":-79.25616,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Juan Gil",
+    "gn:population":652,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juan Gil"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708288
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a0346bc70f9b311c2bc87ff5ac59d013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1243385891,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1243385891,
+    "wof:lastmodified":1537676419,
+    "wof:name":"Juan Gil",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:population":652,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.25616,
+    9.17797,
+    -79.25616,
+    9.17797
+],
+  "geometry": {"coordinates":[-79.25615999999999,9.17797],"type":"Point"}
+}

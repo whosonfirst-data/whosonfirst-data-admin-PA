@@ -1,0 +1,67 @@
+{
+  "id": 1293184625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21667,8.1,-81.21667,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":-81.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Guabino",
+    "gn:country_code":"PA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710799,
+    "gn:latitude":8.1,
+    "gn:longitude":-81.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Guabino",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710799
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"28e7d27c9898f2677a739fe2efa808e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1293184625,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293184625,
+    "wof:lastmodified":1536727143,
+    "wof:name":"El Guabino",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21667,
+    8.1,
+    -81.21667,
+    8.1
+],
+  "geometry": {"coordinates":[-81.21666999999999,8.1],"type":"Point"}
+}

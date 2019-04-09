@@ -1,0 +1,73 @@
+{
+  "id": 1343839133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21648,7.96817,-78.21648,7.96817",
+    "geom:latitude":7.96817,
+    "geom:longitude":-78.21648,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bayamon",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10202392,
+    "gn:latitude":7.96817,
+    "gn:longitude":-78.21648,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Bayam\u00f3n",
+    "gn:population":457,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bayam\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202392
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"dcf3f22f6065051ec48c3d811740c1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1343839133,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1343839133,
+    "wof:lastmodified":1537676503,
+    "wof:name":"Bayamon",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21648,
+    7.96817,
+    -78.21648,
+    7.96817
+],
+  "geometry": {"coordinates":[-78.21648,7.96817],"type":"Point"}
+}

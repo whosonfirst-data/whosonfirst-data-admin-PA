@@ -1,0 +1,70 @@
+{
+  "id": 1243256893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.5591,9.31146,-79.5591,9.31146",
+    "geom:latitude":9.31146,
+    "geom:longitude":-79.5591,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Quebrada Ancha Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10180000,
+    "gn:latitude":9.31146,
+    "gn:longitude":-79.5591,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Quebrada Ancha N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Ancha N\u00famero Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10180000
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8c74ffd75a7a6573d9c3c9decf02756d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1243256893,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1243256893,
+    "wof:lastmodified":1537676497,
+    "wof:name":"Quebrada Ancha Numero Dos",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.5591,
+    9.31146,
+    -79.5591,
+    9.31146
+],
+  "geometry": {"coordinates":[-79.5591,9.31146],"type":"Point"}
+}

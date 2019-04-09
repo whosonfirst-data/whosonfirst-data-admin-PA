@@ -1,0 +1,61 @@
+{
+  "id": 1209119203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.7,8.28333,-81.7,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":-81.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fuente del Carmen",
+    "gn:country_code":"PA",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709450,
+    "gn:latitude":8.28333,
+    "gn:longitude":-81.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Fuente del Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709450
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f9cac836a180b4494a5566053a014abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209119203
+        }
+    ],
+    "wof:id":1209119203,
+    "wof:lastmodified":1536297157,
+    "wof:name":"Fuente del Carmen",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.7,
+    8.28333,
+    -81.7,
+    8.28333
+],
+  "geometry": {"coordinates":[-81.7,8.28333],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 421194621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88333,9.35,-79.88333,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":-79.88333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:hbs_x_preferred":[
+        "Rejnbou Siti"
+    ],
+    "name:spa_x_preferred":[
+        "Arco Iris"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0458\u043d\u0431\u043e\u0443 \u0421\u0438\u0442\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Rambow City"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3702057,
+    "qs:gn_pop":0,
+    "qs:name":"Rainbow City",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887577,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159926,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702057,
+        "gp:id":159926,
+        "qs:id":887577
+    },
+    "wof:country":"PA",
+    "wof:created":1459009814,
+    "wof:geomhash":"76249652566393a2d0cbf349f7d53aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":421194621,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421194621,
+    "wof:lastmodified":1527716129,
+    "wof:name":"Rainbow City",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88333,
+    9.35,
+    -79.88333,
+    9.35
+],
+  "geometry": {"coordinates":[-79.88333,9.35],"type":"Point"}
+}

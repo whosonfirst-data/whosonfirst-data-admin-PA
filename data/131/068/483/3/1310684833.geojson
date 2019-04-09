@@ -1,0 +1,67 @@
+{
+  "id": 1310684833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13333,8.25,-81.13333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":-81.13333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Barrerillo",
+    "gn:country_code":"PA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714325,
+    "gn:latitude":8.25,
+    "gn:longitude":-81.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Barrerillo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714325
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"34cb5d34464778f08e59f134e132210f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1310684833,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310684833,
+    "wof:lastmodified":1536658316,
+    "wof:name":"Barrerillo",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13333,
+    8.25,
+    -81.13333,
+    8.25
+],
+  "geometry": {"coordinates":[-81.13333,8.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276968381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.82417,8.12399,-80.82417,8.12399",
+    "geom:latitude":8.12399,
+    "geom:longitude":-80.82417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Capellania",
+    "gn:country_code":"PA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713052,
+    "gn:latitude":8.12399,
+    "gn:longitude":-80.82417,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Capellan\u00eda",
+    "gn:population":210,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Capellan\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713052
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f5658b89b30fbc0f1f580ce34dc7c5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1276968381,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276968381,
+    "wof:lastmodified":1537676473,
+    "wof:name":"Capellania",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.82417,
+    8.12399,
+    -80.82417,
+    8.12399
+],
+  "geometry": {"coordinates":[-80.82417,8.12399],"type":"Point"}
+}

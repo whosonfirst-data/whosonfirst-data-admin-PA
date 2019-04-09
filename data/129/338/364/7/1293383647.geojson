@@ -1,0 +1,73 @@
+{
+  "id": 1293383647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93443,8.20037,-80.93443,8.20037",
+    "geom:latitude":8.20037,
+    "geom:longitude":-80.93443,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Mata del Espino",
+    "gn:country_code":"PA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707237,
+    "gn:latitude":8.20037,
+    "gn:longitude":-80.93443,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Mata del Espino",
+    "gn:population":185,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Mata del Espino"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707237
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"39cf17a7aa72bdba24300ce8492dfdaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1293383647,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293383647,
+    "wof:lastmodified":1537676404,
+    "wof:name":"La Mata del Espino",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93443,
+    8.20037,
+    -80.93443,
+    8.20037
+],
+  "geometry": {"coordinates":[-80.93443000000001,8.20037],"type":"Point"}
+}

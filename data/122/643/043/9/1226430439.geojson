@@ -1,0 +1,73 @@
+{
+  "id": 1226430439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.11998,7.92121,-78.11998,7.92121",
+    "geom:latitude":7.92121,
+    "geom:longitude":-78.11998,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Churuco",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764186,
+    "gn:latitude":7.92121,
+    "gn:longitude":-78.11998,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Churuco",
+    "gn:population":75,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Churuco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764186
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4e5bedcb1ddf17774ec6ac95d97dc4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1226430439,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1226430439,
+    "wof:lastmodified":1537676494,
+    "wof:name":"Churuco",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.11998,
+    7.92121,
+    -78.11998,
+    7.92121
+],
+  "geometry": {"coordinates":[-78.11998,7.92121],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259567059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01861,7.91861,-81.01861,7.91861",
+    "geom:latitude":7.91861,
+    "geom:longitude":-81.01861,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"PA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701272,
+    "gn:latitude":7.91861,
+    "gn:longitude":-81.01861,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Santa Ana",
+    "gn:population":29,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701272
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"72cf384bf1ebf96410342fe6ea504c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171341,
+            "locality_id":1259567059,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259567059,
+    "wof:lastmodified":1536738470,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421171341,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01861,
+    7.91861,
+    -81.01861,
+    7.91861
+],
+  "geometry": {"coordinates":[-81.01861,7.91861],"type":"Point"}
+}

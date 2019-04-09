@@ -1,0 +1,68 @@
+{
+  "id": 1343557477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03834,9.5028,-79.03834,9.5028",
+    "geom:latitude":9.5028,
+    "geom:longitude":-79.03834,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mandinga Ubigantupo",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700313,
+    "gn:latitude":9.5028,
+    "gn:longitude":-79.03834,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Mandinga Ubigantupo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mandinga Ubigantupo"
+    ],
+    "name:und_x_variant":[
+        "Ubigantupo",
+        "Ubigantupo Mandinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700313
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"91698a9029f527d7b326a626b4bdf867",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343557477,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343557477,
+    "wof:lastmodified":1537676333,
+    "wof:name":"Mandinga Ubigantupo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03834,
+    9.5028,
+    -79.03834,
+    9.5028
+],
+  "geometry": {"coordinates":[-79.03834000000001,9.5028],"type":"Point"}
+}

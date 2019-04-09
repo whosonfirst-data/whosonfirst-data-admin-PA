@@ -1,0 +1,67 @@
+{
+  "id": 1293005569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.18194,7.63444,-78.18194,7.63444",
+    "geom:latitude":7.63444,
+    "geom:longitude":-78.18194,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Aceite",
+    "gn:country_code":"PA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764196,
+    "gn:latitude":7.63444,
+    "gn:longitude":-78.18194,
+    "gn:modification_date":"1998-08-18",
+    "gn:name":"Aceite",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764196
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8fef84f8c0c3c9dddf9a226d302ffa13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1293005569,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1293005569,
+    "wof:lastmodified":1536983935,
+    "wof:name":"Aceite",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.18194,
+    7.63444,
+    -78.18194,
+    7.63444
+],
+  "geometry": {"coordinates":[-78.18194,7.63444],"type":"Point"}
+}

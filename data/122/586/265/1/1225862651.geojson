@@ -1,0 +1,70 @@
+{
+  "id": 1225862651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.45908,9.2931,-82.45908,9.2931",
+    "geom:latitude":9.2931,
+    "geom:longitude":-82.45908,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ojo de Agua",
+    "gn:country_code":"PA",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703756,
+    "gn:latitude":9.2931,
+    "gn:longitude":-82.45908,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ojo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ojo de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703756
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"569f56de85bf5fb9aeed0991987147ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1225862651,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1225862651,
+    "wof:lastmodified":1537676364,
+    "wof:name":"Ojo de Agua",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.45908,
+    9.2931,
+    -82.45908,
+    9.2931
+],
+  "geometry": {"coordinates":[-82.45908,9.2931],"type":"Point"}
+}

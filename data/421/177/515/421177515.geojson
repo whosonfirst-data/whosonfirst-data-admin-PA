@@ -1,0 +1,80 @@
+{
+  "id": 421177515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.45,8.43333,-82.45,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-82.45,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "El Gabrero"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3701349,
+    "qs:gn_pop":0,
+    "qs:name":"San Mateo",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":63,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1341496,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160194,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        421171339,
+        85675767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701349,
+        "gp:id":160194,
+        "qs:id":1341496
+    },
+    "wof:country":"PA",
+    "wof:created":1459009147,
+    "wof:geomhash":"98b411d66beb88f34d62480360ed971f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":-1,
+            "neighbourhood_id":421177515,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421177515,
+    "wof:lastmodified":1531858435,
+    "wof:name":"San Mateo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.45,
+    8.43333,
+    -82.45,
+    8.43333
+],
+  "geometry": {"coordinates":[-82.45,8.43333],"type":"Point"}
+}

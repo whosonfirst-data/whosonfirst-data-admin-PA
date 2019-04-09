@@ -1,0 +1,73 @@
+{
+  "id": 1260268475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.10465,8.41426,-79.10465,8.41426",
+    "geom:latitude":8.41426,
+    "geom:longitude":-79.10465,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pedro de Cocal",
+    "gn:country_code":"PA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711072,
+    "gn:latitude":8.41426,
+    "gn:longitude":-79.10465,
+    "gn:modification_date":"2016-07-21",
+    "gn:name":"Pedro de Cocal",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pedro Gonz\u00e1lez",
+        "Pedro de Cocal",
+        "El Cocal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711072,
+        "wk:page":"Pedro_Gonz%C3%A1lez%2C_Panama"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e5893085de53fe021bc4477951d9e907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1260268475,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1260268475,
+    "wof:lastmodified":1537676451,
+    "wof:name":"Pedro de Cocal",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.10465,
+    8.41426,
+    -79.10465,
+    8.41426
+],
+  "geometry": {"coordinates":[-79.10465000000001,8.41426],"type":"Point"}
+}

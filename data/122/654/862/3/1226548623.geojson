@@ -1,0 +1,73 @@
+{
+  "id": 1226548623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.40143,8.75405,-82.40143,8.75405",
+    "geom:latitude":8.75405,
+    "geom:longitude":-82.40143,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Alto Jaramillo",
+    "gn:country_code":"PA",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347316,
+    "gn:latitude":8.75405,
+    "gn:longitude":-82.40143,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Alto Jaramillo",
+    "gn:population":342,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto Jaramillo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421175373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347316
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"63dcae137cc969ec72d5efe7446487d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175373,
+            "locality_id":1226548623,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226548623,
+    "wof:lastmodified":1537676510,
+    "wof:name":"Alto Jaramillo",
+    "wof:parent_id":421175373,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.40143,
+    8.75405,
+    -82.40143,
+    8.75405
+],
+  "geometry": {"coordinates":[-82.40143,8.75405],"type":"Point"}
+}

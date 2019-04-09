@@ -1,0 +1,73 @@
+{
+  "id": 1226028509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.28292,8.24342,-81.28292,8.24342",
+    "geom:latitude":8.24342,
+    "geom:longitude":-81.28292,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Hueca Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707513,
+    "gn:latitude":8.24342,
+    "gn:longitude":-81.28292,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Hueca Arriba",
+    "gn:population":129,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Hueca Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707513
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2588879eab5bc4322bffac5dc9c18700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1226028509,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226028509,
+    "wof:lastmodified":1537676408,
+    "wof:name":"La Hueca Arriba",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.28291999999998,
+    8.24342,
+    -81.28291999999998,
+    8.24342
+],
+  "geometry": {"coordinates":[-81.28291999999998,8.24342],"type":"Point"}
+}

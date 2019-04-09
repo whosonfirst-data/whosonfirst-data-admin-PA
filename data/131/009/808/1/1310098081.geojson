@@ -1,0 +1,67 @@
+{
+  "id": 1310098081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.86667,7.8,-80.86667,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":-80.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Loma del Ganado",
+    "gn:country_code":"PA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705634,
+    "gn:latitude":7.8,
+    "gn:longitude":-80.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Loma del Ganado",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705634
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"56d309eadd747d383f07674ff997a554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1310098081,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1310098081,
+    "wof:lastmodified":1537006475,
+    "wof:name":"Loma del Ganado",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.86667,
+    7.8,
+    -80.86667,
+    7.8
+],
+  "geometry": {"coordinates":[-80.86667,7.8],"type":"Point"}
+}

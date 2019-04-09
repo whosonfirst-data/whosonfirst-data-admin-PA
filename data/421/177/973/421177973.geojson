@@ -1,0 +1,99 @@
+{
+  "id": 421177973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.82944,8.88444,-79.82944,8.88444",
+    "geom:latitude":8.88444,
+    "geom:longitude":-79.82944,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Potrero Grande"
+    ],
+    "name:eng_x_preferred":[
+        "Potrero Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Potrero Grande"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3702538,
+    "qs:gn_pop":4044,
+    "qs:name":"Potrero Grande",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1204712,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159629,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702538,
+        "gp:id":159629,
+        "qs:id":1204712,
+        "wd:id":"Q7235136",
+        "wk:page":"Potrero Grande"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009166,
+    "wof:geomhash":"9a83a3acec73df09f783851ad0031fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":421177973,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":421177973,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421177973,
+    "wof:lastmodified":1527716486,
+    "wof:name":"Potrero Grande",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":4044,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.82944,
+    8.88444,
+    -79.82944,
+    8.88444
+],
+  "geometry": {"coordinates":[-79.82944000000001,8.88444],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343573021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.54156,8.39889,-80.54156,8.39889",
+    "geom:latitude":8.39889,
+    "geom:longitude":-80.54156,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Churube Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712285,
+    "gn:latitude":8.39889,
+    "gn:longitude":-80.54156,
+    "gn:modification_date":"2017-08-18",
+    "gn:name":"Churub\u00e9 Abajo",
+    "gn:population":774,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Churub\u00e9",
+        "Churub\u00e9 Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712285
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f9ea5ab34b79817ff342613b281cd5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":1343573021,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1343573021,
+    "wof:lastmodified":1537676465,
+    "wof:name":"Churube Abajo",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:population":774,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.54156,
+    8.39889,
+    -80.54156,
+    8.39889
+],
+  "geometry": {"coordinates":[-80.54156,8.39889],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243179579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28244,8.68229,-80.28244,8.68229",
+    "geom:latitude":8.68229,
+    "geom:longitude":-80.28244,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sabana Larga",
+    "gn:country_code":"PA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701698,
+    "gn:latitude":8.68229,
+    "gn:longitude":-80.28244,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Sabana Larga",
+    "gn:population":175,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabaneta",
+        "Sabana Larga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701698
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c519d0c01f5aaac3b2206045eb2faed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1243179579,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1243179579,
+    "wof:lastmodified":1537676344,
+    "wof:name":"Sabana Larga",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28244000000002,
+    8.68229,
+    -80.28244000000002,
+    8.68229
+],
+  "geometry": {"coordinates":[-80.28244000000002,8.68229],"type":"Point"}
+}

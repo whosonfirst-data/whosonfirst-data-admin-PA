@@ -1,0 +1,78 @@
+{
+  "id": 1293080523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98771,8.58208,-79.98771,8.58208",
+    "geom:latitude":8.58208,
+    "geom:longitude":-79.98771,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"PA",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705412,
+    "gn:latitude":8.58208,
+    "gn:longitude":-79.98771,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Cerritos",
+    "gn:population":18,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705412
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"255b08fe9850d183940088a7191ae871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1293080523,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1293080523,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293080523,
+    "wof:lastmodified":1536875972,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98770999999998,
+    8.58208,
+    -79.98770999999998,
+    8.58208
+],
+  "geometry": {"coordinates":[-79.98770999999998,8.58208],"type":"Point"}
+}

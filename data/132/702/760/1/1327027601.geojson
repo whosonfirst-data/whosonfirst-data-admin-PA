@@ -1,0 +1,70 @@
+{
+  "id": 1327027601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.77428,7.70663,-80.77428,7.70663",
+    "geom:latitude":7.70663,
+    "geom:longitude":-80.77428,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rio La Villa",
+    "gn:country_code":"PA",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701842,
+    "gn:latitude":7.70663,
+    "gn:longitude":-80.77428,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"R\u00edo La Villa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo La Villa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701842
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3e5d5be39a93577aab5fcacce67da189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693227,
+            "locality_id":1327027601,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1327027601,
+    "wof:lastmodified":1537676346,
+    "wof:name":"Rio La Villa",
+    "wof:parent_id":1108693227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.77428,
+    7.70663,
+    -80.77428,
+    7.70663
+],
+  "geometry": {"coordinates":[-80.77428,7.70663],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327015353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00444,9.23706,-79.00444,9.23706",
+    "geom:latitude":9.23706,
+    "geom:longitude":-79.00444,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Unicito",
+    "gn:country_code":"PA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700288,
+    "gn:latitude":9.23706,
+    "gn:longitude":-79.00444,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Unicito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Unicito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700288
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"845f434c690fca707e6fd8d6a7e425db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1327015353,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1327015353,
+    "wof:lastmodified":1537676333,
+    "wof:name":"Unicito",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00444,
+    9.23706,
+    -79.00444,
+    9.23706
+],
+  "geometry": {"coordinates":[-79.00444,9.23706],"type":"Point"}
+}

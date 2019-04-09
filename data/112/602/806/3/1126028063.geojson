@@ -1,0 +1,94 @@
+{
+  "id": 1126028063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.43333,9.23333,-82.43333,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":-82.43333,
+    "gn:gn_country":"PA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":918,
+    "gn:population":1171,
+    "iso:country":"PA",
+    "lbl:latitude":9.23333,
+    "lbl:longitude":-82.43333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Valle del Risco"
+    ],
+    "name:eng_x_preferred":[
+        "Valle del Risco"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10da\u10d8\u10d4-\u10d3\u10d4\u10da-\u10e0\u10d8\u10e1\u10d9\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "Valle del Risco"
+    ],
+    "name:spa_x_preferred":[
+        "Valle del Risco"
+    ],
+    "qs_pg:aaroncc":"PA",
+    "qs_pg:gn_country":"PA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3701784,
+    "qs_pg:gn_pop":918,
+    "qs_pg:name":"Risco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":584820,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701784,
+        "qs_pg:id":584820,
+        "wd:id":"Q2436822"
+    },
+    "wof:country":"PA",
+    "wof:created":1497301265,
+    "wof:geomhash":"6d7613126d831e04d4e3867ca96197cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1126028063,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1126028063,
+    "wof:lastmodified":1514494902,
+    "wof:name":"Risco",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":1171,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.43333,
+    9.23333,
+    -82.43333,
+    9.23333
+],
+  "geometry": {"coordinates":[-82.43333,9.23333],"type":"Point"}
+}

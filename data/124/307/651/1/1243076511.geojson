@@ -1,0 +1,73 @@
+{
+  "id": 1243076511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.61508,8.55539,-82.61508,8.55539",
+    "geom:latitude":8.55539,
+    "geom:longitude":-82.61508,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Calvario",
+    "gn:country_code":"PA",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713384,
+    "gn:latitude":8.55539,
+    "gn:longitude":-82.61508,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Calvario",
+    "gn:population":303,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calvario"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713384
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ac90c3a55ab7a2f22c68b2a5ed8421ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1243076511,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1243076511,
+    "wof:lastmodified":1537676476,
+    "wof:name":"Calvario",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.61508,
+    8.55539,
+    -82.61508,
+    8.55539
+],
+  "geometry": {"coordinates":[-82.61508000000001,8.55539],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243193781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65,7.58333,-80.65,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":-80.65,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Higuerona",
+    "gn:country_code":"PA",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707564,
+    "gn:latitude":7.58333,
+    "gn:longitude":-80.65,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"La Higuerona",
+    "gn:population":49,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707564
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4694c43cece0c380182e405e7f975b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1243193781,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1243193781,
+    "wof:lastmodified":1536672802,
+    "wof:name":"La Higuerona",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65,
+    7.58333,
+    -80.65,
+    7.58333
+],
+  "geometry": {"coordinates":[-80.65000000000001,7.58333],"type":"Point"}
+}

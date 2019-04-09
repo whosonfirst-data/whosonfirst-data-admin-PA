@@ -1,0 +1,87 @@
+{
+  "id": 421189481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.966056,8.65356,-79.966056,8.65356",
+    "geom:latitude":8.65356,
+    "geom:longitude":-79.966056,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Buenos Aires",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1113786,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793554,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793554,
+        "qs:id":1113786,
+        "qs_pg:id":1113786
+    },
+    "wof:country":"PA",
+    "wof:created":1459009626,
+    "wof:geomhash":"a535cafb441f0cd8985333e2d13be14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "localadmin_id":421189481,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "localadmin_id":421189481,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421189481,
+    "wof:lastmodified":1497044993,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":421189053,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.966056,
+    8.65356,
+    -79.966056,
+    8.65356
+],
+  "geometry": {"coordinates":[-79.96605599999999,8.65356],"type":"Point"}
+}

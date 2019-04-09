@@ -1,0 +1,70 @@
+{
+  "id": 1293596659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.54304,8.59292,-80.54304,8.59292",
+    "geom:latitude":8.59292,
+    "geom:longitude":-80.54304,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Las Tablas",
+    "gn:country_code":"PA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706207,
+    "gn:latitude":8.59292,
+    "gn:longitude":-80.54304,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Las Tablas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Tablas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706207
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b166e61cbfc2bf26be7e0ce8c41557b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1293596659,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1293596659,
+    "wof:lastmodified":1537676390,
+    "wof:name":"Las Tablas",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.54304,
+    8.59292,
+    -80.54304,
+    8.59292
+],
+  "geometry": {"coordinates":[-80.54304,8.59292],"type":"Point"}
+}

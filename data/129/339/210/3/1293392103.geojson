@@ -1,0 +1,73 @@
+{
+  "id": 1293392103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.19591,8.47235,-80.19591,8.47235",
+    "geom:latitude":8.47235,
+    "geom:longitude":-80.19591,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Rita Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701136,
+    "gn:latitude":8.47235,
+    "gn:longitude":-80.19591,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Santa Rita Abajo",
+    "gn:population":162,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rita Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701136
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8afc112178c499bdf04e473b3b04646e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1293392103,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1293392103,
+    "wof:lastmodified":1537676339,
+    "wof:name":"Santa Rita Abajo",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.19591,
+    8.47235,
+    -80.19591,
+    8.47235
+],
+  "geometry": {"coordinates":[-80.19591,8.47235],"type":"Point"}
+}

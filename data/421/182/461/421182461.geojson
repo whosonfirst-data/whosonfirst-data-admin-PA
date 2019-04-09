@@ -1,0 +1,103 @@
+{
+  "id": 421182461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65,8.41667,-80.65,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-80.65,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:kat_x_preferred":[
+        "\u10dd\u10da\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ol\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Ol\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Ol\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Ol\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Ol\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u62c9"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3703745,
+    "qs:gn_pop":583,
+    "qs:name":"Ola",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"2",
+    "qs:qs_id":911913,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793284,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703745,
+        "gp:id":26793284,
+        "qs:id":911913,
+        "wd:id":"Q2658323",
+        "wk:page":"Ol\u00e1"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009331,
+    "wof:geomhash":"0b34c29392dd36ed7a7069f145fcbab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693249,
+            "localadmin_id":421182461,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421182461,
+    "wof:lastmodified":1527726460,
+    "wof:name":"Ola",
+    "wof:parent_id":1108693249,
+    "wof:placetype":"localadmin",
+    "wof:population":583,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65,
+    8.41667,
+    -80.65,
+    8.41667
+],
+  "geometry": {"coordinates":[-80.65000000000001,8.41667],"type":"Point"}
+}

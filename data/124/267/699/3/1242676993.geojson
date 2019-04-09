@@ -1,0 +1,73 @@
+{
+  "id": 1242676993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.82463,8.33434,-77.82463,8.33434",
+    "geom:latitude":8.33434,
+    "geom:longitude":-77.82463,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Canglon Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305016,
+    "gn:latitude":8.33434,
+    "gn:longitude":-77.82463,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Cangl\u00f3n N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cangl\u00f3n N\u00famero Dos"
+    ],
+    "name:und_x_variant":[
+        "Cangl\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305016
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a9ed39d04bf224c6b27b09f9859151e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1242676993,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1242676993,
+    "wof:lastmodified":1537676495,
+    "wof:name":"Canglon Numero Dos",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.82463,
+    8.33434,
+    -77.82463,
+    8.33434
+],
+  "geometry": {"coordinates":[-77.82463,8.33434],"type":"Point"}
+}

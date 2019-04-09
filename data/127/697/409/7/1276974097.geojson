@@ -1,0 +1,71 @@
+{
+  "id": 1276974097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.57451,7.8,-80.57451,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":-80.57451,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chupa",
+    "gn:country_code":"PA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3712296,
+    "gn:latitude":7.8,
+    "gn:longitude":-80.57451,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Chup\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chup\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712296,
+        "wk:page":"Chup%C3%A1"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2985c01f8604edf9e939f366eecc1e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1276974097,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1276974097,
+    "wof:lastmodified":1537676465,
+    "wof:name":"Chupa",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.57451,
+    7.8,
+    -80.57451,
+    7.8
+],
+  "geometry": {"coordinates":[-80.57451,7.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209595679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.72403,8.30105,-81.72403,8.30105",
+    "geom:latitude":8.30105,
+    "geom:longitude":-81.72403,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Arenas",
+    "gn:country_code":"PA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347860,
+    "gn:latitude":8.30105,
+    "gn:longitude":-81.72403,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Arenas",
+    "gn:population":470,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Arenas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347860
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0890a86afe1beb7d4164db0c3cb87b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209595679
+        }
+    ],
+    "wof:id":1209595679,
+    "wof:lastmodified":1537676515,
+    "wof:name":"Quebrada Arenas",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":470,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.72403,
+    8.30105,
+    -81.72403,
+    8.30105
+],
+  "geometry": {"coordinates":[-81.72403,8.30105],"type":"Point"}
+}

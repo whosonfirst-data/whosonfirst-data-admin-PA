@@ -1,0 +1,69 @@
+{
+  "id": 890431123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03333,8.63333,-79.03333,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":-79.03333,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":350,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Contadora Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Contadora"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Contadora"
+    ],
+    "qs:name":"Isla Contadora",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711996,
+        "gp:id":12515418,
+        "qs:id":585159
+    },
+    "wof:country":"PA",
+    "wof:created":1469051878,
+    "wof:geomhash":"789d16bc525343807fa257b82b8a2b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":890431123
+        }
+    ],
+    "wof:id":890431123,
+    "wof:lastmodified":1505343522,
+    "wof:name":"Isla Contadora",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03333,
+    8.63333,
+    -79.03333,
+    8.63333
+],
+  "geometry": {"coordinates":[-79.03333000000001,8.63333],"type":"Point"}
+}

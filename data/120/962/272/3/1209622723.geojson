@@ -1,0 +1,67 @@
+{
+  "id": 1209622723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.20035,8.55707,-80.20035,8.55707",
+    "geom:latitude":8.55707,
+    "geom:longitude":-80.20035,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tebujo",
+    "gn:country_code":"PA",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709903,
+    "gn:latitude":8.55707,
+    "gn:longitude":-80.20035,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tebujo",
+    "gn:population":163,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tebujo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709903
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"17cfddd692008f4d0e847cff9de6f733",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209622723
+        }
+    ],
+    "wof:id":1209622723,
+    "wof:lastmodified":1537676431,
+    "wof:name":"Tebujo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.20035,
+    8.55707,
+    -80.20035,
+    8.55707
+],
+  "geometry": {"coordinates":[-80.20035,8.55707],"type":"Point"}
+}

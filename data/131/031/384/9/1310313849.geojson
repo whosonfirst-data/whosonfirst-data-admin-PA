@@ -1,0 +1,76 @@
+{
+  "id": 1310313849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.69654,8.16994,-81.69654,8.16994",
+    "geom:latitude":8.16994,
+    "geom:longitude":-81.69654,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lajas de Tole",
+    "gn:country_code":"PA",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706431,
+    "gn:latitude":8.16994,
+    "gn:longitude":-81.69654,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Lajas de Tol\u00e9",
+    "gn:population":235,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lajas de Tol\u00e9",
+        "Laja de Tole",
+        "Las Lajas de Tol\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706431,
+        "wk:page":"Lajas_de_Tol%C3%A9"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6ef45141247e1c35e4c393f77488bbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693277,
+            "locality_id":1310313849,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1310313849,
+    "wof:lastmodified":1537676394,
+    "wof:name":"Lajas de Tole",
+    "wof:parent_id":1108693277,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.69654,
+    8.16994,
+    -81.69654,
+    8.16994
+],
+  "geometry": {"coordinates":[-81.69654,8.16994],"type":"Point"}
+}

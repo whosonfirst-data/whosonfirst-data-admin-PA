@@ -1,0 +1,78 @@
+{
+  "id": 421192117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.96972,9.55028,-78.96972,9.55028",
+    "geom:latitude":9.55028,
+    "geom:longitude":-78.96972,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mosquito"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3704703,
+    "qs:gn_pop":0,
+    "qs:name":"Mamitupo",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Kuna Yala",
+    "qs:photos":136,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":136,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165205,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158993,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":6,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704703,
+        "gp:id":158993,
+        "qs:id":1165205,
+        "wd:id":"Q6745695"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009726,
+    "wof:geomhash":"f05ff46932bf569eb2e36e79df6ea114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "locality_id":421192117,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":421192117,
+    "wof:lastmodified":1527716112,
+    "wof:name":"Mamitupo",
+    "wof:parent_id":85675801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96972,
+    9.55028,
+    -78.96972,
+    9.55028
+],
+  "geometry": {"coordinates":[-78.96972,9.55028],"type":"Point"}
+}

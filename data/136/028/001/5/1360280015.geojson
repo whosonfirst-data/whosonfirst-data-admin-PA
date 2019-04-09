@@ -1,0 +1,75 @@
+{
+  "id": 1360280015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.31975,7.62163,-80.31975,7.62163",
+    "geom:latitude":7.62163,
+    "geom:longitude":-80.31975,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Vallerriquito",
+    "gn:country_code":"PA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3700218,
+    "gn:latitude":7.62163,
+    "gn:longitude":-80.31975,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Vallerriquito",
+    "gn:population":196,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle Riquito",
+        "Vallerriquito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700218,
+        "wk:page":"Vallerriquito"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2c6708e4f355f5177f5a935027032cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1360280015,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1360280015,
+    "wof:lastmodified":1537676332,
+    "wof:name":"Vallerriquito",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.31975,
+    7.62163,
+    -80.31975,
+    7.62163
+],
+  "geometry": {"coordinates":[-80.31975,7.62163],"type":"Point"}
+}

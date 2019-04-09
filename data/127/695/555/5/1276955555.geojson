@@ -1,0 +1,73 @@
+{
+  "id": 1276955555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.54585,8.47733,-81.54585,8.47733",
+    "geom:latitude":8.47733,
+    "geom:longitude":-81.54585,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Plata",
+    "gn:country_code":"PA",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3712643,
+    "gn:latitude":8.47733,
+    "gn:longitude":-81.54585,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Plata",
+    "gn:population":162,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Plata"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712643
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"48db2e55b9fb63d016f89d4004513add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1276955555,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276955555,
+    "wof:lastmodified":1537676468,
+    "wof:name":"Cerro Plata",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54585,
+    8.47733,
+    -81.54585,
+    8.47733
+],
+  "geometry": {"coordinates":[-81.54585,8.47733],"type":"Point"}
+}

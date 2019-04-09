@@ -1,0 +1,70 @@
+{
+  "id": 1259583857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04649,9.08509,-80.04649,9.08509",
+    "geom:latitude":9.08509,
+    "geom:longitude":-80.04649,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nuevo Porvenir",
+    "gn:country_code":"PA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10307634,
+    "gn:latitude":9.08509,
+    "gn:longitude":-80.04649,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Nuevo Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Porvenir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10307634
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9dc92aa06d509760abb17ecc072d109f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1259583857,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1259583857,
+    "wof:lastmodified":1537676507,
+    "wof:name":"Nuevo Porvenir",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04649,
+    9.08509,
+    -80.04649,
+    9.08509
+],
+  "geometry": {"coordinates":[-80.04649000000001,9.08509],"type":"Point"}
+}

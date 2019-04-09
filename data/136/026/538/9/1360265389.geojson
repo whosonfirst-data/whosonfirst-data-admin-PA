@@ -1,0 +1,71 @@
+{
+  "id": 1360265389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.91667,8.4,-81.91667,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-81.91667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Cortadera",
+    "gn:country_code":"PA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712742,
+    "gn:latitude":8.4,
+    "gn:longitude":-81.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cerro Cortadera",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerro Penca",
+        "Cerro Cortadera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712742
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f0ee297e3c10f6344fb4e291a4496dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1360265389,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1360265389,
+    "wof:lastmodified":1537676470,
+    "wof:name":"Cerro Cortadera",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.91667,
+    8.4,
+    -81.91667,
+    8.4
+],
+  "geometry": {"coordinates":[-81.91667,8.4],"type":"Point"}
+}

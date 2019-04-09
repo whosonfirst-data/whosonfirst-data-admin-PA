@@ -1,0 +1,74 @@
+{
+  "id": 1293481433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.24854,7.73885,-80.24854,7.73885",
+    "geom:latitude":7.73885,
+    "geom:longitude":-80.24854,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sesteadero",
+    "gn:country_code":"PA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3709945,
+    "gn:latitude":7.73885,
+    "gn:longitude":-80.24854,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Sesteadero",
+    "gn:population":771,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sesteadero"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709945,
+        "wk:page":"El_Sesteadero"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9a62b4c666e1cc4a813ca096d7895815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1293481433,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1293481433,
+    "wof:lastmodified":1537676432,
+    "wof:name":"Sesteadero",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":771,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.24854,
+    7.73885,
+    -80.24854,
+    7.73885
+],
+  "geometry": {"coordinates":[-80.24854000000001,7.73885],"type":"Point"}
+}

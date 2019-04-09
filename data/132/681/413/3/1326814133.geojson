@@ -1,0 +1,67 @@
+{
+  "id": 1326814133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.44417,7.96972,-81.44417,7.96972",
+    "geom:latitude":7.96972,
+    "geom:longitude":-81.44417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Mono",
+    "gn:country_code":"PA",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710393,
+    "gn:latitude":7.96972,
+    "gn:longitude":-81.44417,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"El Mono",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710393
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c4ba28c5023f61722cc9d6c66e4da779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1326814133,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1326814133,
+    "wof:lastmodified":1537071796,
+    "wof:name":"El Mono",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.44417,
+    7.96972,
+    -81.44417,
+    7.96972
+],
+  "geometry": {"coordinates":[-81.44417,7.96972],"type":"Point"}
+}

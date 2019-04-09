@@ -1,0 +1,67 @@
+{
+  "id": 1293379097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.55,7.95,-81.55,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":-81.55,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Limon",
+    "gn:country_code":"PA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705883,
+    "gn:latitude":7.95,
+    "gn:longitude":-81.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705883
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7a39f55c86f916b0b1c3ccbd4b3077cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1293379097,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293379097,
+    "wof:lastmodified":1536943804,
+    "wof:name":"Limon",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.55,
+    7.95,
+    -81.55,
+    7.95
+],
+  "geometry": {"coordinates":[-81.55,7.95],"type":"Point"}
+}

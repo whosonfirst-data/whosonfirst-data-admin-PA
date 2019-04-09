@@ -1,0 +1,70 @@
+{
+  "id": 1226166869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61979,8.78397,-80.61979,8.78397",
+    "geom:latitude":8.78397,
+    "geom:longitude":-80.61979,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"San Juan de Turbe",
+    "gn:country_code":"PA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348377,
+    "gn:latitude":8.78397,
+    "gn:longitude":-80.61979,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"San Juan de Turbe",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan de Turbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348377
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e27bd5d9cda51a2cdb5f8645c912a450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693217,
+            "locality_id":1226166869,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1226166869,
+    "wof:lastmodified":1537676517,
+    "wof:name":"San Juan de Turbe",
+    "wof:parent_id":1108693217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61979000000002,
+    8.78397,
+    -80.61979000000002,
+    8.78397
+],
+  "geometry": {"coordinates":[-80.61979000000002,8.78397],"type":"Point"}
+}

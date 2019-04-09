@@ -1,0 +1,67 @@
+{
+  "id": 1209198153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.14107,7.93489,-81.14107,7.93489",
+    "geom:latitude":7.93489,
+    "geom:longitude":-81.14107,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Trinidad Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700411,
+    "gn:latitude":7.93489,
+    "gn:longitude":-81.14107,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Trinidad Arriba",
+    "gn:population":174,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Trinidad Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700411
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5932cca20fbc4d953cfc008b78cfb0c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209198153
+        }
+    ],
+    "wof:id":1209198153,
+    "wof:lastmodified":1537676335,
+    "wof:name":"Trinidad Arriba",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.14107,
+    7.93489,
+    -81.14107,
+    7.93489
+],
+  "geometry": {"coordinates":[-81.14107,7.93489],"type":"Point"}
+}

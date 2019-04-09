@@ -1,0 +1,70 @@
+{
+  "id": 1242950309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.72574,8.55757,-81.72574,8.55757",
+    "geom:latitude":8.55757,
+    "geom:longitude":-81.72574,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mirones",
+    "gn:country_code":"PA",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10347496,
+    "gn:latitude":8.55757,
+    "gn:longitude":-81.72574,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Mirones",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mirones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347496
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2f66f5b9723e21918abcc630233c87b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1242950309,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1242950309,
+    "wof:lastmodified":1537676515,
+    "wof:name":"Mirones",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.72574,
+    8.55757,
+    -81.72574,
+    8.55757
+],
+  "geometry": {"coordinates":[-81.72574,8.55757],"type":"Point"}
+}

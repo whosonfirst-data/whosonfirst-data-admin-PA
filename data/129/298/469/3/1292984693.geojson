@@ -1,0 +1,70 @@
+{
+  "id": 1292984693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.18382,8.11123,-81.18382,8.11123",
+    "geom:latitude":8.11123,
+    "geom:longitude":-81.18382,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Bravos",
+    "gn:country_code":"PA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705490,
+    "gn:latitude":8.11123,
+    "gn:longitude":-81.18382,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Bravos",
+    "gn:population":18,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705490
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e4d321cffdd03cb246e9a9b86c68aab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1292984693,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1292984693,
+    "wof:lastmodified":1537014154,
+    "wof:name":"Los Bravos",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18382,
+    8.11123,
+    -81.18382,
+    8.11123
+],
+  "geometry": {"coordinates":[-81.18382,8.11123],"type":"Point"}
+}

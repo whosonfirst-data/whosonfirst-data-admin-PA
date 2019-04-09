@@ -1,0 +1,79 @@
+{
+  "id": 421199959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.43333,8.56667,-80.43333,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":-80.43333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Santa Ana"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701270,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Ana",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":165,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":165,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":203488,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793943,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701270,
+        "gp:id":26793943,
+        "qs:id":203488
+    },
+    "wof:country":"PA",
+    "wof:created":1459010006,
+    "wof:geomhash":"581483f7ae055c2e5de92883d5932ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":421199959,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421199959,
+    "wof:lastmodified":1501268745,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.43333,
+    8.56667,
+    -80.43333,
+    8.56667
+],
+  "geometry": {"coordinates":[-80.43333,8.56667],"type":"Point"}
+}

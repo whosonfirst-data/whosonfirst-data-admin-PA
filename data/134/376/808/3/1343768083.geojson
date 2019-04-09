@@ -1,0 +1,67 @@
+{
+  "id": 1343768083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78333,9.4,-79.78333,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":-79.78333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rio Viejo",
+    "gn:country_code":"PA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701800,
+    "gn:latitude":9.4,
+    "gn:longitude":-79.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"R\u00edo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701800
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"aebb26b3c3d6ae50825240d3a35525b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1343768083,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1343768083,
+    "wof:lastmodified":1536799980,
+    "wof:name":"Rio Viejo",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78333,
+    9.4,
+    -79.78333,
+    9.4
+],
+  "geometry": {"coordinates":[-79.78333000000001,9.4],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243355289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.5,7.66667,-80.5,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":-80.5,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Picacho",
+    "gn:country_code":"PA",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702990,
+    "gn:latitude":7.66667,
+    "gn:longitude":-80.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Picacho",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702990
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8341b45be76ac55d42fc8b528ef77833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1243355289,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1243355289,
+    "wof:lastmodified":1536937787,
+    "wof:name":"Picacho",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.5,
+    7.66667,
+    -80.5,
+    7.66667
+],
+  "geometry": {"coordinates":[-80.5,7.66667],"type":"Point"}
+}

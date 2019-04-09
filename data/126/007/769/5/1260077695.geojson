@@ -1,0 +1,75 @@
+{
+  "id": 1260077695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63227,8.03138,-80.63227,8.03138",
+    "geom:latitude":8.03138,
+    "geom:longitude":-80.63227,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cabuya",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3713575,
+    "gn:latitude":8.03138,
+    "gn:longitude":-80.63227,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cabuya",
+    "gn:population":417,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabuyao",
+        "Cabuya"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713575,
+        "wk:page":"Cabuya%2C_Herrera"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"16bfed88eae771823a8e9b7b1a433a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1260077695,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1260077695,
+    "wof:lastmodified":1537676477,
+    "wof:name":"Cabuya",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":417,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63226999999998,
+    8.03138,
+    -80.63226999999998,
+    8.03138
+],
+  "geometry": {"coordinates":[-80.63226999999998,8.03138],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209217975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.63333,8.1,-81.63333,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":-81.63333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Las Lagunas",
+    "gn:country_code":"PA",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706467,
+    "gn:latitude":8.1,
+    "gn:longitude":-81.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Lagunas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706467
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eb543ce0a7e9bd09f63453ac5003a753",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209217975
+        }
+    ],
+    "wof:id":1209217975,
+    "wof:lastmodified":1536294064,
+    "wof:name":"Las Lagunas",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.63333,
+    8.1,
+    -81.63333,
+    8.1
+],
+  "geometry": {"coordinates":[-81.63333,8.1],"type":"Point"}
+}

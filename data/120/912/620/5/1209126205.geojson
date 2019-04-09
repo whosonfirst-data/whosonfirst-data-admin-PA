@@ -1,0 +1,61 @@
+{
+  "id": 1209126205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65,9.16667,-79.65,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":-79.65,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Juan Mina",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708276,
+    "gn:latitude":9.16667,
+    "gn:longitude":-79.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Juan Mina",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708276
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"12ffe2b9041c6765a3caa2f2605c807f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209126205
+        }
+    ],
+    "wof:id":1209126205,
+    "wof:lastmodified":1536296950,
+    "wof:name":"Juan Mina",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65,
+    9.16667,
+    -79.65,
+    9.16667
+],
+  "geometry": {"coordinates":[-79.65000000000001,9.16667],"type":"Point"}
+}

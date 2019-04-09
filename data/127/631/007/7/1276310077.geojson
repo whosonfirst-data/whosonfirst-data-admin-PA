@@ -1,0 +1,73 @@
+{
+  "id": 1276310077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.95739,8.51875,-81.95739,8.51875",
+    "geom:latitude":8.51875,
+    "geom:longitude":-81.95739,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Higueron",
+    "gn:country_code":"PA",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347396,
+    "gn:latitude":8.51875,
+    "gn:longitude":-81.95739,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Higuer\u00f3n",
+    "gn:population":146,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Higuer\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        421184905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347396
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5815879f389cda02fc9134d23bd9cd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421184905,
+            "locality_id":1276310077,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276310077,
+    "wof:lastmodified":1537676512,
+    "wof:name":"Higueron",
+    "wof:parent_id":421184905,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.95739,
+    8.51875,
+    -81.95739,
+    8.51875
+],
+  "geometry": {"coordinates":[-81.95739,8.51875],"type":"Point"}
+}

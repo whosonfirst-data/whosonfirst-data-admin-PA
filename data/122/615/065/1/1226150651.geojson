@@ -1,0 +1,76 @@
+{
+  "id": 1226150651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0866,8.44676,-80.0866,8.44676",
+    "geom:latitude":8.44676,
+    "geom:longitude":-80.0866,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Las Lomas",
+    "gn:country_code":"PA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707310,
+    "gn:latitude":8.44676,
+    "gn:longitude":-80.0866,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Lomas",
+    "gn:population":158,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Lomas"
+    ],
+    "name:und_x_variant":[
+        "La Loma"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707310
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0fd7eba8c15c968a2e5760294a59f58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1226150651,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226150651,
+    "wof:lastmodified":1537676406,
+    "wof:name":"Las Lomas",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0866,
+    8.44676,
+    -80.0866,
+    8.44676
+],
+  "geometry": {"coordinates":[-80.0866,8.44676],"type":"Point"}
+}

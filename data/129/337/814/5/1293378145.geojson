@@ -1,0 +1,67 @@
+{
+  "id": 1293378145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.01278,7.78028,-78.01278,7.78028",
+    "geom:latitude":7.78028,
+    "geom:longitude":-78.01278,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boca de Purricha",
+    "gn:country_code":"PA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764197,
+    "gn:latitude":7.78028,
+    "gn:longitude":-78.01278,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Boca de Purricha",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764197
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ecb5d3479f824df9beea7363e4b3bd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1293378145,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1293378145,
+    "wof:lastmodified":1536945115,
+    "wof:name":"Boca de Purricha",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.01278,
+    7.78028,
+    -78.01278,
+    7.78028
+],
+  "geometry": {"coordinates":[-78.01278000000001,7.78028],"type":"Point"}
+}

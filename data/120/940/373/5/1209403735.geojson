@@ -1,0 +1,67 @@
+{
+  "id": 1209403735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.06685,8.05183,-81.06685,8.05183",
+    "geom:latitude":8.05183,
+    "geom:longitude":-81.06685,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chumical",
+    "gn:country_code":"PA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712318,
+    "gn:latitude":8.05183,
+    "gn:longitude":-81.06685,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Chumical",
+    "gn:population":141,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chumical"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712318
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"920a2f9113c49bdf278e8e9fdc5d3ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209403735
+        }
+    ],
+    "wof:id":1209403735,
+    "wof:lastmodified":1537676466,
+    "wof:name":"Chumical",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.06685,
+    8.05183,
+    -81.06685,
+    8.05183
+],
+  "geometry": {"coordinates":[-81.06685,8.05183],"type":"Point"}
+}

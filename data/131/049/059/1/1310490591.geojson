@@ -1,0 +1,67 @@
+{
+  "id": 1310490591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29472,7.77389,-81.29472,7.77389",
+    "geom:latitude":7.77389,
+    "geom:longitude":-81.29472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Corozal",
+    "gn:country_code":"PA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711925,
+    "gn:latitude":7.77389,
+    "gn:longitude":-81.29472,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Corozal",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711925
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f2389f8a16119bfdc50d9f3decfd9296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1310490591,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310490591,
+    "wof:lastmodified":1536939172,
+    "wof:name":"Corozal",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29472,
+    7.77389,
+    -81.29472,
+    7.77389
+],
+  "geometry": {"coordinates":[-81.29472,7.77389],"type":"Point"}
+}

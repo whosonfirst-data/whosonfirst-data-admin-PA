@@ -1,0 +1,70 @@
+{
+  "id": 1293397379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7,8.48333,-80.7,8.48333",
+    "geom:latitude":8.48333,
+    "geom:longitude":-80.7,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Luisa",
+    "gn:country_code":"PA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704894,
+    "gn:latitude":8.48333,
+    "gn:longitude":-80.7,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Luisa",
+    "gn:population":151,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704894
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"581bcfba7216f847d7657a2383ab6992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693249,
+            "locality_id":1293397379,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1293397379,
+    "wof:lastmodified":1536917371,
+    "wof:name":"Luisa",
+    "wof:parent_id":1108693249,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7,
+    8.48333,
+    -80.7,
+    8.48333
+],
+  "geometry": {"coordinates":[-80.7,8.48333],"type":"Point"}
+}

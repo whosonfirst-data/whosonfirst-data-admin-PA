@@ -1,0 +1,80 @@
+{
+  "id": 421169663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.56667,9.45,-78.56667,9.45",
+    "geom:latitude":9.45,
+    "geom:longitude":-78.56667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ustupo"
+    ],
+    "name:unk_x_variant":[
+        "Yantupo"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3700266,
+    "qs:gn_pop":0,
+    "qs:name":"Ustupo Yantupo",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Kuna Yala",
+    "qs:photos":127,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":127,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228621,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160543,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700269,
+        "gp:id":160543,
+        "qs:id":228621,
+        "qs_pg:id":1046571
+    },
+    "wof:country":"PA",
+    "wof:created":1459008819,
+    "wof:geomhash":"5f48a78d267f7f818988468316e53c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421169663,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421169663,
+    "wof:lastmodified":1509410020,
+    "wof:name":"Ustupo Yantupo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.56667,
+    9.45,
+    -78.56667,
+    9.45
+],
+  "geometry": {"coordinates":[-78.56667,9.45],"type":"Point"}
+}

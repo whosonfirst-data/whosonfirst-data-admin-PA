@@ -1,0 +1,71 @@
+{
+  "id": 1327325259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.43333,7.6,-80.43333,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":-80.43333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oria Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703709,
+    "gn:latitude":7.6,
+    "gn:longitude":-80.43333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Oria Arriba",
+    "gn:population":39,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703709,
+        "wk:page":"Oria_Arriba"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8afba50de35234155d9ab1804da68797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1327325259,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1327325259,
+    "wof:lastmodified":1537570196,
+    "wof:name":"Oria Arriba",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.43333,
+    7.6,
+    -80.43333,
+    7.6
+],
+  "geometry": {"coordinates":[-80.43333,7.6],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259596083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.87252,8.27417,-82.87252,8.27417",
+    "geom:latitude":8.27417,
+    "geom:longitude":-82.87252,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Monte Verde",
+    "gn:country_code":"PA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347288,
+    "gn:latitude":8.27417,
+    "gn:longitude":-82.87252,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Monte Verde",
+    "gn:population":528,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Monte Verde"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347288
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f356aa6410413261f3965999a264877c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1259596083,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1259596083,
+    "wof:lastmodified":1537676509,
+    "wof:name":"Monte Verde",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":528,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.87252,
+    8.27417,
+    -82.87252,
+    8.27417
+],
+  "geometry": {"coordinates":[-82.87251999999999,8.27417],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277156485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.97472,8.95167,-79.97472,8.95167",
+    "geom:latitude":8.95167,
+    "geom:longitude":-79.97472,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Quebrada Grande Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702199,
+    "gn:latitude":8.95167,
+    "gn:longitude":-79.97472,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Grande Arriba",
+    "gn:population":63,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702199
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"65fcb7c2be0b68f7c9283e3e3b562e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1277156485,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1277156485,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1277156485,
+    "wof:lastmodified":1536661454,
+    "wof:name":"Quebrada Grande Arriba",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97471999999998,
+    8.95167,
+    -79.97471999999998,
+    8.95167
+],
+  "geometry": {"coordinates":[-79.97471999999998,8.95167],"type":"Point"}
+}

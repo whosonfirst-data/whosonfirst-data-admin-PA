@@ -1,0 +1,70 @@
+{
+  "id": 1360208701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.4069,9.58263,-79.4069,9.58263",
+    "geom:latitude":9.58263,
+    "geom:longitude":-79.4069,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Viento Frio",
+    "gn:country_code":"PA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3700103,
+    "gn:latitude":9.58263,
+    "gn:longitude":-79.4069,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Viento Fr\u00edo",
+    "gn:population":387,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Viento Fr\u00edo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700103,
+        "wk:page":"Viento_Fr%C3%ADo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"adde2fa9342e703b7330b07f368ff390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1360208701,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360208701,
+    "wof:lastmodified":1537676331,
+    "wof:name":"Viento Frio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":387,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.4069,
+    9.58263,
+    -79.4069,
+    9.58263
+],
+  "geometry": {"coordinates":[-79.40689999999999,9.58263],"type":"Point"}
+}

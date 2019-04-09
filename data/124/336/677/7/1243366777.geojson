@@ -1,0 +1,70 @@
+{
+  "id": 1243366777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.87264,8.26776,-81.87264,8.26776",
+    "geom:latitude":8.26776,
+    "geom:longitude":-81.87264,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Higo Mocho",
+    "gn:country_code":"PA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347488,
+    "gn:latitude":8.26776,
+    "gn:longitude":-81.87264,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Higo Mocho",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Higo Mocho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421176641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347488
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b9934299e0ca10ecc0f307148baa8717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176641,
+            "locality_id":1243366777,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1243366777,
+    "wof:lastmodified":1537676514,
+    "wof:name":"Higo Mocho",
+    "wof:parent_id":421176641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.87264,
+    8.26776,
+    -81.87264,
+    8.26776
+],
+  "geometry": {"coordinates":[-81.87264,8.26776],"type":"Point"}
+}

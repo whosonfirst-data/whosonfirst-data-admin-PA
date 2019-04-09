@@ -1,0 +1,70 @@
+{
+  "id": 1327047699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.607,9.49606,-82.607,9.49606",
+    "geom:latitude":9.49606,
+    "geom:longitude":-82.607,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Finca Cincuenta y Dos",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10212557,
+    "gn:latitude":9.49606,
+    "gn:longitude":-82.607,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Finca Cincuenta y Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca Cincuenta y Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10212557
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f81ace4cabb1822bfb3750dfa2ef5e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1327047699,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1327047699,
+    "wof:lastmodified":1537676506,
+    "wof:name":"Finca Cincuenta y Dos",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.60700000000001,
+    9.49606,
+    -82.60700000000001,
+    9.49606
+],
+  "geometry": {"coordinates":[-82.60700000000001,9.49606],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259872097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.67229,7.89493,-80.67229,7.89493",
+    "geom:latitude":7.89493,
+    "geom:longitude":-80.67229,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Llano de Los Reyes",
+    "gn:country_code":"PA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705752,
+    "gn:latitude":7.89493,
+    "gn:longitude":-80.67229,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Llano de Los Reyes",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano de Los Reyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705752
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7d75131aad53a0861eab921064ee95d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1259872097,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1259872097,
+    "wof:lastmodified":1537676386,
+    "wof:name":"Llano de Los Reyes",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.67229,
+    7.89493,
+    -80.67229,
+    7.89493
+],
+  "geometry": {"coordinates":[-80.67229,7.89493],"type":"Point"}
+}

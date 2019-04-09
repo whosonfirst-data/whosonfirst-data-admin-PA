@@ -1,0 +1,67 @@
+{
+  "id": 1277080237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.63333,9.25,-79.63333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":-79.63333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vinagre",
+    "gn:country_code":"PA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700065,
+    "gn:latitude":9.25,
+    "gn:longitude":-79.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Vinagre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700065
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fd20289ee27eb4eb50ed8e80c24dc2bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1277080237,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1277080237,
+    "wof:lastmodified":1536771725,
+    "wof:name":"Vinagre",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63333,
+    9.25,
+    -79.63333,
+    9.25
+],
+  "geometry": {"coordinates":[-79.63333,9.25],"type":"Point"}
+}

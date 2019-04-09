@@ -1,0 +1,71 @@
+{
+  "id": 1226649423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.42012,8.59388,-82.42012,8.59388",
+    "geom:latitude":8.59388,
+    "geom:longitude":-82.42012,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cochea",
+    "gn:country_code":"PA",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702444,
+    "gn:latitude":8.59388,
+    "gn:longitude":-82.42012,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cochea",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puente Cochea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702444,
+        "wk:page":"Cochea"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f5dffdd4a29b37715c0567dc92493f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":1226649423,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226649423,
+    "wof:lastmodified":1537676355,
+    "wof:name":"Cochea",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.42012,
+    8.59388,
+    -82.42012,
+    8.59388
+],
+  "geometry": {"coordinates":[-82.42012,8.59388],"type":"Point"}
+}

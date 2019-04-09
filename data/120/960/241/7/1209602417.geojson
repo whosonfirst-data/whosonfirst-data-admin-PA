@@ -1,0 +1,65 @@
+{
+  "id": 1209602417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.95,8.38333,-81.95,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":-81.95,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Paja",
+    "gn:country_code":"PA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712661,
+    "gn:latitude":8.38333,
+    "gn:longitude":-81.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cerro Paja",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabecera Quebrada Sigoni",
+        "Cerro Paja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712661
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9a486214d0885c13705fd2ff1f2da5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209602417
+        }
+    ],
+    "wof:id":1209602417,
+    "wof:lastmodified":1537676468,
+    "wof:name":"Cerro Paja",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.95,
+    8.38333,
+    -81.95,
+    8.38333
+],
+  "geometry": {"coordinates":[-81.95,8.38333],"type":"Point"}
+}

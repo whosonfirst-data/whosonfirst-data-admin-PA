@@ -1,0 +1,73 @@
+{
+  "id": 1243562075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.67978,8.58141,-80.67978,8.58141",
+    "geom:latitude":8.58141,
+    "geom:longitude":-80.67978,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Las Sabanas",
+    "gn:country_code":"PA",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706214,
+    "gn:latitude":8.58141,
+    "gn:longitude":-80.67978,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Sabanas",
+    "gn:population":88,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Sabanas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706214
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"402d61c1c941e50a295d0a98ccae87d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693249,
+            "locality_id":1243562075,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1243562075,
+    "wof:lastmodified":1537676390,
+    "wof:name":"Las Sabanas",
+    "wof:parent_id":1108693249,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.67978000000002,
+    8.58141,
+    -80.67978000000002,
+    8.58141
+],
+  "geometry": {"coordinates":[-80.67978000000002,8.58141],"type":"Point"}
+}

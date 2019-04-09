@@ -1,0 +1,72 @@
+{
+  "id": 1226239391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.5897,8.95979,-79.5897,8.95979",
+    "geom:latitude":8.95979,
+    "geom:longitude":-79.5897,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rousseau",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701730,
+    "gn:latitude":8.95979,
+    "gn:longitude":-79.5897,
+    "gn:modification_date":"2016-11-07",
+    "gn:name":"Rousseau",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rousseu",
+        "Rousseau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701730
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eb713214be8054eace07b83aae077980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1226239391,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1226239391,
+    "wof:lastmodified":1537676345,
+    "wof:name":"Rousseau",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.5897,
+    8.95979,
+    -79.5897,
+    8.95979
+],
+  "geometry": {"coordinates":[-79.58969999999999,8.95979],"type":"Point"}
+}

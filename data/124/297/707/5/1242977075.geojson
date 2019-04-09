@@ -1,0 +1,67 @@
+{
+  "id": 1242977075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2,9.05,-80.2,9.05",
+    "geom:latitude":9.05,
+    "geom:longitude":-80.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701130,
+    "gn:latitude":9.05,
+    "gn:longitude":-80.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701130
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3dd18e9b29fc90d06b2d231087e1345e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1242977075,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1242977075,
+    "wof:lastmodified":1536984377,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2,
+    9.05,
+    -80.2,
+    9.05
+],
+  "geometry": {"coordinates":[-80.2,9.05],"type":"Point"}
+}

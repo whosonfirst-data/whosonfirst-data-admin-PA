@@ -1,0 +1,70 @@
+{
+  "id": 1310413549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6293,8.59715,-80.6293,8.59715",
+    "geom:latitude":8.59715,
+    "geom:longitude":-80.6293,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Flamenco",
+    "gn:country_code":"PA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709530,
+    "gn:latitude":8.59715,
+    "gn:longitude":-80.6293,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Flamenco",
+    "gn:population":86,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709530
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"30d4f2f83c5ad81f418755748567299f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1310413549,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310413549,
+    "wof:lastmodified":1537047592,
+    "wof:name":"Flamenco",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6293,
+    8.59715,
+    -80.6293,
+    8.59715
+],
+  "geometry": {"coordinates":[-80.6293,8.59715],"type":"Point"}
+}

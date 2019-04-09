@@ -1,0 +1,79 @@
+{
+  "id": 1293860159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06667,8.6,-80.06667,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-80.06667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Guacamayo",
+    "gn:country_code":"PA",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710772,
+    "gn:latitude":8.6,
+    "gn:longitude":-80.06667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"El Guacamayo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guacamaya",
+        "El Guacamayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710772
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ba4138723cbf6cd22c2255d30dd79480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1293860159,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1293860159,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293860159,
+    "wof:lastmodified":1537676446,
+    "wof:name":"El Guacamayo",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06667,
+    8.6,
+    -80.06667,
+    8.6
+],
+  "geometry": {"coordinates":[-80.06667,8.6],"type":"Point"}
+}

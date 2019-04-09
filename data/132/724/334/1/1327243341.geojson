@@ -1,0 +1,73 @@
+{
+  "id": 1327243341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.51397,8.57644,-80.51397,8.57644",
+    "geom:latitude":8.57644,
+    "geom:longitude":-80.51397,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Potrellano",
+    "gn:country_code":"PA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702555,
+    "gn:latitude":8.57644,
+    "gn:longitude":-80.51397,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Potrellano",
+    "gn:population":199,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Potrellano"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702555
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1dbdd2bf5dfecc822b45df8e2c055217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1327243341,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1327243341,
+    "wof:lastmodified":1537676356,
+    "wof:name":"Potrellano",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":199,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.51397,
+    8.57644,
+    -80.51397,
+    8.57644
+],
+  "geometry": {"coordinates":[-80.51397,8.57644],"type":"Point"}
+}

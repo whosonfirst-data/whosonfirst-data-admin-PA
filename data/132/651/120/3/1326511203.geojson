@@ -1,0 +1,73 @@
+{
+  "id": 1326511203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07689,7.87962,-78.07689,7.87962",
+    "geom:latitude":7.87962,
+    "geom:longitude":-78.07689,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Jingurudo",
+    "gn:country_code":"PA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3764191,
+    "gn:latitude":7.87962,
+    "gn:longitude":-78.07689,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Jingurud\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jingurud\u00f3"
+    ],
+    "name:und_x_variant":[
+        "Jungurud\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764191
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"230f1484833e961da478e4e8c419e848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1326511203,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1326511203,
+    "wof:lastmodified":1537676494,
+    "wof:name":"Jingurudo",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07689,
+    7.87962,
+    -78.07689,
+    7.87962
+],
+  "geometry": {"coordinates":[-78.07689000000001,7.87962],"type":"Point"}
+}

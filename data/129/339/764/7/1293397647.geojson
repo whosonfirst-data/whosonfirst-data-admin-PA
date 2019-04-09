@@ -1,0 +1,73 @@
+{
+  "id": 1293397647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28889,8.49074,-80.28889,8.49074",
+    "geom:latitude":8.49074,
+    "geom:longitude":-80.28889,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Colorada",
+    "gn:country_code":"PA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707920,
+    "gn:latitude":8.49074,
+    "gn:longitude":-80.28889,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Colorada",
+    "gn:population":290,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Colorada"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707920
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c02f5e834dd84421009aaf116c1fbd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1293397647,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1293397647,
+    "wof:lastmodified":1537676414,
+    "wof:name":"La Colorada",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28889000000002,
+    8.49074,
+    -80.28889000000002,
+    8.49074
+],
+  "geometry": {"coordinates":[-80.28889000000002,8.49074],"type":"Point"}
+}

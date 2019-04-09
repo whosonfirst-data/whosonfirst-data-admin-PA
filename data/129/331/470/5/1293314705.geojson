@@ -1,0 +1,67 @@
+{
+  "id": 1293314705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.9,7.85,-80.9,7.85",
+    "geom:latitude":7.85,
+    "geom:longitude":-80.9,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Calvario",
+    "gn:country_code":"PA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711260,
+    "gn:latitude":7.85,
+    "gn:longitude":-80.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Calvario",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711260
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5c1015d5030cd6fd2fbed4e68878d729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1293314705,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1293314705,
+    "wof:lastmodified":1537034680,
+    "wof:name":"El Calvario",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.9,
+    7.85,
+    -80.9,
+    7.85
+],
+  "geometry": {"coordinates":[-80.90000000000001,7.85],"type":"Point"}
+}

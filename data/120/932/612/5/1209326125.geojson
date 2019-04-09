@@ -1,0 +1,64 @@
+{
+  "id": 1209326125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.54828,8.51447,-80.54828,8.51447",
+    "geom:latitude":8.51447,
+    "geom:longitude":-80.54828,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Valle",
+    "gn:country_code":"PA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709827,
+    "gn:latitude":8.51447,
+    "gn:longitude":-80.54828,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Valle",
+    "gn:population":35,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709827
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9a72afd7af9132d18940eb05fe6b6333",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209326125
+        }
+    ],
+    "wof:id":1209326125,
+    "wof:lastmodified":1536290529,
+    "wof:name":"El Valle",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.54828,
+    8.51447,
+    -80.54828,
+    8.51447
+],
+  "geometry": {"coordinates":[-80.54828000000001,8.51447],"type":"Point"}
+}

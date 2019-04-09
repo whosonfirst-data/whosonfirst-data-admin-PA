@@ -1,0 +1,71 @@
+{
+  "id": 1276885281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42799,8.36082,-80.42799,8.36082",
+    "geom:latitude":8.36082,
+    "geom:longitude":-80.42799,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Gago",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710837,
+    "gn:latitude":8.36082,
+    "gn:longitude":-80.42799,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"El Gago",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gago",
+        "El Gago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710837
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"96263d4a30ab741e0d5ff23563079cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1276885281,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1276885281,
+    "wof:lastmodified":1537676447,
+    "wof:name":"El Gago",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42799000000002,
+    8.36082,
+    -80.42799000000002,
+    8.36082
+],
+  "geometry": {"coordinates":[-80.42799000000002,8.36082],"type":"Point"}
+}

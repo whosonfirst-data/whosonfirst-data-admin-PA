@@ -1,0 +1,76 @@
+{
+  "id": 1243257799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.1525,7.95611,-81.1525,7.95611",
+    "geom:latitude":7.95611,
+    "geom:longitude":-81.1525,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Yanez Abajo",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704915,
+    "gn:latitude":7.95611,
+    "gn:longitude":-81.1525,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Los Y\u00e1\u00f1ez Abajo",
+    "gn:population":23,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ya\u00f1ez Abajo",
+        "Y\u00e1\u00f1es Abajo",
+        "Los Y\u00e1\u00f1ez Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704915
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"72e6bb06853588c522575963b03f5ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693263,
+            "locality_id":1243257799,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243257799,
+    "wof:lastmodified":1537676372,
+    "wof:name":"Los Yanez Abajo",
+    "wof:parent_id":1108693263,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.1525,
+    7.95611,
+    -81.1525,
+    7.95611
+],
+  "geometry": {"coordinates":[-81.1525,7.95611],"type":"Point"}
+}

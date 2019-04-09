@@ -1,0 +1,73 @@
+{
+  "id": 1226437741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.54585,8.12851,-81.54585,8.12851",
+    "geom:latitude":8.12851,
+    "geom:longitude":-81.54585,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Grama",
+    "gn:country_code":"PA",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707619,
+    "gn:latitude":8.12851,
+    "gn:longitude":-81.54585,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Grama",
+    "gn:population":113,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Grama"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707619
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c2ed68b84186ed082b2f22f0c453f9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1226437741,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226437741,
+    "wof:lastmodified":1537676409,
+    "wof:name":"La Grama",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54585,
+    8.12851,
+    -81.54585,
+    8.12851
+],
+  "geometry": {"coordinates":[-81.54585,8.12851],"type":"Point"}
+}

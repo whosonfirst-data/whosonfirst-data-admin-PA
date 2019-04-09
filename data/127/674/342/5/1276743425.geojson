@@ -1,0 +1,74 @@
+{
+  "id": 1276743425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.92161,8.46046,-81.92161,8.46046",
+    "geom:latitude":8.46046,
+    "geom:longitude":-81.92161,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bijao",
+    "gn:country_code":"PA",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714113,
+    "gn:latitude":8.46046,
+    "gn:longitude":-81.92161,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Bijao",
+    "gn:population":45,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijad",
+        "Bijao"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        421184905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714113
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3cf8f381d3e53a45e0db3aa18a26e8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421184905,
+            "locality_id":1276743425,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276743425,
+    "wof:lastmodified":1537676484,
+    "wof:name":"Bijao",
+    "wof:parent_id":421184905,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.92161,
+    8.46046,
+    -81.92161,
+    8.46046
+],
+  "geometry": {"coordinates":[-81.92161,8.46046],"type":"Point"}
+}

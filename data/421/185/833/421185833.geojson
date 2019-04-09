@@ -1,0 +1,101 @@
+{
+  "id": 421185833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84361,9.36056,-79.84361,9.36056",
+    "geom:latitude":9.36056,
+    "geom:longitude":-79.84361,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Cativ\u00e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e2\u10d8\u10d5\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Cativ\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Cativ\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Catival"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3712884,
+    "qs:gn_pop":29607,
+    "qs:name":"Cativa",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046613,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793320,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712884,
+        "gp:id":26793320,
+        "qs:id":1046613,
+        "qs_pg:id":1046613,
+        "wd:id":"Q4977479",
+        "wk:page":"Cativ\u00e1"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009456,
+    "wof:geomhash":"1bc9aafb8b04a202e2fee2449c60a8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "localadmin_id":421185833,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421185833,
+    "wof:lastmodified":1527726504,
+    "wof:name":"Cativa",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"localadmin",
+    "wof:population":29607,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84361,
+    9.36056,
+    -79.84361,
+    9.36056
+],
+  "geometry": {"coordinates":[-79.84361,9.36056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209108011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42298,8.58848,-80.42298,8.58848",
+    "geom:latitude":8.58848,
+    "geom:longitude":-80.42298,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Farallon",
+    "gn:country_code":"PA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709613,
+    "gn:latitude":8.58848,
+    "gn:longitude":-80.42298,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Farall\u00f3n",
+    "gn:population":172,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Farall\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709613
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f4f0e92dfa5f008a26b584ae5d4ca2a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209108011
+        }
+    ],
+    "wof:id":1209108011,
+    "wof:lastmodified":1537676428,
+    "wof:name":"Farallon",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":172,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42298000000002,
+    8.58848,
+    -80.42298000000002,
+    8.58848
+],
+  "geometry": {"coordinates":[-80.42298000000002,8.58848],"type":"Point"}
+}

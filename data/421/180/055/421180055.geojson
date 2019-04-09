@@ -1,0 +1,87 @@
+{
+  "id": 421180055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7,9.51667,-82.7,9.51667",
+    "geom:latitude":9.51667,
+    "geom:longitude":-82.7,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Barrage de Barro Blanco"
+    ],
+    "name:unk_x_variant":[
+        "Riverside"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3714336,
+    "qs:gn_pop":1398,
+    "qs:name":"Barro Blanco",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":286611,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":154860,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":2956,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714336,
+        "gp:id":154860,
+        "qs:id":286611,
+        "wd:id":"Q2885685"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009243,
+    "wof:geomhash":"52930a350da1d59f09f15f6c329ed9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":421180055,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":421180055,
+    "wof:lastmodified":1527716236,
+    "wof:name":"Barro Blanco",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":1398,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.7,
+    9.51667,
+    -82.7,
+    9.51667
+],
+  "geometry": {"coordinates":[-82.7,9.51667],"type":"Point"}
+}

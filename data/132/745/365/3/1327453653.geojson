@@ -1,0 +1,67 @@
+{
+  "id": 1327453653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.45,9.12,-79.45,9.12",
+    "geom:latitude":9.12,
+    "geom:longitude":-79.45,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mocambito",
+    "gn:country_code":"PA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704241,
+    "gn:latitude":9.12,
+    "gn:longitude":-79.45,
+    "gn:modification_date":"2014-07-23",
+    "gn:name":"Mocambito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704241
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"98086c89bc72054eba0cc9506e1a8755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1327453653,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1327453653,
+    "wof:lastmodified":1536649914,
+    "wof:name":"Mocambito",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.45,
+    9.12,
+    -79.45,
+    9.12
+],
+  "geometry": {"coordinates":[-79.45,9.12],"type":"Point"}
+}

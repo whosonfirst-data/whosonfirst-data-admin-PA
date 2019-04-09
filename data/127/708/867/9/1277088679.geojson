@@ -1,0 +1,73 @@
+{
+  "id": 1277088679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48371,9.36359,-82.48371,9.36359",
+    "geom:latitude":9.36359,
+    "geom:longitude":-82.48371,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Valle Junquito",
+    "gn:country_code":"PA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10212520,
+    "gn:latitude":9.36359,
+    "gn:longitude":-82.48371,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Valle Junquito",
+    "gn:population":358,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Valle Junquito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10212520
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eb69aa01691b1a40d0ea7fd362ed29a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1277088679,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1277088679,
+    "wof:lastmodified":1537676506,
+    "wof:name":"Valle Junquito",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":358,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48371,
+    9.36359,
+    -82.48371,
+    9.36359
+],
+  "geometry": {"coordinates":[-82.48371,9.36359],"type":"Point"}
+}

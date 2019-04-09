@@ -1,0 +1,75 @@
+{
+  "id": 1276965373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.91667,8.61667,-79.91667,8.61667",
+    "geom:latitude":8.61667,
+    "geom:longitude":-79.91667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Guayacan",
+    "gn:country_code":"PA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708820,
+    "gn:latitude":8.61667,
+    "gn:longitude":-79.91667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Guayac\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708820
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bb986c1e3a6bb4e0b9070358b660a8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1276965373,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1276965373,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1276965373,
+    "wof:lastmodified":1536927454,
+    "wof:name":"Guayacan",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.91667,
+    8.61667,
+    -79.91667,
+    8.61667
+],
+  "geometry": {"coordinates":[-79.91667,8.61667],"type":"Point"}
+}

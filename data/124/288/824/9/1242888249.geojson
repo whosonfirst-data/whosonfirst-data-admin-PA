@@ -1,0 +1,71 @@
+{
+  "id": 1242888249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.492,9.40828,-82.492,9.40828",
+    "geom:latitude":9.40828,
+    "geom:longitude":-82.492,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Finca Uno",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709535,
+    "gn:latitude":9.40828,
+    "gn:longitude":-82.492,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Finca Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca 1",
+        "Finca Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709535
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bd85ddecd42973a4ea48c56d3dae5dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1242888249,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1242888249,
+    "wof:lastmodified":1537676426,
+    "wof:name":"Finca Uno",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.492,
+    9.40828,
+    -82.492,
+    9.40828
+],
+  "geometry": {"coordinates":[-82.492,9.40828],"type":"Point"}
+}

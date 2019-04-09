@@ -1,0 +1,78 @@
+{
+  "id": 1125894983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,7.75,-80.23333,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":-80.23333,
+    "gn:gn_country":"PA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1104,
+    "gn:population":1104,
+    "iso:country":"PA",
+    "lbl:latitude":7.75,
+    "lbl:longitude":-80.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PA",
+    "qs_pg:gn_country":"PA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3714176,
+    "qs_pg:gn_pop":1104,
+    "qs_pg:name":"Bella Vista",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1046626,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714176,
+        "qs_pg:id":1046626
+    },
+    "wof:country":"PA",
+    "wof:created":1497295507,
+    "wof:geomhash":"69b865c1a965bc5efe6e2d1db359d690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1125894983,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1125894983,
+    "wof:lastmodified":1509399058,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":1104,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333,
+    7.75,
+    -80.23333,
+    7.75
+],
+  "geometry": {"coordinates":[-80.23333,7.75],"type":"Point"}
+}

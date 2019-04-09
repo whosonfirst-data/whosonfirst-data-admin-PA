@@ -1,0 +1,70 @@
+{
+  "id": 1310413397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42412,8.75817,-80.42412,8.75817",
+    "geom:latitude":8.75817,
+    "geom:longitude":-80.42412,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Tulua",
+    "gn:country_code":"PA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706032,
+    "gn:latitude":8.75817,
+    "gn:longitude":-80.42412,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"La Tulua",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Tulua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706032
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0c30df184c1c108b6eae9d232dafeafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1310413397,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310413397,
+    "wof:lastmodified":1537676389,
+    "wof:name":"La Tulua",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42412,
+    8.75817,
+    -80.42412,
+    8.75817
+],
+  "geometry": {"coordinates":[-80.42412,8.75817],"type":"Point"}
+}

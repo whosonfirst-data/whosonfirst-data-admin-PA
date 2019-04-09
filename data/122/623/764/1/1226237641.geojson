@@ -1,0 +1,70 @@
+{
+  "id": 1226237641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.71667,8.28333,-80.71667,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":-80.71667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pina",
+    "gn:country_code":"PA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702845,
+    "gn:latitude":8.28333,
+    "gn:longitude":-80.71667,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Pi\u00f1a",
+    "gn:population":47,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702845
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"93c932c7b19434eb8db9c7bf6f155c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1226237641,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226237641,
+    "wof:lastmodified":1536945740,
+    "wof:name":"Pina",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.71667,
+    8.28333,
+    -80.71667,
+    8.28333
+],
+  "geometry": {"coordinates":[-80.71666999999999,8.28333],"type":"Point"}
+}

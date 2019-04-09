@@ -1,0 +1,71 @@
+{
+  "id": 1293761719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.24611,7.95889,-78.24611,7.95889",
+    "geom:latitude":7.95889,
+    "geom:longitude":-78.24611,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sabalo",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764174,
+    "gn:latitude":7.95889,
+    "gn:longitude":-78.24611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u00e1balo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e1balo Arriba",
+        "S\u00e1balo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764174
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ca200da49a55de90deaa07d2c3d32058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1293761719,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1293761719,
+    "wof:lastmodified":1537676494,
+    "wof:name":"Sabalo",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.24611,
+    7.95889,
+    -78.24611,
+    7.95889
+],
+  "geometry": {"coordinates":[-78.24611,7.95889],"type":"Point"}
+}

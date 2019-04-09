@@ -1,0 +1,68 @@
+{
+  "id": 1209412293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.12856,8.95396,-79.12856,8.95396",
+    "geom:latitude":8.95396,
+    "geom:longitude":-79.12856,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chepillo",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3712510,
+    "gn:latitude":8.95396,
+    "gn:longitude":-79.12856,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Chepillo",
+    "gn:population":255,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chepillo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712510,
+        "wk:page":"Chepillo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"23f3517e34b99ac4597a45c42849c3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209412293
+        }
+    ],
+    "wof:id":1209412293,
+    "wof:lastmodified":1537676467,
+    "wof:name":"Chepillo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.12856,
+    8.95396,
+    -79.12856,
+    8.95396
+],
+  "geometry": {"coordinates":[-79.12855999999999,8.95396],"type":"Point"}
+}

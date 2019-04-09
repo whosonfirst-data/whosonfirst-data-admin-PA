@@ -1,0 +1,72 @@
+{
+  "id": 1276868827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.62505,7.5436,-80.62505,7.5436",
+    "geom:latitude":7.5436,
+    "geom:longitude":-80.62505,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bajos de Guera",
+    "gn:country_code":"PA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3714439,
+    "gn:latitude":7.5436,
+    "gn:longitude":-80.62505,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bajos de G\u00fcera",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bajo de G\u00fcera",
+        "Bajo de G\u00fcera",
+        "Bajos de G\u00fcera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714439
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2e83b159daed0b686b2bed163f6f133b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1276868827,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1276868827,
+    "wof:lastmodified":1537676486,
+    "wof:name":"Bajos de Guera",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.62505,
+    7.5436,
+    -80.62505,
+    7.5436
+],
+  "geometry": {"coordinates":[-80.62505,7.5436],"type":"Point"}
+}

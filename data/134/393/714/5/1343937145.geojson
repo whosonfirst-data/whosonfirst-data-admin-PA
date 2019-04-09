@@ -1,0 +1,78 @@
+{
+  "id": 1343937145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.93333,8.73333,-79.93333,8.73333",
+    "geom:latitude":8.73333,
+    "geom:longitude":-79.93333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Duendes",
+    "gn:country_code":"PA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705349,
+    "gn:latitude":8.73333,
+    "gn:longitude":-79.93333,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Duendes",
+    "gn:population":33,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705349
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"70274e988db7bdc08908a62d21c9646c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1343937145,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1343937145,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343937145,
+    "wof:lastmodified":1537051538,
+    "wof:name":"Los Duendes",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93333,
+    8.73333,
+    -79.93333,
+    8.73333
+],
+  "geometry": {"coordinates":[-79.93333,8.73333],"type":"Point"}
+}

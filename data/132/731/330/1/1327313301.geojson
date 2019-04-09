@@ -1,0 +1,78 @@
+{
+  "id": 1327313301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80889,8.94389,-79.80889,8.94389",
+    "geom:latitude":8.94389,
+    "geom:longitude":-79.80889,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Monte Viejo",
+    "gn:country_code":"PA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704127,
+    "gn:latitude":8.94389,
+    "gn:longitude":-79.80889,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Monte Viejo",
+    "gn:population":91,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704127
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d677408d7069e3c0351b55953611d21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1327313301,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1327313301,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1327313301,
+    "wof:lastmodified":1536851771,
+    "wof:name":"Monte Viejo",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80889,
+    8.94389,
+    -79.80889,
+    8.94389
+],
+  "geometry": {"coordinates":[-79.80889000000001,8.94389],"type":"Point"}
+}

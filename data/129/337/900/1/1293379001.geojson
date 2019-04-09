@@ -1,0 +1,73 @@
+{
+  "id": 1293379001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25095,7.80943,-81.25095,7.80943",
+    "geom:latitude":7.80943,
+    "geom:longitude":-81.25095,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guarumalito",
+    "gn:country_code":"PA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708885,
+    "gn:latitude":7.80943,
+    "gn:longitude":-81.25095,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Guarumalito",
+    "gn:population":391,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guarumalito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708885
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8356451439520d455f4d231184c2fed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1293379001,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293379001,
+    "wof:lastmodified":1537676423,
+    "wof:name":"Guarumalito",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":391,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25095,
+    7.80943,
+    -81.25095,
+    7.80943
+],
+  "geometry": {"coordinates":[-81.25095,7.80943],"type":"Point"}
+}

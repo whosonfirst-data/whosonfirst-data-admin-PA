@@ -1,0 +1,73 @@
+{
+  "id": 1310002755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.89825,9.10172,-78.89825,9.10172",
+    "geom:latitude":9.10172,
+    "geom:longitude":-78.89825,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tres Quebradas",
+    "gn:country_code":"PA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10181881,
+    "gn:latitude":9.10172,
+    "gn:longitude":-78.89825,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tres Quebradas",
+    "gn:population":124,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres Quebradas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10181881
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bdfb2b58f5ad693e9a9ae8cefb48f1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1310002755,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1310002755,
+    "wof:lastmodified":1537676499,
+    "wof:name":"Tres Quebradas",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.89825,
+    9.10172,
+    -78.89825,
+    9.10172
+],
+  "geometry": {"coordinates":[-78.89825,9.10172],"type":"Point"}
+}

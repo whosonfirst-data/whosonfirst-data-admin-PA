@@ -1,0 +1,67 @@
+{
+  "id": 1209112121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.11649,9.05977,-80.11649,9.05977",
+    "geom:latitude":9.05977,
+    "geom:longitude":-80.11649,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Encantadita",
+    "gn:country_code":"PA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707787,
+    "gn:latitude":9.05977,
+    "gn:longitude":-80.11649,
+    "gn:modification_date":"2017-08-18",
+    "gn:name":"La Encantadita",
+    "gn:population":197,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Encantadita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707787
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9f4f1b8a67a042e8c96e98552f1a2eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209112121
+        }
+    ],
+    "wof:id":1209112121,
+    "wof:lastmodified":1537676412,
+    "wof:name":"La Encantadita",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.11649,
+    9.05977,
+    -80.11649,
+    9.05977
+],
+  "geometry": {"coordinates":[-80.11649,9.05977],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259865719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89929,8.87766,-79.89929,8.87766",
+    "geom:latitude":8.87766,
+    "geom:longitude":-79.89929,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bajo Grande",
+    "gn:country_code":"PA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714467,
+    "gn:latitude":8.87766,
+    "gn:longitude":-79.89929,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Bajo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajo Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714467
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a29df23b64ca15ebd9e1e371b678f15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1259865719,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1259865719,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1259865719,
+    "wof:lastmodified":1537676486,
+    "wof:name":"Bajo Grande",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89929000000002,
+    8.87766,
+    -79.89929000000002,
+    8.87766
+],
+  "geometry": {"coordinates":[-79.89929000000002,8.87766],"type":"Point"}
+}

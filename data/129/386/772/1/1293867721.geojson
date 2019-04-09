@@ -1,0 +1,70 @@
+{
+  "id": 1293867721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.50692,7.73318,-81.50692,7.73318",
+    "geom:latitude":7.73318,
+    "geom:longitude":-81.50692,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Costa",
+    "gn:country_code":"PA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707860,
+    "gn:latitude":7.73318,
+    "gn:longitude":-81.50692,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Costa",
+    "gn:population":15,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707860
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"38f3ab3ec061e74d074d955aa0301247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1293867721,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293867721,
+    "wof:lastmodified":1536736157,
+    "wof:name":"La Costa",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.50692,
+    7.73318,
+    -81.50692,
+    7.73318
+],
+  "geometry": {"coordinates":[-81.50691999999999,7.73318],"type":"Point"}
+}

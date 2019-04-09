@@ -1,0 +1,76 @@
+{
+  "id": 1259874797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.49911,8.38353,-81.49911,8.38353",
+    "geom:latitude":8.38353,
+    "geom:longitude":-81.49911,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Barrigon",
+    "gn:country_code":"PA",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711382,
+    "gn:latitude":8.38353,
+    "gn:longitude":-81.49911,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Barrig\u00f3n",
+    "gn:population":136,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barrig\u00f3n"
+    ],
+    "name:und_x_variant":[
+        "El Barrig\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711382
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"728fdcd753759fbfba44bc875b354e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1259874797,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259874797,
+    "wof:lastmodified":1537676457,
+    "wof:name":"Barrigon",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.49911,
+    8.38353,
+    -81.49911,
+    8.38353
+],
+  "geometry": {"coordinates":[-81.49911,8.38353],"type":"Point"}
+}

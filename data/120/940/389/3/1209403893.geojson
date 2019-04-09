@@ -1,0 +1,68 @@
+{
+  "id": 1209403893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.92307,8.14671,-80.92307,8.14671",
+    "geom:latitude":8.14671,
+    "geom:longitude":-80.92307,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Peana",
+    "gn:country_code":"PA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706993,
+    "gn:latitude":8.14671,
+    "gn:longitude":-80.92307,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Peana",
+    "gn:population":210,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peana",
+        "La Peana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706993
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"63ce4943000bdcc9f697505e147154dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209403893
+        }
+    ],
+    "wof:id":1209403893,
+    "wof:lastmodified":1537676402,
+    "wof:name":"La Peana",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.92307,
+    8.14671,
+    -80.92307,
+    8.14671
+],
+  "geometry": {"coordinates":[-80.92307,8.14671],"type":"Point"}
+}

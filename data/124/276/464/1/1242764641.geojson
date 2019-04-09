@@ -1,0 +1,67 @@
+{
+  "id": 1242764641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.65,8.46667,-81.65,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":-81.65,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Macho",
+    "gn:country_code":"PA",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702164,
+    "gn:latitude":8.46667,
+    "gn:longitude":-81.65,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Quebrada Macho",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702164
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"916f3cb695187d3f9ffd33d0185cefa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1242764641,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1242764641,
+    "wof:lastmodified":1536794541,
+    "wof:name":"Quebrada Macho",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.65,
+    8.46667,
+    -81.65,
+    8.46667
+],
+  "geometry": {"coordinates":[-81.65000000000001,8.46667],"type":"Point"}
+}

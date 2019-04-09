@@ -1,0 +1,75 @@
+{
+  "id": 1360290425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48758,7.97876,-77.48758,7.97876",
+    "geom:latitude":7.97876,
+    "geom:longitude":-77.48758,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pucuro",
+    "gn:country_code":"PA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702498,
+    "gn:latitude":7.97876,
+    "gn:longitude":-77.48758,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"P\u00facuro",
+    "gn:population":355,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pucro",
+        "P\u00facuro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702498,
+        "wk:page":"P%C3%BAcuro"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9a8c2fc046e59f1b66506b53eba9d4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1360290425,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1360290425,
+    "wof:lastmodified":1537676356,
+    "wof:name":"Pucuro",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:population":355,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48758000000002,
+    7.97876,
+    -77.48758000000002,
+    7.97876
+],
+  "geometry": {"coordinates":[-77.48758000000002,7.97876],"type":"Point"}
+}

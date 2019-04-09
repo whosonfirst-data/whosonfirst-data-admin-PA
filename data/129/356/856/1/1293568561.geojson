@@ -1,0 +1,70 @@
+{
+  "id": 1293568561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69269,8.95243,-79.69269,8.95243",
+    "geom:latitude":8.95243,
+    "geom:longitude":-79.69269,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nuevo Chorrillo",
+    "gn:country_code":"PA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398375,
+    "gn:latitude":8.95243,
+    "gn:longitude":-79.69269,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Nuevo Chorrillo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Chorrillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398375
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"146779854205d65f2d4f745315aa34b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1293568561,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293568561,
+    "wof:lastmodified":1537676523,
+    "wof:name":"Nuevo Chorrillo",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69269,
+    8.95243,
+    -79.69269,
+    8.95243
+],
+  "geometry": {"coordinates":[-79.69269,8.95243],"type":"Point"}
+}

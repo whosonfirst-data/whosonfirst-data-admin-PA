@@ -1,0 +1,70 @@
+{
+  "id": 1243547101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70928,7.64537,-80.70928,7.64537",
+    "geom:latitude":7.64537,
+    "geom:longitude":-80.70928,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Llana Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707327,
+    "gn:latitude":7.64537,
+    "gn:longitude":-80.70928,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"La Llana Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Llana Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707327
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a18f2e911944840723f774f59214405f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693231,
+            "locality_id":1243547101,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1243547101,
+    "wof:lastmodified":1537676406,
+    "wof:name":"La Llana Arriba",
+    "wof:parent_id":1108693231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70928,
+    7.64537,
+    -80.70928,
+    7.64537
+],
+  "geometry": {"coordinates":[-80.70928000000001,7.64537],"type":"Point"}
+}

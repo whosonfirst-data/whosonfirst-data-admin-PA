@@ -1,0 +1,64 @@
+{
+  "id": 1209604367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.99738,8.10475,-80.99738,8.10475",
+    "geom:latitude":8.10475,
+    "geom:longitude":-80.99738,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Barreras",
+    "gn:country_code":"PA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706629,
+    "gn:latitude":8.10475,
+    "gn:longitude":-80.99738,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Barreras",
+    "gn:population":566,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706629
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5421cf975fd09b1f03466d01678f9615",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209604367
+        }
+    ],
+    "wof:id":1209604367,
+    "wof:lastmodified":1536282062,
+    "wof:name":"Las Barreras",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":566,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.99738,
+    8.10475,
+    -80.99738,
+    8.10475
+],
+  "geometry": {"coordinates":[-80.99738000000001,8.10475],"type":"Point"}
+}

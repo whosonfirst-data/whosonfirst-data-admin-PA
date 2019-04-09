@@ -1,0 +1,67 @@
+{
+  "id": 1209128815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14381,8.69273,-78.14381,8.69273",
+    "geom:latitude":8.69273,
+    "geom:longitude":-78.14381,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Los Monos",
+    "gn:country_code":"PA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194318,
+    "gn:latitude":8.69273,
+    "gn:longitude":-78.14381,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Los Monos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Monos"
+    ],
+    "name:spa_x_variant":[
+        "Arimae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194318
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6cec9455205ffd745c70954c66fd9ea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209128815
+        }
+    ],
+    "wof:id":1209128815,
+    "wof:lastmodified":1537676501,
+    "wof:name":"Los Monos",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14381,
+    8.69273,
+    -78.14381,
+    8.69273
+],
+  "geometry": {"coordinates":[-78.14381,8.69273],"type":"Point"}
+}

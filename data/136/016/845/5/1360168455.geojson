@@ -1,0 +1,70 @@
+{
+  "id": 1360168455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.99554,7.84364,-80.99554,7.84364",
+    "geom:latitude":7.84364,
+    "geom:longitude":-80.99554,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Carrizal",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712974,
+    "gn:latitude":7.84364,
+    "gn:longitude":-80.99554,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Carrizal",
+    "gn:population":34,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712974
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5ea98b7f800358ff810ee570c57552df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1360168455,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1360168455,
+    "wof:lastmodified":1536824488,
+    "wof:name":"Carrizal",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.99554,
+    7.84364,
+    -80.99554,
+    7.84364
+],
+  "geometry": {"coordinates":[-80.99554000000001,7.84364],"type":"Point"}
+}

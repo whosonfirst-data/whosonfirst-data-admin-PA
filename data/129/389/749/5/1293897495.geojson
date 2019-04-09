@@ -1,0 +1,70 @@
+{
+  "id": 1293897495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.6606,9.39036,-82.6606,9.39036",
+    "geom:latitude":9.39036,
+    "geom:longitude":-82.6606,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sieykin",
+    "gn:country_code":"PA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211158,
+    "gn:latitude":9.39036,
+    "gn:longitude":-82.6606,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Sieykin",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sieykin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211158
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"233d71d7bb9ac6a827c6c8d014b4254c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1293897495,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1293897495,
+    "wof:lastmodified":1537676505,
+    "wof:name":"Sieykin",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.6606,
+    9.39036,
+    -82.6606,
+    9.39036
+],
+  "geometry": {"coordinates":[-82.6606,9.39036],"type":"Point"}
+}

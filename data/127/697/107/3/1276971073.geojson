@@ -1,0 +1,70 @@
+{
+  "id": 1276971073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.19904,7.61073,-80.19904,7.61073",
+    "geom:latitude":7.61073,
+    "geom:longitude":-80.19904,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Macanitos",
+    "gn:country_code":"PA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705227,
+    "gn:latitude":7.61073,
+    "gn:longitude":-80.19904,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Macanitos",
+    "gn:population":3,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705227
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8708104c7e8b064b986b4e91121fa36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693255,
+            "locality_id":1276971073,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1276971073,
+    "wof:lastmodified":1536919675,
+    "wof:name":"Los Macanitos",
+    "wof:parent_id":1108693255,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.19904,
+    7.61073,
+    -80.19904,
+    7.61073
+],
+  "geometry": {"coordinates":[-80.19904,7.61073],"type":"Point"}
+}

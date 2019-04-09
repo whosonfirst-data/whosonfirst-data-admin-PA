@@ -1,0 +1,77 @@
+{
+  "id": 1343570791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.83333,9.61667,-82.83333,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":-82.83333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Loma Bonito",
+    "gn:country_code":"PA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705649,
+    "gn:latitude":9.61667,
+    "gn:longitude":-82.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Loma Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705649
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ad54490cb4402177964d41dc579d1f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1343570791,
+            "region_id":85675805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "locality_id":1343570791,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1343570791,
+    "wof:lastmodified":1537081326,
+    "wof:name":"Loma Bonito",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.83333,
+    9.61667,
+    -82.83333,
+    9.61667
+],
+  "geometry": {"coordinates":[-82.83333,9.61667],"type":"Point"}
+}

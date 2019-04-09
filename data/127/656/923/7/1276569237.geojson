@@ -1,0 +1,67 @@
+{
+  "id": 1276569237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.1,8.3,-81.1,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-81.1,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Hernandez",
+    "gn:country_code":"PA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705287,
+    "gn:latitude":8.3,
+    "gn:longitude":-81.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Hern\u00e1ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421173571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705287
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e0e8d0923ab7f68bec408db416bb5161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421173571,
+            "locality_id":1276569237,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276569237,
+    "wof:lastmodified":1536960079,
+    "wof:name":"Los Hernandez",
+    "wof:parent_id":421173571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.1,
+    8.3,
+    -81.1,
+    8.3
+],
+  "geometry": {"coordinates":[-81.09999999999999,8.3],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1326536111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.33333,9.58333,-79.33333,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":-79.33333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Llerena",
+    "gn:country_code":"PA",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705676,
+    "gn:latitude":9.58333,
+    "gn:longitude":-79.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Llerena",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705676
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fa25744a33d021ed1f42c534ba5277ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326536111,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326536111,
+    "wof:lastmodified":1536977834,
+    "wof:name":"Llerena",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.33333,
+    9.58333,
+    -79.33333,
+    9.58333
+],
+  "geometry": {"coordinates":[-79.33333,9.58333],"type":"Point"}
+}

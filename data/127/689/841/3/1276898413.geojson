@@ -1,0 +1,67 @@
+{
+  "id": 1276898413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65,9.58333,-79.65,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":-79.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Playa Blanca",
+    "gn:country_code":"PA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702698,
+    "gn:latitude":9.58333,
+    "gn:longitude":-79.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Playa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702698
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a621acd5a6e6c5a85b44a6da538d8ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1276898413,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1276898413,
+    "wof:lastmodified":1537015630,
+    "wof:name":"Playa Blanca",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65,
+    9.58333,
+    -79.65,
+    9.58333
+],
+  "geometry": {"coordinates":[-79.65000000000001,9.58333],"type":"Point"}
+}

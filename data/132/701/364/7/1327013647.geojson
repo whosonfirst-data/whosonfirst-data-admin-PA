@@ -1,0 +1,67 @@
+{
+  "id": 1327013647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26667,8.48333,-81.26667,8.48333",
+    "geom:latitude":8.48333,
+    "geom:longitude":-81.26667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Pedregal",
+    "gn:country_code":"PA",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710228,
+    "gn:latitude":8.48333,
+    "gn:longitude":-81.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Pedregal",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710228
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3f6e7f96d277fac40080f97285d717df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1327013647,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1327013647,
+    "wof:lastmodified":1536788043,
+    "wof:name":"El Pedregal",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26666999999998,
+    8.48333,
+    -81.26666999999998,
+    8.48333
+],
+  "geometry": {"coordinates":[-81.26666999999998,8.48333],"type":"Point"}
+}

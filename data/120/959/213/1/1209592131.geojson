@@ -1,0 +1,64 @@
+{
+  "id": 1209592131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86986,8.75636,-79.86986,8.75636",
+    "geom:latitude":8.75636,
+    "geom:longitude":-79.86986,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Barriada Royo",
+    "gn:country_code":"PA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398368,
+    "gn:latitude":8.75636,
+    "gn:longitude":-79.86986,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Barriada Royo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barriada Royo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398368
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f064f21d5013f0ae9907167327ec58ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209592131
+        }
+    ],
+    "wof:id":1209592131,
+    "wof:lastmodified":1537676523,
+    "wof:name":"Barriada Royo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86986,
+    8.75636,
+    -79.86986,
+    8.75636
+],
+  "geometry": {"coordinates":[-79.86986,8.75636],"type":"Point"}
+}

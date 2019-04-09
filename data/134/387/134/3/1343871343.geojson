@@ -1,0 +1,73 @@
+{
+  "id": 1343871343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.44824,8.56129,-82.44824,8.56129",
+    "geom:latitude":8.56129,
+    "geom:longitude":-82.44824,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Las Canas",
+    "gn:country_code":"PA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706606,
+    "gn:latitude":8.56129,
+    "gn:longitude":-82.44824,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Ca\u00f1as",
+    "gn:population":319,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Ca\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706606
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"870344b319e4a607f1a16203036fe6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":1343871343,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1343871343,
+    "wof:lastmodified":1537676397,
+    "wof:name":"Las Canas",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:population":319,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.44824,
+    8.56129,
+    -82.44824,
+    8.56129
+],
+  "geometry": {"coordinates":[-82.44824,8.56129],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260186439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.18499,8.86707,-82.18499,8.86707",
+    "geom:latitude":8.86707,
+    "geom:longitude":-82.18499,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Canazas Numero Uno",
+    "gn:country_code":"PA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347340,
+    "gn:latitude":8.86707,
+    "gn:longitude":-82.18499,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ca\u00f1azas N\u00famero Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1azas N\u00famero Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        1108693209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347340
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d5c2037a6c4ebe91571f543cb11d070a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693209,
+            "locality_id":1260186439,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1260186439,
+    "wof:lastmodified":1537676511,
+    "wof:name":"Canazas Numero Uno",
+    "wof:parent_id":1108693209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.18499,
+    8.86707,
+    -82.18499,
+    8.86707
+],
+  "geometry": {"coordinates":[-82.18499,8.86707],"type":"Point"}
+}

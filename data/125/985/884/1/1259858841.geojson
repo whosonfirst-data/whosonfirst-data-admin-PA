@@ -1,0 +1,84 @@
+{
+  "id": 1259858841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95617,8.50918,-79.95617,8.50918",
+    "geom:latitude":8.50918,
+    "geom:longitude":-79.95617,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dos Hermanas",
+    "gn:country_code":"PA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706498,
+    "gn:latitude":8.50918,
+    "gn:longitude":-79.95617,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Dos Hermanas",
+    "gn:population":156,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dos Hermanas"
+    ],
+    "name:und_x_variant":[
+        "Las Hermanas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706498
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6e3de72a6bbb7d2ac134820d571c0347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1259858841,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1259858841,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1259858841,
+    "wof:lastmodified":1537676395,
+    "wof:name":"Dos Hermanas",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95617,
+    8.50918,
+    -79.95617,
+    8.50918
+],
+  "geometry": {"coordinates":[-79.95617,8.50918],"type":"Point"}
+}

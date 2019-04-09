@@ -1,0 +1,70 @@
+{
+  "id": 1242565825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.1299,7.92492,-78.1299,7.92492",
+    "geom:latitude":7.92492,
+    "geom:longitude":-78.1299,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boca de Trampa",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764175,
+    "gn:latitude":7.92492,
+    "gn:longitude":-78.1299,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Boca de Trampa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de Trampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764175
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5acb888904a7e35bdc4b70685197b1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1242565825,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1242565825,
+    "wof:lastmodified":1537676494,
+    "wof:name":"Boca de Trampa",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.1299,
+    7.92492,
+    -78.1299,
+    7.92492
+],
+  "geometry": {"coordinates":[-78.12990000000001,7.92492],"type":"Point"}
+}

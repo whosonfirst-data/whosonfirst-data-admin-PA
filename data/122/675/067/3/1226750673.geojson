@@ -1,0 +1,73 @@
+{
+  "id": 1226750673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5766,8.31968,-82.5766,8.31968",
+    "geom:latitude":8.31968,
+    "geom:longitude":-82.5766,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Paja Blanca",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703620,
+    "gn:latitude":8.31968,
+    "gn:longitude":-82.5766,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Paja Blanca",
+    "gn:population":147,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paja Blanca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703620
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cd5999b3e9b43f5ddccdeaee491d691f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":1226750673,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226750673,
+    "wof:lastmodified":1537676363,
+    "wof:name":"Paja Blanca",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5766,
+    8.31968,
+    -82.5766,
+    8.31968
+],
+  "geometry": {"coordinates":[-82.5766,8.31968],"type":"Point"}
+}

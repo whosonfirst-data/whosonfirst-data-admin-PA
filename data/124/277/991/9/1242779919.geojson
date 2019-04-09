@@ -1,0 +1,73 @@
+{
+  "id": 1242779919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.37609,8.67187,-80.37609,8.67187",
+    "geom:latitude":8.67187,
+    "geom:longitude":-80.37609,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aguas Claras",
+    "gn:country_code":"PA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715002,
+    "gn:latitude":8.67187,
+    "gn:longitude":-80.37609,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Aguas Claras",
+    "gn:population":132,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aguas Claras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715002
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"753189a98584da2338f34474ea03b47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1242779919,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1242779919,
+    "wof:lastmodified":1537676492,
+    "wof:name":"Aguas Claras",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.37609,
+    8.67187,
+    -80.37609,
+    8.67187
+],
+  "geometry": {"coordinates":[-80.37609,8.67187],"type":"Point"}
+}

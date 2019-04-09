@@ -1,0 +1,72 @@
+{
+  "id": 1310102459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28333,7.73333,-80.28333,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":-80.28333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Vergara",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704921,
+    "gn:latitude":7.73333,
+    "gn:longitude":-80.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Los Vergara",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Vergaras",
+        "Los Vergara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704921
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"da2f0ecd71be07c17679424e7c0bf8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1310102459,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1310102459,
+    "wof:lastmodified":1537676373,
+    "wof:name":"Los Vergara",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28333,
+    7.73333,
+    -80.28333,
+    7.73333
+],
+  "geometry": {"coordinates":[-80.28333000000001,7.73333],"type":"Point"}
+}

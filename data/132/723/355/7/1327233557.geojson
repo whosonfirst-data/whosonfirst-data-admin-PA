@@ -1,0 +1,73 @@
+{
+  "id": 1327233557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.39789,8.75959,-80.39789,8.75959",
+    "geom:latitude":8.75959,
+    "geom:longitude":-80.39789,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tulu Centro",
+    "gn:country_code":"PA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348386,
+    "gn:latitude":8.75959,
+    "gn:longitude":-80.39789,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tul\u00fa Centro",
+    "gn:population":342,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tul\u00fa Centro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348386
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"43791548ec3e26ad066b7ea240ec8d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1327233557,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1327233557,
+    "wof:lastmodified":1537676518,
+    "wof:name":"Tulu Centro",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.39789,
+    8.75959,
+    -80.39789,
+    8.75959
+],
+  "geometry": {"coordinates":[-80.39789,8.75959],"type":"Point"}
+}

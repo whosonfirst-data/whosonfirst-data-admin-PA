@@ -1,0 +1,75 @@
+{
+  "id": 1259887353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23242,8.60515,-80.23242,8.60515",
+    "geom:latitude":8.60515,
+    "geom:longitude":-80.23242,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pajonal Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703591,
+    "gn:latitude":8.60515,
+    "gn:longitude":-80.23242,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pajonal Arriba",
+    "gn:population":205,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pajonal",
+        "Pajonal Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703591,
+        "wk:page":"Pajonal"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"41f40402510766a457ee093d8a90c493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1259887353,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1259887353,
+    "wof:lastmodified":1537676363,
+    "wof:name":"Pajonal Arriba",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23241999999998,
+    8.60515,
+    -80.23241999999998,
+    8.60515
+],
+  "geometry": {"coordinates":[-80.23241999999998,8.60515],"type":"Point"}
+}

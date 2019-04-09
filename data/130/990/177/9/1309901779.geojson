@@ -1,0 +1,69 @@
+{
+  "id": 1309901779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7564,8.99958,-77.7564,8.99958",
+    "geom:latitude":8.99958,
+    "geom:longitude":-77.7564,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mamimulo",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704709,
+    "gn:latitude":8.99958,
+    "gn:longitude":-77.7564,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mamimulo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamimulu",
+        "Mamimula",
+        "Mamimulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704709
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2ef1182322f70323e4533b287530f8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "locality_id":1309901779,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309901779,
+    "wof:lastmodified":1537676371,
+    "wof:name":"Mamimulo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7564,
+    8.99958,
+    -77.7564,
+    8.99958
+],
+  "geometry": {"coordinates":[-77.7564,8.99958],"type":"Point"}
+}

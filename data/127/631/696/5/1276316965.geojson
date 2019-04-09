@@ -1,0 +1,74 @@
+{
+  "id": 1276316965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.92069,8.32143,-80.92069,8.32143",
+    "geom:latitude":8.32143,
+    "geom:longitude":-80.92069,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Cocla",
+    "gn:country_code":"PA",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711068,
+    "gn:latitude":8.32143,
+    "gn:longitude":-80.92069,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Cocl\u00e1",
+    "gn:population":32,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cocl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711068,
+        "wk:page":"El_Cocla"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cbbe46b18b25ca864673f56c357ad91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1276316965,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276316965,
+    "wof:lastmodified":1537676451,
+    "wof:name":"El Cocla",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.92069000000002,
+    8.32143,
+    -80.92069000000002,
+    8.32143
+],
+  "geometry": {"coordinates":[-80.92069000000002,8.32143],"type":"Point"}
+}

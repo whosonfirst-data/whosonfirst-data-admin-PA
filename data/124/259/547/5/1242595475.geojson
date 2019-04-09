@@ -1,0 +1,70 @@
+{
+  "id": 1242595475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48502,9.44798,-82.48502,9.44798",
+    "geom:latitude":9.44798,
+    "geom:longitude":-82.48502,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Finca Sesenta y Tres",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211193,
+    "gn:latitude":9.44798,
+    "gn:longitude":-82.48502,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Finca Sesenta y Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca Sesenta y Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211193
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d007bd585346d0c50df2b10adfe3095c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1242595475,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1242595475,
+    "wof:lastmodified":1537676506,
+    "wof:name":"Finca Sesenta y Tres",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48501999999998,
+    9.44798,
+    -82.48501999999998,
+    9.44798
+],
+  "geometry": {"coordinates":[-82.48501999999998,9.44798],"type":"Point"}
+}

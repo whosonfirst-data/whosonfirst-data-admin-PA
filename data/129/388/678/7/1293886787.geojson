@@ -1,0 +1,73 @@
+{
+  "id": 1293886787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.52405,8.41798,-82.52405,8.41798",
+    "geom:latitude":8.41798,
+    "geom:longitude":-82.52405,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Pablo Nuevo Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701316,
+    "gn:latitude":8.41798,
+    "gn:longitude":-82.52405,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Pablo Nuevo Arriba",
+    "gn:population":281,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo Nuevo Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701316
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e31fab2b7de766e7f35990b2f789ce9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1293886787,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293886787,
+    "wof:lastmodified":1537676341,
+    "wof:name":"San Pablo Nuevo Arriba",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.52405,
+    8.41798,
+    -82.52405,
+    8.41798
+],
+  "geometry": {"coordinates":[-82.52405,8.41798],"type":"Point"}
+}

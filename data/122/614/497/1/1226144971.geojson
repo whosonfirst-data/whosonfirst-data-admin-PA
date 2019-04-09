@@ -1,0 +1,73 @@
+{
+  "id": 1226144971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.09307,8.40921,-80.09307,8.40921",
+    "geom:latitude":8.40921,
+    "geom:longitude":-80.09307,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Llano Bonito Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705785,
+    "gn:latitude":8.40921,
+    "gn:longitude":-80.09307,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Llano Bonito N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano Bonito N\u00famero Dos"
+    ],
+    "name:und_x_variant":[
+        "Llano Bonito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705785
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"73bb5f9ca359408381bf512ddceaf591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1226144971,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226144971,
+    "wof:lastmodified":1537676386,
+    "wof:name":"Llano Bonito Numero Dos",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.09307,
+    8.40921,
+    -80.09307,
+    8.40921
+],
+  "geometry": {"coordinates":[-80.09307,8.40921],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209309665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.34748,8.49072,-81.34748,8.49072",
+    "geom:latitude":8.49072,
+    "geom:longitude":-81.34748,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guacamaya",
+    "gn:country_code":"PA",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708970,
+    "gn:latitude":8.49072,
+    "gn:longitude":-81.34748,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Guacamaya",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guacamaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708970
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"beb484afb0f78e0b5e2ad15c4335aae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209309665
+        }
+    ],
+    "wof:id":1209309665,
+    "wof:lastmodified":1537676424,
+    "wof:name":"Guacamaya",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.34748,
+    8.49072,
+    -81.34748,
+    8.49072
+],
+  "geometry": {"coordinates":[-81.34748,8.49072],"type":"Point"}
+}

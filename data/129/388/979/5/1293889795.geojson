@@ -1,0 +1,73 @@
+{
+  "id": 1293889795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.70169,9.26899,-79.70169,9.26899",
+    "geom:latitude":9.26899,
+    "geom:longitude":-79.70169,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Campo Alegre",
+    "gn:country_code":"PA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179995,
+    "gn:latitude":9.26899,
+    "gn:longitude":-79.70169,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Campo Alegre",
+    "gn:population":371,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Campo Alegre"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179995
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2cac1f393ba3bd9bd96854f8a6e2bfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1293889795,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1293889795,
+    "wof:lastmodified":1537676497,
+    "wof:name":"Campo Alegre",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.70169,
+    9.26899,
+    -79.70169,
+    9.26899
+],
+  "geometry": {"coordinates":[-79.70169,9.26899],"type":"Point"}
+}

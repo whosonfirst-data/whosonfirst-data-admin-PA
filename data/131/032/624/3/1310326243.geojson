@@ -1,0 +1,74 @@
+{
+  "id": 1310326243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.40938,7.4457,-80.40938,7.4457",
+    "geom:latitude":7.4457,
+    "geom:longitude":-80.40938,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Cacao",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711308,
+    "gn:latitude":7.4457,
+    "gn:longitude":-80.40938,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Cacao",
+    "gn:population":261,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacao",
+        "El Cacao"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711308
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"234b10fe2ebbf462cb629329dbce79e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1310326243,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1310326243,
+    "wof:lastmodified":1537676455,
+    "wof:name":"El Cacao",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.40938,
+    7.4457,
+    -80.40938,
+    7.4457
+],
+  "geometry": {"coordinates":[-80.40938,7.4457],"type":"Point"}
+}

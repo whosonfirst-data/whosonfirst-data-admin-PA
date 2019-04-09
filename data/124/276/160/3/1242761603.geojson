@@ -1,0 +1,70 @@
+{
+  "id": 1242761603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.18243,8.1284,-81.18243,8.1284",
+    "geom:latitude":8.1284,
+    "geom:longitude":-81.18243,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Otro Lado",
+    "gn:country_code":"PA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710314,
+    "gn:latitude":8.1284,
+    "gn:longitude":-81.18243,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Otro Lado",
+    "gn:population":17,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710314
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5dad683d6764bc680bec63cc1077fd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1242761603,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242761603,
+    "wof:lastmodified":1536798759,
+    "wof:name":"El Otro Lado",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18243000000002,
+    8.1284,
+    -81.18243000000002,
+    8.1284
+],
+  "geometry": {"coordinates":[-81.18243000000002,8.1284],"type":"Point"}
+}

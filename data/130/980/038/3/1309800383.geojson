@@ -1,0 +1,70 @@
+{
+  "id": 1309800383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25263,7.48898,-80.25263,7.48898",
+    "geom:latitude":7.48898,
+    "geom:longitude":-80.25263,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Planes",
+    "gn:country_code":"PA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705054,
+    "gn:latitude":7.48898,
+    "gn:longitude":-80.25263,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Planes",
+    "gn:population":3,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705054
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d2e6625255018c150803642a7adf3e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1309800383,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1309800383,
+    "wof:lastmodified":1536939614,
+    "wof:name":"Los Planes",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25263000000002,
+    7.48898,
+    -80.25263000000002,
+    7.48898
+],
+  "geometry": {"coordinates":[-80.25263000000002,7.48898],"type":"Point"}
+}

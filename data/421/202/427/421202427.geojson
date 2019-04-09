@@ -1,0 +1,79 @@
+{
+  "id": 421202427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.45,8.8,-82.45,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":-82.45,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Los Cabezos"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3705479,
+    "qs:gn_pop":0,
+    "qs:name":"Los Cabezos",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":689,
+    "qs:photos_1k":140,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":689,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":222193,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158589,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421175373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705479,
+        "gp:id":158589,
+        "qs:id":222193
+    },
+    "wof:country":"PA",
+    "wof:created":1459010117,
+    "wof:geomhash":"046101da720707aa41835138131567e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175373,
+            "locality_id":421202427,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421202427,
+    "wof:lastmodified":1501268794,
+    "wof:name":"Los Cabezos",
+    "wof:parent_id":421175373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.45,
+    8.8,
+    -82.45,
+    8.8
+],
+  "geometry": {"coordinates":[-82.45,8.8],"type":"Point"}
+}

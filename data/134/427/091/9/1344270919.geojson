@@ -1,0 +1,67 @@
+{
+  "id": 1344270919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.42488,9.30209,-82.42488,9.30209",
+    "geom:latitude":9.30209,
+    "geom:longitude":-82.42488,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fruitdale",
+    "gn:country_code":"PA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709453,
+    "gn:latitude":9.30209,
+    "gn:longitude":-82.42488,
+    "gn:modification_date":"2014-06-30",
+    "gn:name":"Fruitdale",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709453
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"18bcbb79c32cd4a868f361a73a83a1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1344270919,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1344270919,
+    "wof:lastmodified":1537066064,
+    "wof:name":"Fruitdale",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.42488,
+    9.30209,
+    -82.42488,
+    9.30209
+],
+  "geometry": {"coordinates":[-82.42488,9.30209],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343449957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.04,7.70639,-81.04,7.70639",
+    "geom:latitude":7.70639,
+    "geom:longitude":-81.04,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Diafara",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711643,
+    "gn:latitude":7.70639,
+    "gn:longitude":-81.04,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Di\u00e1fara",
+    "gn:population":2,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711643
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c88edbe6c8ca9ea3f919bdefdb5f874b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1343449957,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343449957,
+    "wof:lastmodified":1536761649,
+    "wof:name":"Diafara",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.04,
+    7.70639,
+    -81.04,
+    7.70639
+],
+  "geometry": {"coordinates":[-81.04000000000001,7.70639],"type":"Point"}
+}

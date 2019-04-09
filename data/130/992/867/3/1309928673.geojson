@@ -1,0 +1,73 @@
+{
+  "id": 1309928673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.9281,7.98419,-77.9281,7.98419",
+    "geom:latitude":7.98419,
+    "geom:longitude":-77.9281,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chuleti",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202396,
+    "gn:latitude":7.98419,
+    "gn:longitude":-77.9281,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Chulet\u00ed",
+    "gn:population":76,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chulet\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202396
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d2a80a053a2a149241f0c84efcb48bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1309928673,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1309928673,
+    "wof:lastmodified":1537676503,
+    "wof:name":"Chuleti",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.9281,
+    7.98419,
+    -77.9281,
+    7.98419
+],
+  "geometry": {"coordinates":[-77.9281,7.98419],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226765315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.6559,9.43561,-82.6559,9.43561",
+    "geom:latitude":9.43561,
+    "geom:longitude":-82.6559,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"San San Tigra",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211232,
+    "gn:latitude":9.43561,
+    "gn:longitude":-82.6559,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San San Tigra",
+    "gn:population":217,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San San Tigra"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211232
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"de0edaa2d5f674243882abed1571ebc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1226765315,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1226765315,
+    "wof:lastmodified":1537676506,
+    "wof:name":"San San Tigra",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.6559,
+    9.43561,
+    -82.6559,
+    9.43561
+],
+  "geometry": {"coordinates":[-82.6559,9.43561],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310592849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.30177,7.86965,-80.30177,7.86965",
+    "geom:latitude":7.86965,
+    "geom:longitude":-80.30177,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Albina Grande",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708185,
+    "gn:latitude":7.86965,
+    "gn:longitude":-80.30177,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Albina Grande",
+    "gn:population":168,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Guarar\u00e9",
+        "La Albina Grande"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708185
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"82f3f4631e31130d843e51a70b544cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693219,
+            "locality_id":1310592849,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1310592849,
+    "wof:lastmodified":1537676418,
+    "wof:name":"La Albina Grande",
+    "wof:parent_id":1108693219,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.30176999999998,
+    7.86965,
+    -80.30176999999998,
+    7.86965
+],
+  "geometry": {"coordinates":[-80.30176999999998,7.86965],"type":"Point"}
+}

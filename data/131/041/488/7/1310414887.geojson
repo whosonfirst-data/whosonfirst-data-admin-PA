@@ -1,0 +1,73 @@
+{
+  "id": 1310414887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.76392,8.61903,-82.76392,8.61903",
+    "geom:latitude":8.61903,
+    "geom:longitude":-82.76392,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Bonita",
+    "gn:country_code":"PA",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347249,
+    "gn:latitude":8.61903,
+    "gn:longitude":-82.76392,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Bonita",
+    "gn:population":598,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Bonita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347249
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"22d04cccf61e9ab8bbb969aa742264e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693261,
+            "locality_id":1310414887,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1310414887,
+    "wof:lastmodified":1537676507,
+    "wof:name":"La Bonita",
+    "wof:parent_id":1108693261,
+    "wof:placetype":"locality",
+    "wof:population":598,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.76392,
+    8.61903,
+    -82.76392,
+    8.61903
+],
+  "geometry": {"coordinates":[-82.76392,8.61903],"type":"Point"}
+}

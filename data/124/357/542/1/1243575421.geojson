@@ -1,0 +1,70 @@
+{
+  "id": 1243575421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.55,7.83333,-80.55,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":-80.55,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Picadores",
+    "gn:country_code":"PA",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705077,
+    "gn:latitude":7.83333,
+    "gn:longitude":-80.55,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Los Picadores",
+    "gn:population":50,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705077
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e19ed2eab0491a9bc893df296ce3d453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693235,
+            "locality_id":1243575421,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1243575421,
+    "wof:lastmodified":1536617559,
+    "wof:name":"Los Picadores",
+    "wof:parent_id":1108693235,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.55,
+    7.83333,
+    -80.55,
+    7.83333
+],
+  "geometry": {"coordinates":[-80.55,7.83333],"type":"Point"}
+}

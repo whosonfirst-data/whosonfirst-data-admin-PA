@@ -1,0 +1,73 @@
+{
+  "id": 1225939359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63818,7.88002,-80.63818,7.88002",
+    "geom:latitude":7.88002,
+    "geom:longitude":-80.63818,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sabana Grande",
+    "gn:country_code":"PA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701703,
+    "gn:latitude":7.88002,
+    "gn:longitude":-80.63818,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Sabana Grande",
+    "gn:population":574,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabana Grande"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701703
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1a6c1826b760a18f5b0070d46092f96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1225939359,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1225939359,
+    "wof:lastmodified":1537676344,
+    "wof:name":"Sabana Grande",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":574,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63818,
+    7.88002,
+    -80.63818,
+    7.88002
+],
+  "geometry": {"coordinates":[-80.63818000000001,7.88002],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310114477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.85514,8.28363,-82.85514,8.28363",
+    "geom:latitude":8.28363,
+    "geom:longitude":-82.85514,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Barriada Nuevo Amanecer",
+    "gn:country_code":"PA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347286,
+    "gn:latitude":8.28363,
+    "gn:longitude":-82.85514,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Barriada Nuevo Amanecer",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barriada Nuevo Amanecer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347286
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f14e971ee2bb9a95035ea6c84043fa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1310114477,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1310114477,
+    "wof:lastmodified":1537676509,
+    "wof:name":"Barriada Nuevo Amanecer",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.85514,
+    8.28363,
+    -82.85514,
+    8.28363
+],
+  "geometry": {"coordinates":[-82.85514000000001,8.28363],"type":"Point"}
+}

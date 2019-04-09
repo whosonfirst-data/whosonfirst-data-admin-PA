@@ -1,0 +1,78 @@
+{
+  "id": 1260075617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.87477,8.71072,-79.87477,8.71072",
+    "geom:latitude":8.71072,
+    "geom:longitude":-79.87477,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bajada de Campana",
+    "gn:country_code":"PA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10401976,
+    "gn:latitude":8.71072,
+    "gn:longitude":-79.87477,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Bajada de Campana",
+    "gn:population":209,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10401976
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e81a9985da059ab6abb0c001b62aaa5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1260075617,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1260075617,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1260075617,
+    "wof:lastmodified":1536998658,
+    "wof:name":"Bajada de Campana",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.87477,
+    8.71072,
+    -79.87477,
+    8.71072
+],
+  "geometry": {"coordinates":[-79.87477,8.71072],"type":"Point"}
+}

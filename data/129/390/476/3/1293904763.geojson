@@ -1,0 +1,67 @@
+{
+  "id": 1293904763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6,7.5,-80.6,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":-80.6,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Planos",
+    "gn:country_code":"PA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705047,
+    "gn:latitude":7.5,
+    "gn:longitude":-80.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Planos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705047
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3ffd2d8bed85aafca36c0a354867fa92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1293904763,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1293904763,
+    "wof:lastmodified":1536682684,
+    "wof:name":"Los Planos",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6,
+    7.5,
+    -80.6,
+    7.5
+],
+  "geometry": {"coordinates":[-80.59999999999999,7.5],"type":"Point"}
+}

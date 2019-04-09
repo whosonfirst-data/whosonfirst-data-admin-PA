@@ -1,0 +1,67 @@
+{
+  "id": 1226636677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.08766,9.19463,-79.08766,9.19463",
+    "geom:latitude":9.19463,
+    "geom:longitude":-79.08766,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bonete",
+    "gn:country_code":"PA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713907,
+    "gn:latitude":9.19463,
+    "gn:longitude":-79.08766,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Bonete",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713907
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8ba713161b4227f199b8557fcff55044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1226636677,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1226636677,
+    "wof:lastmodified":1536871471,
+    "wof:name":"Bonete",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.08766,
+    9.19463,
+    -79.08766,
+    9.19463
+],
+  "geometry": {"coordinates":[-79.08766,9.19463],"type":"Point"}
+}

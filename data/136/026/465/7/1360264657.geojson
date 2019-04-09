@@ -1,0 +1,82 @@
+{
+  "id": 1360264657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76805,8.59565,-79.76805,8.59565",
+    "geom:latitude":8.59565,
+    "geom:longitude":-79.76805,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Boca de Chame",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708109,
+    "gn:latitude":8.59565,
+    "gn:longitude":-79.76805,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Boca de Chame",
+    "gn:population":1,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca de Chame",
+        "La Boca de Chame"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708109
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1a98b31978a4053a3c6aaced90297874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1360264657,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1360264657,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1360264657,
+    "wof:lastmodified":1537676417,
+    "wof:name":"La Boca de Chame",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76805,
+    8.59565,
+    -79.76805,
+    8.59565
+],
+  "geometry": {"coordinates":[-79.76805,8.59565],"type":"Point"}
+}

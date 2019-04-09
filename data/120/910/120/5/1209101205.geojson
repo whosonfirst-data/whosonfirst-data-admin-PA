@@ -1,0 +1,64 @@
+{
+  "id": 1209101205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.28333,8.43333,-81.28333,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-81.28333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Quebrada Venado",
+    "gn:country_code":"PA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702128,
+    "gn:latitude":8.43333,
+    "gn:longitude":-81.28333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Quebrada Venado",
+    "gn:population":63,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702128
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"55dc20b51f70af03bc882235c096a4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209101205
+        }
+    ],
+    "wof:id":1209101205,
+    "wof:lastmodified":1536297727,
+    "wof:name":"Quebrada Venado",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.28333,
+    8.43333,
+    -81.28333,
+    8.43333
+],
+  "geometry": {"coordinates":[-81.28333000000001,8.43333],"type":"Point"}
+}

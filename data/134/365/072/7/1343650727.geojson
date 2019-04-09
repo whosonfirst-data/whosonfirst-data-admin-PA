@@ -1,0 +1,73 @@
+{
+  "id": 1343650727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78736,8.24908,-80.78736,8.24908",
+    "geom:latitude":8.24908,
+    "geom:longitude":-80.78736,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Gallinaza",
+    "gn:country_code":"PA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707687,
+    "gn:latitude":8.24908,
+    "gn:longitude":-80.78736,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Gallinaza",
+    "gn:population":166,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Gallinaza"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707687
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9e311810cdfb958c8ff95994d706f477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1343650727,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343650727,
+    "wof:lastmodified":1537676410,
+    "wof:name":"La Gallinaza",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78735999999998,
+    8.24908,
+    -80.78735999999998,
+    8.24908
+],
+  "geometry": {"coordinates":[-80.78735999999998,8.24908],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243252635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.18167,7.80472,-81.18167,7.80472",
+    "geom:latitude":7.80472,
+    "geom:longitude":-81.18167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Corocita",
+    "gn:country_code":"PA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707877,
+    "gn:latitude":7.80472,
+    "gn:longitude":-81.18167,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"La Corocita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707877
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9be3fc0383ed7ef35be58d88b9cd1e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1243252635,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243252635,
+    "wof:lastmodified":1537081754,
+    "wof:name":"La Corocita",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18167,
+    7.80472,
+    -81.18167,
+    7.80472
+],
+  "geometry": {"coordinates":[-81.18167,7.80472],"type":"Point"}
+}

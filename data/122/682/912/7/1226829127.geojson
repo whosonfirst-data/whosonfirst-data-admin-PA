@@ -1,0 +1,67 @@
+{
+  "id": 1226829127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.8,8.31667,-81.8,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":-81.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sabana Chiquita",
+    "gn:country_code":"PA",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701706,
+    "gn:latitude":8.31667,
+    "gn:longitude":-81.8,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Sabana Chiquita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701706
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"698c7ce2dc348c6703eb802f880f99c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1226829127,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226829127,
+    "wof:lastmodified":1537089086,
+    "wof:name":"Sabana Chiquita",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.8,
+    8.31667,
+    -81.8,
+    8.31667
+],
+  "geometry": {"coordinates":[-81.8,8.31667],"type":"Point"}
+}

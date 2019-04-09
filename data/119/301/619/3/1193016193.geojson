@@ -1,0 +1,74 @@
+{
+  "id": 1193016193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56445,9.61142,-79.56445,9.61142",
+    "geom:latitude":9.61142,
+    "geom:longitude":-79.56445,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Juan Gallego",
+    "gn:country_code":"PA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708294,
+    "gn:latitude":9.61142,
+    "gn:longitude":-79.56445,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Juan Gallego",
+    "gn:population":290,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juan Gallegos",
+        "Juan Gallego"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708294
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b44ada2a33fe04071ae22621edc7ada6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1193016193,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1193016193,
+    "wof:lastmodified":1537676419,
+    "wof:name":"Juan Gallego",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56445,
+    9.61142,
+    -79.56445,
+    9.61142
+],
+  "geometry": {"coordinates":[-79.56444999999999,9.61142],"type":"Point"}
+}

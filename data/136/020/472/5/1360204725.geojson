@@ -1,0 +1,67 @@
+{
+  "id": 1360204725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9925,9.14778,-78.9925,9.14778",
+    "geom:latitude":9.14778,
+    "geom:longitude":-78.9925,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jesus Maria",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708391,
+    "gn:latitude":9.14778,
+    "gn:longitude":-78.9925,
+    "gn:modification_date":"1998-08-07",
+    "gn:name":"Jes\u00fas Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708391
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4dfa53027c62cd68c913864613649914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1360204725,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1360204725,
+    "wof:lastmodified":1536773787,
+    "wof:name":"Jesus Maria",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9925,
+    9.14778,
+    -78.9925,
+    9.14778
+],
+  "geometry": {"coordinates":[-78.99250000000001,9.14778],"type":"Point"}
+}

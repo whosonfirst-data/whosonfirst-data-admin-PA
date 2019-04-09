@@ -1,0 +1,67 @@
+{
+  "id": 1226546201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2075,9.18861,-80.2075,9.18861",
+    "geom:latitude":9.18861,
+    "geom:longitude":-80.2075,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pilon",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702861,
+    "gn:latitude":9.18861,
+    "gn:longitude":-80.2075,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Pil\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702861
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"30a75633adb43c852e6d91c65770eebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693217,
+            "locality_id":1226546201,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1226546201,
+    "wof:lastmodified":1536996549,
+    "wof:name":"Pilon",
+    "wof:parent_id":1108693217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2075,
+    9.18861,
+    -80.2075,
+    9.18861
+],
+  "geometry": {"coordinates":[-80.2075,9.18861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293281275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.0,7.81667,-81.0,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":-81.0,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Aguacatales",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715084,
+    "gn:latitude":7.81667,
+    "gn:longitude":-81.0,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Aguacatales",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715084
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"87332d8b0047a5eb1c68cf8956ccee9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1293281275,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293281275,
+    "wof:lastmodified":1537081157,
+    "wof:name":"Aguacatales",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.0,
+    7.81667,
+    -81.0,
+    7.81667
+],
+  "geometry": {"coordinates":[-81.0,7.81667],"type":"Point"}
+}

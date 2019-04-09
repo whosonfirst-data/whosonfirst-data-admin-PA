@@ -1,0 +1,73 @@
+{
+  "id": 1260161017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.04098,8.56928,-82.04098,8.56928",
+    "geom:latitude":8.56928,
+    "geom:longitude":-82.04098,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Boca de Quebrada Remedios",
+    "gn:country_code":"PA",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347387,
+    "gn:latitude":8.56928,
+    "gn:longitude":-82.04098,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Boca de Quebrada Remedios",
+    "gn:population":323,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de Quebrada Remedios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        421184905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347387
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ca22d965849c2f360c82b406b5f97294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421184905,
+            "locality_id":1260161017,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1260161017,
+    "wof:lastmodified":1537676512,
+    "wof:name":"Boca de Quebrada Remedios",
+    "wof:parent_id":421184905,
+    "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.04098,
+    8.56928,
+    -82.04098,
+    8.56928
+],
+  "geometry": {"coordinates":[-82.04098,8.56928],"type":"Point"}
+}

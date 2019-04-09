@@ -1,0 +1,67 @@
+{
+  "id": 1209395093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.84103,8.87064,-81.84103,8.87064",
+    "geom:latitude":8.87064,
+    "geom:longitude":-81.84103,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nutivi",
+    "gn:country_code":"PA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703807,
+    "gn:latitude":8.87064,
+    "gn:longitude":-81.84103,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Nutiv\u00ed",
+    "gn:population":546,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nutiv\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703807
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"14c1ce92096c57aa4476d03860a8ddfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209395093
+        }
+    ],
+    "wof:id":1209395093,
+    "wof:lastmodified":1537676364,
+    "wof:name":"Nutivi",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":546,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.84103,
+    8.87064,
+    -81.84103,
+    8.87064
+],
+  "geometry": {"coordinates":[-81.84103,8.87064],"type":"Point"}
+}

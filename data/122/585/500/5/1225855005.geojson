@@ -1,0 +1,70 @@
+{
+  "id": 1225855005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.81813,8.3031,-81.81813,8.3031",
+    "geom:latitude":8.3031,
+    "geom:longitude":-81.81813,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cerro Quirate",
+    "gn:country_code":"PA",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347485,
+    "gn:latitude":8.3031,
+    "gn:longitude":-81.81813,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Cerro Quirate",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Quirate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347485
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2a34e5f00cf7ad1e2f2e3be10f5019f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1225855005,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1225855005,
+    "wof:lastmodified":1537676514,
+    "wof:name":"Cerro Quirate",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.81813000000002,
+    8.3031,
+    -81.81813000000002,
+    8.3031
+],
+  "geometry": {"coordinates":[-81.81813000000002,8.3031],"type":"Point"}
+}

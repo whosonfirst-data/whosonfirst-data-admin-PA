@@ -1,0 +1,67 @@
+{
+  "id": 1293306917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.88333,9.58333,-82.88333,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":-82.88333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quebrada Endi",
+    "gn:country_code":"PA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702219,
+    "gn:latitude":9.58333,
+    "gn:longitude":-82.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Quebrada Endi",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702219
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ccd486952748eb32ea353f17c213b47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "locality_id":1293306917,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1293306917,
+    "wof:lastmodified":1537045389,
+    "wof:name":"Quebrada Endi",
+    "wof:parent_id":421185333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.88333,
+    9.58333,
+    -82.88333,
+    9.58333
+],
+  "geometry": {"coordinates":[-82.88333,9.58333],"type":"Point"}
+}

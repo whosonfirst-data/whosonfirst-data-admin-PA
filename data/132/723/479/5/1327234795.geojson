@@ -1,0 +1,70 @@
+{
+  "id": 1327234795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.67324,8.33352,-82.67324,8.33352",
+    "geom:latitude":8.33352,
+    "geom:longitude":-82.67324,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estero Rico",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709640,
+    "gn:latitude":8.33352,
+    "gn:longitude":-82.67324,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Estero Rico",
+    "gn:population":2,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709640
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5e87cac1c2f33a810b1ac1bc4f1fe636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":1327234795,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1327234795,
+    "wof:lastmodified":1536965853,
+    "wof:name":"Estero Rico",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.67324,
+    8.33352,
+    -82.67324,
+    8.33352
+],
+  "geometry": {"coordinates":[-82.67324000000001,8.33352],"type":"Point"}
+}

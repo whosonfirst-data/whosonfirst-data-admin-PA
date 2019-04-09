@@ -1,0 +1,79 @@
+{
+  "id": 1226828459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03333,8.48333,-80.03333,8.48333",
+    "geom:latitude":8.48333,
+    "geom:longitude":-80.03333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Gloria",
+    "gn:country_code":"PA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707636,
+    "gn:latitude":8.48333,
+    "gn:longitude":-80.03333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"La Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto de la Gloria",
+        "La Gloria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707636
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"426e25ef0d8e98d22fe2b0a758c5c594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1226828459,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1226828459,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1226828459,
+    "wof:lastmodified":1537676409,
+    "wof:name":"La Gloria",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03333,
+    8.48333,
+    -80.03333,
+    8.48333
+],
+  "geometry": {"coordinates":[-80.03333000000001,8.48333],"type":"Point"}
+}

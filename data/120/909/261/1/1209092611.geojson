@@ -1,0 +1,61 @@
+{
+  "id": 1209092611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83109,8.79469,-79.83109,8.79469",
+    "geom:latitude":8.79469,
+    "geom:longitude":-79.83109,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Agua Rica",
+    "gn:country_code":"PA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715016,
+    "gn:latitude":8.79469,
+    "gn:longitude":-79.83109,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Agua Rica",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715016
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ce6db19ac31c86ac22b10e2335807c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209092611
+        }
+    ],
+    "wof:id":1209092611,
+    "wof:lastmodified":1536297989,
+    "wof:name":"Agua Rica",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83109,
+    8.79469,
+    -79.83109,
+    8.79469
+],
+  "geometry": {"coordinates":[-79.83109,8.79469],"type":"Point"}
+}

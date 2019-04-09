@@ -1,0 +1,72 @@
+{
+  "id": 1326635887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75242,9.26629,-79.75242,9.26629",
+    "geom:latitude":9.26629,
+    "geom:longitude":-79.75242,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Agua Sucia",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714999,
+    "gn:latitude":9.26629,
+    "gn:longitude":-79.75242,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Agua Sucia",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Agua Sucia",
+        "Agua Sucia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714999
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b0f8fec818d10af25f9ab40172114fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1326635887,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1326635887,
+    "wof:lastmodified":1537676492,
+    "wof:name":"Agua Sucia",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75242,
+    9.26629,
+    -79.75242,
+    9.26629
+],
+  "geometry": {"coordinates":[-79.75242,9.26629],"type":"Point"}
+}

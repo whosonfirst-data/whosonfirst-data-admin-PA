@@ -1,0 +1,71 @@
+{
+  "id": 1276441007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.71581,8.16967,-77.71581,8.16967",
+    "geom:latitude":8.16967,
+    "geom:longitude":-77.71581,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Doncella",
+    "gn:country_code":"PA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544071,
+    "gn:latitude":8.16967,
+    "gn:longitude":-77.71581,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Doncella",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Doncollo",
+        "La Doncello"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544071
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e04dc497eb380bc1bdf7d808d89c182a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1276441007,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1276441007,
+    "wof:lastmodified":1537676495,
+    "wof:name":"La Doncella",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.71581,
+    8.16967,
+    -77.71581,
+    8.16967
+],
+  "geometry": {"coordinates":[-77.71581,8.16967],"type":"Point"}
+}

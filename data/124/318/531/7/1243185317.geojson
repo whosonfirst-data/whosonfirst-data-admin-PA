@@ -1,0 +1,73 @@
+{
+  "id": 1243185317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.78128,8.45748,-82.78128,8.45748",
+    "geom:latitude":8.45748,
+    "geom:longitude":-82.78128,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Barro Blanco",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347260,
+    "gn:latitude":8.45748,
+    "gn:longitude":-82.78128,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Barro Blanco",
+    "gn:population":331,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barro Blanco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347260
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be0a35d5ef9056256ab134cdde023bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1243185317,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1243185317,
+    "wof:lastmodified":1537676508,
+    "wof:name":"Barro Blanco",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.78128000000002,
+    8.45748,
+    -82.78128000000002,
+    8.45748
+],
+  "geometry": {"coordinates":[-82.78128000000002,8.45748],"type":"Point"}
+}

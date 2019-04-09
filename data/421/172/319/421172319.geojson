@@ -1,0 +1,79 @@
+{
+  "id": 421172319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.41667,8.56667,-82.41667,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":-82.41667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3702464,
+    "qs:gn_pop":1169,
+    "qs:name":"Pueblo Nuevo",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":150230,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159647,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702464,
+        "gp:id":159647,
+        "qs:id":150230
+    },
+    "wof:country":"PA",
+    "wof:created":1459008931,
+    "wof:geomhash":"497d386fd99cedfecf9aa8ec1f015e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":421172319,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421172319,
+    "wof:lastmodified":1505340610,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:population":1169,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.41667,
+    8.56667,
+    -82.41667,
+    8.56667
+],
+  "geometry": {"coordinates":[-82.41667,8.56667],"type":"Point"}
+}

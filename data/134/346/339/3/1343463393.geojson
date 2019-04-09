@@ -1,0 +1,67 @@
+{
+  "id": 1343463393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.73441,8.1171,-77.73441,8.1171",
+    "geom:latitude":8.1171,
+    "geom:longitude":-77.73441,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Real",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9178643,
+    "gn:latitude":8.1171,
+    "gn:longitude":-77.73441,
+    "gn:modification_date":"2014-06-30",
+    "gn:name":"El Real",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9178643
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"460f47160af8ee74841d0811e4e61064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1343463393,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1343463393,
+    "wof:lastmodified":1536741669,
+    "wof:name":"El Real",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.73441,
+    8.1171,
+    -77.73441,
+    8.1171
+],
+  "geometry": {"coordinates":[-77.73441,8.1171],"type":"Point"}
+}

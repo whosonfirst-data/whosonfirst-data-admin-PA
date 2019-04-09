@@ -1,0 +1,75 @@
+{
+  "id": 1226755079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13723,8.35658,-80.13723,8.35658",
+    "geom:latitude":8.35658,
+    "geom:longitude":-80.13723,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Farallon",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710855,
+    "gn:latitude":8.35658,
+    "gn:longitude":-80.13723,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Farall\u00f3n",
+    "gn:population":1967,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa del Farall\u00f3n",
+        "Farall\u00f3n",
+        "El Farall\u00f3n del Chir\u00fa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710855
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7305546aa53330e26427d337b6570691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1226755079,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226755079,
+    "wof:lastmodified":1537676448,
+    "wof:name":"Farallon",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":1967,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13723,
+    8.35658,
+    -80.13723,
+    8.35658
+],
+  "geometry": {"coordinates":[-80.13723,8.35658],"type":"Point"}
+}

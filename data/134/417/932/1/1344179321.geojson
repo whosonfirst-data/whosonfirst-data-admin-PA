@@ -1,0 +1,73 @@
+{
+  "id": 1344179321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76435,7.98267,-80.76435,7.98267",
+    "geom:latitude":7.98267,
+    "geom:longitude":-80.76435,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cabuya",
+    "gn:country_code":"PA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3708062,
+    "gn:latitude":7.98267,
+    "gn:longitude":-80.76435,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cabuya",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cabuya"
+    ],
+    "name:und_x_variant":[
+        "La Cabuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708062
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2ee38ae95ab738bc46817cb501f6d678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1344179321,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1344179321,
+    "wof:lastmodified":1537676416,
+    "wof:name":"Cabuya",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76435,
+    7.98267,
+    -80.76435,
+    7.98267
+],
+  "geometry": {"coordinates":[-80.76434999999999,7.98267],"type":"Point"}
+}

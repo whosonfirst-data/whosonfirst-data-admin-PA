@@ -1,0 +1,70 @@
+{
+  "id": 1327452045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.24825,8.17722,-81.24825,8.17722",
+    "geom:latitude":8.17722,
+    "geom:longitude":-81.24825,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cortaderal",
+    "gn:country_code":"PA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711857,
+    "gn:latitude":8.17722,
+    "gn:longitude":-81.24825,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cortaderal",
+    "gn:population":21,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711857
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d37d96f8c86f282b943a5c1cf44d75fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1327452045,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327452045,
+    "wof:lastmodified":1536652306,
+    "wof:name":"Cortaderal",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.24825,
+    8.17722,
+    -81.24825,
+    8.17722
+],
+  "geometry": {"coordinates":[-81.24825,8.17722],"type":"Point"}
+}

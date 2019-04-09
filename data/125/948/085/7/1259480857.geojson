@@ -1,0 +1,70 @@
+{
+  "id": 1259480857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61867,8.09691,-80.61867,8.09691",
+    "geom:latitude":8.09691,
+    "geom:longitude":-80.61867,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Escota",
+    "gn:country_code":"PA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709724,
+    "gn:latitude":8.09691,
+    "gn:longitude":-80.61867,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Escot\u00e1",
+    "gn:population":17,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709724
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8c97536d6b9bd6e7719bce5a6b6a98f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693273,
+            "locality_id":1259480857,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1259480857,
+    "wof:lastmodified":1536861151,
+    "wof:name":"Escota",
+    "wof:parent_id":1108693273,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61867,
+    8.09691,
+    -80.61867,
+    8.09691
+],
+  "geometry": {"coordinates":[-80.61866999999999,8.09691],"type":"Point"}
+}

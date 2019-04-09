@@ -1,0 +1,73 @@
+{
+  "id": 1259695531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.31919,8.70948,-80.31919,8.70948",
+    "geom:latitude":8.70948,
+    "geom:longitude":-80.31919,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tucue",
+    "gn:country_code":"PA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700384,
+    "gn:latitude":8.70948,
+    "gn:longitude":-80.31919,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tucu\u00e9",
+    "gn:population":276,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tucu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700384
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e4696fea34679e7ae3e80f302f8b8e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1259695531,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1259695531,
+    "wof:lastmodified":1537676334,
+    "wof:name":"Tucue",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":276,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.31919,
+    8.70948,
+    -80.31919,
+    8.70948
+],
+  "geometry": {"coordinates":[-80.31919000000001,8.70948],"type":"Point"}
+}

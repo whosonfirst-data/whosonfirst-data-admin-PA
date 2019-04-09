@@ -1,0 +1,70 @@
+{
+  "id": 1310514181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.69903,8.29345,-81.69903,8.29345",
+    "geom:latitude":8.29345,
+    "geom:longitude":-81.69903,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Potrero de Cana",
+    "gn:country_code":"PA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702542,
+    "gn:latitude":8.29345,
+    "gn:longitude":-81.69903,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Potrero de Ca\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Potrero de Ca\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702542
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b99f2c1ee019fd0a35dccfd627130c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1310514181,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1310514181,
+    "wof:lastmodified":1537676356,
+    "wof:name":"Potrero de Cana",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.69903000000002,
+    8.29345,
+    -81.69903000000002,
+    8.29345
+],
+  "geometry": {"coordinates":[-81.69903000000002,8.29345],"type":"Point"}
+}

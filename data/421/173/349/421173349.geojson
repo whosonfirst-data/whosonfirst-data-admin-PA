@@ -1,0 +1,106 @@
+{
+  "id": 421173349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.65,8.55,-82.65,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-82.65,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u0440\u0442\u043e\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Sortov\u00e1"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10dd\u10e0\u10e2\u10dd\u10d5\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Sortov\u00e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e0\u10e2\u10dd\u10d5\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "Sortov\u00e1"
+    ],
+    "name:spa_x_variant":[
+        "Sortova"
+    ],
+    "name:unk_x_variant":[
+        "Sortoua"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3700871,
+    "qs:gn_pop":1678,
+    "qs:name":"Sortov\u00e1",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":287306,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160362,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700871,
+        "gp:id":160362,
+        "qs:id":287306,
+        "wd:id":"Q7563793",
+        "wk:page":"Sortov\u00e1"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008979,
+    "wof:geomhash":"971b9b3a7b504a104f21426dec3acac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":421173349,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421173349,
+    "wof:lastmodified":1527716257,
+    "wof:name":"Sortov\u00e1",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":1678,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.65,
+    8.55,
+    -82.65,
+    8.55
+],
+  "geometry": {"coordinates":[-82.65000000000001,8.55],"type":"Point"}
+}

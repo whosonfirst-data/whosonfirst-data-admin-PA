@@ -1,0 +1,74 @@
+{
+  "id": 1293875261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.35772,7.88422,-80.35772,7.88422",
+    "geom:latitude":7.88422,
+    "geom:longitude":-80.35772,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Angeles",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705544,
+    "gn:latitude":7.88422,
+    "gn:longitude":-80.35772,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los \u00c1ngeles",
+    "gn:population":342,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los \u00c1ngeles"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705544,
+        "wk:page":"Los_%C3%81ngeles%2C_Los_Santos"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ead7557dca54f8d6b98c01ee2baca3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693235,
+            "locality_id":1293875261,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1293875261,
+    "wof:lastmodified":1537676382,
+    "wof:name":"Los Angeles",
+    "wof:parent_id":1108693235,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.35772,
+    7.88422,
+    -80.35772,
+    7.88422
+],
+  "geometry": {"coordinates":[-80.35772,7.88422],"type":"Point"}
+}

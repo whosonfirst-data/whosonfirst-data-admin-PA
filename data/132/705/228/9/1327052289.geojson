@@ -1,0 +1,70 @@
+{
+  "id": 1327052289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.82341,7.72864,-80.82341,7.72864",
+    "geom:latitude":7.72864,
+    "geom:longitude":-80.82341,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"631.0",
+    "gn:admin3_code":"3712504.0",
+    "gn:asciiname":"Chepo",
+    "gn:country_code":"PA",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712506,
+    "gn:latitude":7.72864,
+    "gn:longitude":-80.82341,
+    "gn:modification_date":"2014-11-29",
+    "gn:name":"Chepo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712506,
+        "wk:page":"Chepo%2C_Herrera"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"743966894d2309a2410ba0028512bfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693227,
+            "locality_id":1327052289,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1327052289,
+    "wof:lastmodified":1537570212,
+    "wof:name":"Chepo",
+    "wof:parent_id":1108693227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.82341,
+    7.72864,
+    -80.82341,
+    7.72864
+],
+  "geometry": {"coordinates":[-80.82341,7.72864],"type":"Point"}
+}

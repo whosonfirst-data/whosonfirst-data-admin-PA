@@ -1,0 +1,67 @@
+{
+  "id": 1277053059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.0,8.5,-82.0,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":-82.0,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Corozo",
+    "gn:country_code":"PA",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711892,
+    "gn:latitude":8.5,
+    "gn:longitude":-82.0,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Corozo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        421184905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711892
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"01e1528bc735176a161f02d05a1c8f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421184905,
+            "locality_id":1277053059,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1277053059,
+    "wof:lastmodified":1536808643,
+    "wof:name":"Corozo",
+    "wof:parent_id":421184905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.0,
+    8.5,
+    -82.0,
+    8.5
+],
+  "geometry": {"coordinates":[-82.0,8.5],"type":"Point"}
+}

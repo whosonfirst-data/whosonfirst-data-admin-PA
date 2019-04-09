@@ -1,0 +1,73 @@
+{
+  "id": 1242983733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.86435,8.43453,-82.86435,8.43453",
+    "geom:latitude":8.43453,
+    "geom:longitude":-82.86435,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chuchupate",
+    "gn:country_code":"PA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347263,
+    "gn:latitude":8.43453,
+    "gn:longitude":-82.86435,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Chuchupate",
+    "gn:population":868,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chuchupate"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347263
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"669ddc1f751f886164a7470b2b37152d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1242983733,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1242983733,
+    "wof:lastmodified":1537676508,
+    "wof:name":"Chuchupate",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":868,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.86435,
+    8.43453,
+    -82.86435,
+    8.43453
+],
+  "geometry": {"coordinates":[-82.86435,8.43453],"type":"Point"}
+}

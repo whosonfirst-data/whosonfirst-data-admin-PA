@@ -1,0 +1,225 @@
+{
+  "id": 421198265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.86667,8.28333,-82.86667,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":-82.86667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0623\u0631\u0645\u0648\u064a\u0644\u0633"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u7a46\u57c3\u8036\u65af\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d0\u10e0\u10db\u10e3\u10d4\u10da\u10d8\u10d4\u10e1\u10d8"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0391\u03c1\u03bc\u03bf\u03c5\u03ad\u03bb\u03bb\u03b5\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d0\u10e0\u10db\u10e3\u10d4\u10da\u10d8\u10d4\u10e1\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Armueljesas"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Armuelles"
+    ],
+    "name:unk_x_variant":[
+        "Armuelles"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7a46\u57c3\u8036\u65af\u6e2f"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Panama",
+    "ne:ADM0_A3":"PAN",
+    "ne:ADM1NAME":"Chiriqu\u00ed",
+    "ne:ADMIN1_COD":2,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3702431,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Puerto Armuelles",
+    "ne:GN_POP":18795,
+    "ne:GTOPO30":12.0,
+    "ne:ISO_A2":"PA",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":8.280023,
+    "ne:LONGITUDE":-82.870017,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Puerto Armuelles",
+    "ne:MAX_AREAKM":10.0,
+    "ne:MAX_AREAMI":4.0,
+    "ne:MAX_BBXMAX":-82.85,
+    "ne:MAX_BBXMIN":-82.883333,
+    "ne:MAX_BBYMAX":8.300001,
+    "ne:MAX_BBYMIN":8.250002,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":26.0,
+    "ne:MAX_PERMI":16.0,
+    "ne:MAX_POP10":27147,
+    "ne:MAX_POP20":27147,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-82.866666,
+    "ne:MEAN_BBYC":8.277084,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":10.0,
+    "ne:MIN_AREAMI":4.0,
+    "ne:MIN_BBXMAX":-82.85,
+    "ne:MIN_BBXMIN":-82.883333,
+    "ne:MIN_BBYMAX":8.3,
+    "ne:MIN_BBYMIN":8.25,
+    "ne:MIN_PERKM":26.0,
+    "ne:MIN_PERMI":16.0,
+    "ne:NAME":"Puerto Armuelles",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto Armuelles",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":27147,
+    "ne:POP_MIN":18795,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Panama",
+    "ne:SOV_A3":"PAN",
+    "ne:TIMEZONE":"America/Panama",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3702431,
+    "qs:gn_pop":18795,
+    "qs:name":"Puerto Armuelles",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1117718,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159683,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":8.283333,
+    "wd:longitude":-82.866667,
+    "wd:wordcount":2154,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702431,
+        "gp:id":159683,
+        "qs:id":1117718,
+        "wd:id":"Q3130855",
+        "wk:page":"Puerto Armuelles"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009942,
+    "wof:geomhash":"30b0b0d6e2d51de76569d62ad02f24c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":421198265,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421198265,
+    "wof:lastmodified":1527716357,
+    "wof:name":"Puerto Armuelles",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":18795,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.86667,
+    8.28333,
+    -82.86667,
+    8.28333
+],
+  "geometry": {"coordinates":[-82.86667,8.28333],"type":"Point"}
+}

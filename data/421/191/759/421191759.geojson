@@ -1,0 +1,83 @@
+{
+  "id": 421191759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.706668,8.6465925,-79.706668,8.6465925",
+    "geom:latitude":8.646593,
+    "geom:longitude":-79.706668,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Punta Chame",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":114384,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793560,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793560,
+        "qs:id":114384
+    },
+    "wof:country":"PA",
+    "wof:created":1459009707,
+    "wof:geomhash":"c0ba75940e8e04d3980593ad2a9598d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "localadmin_id":421191759,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "localadmin_id":421191759,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421191759,
+    "wof:lastmodified":1500018207,
+    "wof:name":"Punta Chame",
+    "wof:parent_id":421189053,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.706668,
+    8.6465925,
+    -79.706668,
+    8.6465925
+],
+  "geometry": {"coordinates":[-79.70666799999999,8.6465925],"type":"Point"}
+}

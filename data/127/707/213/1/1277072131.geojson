@@ -1,0 +1,67 @@
+{
+  "id": 1277072131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.5,8.01667,-80.5,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-80.5,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Cerro",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711156,
+    "gn:latitude":8.01667,
+    "gn:longitude":-80.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711156
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"82a5a04061657708f81288ee31e0b766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1277072131,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1277072131,
+    "wof:lastmodified":1536783422,
+    "wof:name":"El Cerro",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.5,
+    8.01667,
+    -80.5,
+    8.01667
+],
+  "geometry": {"coordinates":[-80.5,8.01667],"type":"Point"}
+}

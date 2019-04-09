@@ -1,0 +1,79 @@
+{
+  "id": 1327413109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.93932,8.77079,-79.93932,8.77079",
+    "geom:latitude":8.77079,
+    "geom:longitude":-79.93932,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Caimitillo",
+    "gn:country_code":"PA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713500,
+    "gn:latitude":8.77079,
+    "gn:longitude":-79.93932,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Caimitillo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Caimitillo",
+        "Caimitillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713500
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a7e2b5785f6156ab356cb61271a6b3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1327413109,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1327413109,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1327413109,
+    "wof:lastmodified":1537676477,
+    "wof:name":"Caimitillo",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93932,
+    8.77079,
+    -79.93932,
+    8.77079
+],
+  "geometry": {"coordinates":[-79.93932,8.77079],"type":"Point"}
+}

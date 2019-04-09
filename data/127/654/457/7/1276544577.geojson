@@ -1,0 +1,73 @@
+{
+  "id": 1276544577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58609,7.98223,-80.58609,7.98223",
+    "geom:latitude":7.98223,
+    "geom:longitude":-80.58609,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Valencia",
+    "gn:country_code":"PA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706006,
+    "gn:latitude":7.98223,
+    "gn:longitude":-80.58609,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Valencia",
+    "gn:population":390,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Valencia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706006
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"981b331db6e747b8c1131c8748dede55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1276544577,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276544577,
+    "wof:lastmodified":1537676388,
+    "wof:name":"La Valencia",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58609,
+    7.98223,
+    -80.58609,
+    7.98223
+],
+  "geometry": {"coordinates":[-80.58609,7.98223],"type":"Point"}
+}

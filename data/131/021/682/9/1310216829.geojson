@@ -1,0 +1,74 @@
+{
+  "id": 1310216829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.47968,8.59331,-80.47968,8.59331",
+    "geom:latitude":8.59331,
+    "geom:longitude":-80.47968,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Albina",
+    "gn:country_code":"PA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708189,
+    "gn:latitude":8.59331,
+    "gn:longitude":-80.47968,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Albina",
+    "gn:population":101,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Albina",
+        "La Albina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708189
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3aa68874f092f95631685d027e38b652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1310216829,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310216829,
+    "wof:lastmodified":1537676418,
+    "wof:name":"La Albina",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.47968,
+    8.59331,
+    -80.47968,
+    8.59331
+],
+  "geometry": {"coordinates":[-80.47968,8.59331],"type":"Point"}
+}

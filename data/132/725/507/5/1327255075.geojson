@@ -1,0 +1,74 @@
+{
+  "id": 1327255075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.49728,7.68314,-80.49728,7.68314",
+    "geom:latitude":7.68314,
+    "geom:longitude":-80.49728,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Palmas",
+    "gn:country_code":"PA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706294,
+    "gn:latitude":7.68314,
+    "gn:longitude":-80.49728,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Palmas",
+    "gn:population":13,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Palmas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706294,
+        "wk:page":"Las_Palmas%2C_Los_Santos"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"32c18ed520a611e40f7e8a47a0386c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1327255075,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1327255075,
+    "wof:lastmodified":1537676392,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.49728,
+    7.68314,
+    -80.49728,
+    7.68314
+],
+  "geometry": {"coordinates":[-80.49728,7.68314],"type":"Point"}
+}

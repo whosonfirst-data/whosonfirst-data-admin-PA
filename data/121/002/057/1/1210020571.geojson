@@ -1,0 +1,61 @@
+{
+  "id": 1210020571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.18333,9.0,-82.18333,9.0",
+    "geom:latitude":9.0,
+    "geom:longitude":-82.18333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boca Guarumo",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713977,
+    "gn:latitude":9.0,
+    "gn:longitude":-82.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Boca Guarumo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713977
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8e8956df3fa3a4e768cc31b27efbfc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210020571,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210020571,
+    "wof:lastmodified":1536393055,
+    "wof:name":"Boca Guarumo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.18333,
+    9.0,
+    -82.18333,
+    9.0
+],
+  "geometry": {"coordinates":[-82.18333,9.0],"type":"Point"}
+}

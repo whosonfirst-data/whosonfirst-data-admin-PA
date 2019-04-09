@@ -1,0 +1,74 @@
+{
+  "id": 1226742341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76191,7.73686,-80.76191,7.73686",
+    "geom:latitude":7.73686,
+    "geom:longitude":-80.76191,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Huaca",
+    "gn:country_code":"PA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707521,
+    "gn:latitude":7.73686,
+    "gn:longitude":-80.76191,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Huaca",
+    "gn:population":46,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Algod\u00f3n",
+        "La Huaca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707521
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4796bc84645e1c81a2eb8c3243a70d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693227,
+            "locality_id":1226742341,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1226742341,
+    "wof:lastmodified":1537676408,
+    "wof:name":"La Huaca",
+    "wof:parent_id":1108693227,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76191,
+    7.73686,
+    -80.76191,
+    7.73686
+],
+  "geometry": {"coordinates":[-80.76191,7.73686],"type":"Point"}
+}

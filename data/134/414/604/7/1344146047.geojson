@@ -1,0 +1,70 @@
+{
+  "id": 1344146047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.52889,7.97139,-81.52889,7.97139",
+    "geom:latitude":7.97139,
+    "geom:longitude":-81.52889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sitio Viejo",
+    "gn:country_code":"PA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700919,
+    "gn:latitude":7.97139,
+    "gn:longitude":-81.52889,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Sitio Viejo",
+    "gn:population":19,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700919
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bd60f9ea337f160e4b59fc230e3ea03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1344146047,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1344146047,
+    "wof:lastmodified":1536752049,
+    "wof:name":"Sitio Viejo",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.52889,
+    7.97139,
+    -81.52889,
+    7.97139
+],
+  "geometry": {"coordinates":[-81.52889,7.97139],"type":"Point"}
+}

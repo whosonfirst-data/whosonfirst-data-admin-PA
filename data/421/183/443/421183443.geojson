@@ -1,0 +1,75 @@
+{
+  "id": 421183443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.826939,9.15919,-79.826939,9.15919",
+    "geom:latitude":9.15919,
+    "geom:longitude":-79.826939,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Col\u00f3n",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":23304,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":138,
+    "qs:photos_9r":22,
+    "qs:photos_all":31127,
+    "qs:photos_sr":28,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":977481,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793105,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793105,
+        "qs:id":977481,
+        "wd:id":"Q702000"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009369,
+    "wof:geomhash":"1fdc5eb463f200b77381fe0b81ed1ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421183443,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421183443,
+    "wof:lastmodified":1527717696,
+    "wof:name":"Col\u00f3n",
+    "wof:parent_id":85675789,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.826939,
+    9.15919,
+    -79.826939,
+    9.15919
+],
+  "geometry": {"coordinates":[-79.826939,9.15919],"type":"Point"}
+}

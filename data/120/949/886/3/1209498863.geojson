@@ -1,0 +1,68 @@
+{
+  "id": 1209498863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03882,8.05659,-81.03882,8.05659",
+    "geom:latitude":8.05659,
+    "geom:longitude":-81.03882,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Valdesita",
+    "gn:country_code":"PA",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706007,
+    "gn:latitude":8.05659,
+    "gn:longitude":-81.03882,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Valdesita",
+    "gn:population":228,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valdesita",
+        "La Valdesita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706007
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8d8a3eead46eefda4407cad590b2869d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209498863
+        }
+    ],
+    "wof:id":1209498863,
+    "wof:lastmodified":1537676388,
+    "wof:name":"La Valdesita",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03882,
+    8.05659,
+    -81.03882,
+    8.05659
+],
+  "geometry": {"coordinates":[-81.03882,8.05659],"type":"Point"}
+}

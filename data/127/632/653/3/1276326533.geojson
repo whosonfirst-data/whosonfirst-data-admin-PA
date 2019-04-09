@@ -1,0 +1,75 @@
+{
+  "id": 1276326533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88764,7.8976,-80.88764,7.8976",
+    "geom:latitude":7.8976,
+    "geom:longitude":-80.88764,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Corcovado",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710996,
+    "gn:latitude":7.8976,
+    "gn:longitude":-80.88764,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Corcovado",
+    "gn:population":37,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corcorado",
+        "El Corcovado"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710996
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"03b09c71736f52be19d781e174e86959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1276326533,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276326533,
+    "wof:lastmodified":1537676450,
+    "wof:name":"El Corcovado",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88764,
+    7.8976,
+    -80.88764,
+    7.8976
+],
+  "geometry": {"coordinates":[-80.88764,7.8976],"type":"Point"}
+}

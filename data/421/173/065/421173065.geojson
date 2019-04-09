@@ -1,0 +1,94 @@
+{
+  "id": 421173065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7,9.11667,-79.7,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-79.7,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Gamboa"
+    ],
+    "name:eng_x_preferred":[
+        "Gamboa"
+    ],
+    "name:fra_x_preferred":[
+        "Gamboa"
+    ],
+    "name:fre_x_preferred":[
+        "Gamboa"
+    ],
+    "name:spa_x_preferred":[
+        "Gamboa"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3709373,
+    "qs:gn_pop":0,
+    "qs:name":"Gamboa",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":3052,
+    "qs:photos_1k":618,
+    "qs:photos_9k":14,
+    "qs:photos_9r":11,
+    "qs:photos_all":3052,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":489325,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":157000,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1553,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709373,
+        "gp:id":157000,
+        "qs:id":489325,
+        "wd:id":"Q5519723",
+        "wk:page":"Gamboa, Panama"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008970,
+    "wof:geomhash":"4162d9d74dd3ba8122f280951067e4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":421173065,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421173065,
+    "wof:lastmodified":1527716255,
+    "wof:name":"Gamboa",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7,
+    9.11667,
+    -79.7,
+    9.11667
+],
+  "geometry": {"coordinates":[-79.7,9.11667],"type":"Point"}
+}

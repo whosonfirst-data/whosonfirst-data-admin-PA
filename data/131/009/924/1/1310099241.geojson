@@ -1,0 +1,70 @@
+{
+  "id": 1310099241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.99422,7.71782,-80.99422,7.71782",
+    "geom:latitude":7.71782,
+    "geom:longitude":-80.99422,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Puerto Tebario",
+    "gn:country_code":"PA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702374,
+    "gn:latitude":7.71782,
+    "gn:longitude":-80.99422,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Puerto Tebario",
+    "gn:population":25,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702374
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"24ac76e8070d06ca965e6c2ebf6adbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1310099241,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310099241,
+    "wof:lastmodified":1537004782,
+    "wof:name":"Puerto Tebario",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.99422,
+    7.71782,
+    -80.99422,
+    7.71782
+],
+  "geometry": {"coordinates":[-80.99422,7.71782],"type":"Point"}
+}

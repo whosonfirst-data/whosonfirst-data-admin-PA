@@ -1,0 +1,70 @@
+{
+  "id": 1242854655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.65,8.4,-81.65,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-81.65,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Llano Palma",
+    "gn:country_code":"PA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705687,
+    "gn:latitude":8.4,
+    "gn:longitude":-81.65,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano Palma",
+    "gn:population":188,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705687
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"952c2f892dac3f09013c5b03dd14d987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1242854655,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1242854655,
+    "wof:lastmodified":1536664635,
+    "wof:name":"Llano Palma",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.65,
+    8.4,
+    -81.65,
+    8.4
+],
+  "geometry": {"coordinates":[-81.65000000000001,8.4],"type":"Point"}
+}

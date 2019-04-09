@@ -1,0 +1,73 @@
+{
+  "id": 1259674431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.32354,9.15151,-79.32354,9.15151",
+    "geom:latitude":9.15151,
+    "geom:longitude":-79.32354,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Utive",
+    "gn:country_code":"PA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700257,
+    "gn:latitude":9.15151,
+    "gn:longitude":-79.32354,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Utiv\u00e9",
+    "gn:population":378,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Utiv\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700257
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"01cfd2d754b730c969372ee6fc0cf41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1259674431,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1259674431,
+    "wof:lastmodified":1537676332,
+    "wof:name":"Utive",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.32354000000002,
+    9.15151,
+    -79.32354000000002,
+    9.15151
+],
+  "geometry": {"coordinates":[-79.32354000000002,9.15151],"type":"Point"}
+}

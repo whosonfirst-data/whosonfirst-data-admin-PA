@@ -1,0 +1,70 @@
+{
+  "id": 1259461155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.10007,7.87991,-78.10007,7.87991",
+    "geom:latitude":7.87991,
+    "geom:longitude":-78.10007,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cucaracha",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764189,
+    "gn:latitude":7.87991,
+    "gn:longitude":-78.10007,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cucaracha",
+    "gn:population":3,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764189
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8527c1b2eeaaca82e6d4d1d03460b289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1259461155,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1259461155,
+    "wof:lastmodified":1536890563,
+    "wof:name":"Cucaracha",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.10007,
+    7.87991,
+    -78.10007,
+    7.87991
+],
+  "geometry": {"coordinates":[-78.10007,7.87991],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343947721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.41372,9.36529,-78.41372,9.36529",
+    "geom:latitude":9.36529,
+    "geom:longitude":-78.41372,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Maguebganti",
+    "gn:country_code":"PA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704795,
+    "gn:latitude":9.36529,
+    "gn:longitude":-78.41372,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Maguebgant\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Maguebgant\u00ed"
+    ],
+    "name:und_x_variant":[
+        "Mayogandi",
+        "Maguebgandi",
+        "Maguegand\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704795
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2c1969d66e962496e458495018b323ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "locality_id":1343947721,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":1343947721,
+    "wof:lastmodified":1537676372,
+    "wof:name":"Maguebganti",
+    "wof:parent_id":1108693213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.41372,
+    9.36529,
+    -78.41372,
+    9.36529
+],
+  "geometry": {"coordinates":[-78.41372,9.36529],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1242850835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.02323,8.46178,-80.02323,8.46178",
+    "geom:latitude":8.46178,
+    "geom:longitude":-80.02323,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Palo Diferente",
+    "gn:country_code":"PA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703481,
+    "gn:latitude":8.46178,
+    "gn:longitude":-80.02323,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Palo Diferente",
+    "gn:population":256,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palo Diferente"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703481
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"108e3c48e882fc839a80262265ca5d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1242850835,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1242850835,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1242850835,
+    "wof:lastmodified":1537676362,
+    "wof:name":"Palo Diferente",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.02323,
+    8.46178,
+    -80.02323,
+    8.46178
+],
+  "geometry": {"coordinates":[-80.02323,8.46178],"type":"Point"}
+}

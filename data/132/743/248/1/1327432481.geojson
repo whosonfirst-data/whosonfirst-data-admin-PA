@@ -1,0 +1,73 @@
+{
+  "id": 1327432481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71352,9.2831,-79.71352,9.2831",
+    "geom:latitude":9.2831,
+    "geom:longitude":-79.71352,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Quebrada Bonita",
+    "gn:country_code":"PA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702278,
+    "gn:latitude":9.2831,
+    "gn:longitude":-79.71352,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Bonita",
+    "gn:population":305,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Bonita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702278
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4c031bee6a41ac85f284b89683b97290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1327432481,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1327432481,
+    "wof:lastmodified":1537676352,
+    "wof:name":"Quebrada Bonita",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71351999999997,
+    9.2831,
+    -79.71351999999997,
+    9.2831
+],
+  "geometry": {"coordinates":[-79.71351999999997,9.2831],"type":"Point"}
+}

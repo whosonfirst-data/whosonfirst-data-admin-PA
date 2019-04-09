@@ -1,0 +1,70 @@
+{
+  "id": 1226033979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.06359,8.4216,-81.06359,8.4216",
+    "geom:latitude":8.4216,
+    "geom:longitude":-81.06359,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Cedro",
+    "gn:country_code":"PA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348580,
+    "gn:latitude":8.4216,
+    "gn:longitude":-81.06359,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"El Cedro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348580
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fc7056e9919227d0c7e77cf3c96d0a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1226033979,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226033979,
+    "wof:lastmodified":1537676520,
+    "wof:name":"El Cedro",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.06359,
+    8.4216,
+    -81.06359,
+    8.4216
+],
+  "geometry": {"coordinates":[-81.06359,8.4216],"type":"Point"}
+}

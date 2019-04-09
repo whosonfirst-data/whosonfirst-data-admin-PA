@@ -1,0 +1,70 @@
+{
+  "id": 1276140021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03722,7.97583,-81.03722,7.97583",
+    "geom:latitude":7.97583,
+    "geom:longitude":-81.03722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Redonda",
+    "gn:country_code":"PA",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706722,
+    "gn:latitude":7.97583,
+    "gn:longitude":-81.03722,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"La Redonda",
+    "gn:population":118,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706722
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"236445d931e11934b651485d4faf3837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171341,
+            "locality_id":1276140021,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276140021,
+    "wof:lastmodified":1537036187,
+    "wof:name":"La Redonda",
+    "wof:parent_id":421171341,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03721999999998,
+    7.97583,
+    -81.03721999999998,
+    7.97583
+],
+  "geometry": {"coordinates":[-81.03721999999998,7.97583],"type":"Point"}
+}

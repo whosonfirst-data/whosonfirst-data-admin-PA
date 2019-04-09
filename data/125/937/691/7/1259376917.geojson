@@ -1,0 +1,73 @@
+{
+  "id": 1259376917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95361,7.99344,-80.95361,7.99344",
+    "geom:latitude":7.99344,
+    "geom:longitude":-80.95361,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tara",
+    "gn:country_code":"PA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700751,
+    "gn:latitude":7.99344,
+    "gn:longitude":-80.95361,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tara",
+    "gn:population":90,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tara"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700751
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c5e9931d1f1616eda86a2167c87ffabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693187,
+            "locality_id":1259376917,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259376917,
+    "wof:lastmodified":1537676337,
+    "wof:name":"Tara",
+    "wof:parent_id":1108693187,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95361,
+    7.99344,
+    -80.95361,
+    7.99344
+],
+  "geometry": {"coordinates":[-80.95361,7.99344],"type":"Point"}
+}

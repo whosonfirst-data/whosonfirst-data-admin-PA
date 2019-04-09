@@ -1,0 +1,73 @@
+{
+  "id": 1276649075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.91335,7.81756,-80.91335,7.81756",
+    "geom:latitude":7.81756,
+    "geom:longitude":-80.91335,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Limon de Tijeras",
+    "gn:country_code":"PA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705840,
+    "gn:latitude":7.81756,
+    "gn:longitude":-80.91335,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Lim\u00f3n de Tijeras",
+    "gn:population":56,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lim\u00f3n de Tijeras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705840
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"62bb8ee992549167e5ebc6fe84bbfb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1276649075,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276649075,
+    "wof:lastmodified":1537676387,
+    "wof:name":"Limon de Tijeras",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.91335,
+    7.81756,
+    -80.91335,
+    7.81756
+],
+  "geometry": {"coordinates":[-80.91334999999999,7.81756],"type":"Point"}
+}

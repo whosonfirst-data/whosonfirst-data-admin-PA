@@ -1,0 +1,67 @@
+{
+  "id": 1292980413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75,8.91667,-79.75,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-79.75,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rio Caimito",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701900,
+    "gn:latitude":8.91667,
+    "gn:longitude":-79.75,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"R\u00edo Caimito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701900
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5c54d99282ce14311f471c23bb616aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1292980413,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1292980413,
+    "wof:lastmodified":1537020156,
+    "wof:name":"Rio Caimito",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75,
+    8.91667,
+    -79.75,
+    8.91667
+],
+  "geometry": {"coordinates":[-79.75,8.91667],"type":"Point"}
+}

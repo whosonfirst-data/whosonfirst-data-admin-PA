@@ -1,0 +1,73 @@
+{
+  "id": 1309989685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78571,8.19561,-80.78571,8.19561",
+    "geom:latitude":8.19561,
+    "geom:longitude":-80.78571,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Llano Colorado",
+    "gn:country_code":"PA",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705776,
+    "gn:latitude":8.19561,
+    "gn:longitude":-80.78571,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano Colorado",
+    "gn:population":210,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano Colorado"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705776
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"89d040a2f889c75858a2ce2b116cd137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1309989685,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1309989685,
+    "wof:lastmodified":1537676386,
+    "wof:name":"Llano Colorado",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78571,
+    8.19561,
+    -80.78571,
+    8.19561
+],
+  "geometry": {"coordinates":[-80.78570999999999,8.19561],"type":"Point"}
+}

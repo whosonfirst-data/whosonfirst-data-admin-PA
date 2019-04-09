@@ -1,0 +1,71 @@
+{
+  "id": 1343285879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69465,9.49725,-79.69465,9.49725",
+    "geom:latitude":9.49725,
+    "geom:longitude":-79.69465,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"313.0",
+    "gn:asciiname":"Iguanita",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708530,
+    "gn:latitude":9.49725,
+    "gn:longitude":-79.69465,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Iguanita",
+    "gn:population":152,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708530
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5ee63a3eaba59cc185602c20823fe025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1343285879,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1343285879,
+    "wof:lastmodified":1536997501,
+    "wof:name":"Iguanita",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69465,
+    9.49725,
+    -79.69465,
+    9.49725
+],
+  "geometry": {"coordinates":[-79.69465,9.49725],"type":"Point"}
+}

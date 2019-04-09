@@ -1,0 +1,74 @@
+{
+  "id": 1293101905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.50179,8.45339,-82.50179,8.45339",
+    "geom:latitude":8.45339,
+    "geom:longitude":-82.50179,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Pablo Viejo Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701313,
+    "gn:latitude":8.45339,
+    "gn:longitude":-82.50179,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Pablo Viejo Abajo",
+    "gn:population":5992,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Plaza",
+        "San Pablo Viejo Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701313
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ee5f44f0dc3ef8c61cf9ddde1830a6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1293101905,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293101905,
+    "wof:lastmodified":1537676341,
+    "wof:name":"San Pablo Viejo Abajo",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":5992,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.50179,
+    8.45339,
+    -82.50179,
+    8.45339
+],
+  "geometry": {"coordinates":[-82.50179,8.45339],"type":"Point"}
+}

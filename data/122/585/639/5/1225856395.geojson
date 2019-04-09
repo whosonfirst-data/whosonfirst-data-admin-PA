@@ -1,0 +1,73 @@
+{
+  "id": 1225856395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56507,8.41223,-80.56507,8.41223",
+    "geom:latitude":8.41223,
+    "geom:longitude":-80.56507,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Churube Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712284,
+    "gn:latitude":8.41223,
+    "gn:longitude":-80.56507,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Churub\u00e9 Arriba",
+    "gn:population":316,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Churub\u00e9 Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712284
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"aeffa5f2a35187fcf7ce14f636fe028c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":1225856395,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1225856395,
+    "wof:lastmodified":1537676465,
+    "wof:name":"Churube Arriba",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56506999999998,
+    8.41223,
+    -80.56506999999998,
+    8.41223
+],
+  "geometry": {"coordinates":[-80.56506999999998,8.41223],"type":"Point"}
+}

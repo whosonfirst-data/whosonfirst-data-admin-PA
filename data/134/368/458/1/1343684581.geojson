@@ -1,0 +1,77 @@
+{
+  "id": 1343684581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.20927,8.0254,-78.20927,8.0254",
+    "geom:latitude":8.0254,
+    "geom:longitude":-78.20927,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sambu",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643384,
+    "gn:latitude":8.0254,
+    "gn:longitude":-78.20927,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Samb\u00fa",
+    "gn:population":653,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samb\u00fa"
+    ],
+    "name:und_x_variant":[
+        "Samb\u00fa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643384,
+        "wk:page":"Samb%C3%BA"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"19d51bf1650ac88b5b17f528419b0e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1343684581,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1343684581,
+    "wof:lastmodified":1537676495,
+    "wof:name":"Sambu",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":653,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.20926999999998,
+    8.0254,
+    -78.20926999999998,
+    8.0254
+],
+  "geometry": {"coordinates":[-78.20926999999998,8.0254],"type":"Point"}
+}

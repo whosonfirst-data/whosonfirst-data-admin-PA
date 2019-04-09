@@ -1,0 +1,77 @@
+{
+  "id": 1343950791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76601,7.6968,-80.76601,7.6968",
+    "geom:latitude":7.6968,
+    "geom:longitude":-80.76601,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Quebrada El Ciprian",
+    "gn:country_code":"PA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702264,
+    "gn:latitude":7.6968,
+    "gn:longitude":-80.76601,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada El Cipri\u00e1n",
+    "gn:population":183,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada El Cipri\u00e1n"
+    ],
+    "name:und_x_variant":[
+        "Quebrada Cipri\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702264,
+        "wk:page":"Quebrada_El_Cipri%C3%A1n"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"69dc094c1901af6801466dd37a2f26a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693227,
+            "locality_id":1343950791,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1343950791,
+    "wof:lastmodified":1537676352,
+    "wof:name":"Quebrada El Ciprian",
+    "wof:parent_id":1108693227,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76601,
+    7.6968,
+    -80.76601,
+    7.6968
+],
+  "geometry": {"coordinates":[-80.76600999999999,7.6968],"type":"Point"}
+}

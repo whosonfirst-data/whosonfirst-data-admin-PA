@@ -1,0 +1,70 @@
+{
+  "id": 1226119741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.74597,8.26552,-81.74597,8.26552",
+    "geom:latitude":8.26552,
+    "geom:longitude":-81.74597,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ola",
+    "gn:country_code":"PA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347863,
+    "gn:latitude":8.26552,
+    "gn:longitude":-81.74597,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ola",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347863
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4c15ef65abec0ccf33892f9b6b5836dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693259,
+            "locality_id":1226119741,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226119741,
+    "wof:lastmodified":1537676516,
+    "wof:name":"Ola",
+    "wof:parent_id":1108693259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.74597,
+    8.26552,
+    -81.74597,
+    8.26552
+],
+  "geometry": {"coordinates":[-81.74597,8.26552],"type":"Point"}
+}

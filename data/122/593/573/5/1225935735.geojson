@@ -1,0 +1,73 @@
+{
+  "id": 1225935735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25233,7.79613,-80.25233,7.79613",
+    "geom:latitude":7.79613,
+    "geom:longitude":-80.25233,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Tablas Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10180900,
+    "gn:latitude":7.79613,
+    "gn:longitude":-80.25233,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Tablas Abajo",
+    "gn:population":538,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Tablas Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10180900
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"547f5520da74393d5ea37a2ab883fe49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1225935735,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1225935735,
+    "wof:lastmodified":1537676498,
+    "wof:name":"Las Tablas Abajo",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":538,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25233,
+    7.79613,
+    -80.25233,
+    7.79613
+],
+  "geometry": {"coordinates":[-80.25233,7.79613],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242858171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.9489,8.16575,-80.9489,8.16575",
+    "geom:latitude":8.16575,
+    "geom:longitude":-80.9489,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Anon",
+    "gn:country_code":"PA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711496,
+    "gn:latitude":8.16575,
+    "gn:longitude":-80.9489,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El An\u00f3n",
+    "gn:population":350,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El An\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711496
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6393fc3af099f106bcce59eb71a62d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1242858171,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242858171,
+    "wof:lastmodified":1537676459,
+    "wof:name":"El Anon",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.9489,
+    8.16575,
+    -80.9489,
+    8.16575
+],
+  "geometry": {"coordinates":[-80.94889999999999,8.16575],"type":"Point"}
+}

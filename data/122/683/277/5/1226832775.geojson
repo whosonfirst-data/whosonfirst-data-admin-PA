@@ -1,0 +1,67 @@
+{
+  "id": 1226832775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.96667,7.96667,-80.96667,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":-80.96667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Trinchera",
+    "gn:country_code":"PA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700427,
+    "gn:latitude":7.96667,
+    "gn:longitude":-80.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Trinchera",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700427
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fcb13bcd90c35c68a6f5b42871d0b214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1226832775,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226832775,
+    "wof:lastmodified":1537083831,
+    "wof:name":"Trinchera",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.96667,
+    7.96667,
+    -80.96667,
+    7.96667
+],
+  "geometry": {"coordinates":[-80.96666999999999,7.96667],"type":"Point"}
+}

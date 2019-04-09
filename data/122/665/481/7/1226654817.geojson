@@ -1,0 +1,70 @@
+{
+  "id": 1226654817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.6551,8.61665,-82.6551,8.61665",
+    "geom:latitude":8.61665,
+    "geom:longitude":-82.6551,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Volante",
+    "gn:country_code":"PA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700020,
+    "gn:latitude":8.61665,
+    "gn:longitude":-82.6551,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Volante",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Volante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700020
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3856d74d722139f8362c79533cb729a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1226654817,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226654817,
+    "wof:lastmodified":1537676331,
+    "wof:name":"Volante",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.6551,
+    8.61665,
+    -82.6551,
+    8.61665
+],
+  "geometry": {"coordinates":[-82.6551,8.61665],"type":"Point"}
+}

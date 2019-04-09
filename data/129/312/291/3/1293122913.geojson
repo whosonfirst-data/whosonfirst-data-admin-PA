@@ -1,0 +1,74 @@
+{
+  "id": 1293122913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85465,7.96457,-80.85465,7.96457",
+    "geom:latitude":7.96457,
+    "geom:longitude":-80.85465,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rincon Santo",
+    "gn:country_code":"PA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701924,
+    "gn:latitude":7.96457,
+    "gn:longitude":-80.85465,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Rinc\u00f3n Santo",
+    "gn:population":188,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n Santo",
+        "Rinc\u00f3n Santos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701924
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0bd6b09af5a71f2ccfcf0981896775b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1293122913,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1293122913,
+    "wof:lastmodified":1537676347,
+    "wof:name":"Rincon Santo",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85465,
+    7.96457,
+    -80.85465,
+    7.96457
+],
+  "geometry": {"coordinates":[-80.85465000000001,7.96457],"type":"Point"}
+}

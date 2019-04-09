@@ -1,0 +1,115 @@
+{
+  "id": 421176517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.26667,8.4,-80.26667,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-80.26667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c8\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Ant\u00f3n"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3714710,
+    "qs:gn_pop":13851,
+    "qs:name":"Ant\u00f3n",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":377,
+    "qs:photos_1k":76,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":377,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046630,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":154699,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714710,
+        "gp:id":154699,
+        "qs:id":1046630,
+        "wd:id":"Q610518",
+        "wk:page":"Ant\u00f3n"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009111,
+    "wof:geomhash":"6253a4a9db4de3cd178b67768bef9c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":421176517,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421176517,
+    "wof:lastmodified":1553816366,
+    "wof:name":"Ant\u00f3n",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":13851,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.26667,
+    8.4,
+    -80.26667,
+    8.4
+],
+  "geometry": {"coordinates":[-80.26667,8.4],"type":"Point"}
+}

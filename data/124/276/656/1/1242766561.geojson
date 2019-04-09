@@ -1,0 +1,71 @@
+{
+  "id": 1242766561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.87949,8.25137,-80.87949,8.25137",
+    "geom:latitude":8.25137,
+    "geom:longitude":-80.87949,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Tetilla",
+    "gn:country_code":"PA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706106,
+    "gn:latitude":8.25137,
+    "gn:longitude":-80.87949,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Tetilla",
+    "gn:population":9,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706106,
+        "wk:page":"La_Tetilla"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"450ecc3f3a19a9b69535477a747f2bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1242766561,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242766561,
+    "wof:lastmodified":1537570200,
+    "wof:name":"La Tetilla",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.87949,
+    8.25137,
+    -80.87949,
+    8.25137
+],
+  "geometry": {"coordinates":[-80.87949,8.25137],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327013569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.04562,8.47952,-81.04562,8.47952",
+    "geom:latitude":8.47952,
+    "geom:longitude":-81.04562,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Lajas",
+    "gn:country_code":"PA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706456,
+    "gn:latitude":8.47952,
+    "gn:longitude":-81.04562,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Lajas",
+    "gn:population":102,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Lajas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706456
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b0f01ac56b66584b0a7441782273271b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1327013569,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327013569,
+    "wof:lastmodified":1537676394,
+    "wof:name":"Las Lajas",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.04562,
+    8.47952,
+    -81.04562,
+    8.47952
+],
+  "geometry": {"coordinates":[-81.04562,8.47952],"type":"Point"}
+}

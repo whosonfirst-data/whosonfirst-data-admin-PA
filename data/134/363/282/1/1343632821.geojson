@@ -1,0 +1,82 @@
+{
+  "id": 1343632821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95,9.06667,-79.95,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":-79.95,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cuchirvo",
+    "gn:country_code":"PA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711758,
+    "gn:latitude":9.06667,
+    "gn:longitude":-79.95,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cuchirvo",
+    "gn:population":16,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuchiro",
+        "Cuchirvo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711758
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"aae94fb894b82768aed024c02621e3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1343632821,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1343632821,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343632821,
+    "wof:lastmodified":1537676461,
+    "wof:name":"Cuchirvo",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95,
+    9.06667,
+    -79.95,
+    9.06667
+],
+  "geometry": {"coordinates":[-79.95,9.06667],"type":"Point"}
+}

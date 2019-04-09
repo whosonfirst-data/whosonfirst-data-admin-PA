@@ -1,0 +1,70 @@
+{
+  "id": 1293903473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.3012,8.88287,-78.3012,8.88287",
+    "geom:latitude":8.88287,
+    "geom:longitude":-78.3012,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Palmas Bellas Numero Uno",
+    "gn:country_code":"PA",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194192,
+    "gn:latitude":8.88287,
+    "gn:longitude":-78.3012,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Palmas Bellas N\u00famero Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmas Bellas N\u00famero Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194192
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9b9e57cc150aba8c7580c1c941182582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1293903473,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293903473,
+    "wof:lastmodified":1537676500,
+    "wof:name":"Palmas Bellas Numero Uno",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.3012,
+    8.88287,
+    -78.3012,
+    8.88287
+],
+  "geometry": {"coordinates":[-78.30119999999999,8.88287],"type":"Point"}
+}

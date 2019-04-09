@@ -1,0 +1,67 @@
+{
+  "id": 1293684257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6,7.81667,-80.6,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":-80.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Camaron",
+    "gn:country_code":"PA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713374,
+    "gn:latitude":7.81667,
+    "gn:longitude":-80.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Camar\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713374
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"286128358fb61bc888a7230cb79df81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1293684257,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1293684257,
+    "wof:lastmodified":1536999976,
+    "wof:name":"Camaron",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6,
+    7.81667,
+    -80.6,
+    7.81667
+],
+  "geometry": {"coordinates":[-80.59999999999999,7.81667],"type":"Point"}
+}

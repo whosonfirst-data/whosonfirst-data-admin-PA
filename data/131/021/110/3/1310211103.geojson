@@ -1,0 +1,70 @@
+{
+  "id": 1310211103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.72413,9.46728,-79.72413,9.46728",
+    "geom:latitude":9.46728,
+    "geom:longitude":-79.72413,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Langosta",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10181368,
+    "gn:latitude":9.46728,
+    "gn:longitude":-79.72413,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Langosta",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Langosta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10181368
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4615595058c128f7b457860b58f4ac03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1310211103,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1310211103,
+    "wof:lastmodified":1537676498,
+    "wof:name":"Langosta",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.72413,
+    9.46728,
+    -79.72413,
+    9.46728
+],
+  "geometry": {"coordinates":[-79.72413,9.46728],"type":"Point"}
+}

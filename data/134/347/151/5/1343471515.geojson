@@ -1,0 +1,73 @@
+{
+  "id": 1343471515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35727,8.46205,-82.35727,8.46205",
+    "geom:latitude":8.46205,
+    "geom:longitude":-82.35727,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guayabal",
+    "gn:country_code":"PA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708854,
+    "gn:latitude":8.46205,
+    "gn:longitude":-82.35727,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Guayabal",
+    "gn:population":582,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guayabal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708854
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a603493fe69397c5497bb477bcac7397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1343471515,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1343471515,
+    "wof:lastmodified":1537676423,
+    "wof:name":"Guayabal",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":582,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35727,
+    8.46205,
+    -82.35727,
+    8.46205
+],
+  "geometry": {"coordinates":[-82.35727,8.46205],"type":"Point"}
+}

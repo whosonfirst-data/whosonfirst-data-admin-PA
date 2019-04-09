@@ -1,0 +1,73 @@
+{
+  "id": 1293511191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.3,7.75551,-80.3,7.75551",
+    "geom:latitude":7.75551,
+    "geom:longitude":-80.3,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Santa Marta",
+    "gn:country_code":"PA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701165,
+    "gn:latitude":7.75551,
+    "gn:longitude":-80.3,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Santa Marta",
+    "gn:population":280,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Marta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701165
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be65b2feda323472dcddbcc02c9bd077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1293511191,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1293511191,
+    "wof:lastmodified":1537676340,
+    "wof:name":"Santa Marta",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":280,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.3,
+    7.75551,
+    -80.3,
+    7.75551
+],
+  "geometry": {"coordinates":[-80.3,7.75551],"type":"Point"}
+}

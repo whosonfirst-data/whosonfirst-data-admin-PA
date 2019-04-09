@@ -1,0 +1,74 @@
+{
+  "id": 1343392699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.25671,8.57508,-78.25671,8.57508",
+    "geom:latitude":8.57508,
+    "geom:longitude":-78.25671,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cucunati",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711749,
+    "gn:latitude":8.57508,
+    "gn:longitude":-78.25671,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cucunat\u00ed",
+    "gn:population":537,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cucunat\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711749,
+        "wk:page":"Cucunat%C3%AD"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1bcb6277b249b87e567cf8e515a4016c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1343392699,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1343392699,
+    "wof:lastmodified":1537676461,
+    "wof:name":"Cucunati",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":537,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.25671,
+    8.57508,
+    -78.25671,
+    8.57508
+],
+  "geometry": {"coordinates":[-78.25671,8.57508],"type":"Point"}
+}

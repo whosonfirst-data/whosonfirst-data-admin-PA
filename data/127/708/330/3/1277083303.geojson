@@ -1,0 +1,73 @@
+{
+  "id": 1277083303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.9308,8.34293,-82.9308,8.34293",
+    "geom:latitude":8.34293,
+    "geom:longitude":-82.9308,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Majagua Civil Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704784,
+    "gn:latitude":8.34293,
+    "gn:longitude":-82.9308,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Majagua Civil N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Majagua Civil N\u00famero Dos"
+    ],
+    "name:und_x_variant":[
+        "Majagua Civil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704784
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7b111644e066806b030e64c5fdf26742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1277083303,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1277083303,
+    "wof:lastmodified":1537676371,
+    "wof:name":"Majagua Civil Numero Dos",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.9308,
+    8.34293,
+    -82.9308,
+    8.34293
+],
+  "geometry": {"coordinates":[-82.9308,8.34293],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343471683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.39977,8.55171,-82.39977,8.55171",
+    "geom:latitude":8.55171,
+    "geom:longitude":-82.39977,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dos Rios Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711571,
+    "gn:latitude":8.55171,
+    "gn:longitude":-82.39977,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Dos R\u00edos Arriba",
+    "gn:population":773,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dos R\u00edos",
+        "Dos R\u00edos Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711571,
+        "wk:page":"Dos_R%C3%ADos%2C_Chiriqu%C3%AD"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"571d1636f21805f4644c86c5a053e261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":1343471683,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1343471683,
+    "wof:lastmodified":1537676460,
+    "wof:name":"Dos Rios Arriba",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:population":773,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.39976999999998,
+    8.55171,
+    -82.39976999999998,
+    8.55171
+],
+  "geometry": {"coordinates":[-82.39976999999998,8.55171],"type":"Point"}
+}

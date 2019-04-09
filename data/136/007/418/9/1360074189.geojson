@@ -1,0 +1,67 @@
+{
+  "id": 1360074189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21667,8.16667,-81.21667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":-81.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Pedrito",
+    "gn:country_code":"PA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701309,
+    "gn:latitude":8.16667,
+    "gn:longitude":-81.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Pedrito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701309
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5fa6a25f5e7e098917747d56a04aa3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1360074189,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1360074189,
+    "wof:lastmodified":1536961322,
+    "wof:name":"San Pedrito",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21667,
+    8.16667,
+    -81.21667,
+    8.16667
+],
+  "geometry": {"coordinates":[-81.21666999999999,8.16667],"type":"Point"}
+}

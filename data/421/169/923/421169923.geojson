@@ -1,0 +1,102 @@
+{
+  "id": 421169923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.76518,8.94921,-77.76518,8.94921",
+    "geom:latitude":8.94921,
+    "geom:longitude":-77.76518,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u043b\u0430\u0442\u0443\u043f\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Mulatupo"
+    ],
+    "name:eng_x_preferred":[
+        "Mulatupo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10e3\u10da\u10d0\u10e2\u10e3\u10de\u10dd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30e9\u30c8\u30a5\u30dd"
+    ],
+    "name:spa_x_preferred":[
+        "Mulatupu"
+    ],
+    "name:unk_x_variant":[
+        "Isla Gallinazo"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3704029,
+    "qs:gn_pop":1303,
+    "qs:name":"Mulatupo Sasard\u00ed",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Kuna Yala",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":500970,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159188,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704029,
+        "gp:id":159188,
+        "qs:id":500970,
+        "wd:id":"Q14225928",
+        "wk:page":"Mulatupo"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008829,
+    "wof:geomhash":"f0b1b20795923295ef46ca1ed45a4f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "locality_id":421169923,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":421169923,
+    "wof:lastmodified":1514494887,
+    "wof:name":"Mulatupo Sasard\u00ed",
+    "wof:parent_id":1108693213,
+    "wof:placetype":"locality",
+    "wof:population":1303,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.76518,
+    8.94921,
+    -77.76518,
+    8.94921
+],
+  "geometry": {"coordinates":[-77.76518,8.94921],"type":"Point"}
+}

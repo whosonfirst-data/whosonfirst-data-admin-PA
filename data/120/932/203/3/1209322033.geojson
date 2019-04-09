@@ -1,0 +1,67 @@
+{
+  "id": 1209322033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.22765,8.49094,-80.22765,8.49094",
+    "geom:latitude":8.49094,
+    "geom:longitude":-80.22765,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tranquilla",
+    "gn:country_code":"PA",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700475,
+    "gn:latitude":8.49094,
+    "gn:longitude":-80.22765,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tranquilla",
+    "gn:population":315,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tranquilla"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700475
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2cfafa7be16e08399bda884314c0ddb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209322033
+        }
+    ],
+    "wof:id":1209322033,
+    "wof:lastmodified":1537676335,
+    "wof:name":"Tranquilla",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.22765,
+    8.49094,
+    -80.22765,
+    8.49094
+],
+  "geometry": {"coordinates":[-80.22765,8.49094],"type":"Point"}
+}

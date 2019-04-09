@@ -1,0 +1,70 @@
+{
+  "id": 1293701015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.42719,9.18883,-82.42719,9.18883",
+    "geom:latitude":9.18883,
+    "geom:longitude":-82.42719,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tolote",
+    "gn:country_code":"PA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211129,
+    "gn:latitude":9.18883,
+    "gn:longitude":-82.42719,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Tolote",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tolote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211129
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"28344b593506a30f1756b354e51482ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1293701015,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1293701015,
+    "wof:lastmodified":1537676505,
+    "wof:name":"Tolote",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.42719,
+    9.18883,
+    -82.42719,
+    9.18883
+],
+  "geometry": {"coordinates":[-82.42719,9.18883],"type":"Point"}
+}

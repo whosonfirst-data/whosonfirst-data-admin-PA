@@ -1,0 +1,73 @@
+{
+  "id": 1326810599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.95896,8.33628,-81.95896,8.33628",
+    "geom:latitude":8.33628,
+    "geom:longitude":-81.95896,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Alto Rey",
+    "gn:country_code":"PA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714775,
+    "gn:latitude":8.33628,
+    "gn:longitude":-81.95896,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Alto Rey",
+    "gn:population":229,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto Rey"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714775
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"46ccbb60dc2472d8ebd3c2465bef089f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1326810599,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1326810599,
+    "wof:lastmodified":1537676489,
+    "wof:name":"Alto Rey",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.95896,
+    8.33628,
+    -81.95896,
+    8.33628
+],
+  "geometry": {"coordinates":[-81.95896,8.33628],"type":"Point"}
+}

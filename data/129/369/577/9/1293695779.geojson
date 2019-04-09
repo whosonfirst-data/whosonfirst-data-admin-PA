@@ -1,0 +1,61 @@
+{
+  "id": 1293695779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.68333,8.31667,-82.68333,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":-82.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Boca de Los Espinos",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708105,
+    "gn:latitude":8.31667,
+    "gn:longitude":-82.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Boca de Los Espinos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708105
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"216a52ca4493706a5a1110debaa74d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293695779,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293695779,
+    "wof:lastmodified":1536983237,
+    "wof:name":"La Boca de Los Espinos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.68333,
+    8.31667,
+    -82.68333,
+    8.31667
+],
+  "geometry": {"coordinates":[-82.68333,8.31667],"type":"Point"}
+}

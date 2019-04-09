@@ -1,0 +1,67 @@
+{
+  "id": 1209028729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.68576,7.96887,-80.68576,7.96887",
+    "geom:latitude":7.96887,
+    "geom:longitude":-80.68576,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Llano Hato",
+    "gn:country_code":"PA",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705715,
+    "gn:latitude":7.96887,
+    "gn:longitude":-80.68576,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano Hato",
+    "gn:population":124,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano Hato"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705715
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2dcda47693c5c9d8b3cd4bbd2459989b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209028729
+        }
+    ],
+    "wof:id":1209028729,
+    "wof:lastmodified":1537676385,
+    "wof:name":"Llano Hato",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.68576,
+    7.96887,
+    -80.68576,
+    7.96887
+],
+  "geometry": {"coordinates":[-80.68576,7.96887],"type":"Point"}
+}

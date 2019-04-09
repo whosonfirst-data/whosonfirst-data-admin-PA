@@ -1,0 +1,71 @@
+{
+  "id": 1276206701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.75,8.35,-81.75,8.35",
+    "geom:latitude":8.35,
+    "geom:longitude":-81.75,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Llano San Juan",
+    "gn:country_code":"PA",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705683,
+    "gn:latitude":8.35,
+    "gn:longitude":-81.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Llano San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "Llano San Juan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705683
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3273505f4359e50613e53ceccf679cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1276206701,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276206701,
+    "wof:lastmodified":1537676384,
+    "wof:name":"Llano San Juan",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.75,
+    8.35,
+    -81.75,
+    8.35
+],
+  "geometry": {"coordinates":[-81.75,8.35],"type":"Point"}
+}

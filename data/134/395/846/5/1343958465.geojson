@@ -1,0 +1,70 @@
+{
+  "id": 1343958465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.18421,9.18318,-80.18421,9.18318",
+    "geom:latitude":9.18318,
+    "geom:longitude":-80.18421,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702447,
+    "gn:latitude":9.18318,
+    "gn:longitude":-80.18421,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702447
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ae66e7da5be4b1a896e95a354921e816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1343958465,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1343958465,
+    "wof:lastmodified":1537676355,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.18421,
+    9.18318,
+    -80.18421,
+    9.18318
+],
+  "geometry": {"coordinates":[-80.18420999999999,9.18318],"type":"Point"}
+}

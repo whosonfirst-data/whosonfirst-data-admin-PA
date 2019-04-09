@@ -1,0 +1,67 @@
+{
+  "id": 1276435705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.2,8.06667,-81.2,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":-81.2,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Unciana",
+    "gn:country_code":"PA",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706029,
+    "gn:latitude":8.06667,
+    "gn:longitude":-81.2,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"La Unciana",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706029
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"57f3a758a4d7359a32a2708a7fa43e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1276435705,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276435705,
+    "wof:lastmodified":1536640571,
+    "wof:name":"La Unciana",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.2,
+    8.06667,
+    -81.2,
+    8.06667
+],
+  "geometry": {"coordinates":[-81.2,8.06667],"type":"Point"}
+}

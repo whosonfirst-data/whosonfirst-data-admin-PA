@@ -1,0 +1,84 @@
+{
+  "id": 421202867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80611,9.04417,-79.80611,9.04417",
+    "geom:latitude":9.04417,
+    "geom:longitude":-79.80611,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3712758,
+    "qs:gn_pop":0,
+    "qs:name":"Cerro Ca\u00f1ito",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228609,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155396,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712758,
+        "gp:id":155396,
+        "qs:id":228609
+    },
+    "wof:country":"PA",
+    "wof:created":1459010132,
+    "wof:geomhash":"4749d46bdd98e0d7fea53239368d166b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":421202867,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":421202867,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421202867,
+    "wof:lastmodified":1500018213,
+    "wof:name":"Cerro Ca\u00f1ito",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80611,
+    9.04417,
+    -79.80611,
+    9.04417
+],
+  "geometry": {"coordinates":[-79.80611,9.04417],"type":"Point"}
+}

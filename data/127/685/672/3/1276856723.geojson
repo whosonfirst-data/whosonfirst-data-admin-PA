@@ -1,0 +1,67 @@
+{
+  "id": 1276856723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.92194,8.25139,-78.92194,8.25139",
+    "geom:latitude":8.25139,
+    "geom:longitude":-78.92194,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rafaelito",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702059,
+    "gn:latitude":8.25139,
+    "gn:longitude":-78.92194,
+    "gn:modification_date":"1994-11-07",
+    "gn:name":"Rafaelito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702059
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"225e43ba85d878f07ce9f8f73735ee32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1276856723,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1276856723,
+    "wof:lastmodified":1537069132,
+    "wof:name":"Rafaelito",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.92194,
+    8.25139,
+    -78.92194,
+    8.25139
+],
+  "geometry": {"coordinates":[-78.92194000000001,8.25139],"type":"Point"}
+}

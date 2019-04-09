@@ -1,0 +1,74 @@
+{
+  "id": 1276855039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78242,8.14176,-80.78242,8.14176",
+    "geom:latitude":8.14176,
+    "geom:longitude":-80.78242,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Pedernal",
+    "gn:country_code":"PA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710230,
+    "gn:latitude":8.14176,
+    "gn:longitude":-80.78242,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Pedernal",
+    "gn:population":675,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pedernal",
+        "El Pedernal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710230
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6c3ee77115298509bdfda868e1f71dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1276855039,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276855039,
+    "wof:lastmodified":1537676436,
+    "wof:name":"El Pedernal",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":675,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78242,
+    8.14176,
+    -80.78242,
+    8.14176
+],
+  "geometry": {"coordinates":[-80.78242,8.14176],"type":"Point"}
+}

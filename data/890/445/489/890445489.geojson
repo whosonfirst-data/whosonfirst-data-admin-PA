@@ -1,0 +1,63 @@
+{
+  "id": 890445489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.068359,9.3217,-80.068359,9.3217",
+    "geom:latitude":9.3217,
+    "geom:longitude":-80.068359,
+    "gn:country":"PA",
+    "gp:adm0":23424924,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Chagres",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":210,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793097,
+        "qs:id":510429
+    },
+    "wof:country":"PA",
+    "wof:created":1469052511,
+    "wof:geomhash":"d494614f3924e5444e8cf9114e4cd3a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "county_id":890445489
+        }
+    ],
+    "wof:id":890445489,
+    "wof:lastmodified":1470255679,
+    "wof:name":"Chagres",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.068359,
+    9.3217,
+    -80.068359,
+    9.3217
+],
+  "geometry": {"coordinates":[-80.068359,9.3217],"type":"Point"}
+}

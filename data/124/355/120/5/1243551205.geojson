@@ -1,0 +1,71 @@
+{
+  "id": 1243551205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.43896,7.67605,-80.43896,7.67605",
+    "geom:latitude":7.67605,
+    "geom:longitude":-80.43896,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Espino Amarillo",
+    "gn:country_code":"PA",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3710867,
+    "gn:latitude":7.67605,
+    "gn:longitude":-80.43896,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"El Espino Amarillo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Espino Amarillo",
+        "El Espino Amarillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710867
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"81ad0449db3dc8c234bcbcb917a966f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1243551205,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1243551205,
+    "wof:lastmodified":1537676448,
+    "wof:name":"El Espino Amarillo",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.43896,
+    7.67605,
+    -80.43896,
+    7.67605
+],
+  "geometry": {"coordinates":[-80.43895999999999,7.67605],"type":"Point"}
+}

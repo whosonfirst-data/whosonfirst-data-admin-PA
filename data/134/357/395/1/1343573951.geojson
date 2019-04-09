@@ -1,0 +1,61 @@
+{
+  "id": 1343573951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.3,8.23333,-82.3,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":-82.3,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Isla Torta",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708483,
+    "gn:latitude":8.23333,
+    "gn:longitude":-82.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Isla Torta",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708483
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0cefedad04138157cf05f6f0c9f5a872",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343573951,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343573951,
+    "wof:lastmodified":1537076837,
+    "wof:name":"Isla Torta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.3,
+    8.23333,
+    -82.3,
+    8.23333
+],
+  "geometry": {"coordinates":[-82.3,8.23333],"type":"Point"}
+}

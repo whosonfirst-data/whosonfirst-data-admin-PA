@@ -1,0 +1,66 @@
+{
+  "id": 1259403963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.86042,8.81882,-82.86042,8.81882",
+    "geom:latitude":8.81882,
+    "geom:longitude":-82.86042,
+    "gn:asciiname":"Sereno",
+    "gn:country_code":"PA",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621468,
+    "gn:latitude":8.81882,
+    "gn:longitude":-82.86042,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Sereno",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621468
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2214379452bf4cf2f8c7e36412c294a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693261,
+            "locality_id":1259403963,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1259403963,
+    "wof:lastmodified":1536972587,
+    "wof:name":"Sereno",
+    "wof:parent_id":1108693261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.86041999999998,
+    8.81882,
+    -82.86041999999998,
+    8.81882
+],
+  "geometry": {"coordinates":[-82.86041999999998,8.81882],"type":"Point"}
+}

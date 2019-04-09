@@ -1,0 +1,70 @@
+{
+  "id": 1259660809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.73736,8.58495,-81.73736,8.58495",
+    "geom:latitude":8.58495,
+    "geom:longitude":-81.73736,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Mono",
+    "gn:country_code":"PA",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347428,
+    "gn:latitude":8.58495,
+    "gn:longitude":-81.73736,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Quebrada Mono",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Mono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347428
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1f4b9bff61f3e1c076630e85f38d3a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1259660809,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1259660809,
+    "wof:lastmodified":1537676513,
+    "wof:name":"Quebrada Mono",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.73736,
+    8.58495,
+    -81.73736,
+    8.58495
+],
+  "geometry": {"coordinates":[-81.73736,8.58495],"type":"Point"}
+}

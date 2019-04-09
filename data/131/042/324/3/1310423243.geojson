@@ -1,0 +1,73 @@
+{
+  "id": 1310423243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.73344,9.52757,-82.73344,9.52757",
+    "geom:latitude":9.52757,
+    "geom:longitude":-82.73344,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barranco Adentro",
+    "gn:country_code":"PA",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211200,
+    "gn:latitude":9.52757,
+    "gn:longitude":-82.73344,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Barranco Adentro",
+    "gn:population":1349,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barranco Adentro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211200
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a62f3bf2e07f52c60a3f28bd10a6dca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1310423243,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1310423243,
+    "wof:lastmodified":1537676506,
+    "wof:name":"Barranco Adentro",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":1349,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.73344,
+    9.52757,
+    -82.73344,
+    9.52757
+],
+  "geometry": {"coordinates":[-82.73344,9.52757],"type":"Point"}
+}

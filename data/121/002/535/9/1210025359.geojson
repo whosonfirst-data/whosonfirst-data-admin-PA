@@ -1,0 +1,73 @@
+{
+  "id": 1210025359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81531,8.50863,-82.81531,8.50863",
+    "geom:latitude":8.50863,
+    "geom:longitude":-82.81531,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Quebrada Grande",
+    "gn:country_code":"PA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347258,
+    "gn:latitude":8.50863,
+    "gn:longitude":-82.81531,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Grande",
+    "gn:population":390,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Grande"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347258
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"523d69e871ee07ecb23f8a791bb99b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1210025359,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1210025359,
+    "wof:lastmodified":1537676508,
+    "wof:name":"Quebrada Grande",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81531,
+    8.50863,
+    -82.81531,
+    8.50863
+],
+  "geometry": {"coordinates":[-82.81531,8.50863],"type":"Point"}
+}

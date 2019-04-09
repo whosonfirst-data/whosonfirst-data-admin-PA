@@ -1,0 +1,70 @@
+{
+  "id": 1277161061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13472,7.92639,-81.13472,7.92639",
+    "geom:latitude":7.92639,
+    "geom:longitude":-81.13472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Trinidad Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700412,
+    "gn:latitude":7.92639,
+    "gn:longitude":-81.13472,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Trinidad Abajo",
+    "gn:population":107,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700412
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"014c6aeaa782e27e148c22e269d2d08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693263,
+            "locality_id":1277161061,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1277161061,
+    "wof:lastmodified":1536654803,
+    "wof:name":"Trinidad Abajo",
+    "wof:parent_id":1108693263,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13472,
+    7.92639,
+    -81.13472,
+    7.92639
+],
+  "geometry": {"coordinates":[-81.13472,7.92639],"type":"Point"}
+}

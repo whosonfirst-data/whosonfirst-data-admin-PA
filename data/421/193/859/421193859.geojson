@@ -1,0 +1,102 @@
+{
+  "id": 421193859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03333,7.53333,-80.03333,7.53333",
+    "geom:latitude":7.53333,
+    "geom:longitude":-80.03333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u4f69\u8fbe\u897f"
+    ],
+    "name:eng_x_preferred":[
+        "Pedas\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Pedas\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c0\u30b7"
+    ],
+    "name:nah_x_preferred":[
+        "Pedas\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Pedas\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u8fbe\u897f"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3703239,
+    "qs:gn_pop":1558,
+    "qs:name":"Pedas\u00ed",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Los Santos",
+    "qs:photos":442,
+    "qs:photos_1k":90,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":442,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":489336,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159438,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703239,
+        "gp:id":159438,
+        "qs:id":489336,
+        "wd:id":"Q9057284",
+        "wk:page":"Pedas\u00ed township, Los Santos"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009785,
+    "wof:geomhash":"4e312bbd82fb4369c5f0f7e0158bae89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":421193859,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":421193859,
+    "wof:lastmodified":1553816382,
+    "wof:name":"Pedas\u00ed",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:population":1558,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03333,
+    7.53333,
+    -80.03333,
+    7.53333
+],
+  "geometry": {"coordinates":[-80.03333000000001,7.53333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310285209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.79682,8.38935,-81.79682,8.38935",
+    "geom:latitude":8.38935,
+    "geom:longitude":-81.79682,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Tula",
+    "gn:country_code":"PA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712622,
+    "gn:latitude":8.38935,
+    "gn:longitude":-81.79682,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Tula",
+    "gn:population":198,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Tula"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712622
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8ea7214562fc7662664597b3ceebf1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1310285209,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1310285209,
+    "wof:lastmodified":1537676468,
+    "wof:name":"Cerro Tula",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.79682,
+    8.38935,
+    -81.79682,
+    8.38935
+],
+  "geometry": {"coordinates":[-81.79682,8.38935],"type":"Point"}
+}

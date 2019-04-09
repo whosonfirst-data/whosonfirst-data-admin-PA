@@ -1,0 +1,66 @@
+{
+  "id": 1209322347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.53404,8.41187,-80.53404,8.41187",
+    "geom:latitude":8.41187,
+    "geom:longitude":-80.53404,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701177,
+    "gn:latitude":8.41187,
+    "gn:longitude":-80.53404,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bataquilla",
+        "Batatilla",
+        "Santa Luc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701177
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"92f76a03e9818f1c351aa34298e291bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209322347
+        }
+    ],
+    "wof:id":1209322347,
+    "wof:lastmodified":1537676340,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.53404,
+    8.41187,
+    -80.53404,
+    8.41187
+],
+  "geometry": {"coordinates":[-80.53404,8.41187],"type":"Point"}
+}

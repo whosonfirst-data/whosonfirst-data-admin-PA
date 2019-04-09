@@ -1,0 +1,64 @@
+{
+  "id": 1209391243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.93578,8.51145,-79.93578,8.51145",
+    "geom:latitude":8.51145,
+    "geom:longitude":-79.93578,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Nance",
+    "gn:country_code":"PA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710371,
+    "gn:latitude":8.51145,
+    "gn:longitude":-79.93578,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Nance",
+    "gn:population":65,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710371
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f0408862640f751fcaf4039bcae2a58a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209391243
+        }
+    ],
+    "wof:id":1209391243,
+    "wof:lastmodified":1536288454,
+    "wof:name":"El Nance",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93578000000002,
+    8.51145,
+    -79.93578000000002,
+    8.51145
+],
+  "geometry": {"coordinates":[-79.93578000000002,8.51145],"type":"Point"}
+}

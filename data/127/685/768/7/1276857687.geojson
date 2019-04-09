@@ -1,0 +1,83 @@
+{
+  "id": 1276857687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03735,8.86411,-80.03735,8.86411",
+    "geom:latitude":8.86411,
+    "geom:longitude":-80.03735,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Bonga Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708091,
+    "gn:latitude":8.86411,
+    "gn:longitude":-80.03735,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Bonga Abajo",
+    "gn:population":199,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonga Abajo",
+        "La Bonga Abajo",
+        "La Bongo Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708091
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e5154d2885f8f2564a5a69a1e09bcbbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276857687,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276857687,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1276857687,
+    "wof:lastmodified":1537676417,
+    "wof:name":"La Bonga Abajo",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":199,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03735,
+    8.86411,
+    -80.03735,
+    8.86411
+],
+  "geometry": {"coordinates":[-80.03735,8.86411],"type":"Point"}
+}

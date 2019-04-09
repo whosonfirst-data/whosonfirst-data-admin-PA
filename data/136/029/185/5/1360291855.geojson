@@ -1,0 +1,67 @@
+{
+  "id": 1360291855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.59389,9.28472,-79.59389,9.28472",
+    "geom:latitude":9.28472,
+    "geom:longitude":-79.59389,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Trapichito",
+    "gn:country_code":"PA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700456,
+    "gn:latitude":9.28472,
+    "gn:longitude":-79.59389,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Trapichito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700456
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ec9b9d7e9874170b2c0e6631aaeb64e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1360291855,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1360291855,
+    "wof:lastmodified":1536646859,
+    "wof:name":"Trapichito",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.59389,
+    9.28472,
+    -79.59389,
+    9.28472
+],
+  "geometry": {"coordinates":[-79.59389,9.28472],"type":"Point"}
+}

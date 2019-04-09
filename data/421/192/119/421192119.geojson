@@ -1,0 +1,128 @@
+{
+  "id": 421192119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41667,7.93333,-80.41667,7.93333",
+    "geom:latitude":7.93333,
+    "geom:longitude":-80.41667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Los Santos"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Santos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Santos"
+    ],
+    "name:fra_x_preferred":[
+        "Los Santos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Santos"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc2a4\uc0b0\ud1a0\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Los Santos"
+    ],
+    "name:nld_x_preferred":[
+        "Los Santos"
+    ],
+    "name:oci_x_preferred":[
+        "Los Santos"
+    ],
+    "name:pol_x_preferred":[
+        "Los Santos"
+    ],
+    "name:por_x_preferred":[
+        "Los Santos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u0421\u0430\u043d\u0442\u043e\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Los Santos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Santos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Santos"
+    ],
+    "name:tur_x_preferred":[
+        "Los Santos"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3704964,
+    "qs:gn_pop":5970,
+    "qs:name":"Los Santos",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Los Santos",
+    "qs:photos":74,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":74,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1165206,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158900,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704964,
+        "gp:id":158900,
+        "qs:id":1165206
+    },
+    "wof:country":"PA",
+    "wof:created":1459009726,
+    "wof:geomhash":"c2aa46ff5dd54a026b7426a066167691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693235,
+            "locality_id":421192119,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":421192119,
+    "wof:lastmodified":1527716112,
+    "wof:name":"Los Santos",
+    "wof:parent_id":1108693235,
+    "wof:placetype":"locality",
+    "wof:population":5970,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41667,
+    7.93333,
+    -80.41667,
+    7.93333
+],
+  "geometry": {"coordinates":[-80.41667,7.93333],"type":"Point"}
+}

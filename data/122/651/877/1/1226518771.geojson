@@ -1,0 +1,81 @@
+{
+  "id": 1226518771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.92714,8.57472,-79.92714,8.57472",
+    "geom:latitude":8.57472,
+    "geom:longitude":-79.92714,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cabuya",
+    "gn:country_code":"PA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3713571,
+    "gn:latitude":8.57472,
+    "gn:longitude":-79.92714,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cabuya",
+    "gn:population":699,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cabuya"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713571
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"96973b5d5f5e8724a554dd41c8db1985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1226518771,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1226518771,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1226518771,
+    "wof:lastmodified":1537676477,
+    "wof:name":"Cabuya",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":699,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.92714000000002,
+    8.57472,
+    -79.92714000000002,
+    8.57472
+],
+  "geometry": {"coordinates":[-79.92714000000002,8.57472],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276962749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21667,8.21667,-81.21667,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":-81.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Salto del Subi",
+    "gn:country_code":"PA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701605,
+    "gn:latitude":8.21667,
+    "gn:longitude":-81.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Salto del Sub\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701605
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"15a57eb7caeb44074b427312835cd080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1276962749,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276962749,
+    "wof:lastmodified":1536931002,
+    "wof:name":"Salto del Subi",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21667,
+    8.21667,
+    -81.21667,
+    8.21667
+],
+  "geometry": {"coordinates":[-81.21666999999999,8.21667],"type":"Point"}
+}

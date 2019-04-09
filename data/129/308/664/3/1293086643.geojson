@@ -1,0 +1,67 @@
+{
+  "id": 1293086643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48333,9.08333,-79.48333,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":-79.48333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cerro Batea",
+    "gn:country_code":"PA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712778,
+    "gn:latitude":9.08333,
+    "gn:longitude":-79.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cerro Batea",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712778
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4c42bfafb9d457eb8413043e8a2b45c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":1293086643,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293086643,
+    "wof:lastmodified":1536866738,
+    "wof:name":"Cerro Batea",
+    "wof:parent_id":421175375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48333000000002,
+    9.08333,
+    -79.48333000000002,
+    9.08333
+],
+  "geometry": {"coordinates":[-79.48333000000002,9.08333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260192453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.36081,9.21012,-82.36081,9.21012",
+    "geom:latitude":9.21012,
+    "geom:longitude":-82.36081,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quebrada Pastor",
+    "gn:country_code":"PA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702156,
+    "gn:latitude":9.21012,
+    "gn:longitude":-82.36081,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Pastor",
+    "gn:population":602,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Pastor"
+    ],
+    "name:und_x_variant":[
+        "Quebrada Pastores"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702156
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0d9ff01676246f493a0a13dc9dc80e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1260192453,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1260192453,
+    "wof:lastmodified":1537676349,
+    "wof:name":"Quebrada Pastor",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":602,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.36081,
+    9.21012,
+    -82.36081,
+    9.21012
+],
+  "geometry": {"coordinates":[-82.36081,9.21012],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 421187289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58917,8.91229,-79.58917,8.91229",
+    "geom:latitude":8.91229,
+    "geom:longitude":-79.58917,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Fort Kobbe"
+    ],
+    "name:unk_x_variant":[
+        "Fort Kobbe"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3709444,
+    "qs:gn_pop":0,
+    "qs:name":"Fuerte Kobbe",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":260,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":260,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082652,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":156991,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421203467,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709444,
+        "gp:id":156991,
+        "qs:id":1082652
+    },
+    "wof:country":"PA",
+    "wof:created":1459009508,
+    "wof:geomhash":"960df418207d018f5a9b5dfd03880e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421187289,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421187289,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421187289,
+    "wof:lastmodified":1501268795,
+    "wof:name":"Fuerte Kobbe",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58917,
+    8.91229,
+    -79.58917,
+    8.91229
+],
+  "geometry": {"coordinates":[-79.58917,8.91229],"type":"Point"}
+}

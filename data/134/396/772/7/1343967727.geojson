@@ -1,0 +1,70 @@
+{
+  "id": 1343967727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.51385,9.37312,-82.51385,9.37312",
+    "geom:latitude":9.37312,
+    "geom:longitude":-82.51385,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Junco",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10212508,
+    "gn:latitude":9.37312,
+    "gn:longitude":-82.51385,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Junco",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Junco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10212508
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5cb6a972aeaebc59a9f7e9f963ed7e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1343967727,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1343967727,
+    "wof:lastmodified":1537676506,
+    "wof:name":"Junco",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.51385,
+    9.37312,
+    -82.51385,
+    9.37312
+],
+  "geometry": {"coordinates":[-82.51385000000001,9.37312],"type":"Point"}
+}

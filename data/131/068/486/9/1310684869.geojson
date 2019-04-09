@@ -1,0 +1,67 @@
+{
+  "id": 1310684869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.15028,7.91361,-81.15028,7.91361",
+    "geom:latitude":7.91361,
+    "geom:longitude":-81.15028,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Diaz de la Gallinaza",
+    "gn:country_code":"PA",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705356,
+    "gn:latitude":7.91361,
+    "gn:longitude":-81.15028,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Los D\u00edaz de la Gallinaza",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705356
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f9fd476221618ea7971dc947658d8c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693263,
+            "locality_id":1310684869,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310684869,
+    "wof:lastmodified":1536658266,
+    "wof:name":"Los Diaz de la Gallinaza",
+    "wof:parent_id":1108693263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.15028000000002,
+    7.91361,
+    -81.15028000000002,
+    7.91361
+],
+  "geometry": {"coordinates":[-81.15028000000002,7.91361],"type":"Point"}
+}

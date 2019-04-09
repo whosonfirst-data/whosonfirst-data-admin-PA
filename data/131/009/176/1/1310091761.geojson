@@ -1,0 +1,78 @@
+{
+  "id": 1310091761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.07747,8.7995,-80.07747,8.7995",
+    "geom:latitude":8.7995,
+    "geom:longitude":-80.07747,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ciricito Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":11398385,
+    "gn:latitude":8.7995,
+    "gn:longitude":-80.07747,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ciricito Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ciricito Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398385
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"aa32336b8396bcffeaa3d97b8fe2114f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1310091761,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1310091761,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1310091761,
+    "wof:lastmodified":1537676523,
+    "wof:name":"Ciricito Abajo",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.07746999999998,
+    8.7995,
+    -80.07746999999998,
+    8.7995
+],
+  "geometry": {"coordinates":[-80.07746999999998,8.7995],"type":"Point"}
+}

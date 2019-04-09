@@ -1,0 +1,89 @@
+{
+  "id": 421179575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76889,9.29167,-79.76889,9.29167",
+    "geom:latitude":9.29167,
+    "geom:longitude":-79.76889,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Gat\u00fan"
+    ],
+    "name:eng_x_preferred":[
+        "Gat\u00fan"
+    ],
+    "name:spa_x_preferred":[
+        "Gat\u00fan"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701870,
+    "qs:gn_pop":1553,
+    "qs:name":"R\u00edo Gat\u00fan",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":150227,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160004,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701870,
+        "gp:id":160004,
+        "qs:id":150227,
+        "wd:id":"Q5527571"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009226,
+    "wof:geomhash":"cc0b068e4f47a2cd66e46c8942bb8719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":421179575,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421179575,
+    "wof:lastmodified":1514494902,
+    "wof:name":"R\u00edo Gat\u00fan",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":1553,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76889,
+    9.29167,
+    -79.76889,
+    9.29167
+],
+  "geometry": {"coordinates":[-79.76889,9.29167],"type":"Point"}
+}

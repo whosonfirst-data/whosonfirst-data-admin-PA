@@ -1,0 +1,83 @@
+{
+  "id": 421188605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.53333,8.96667,-79.53333,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":-79.53333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "La Exposici\u00f3n"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":3713412,
+    "qs:gn_pop":0,
+    "qs:name":"La Exposicion",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":40,
+    "qs:photos_9r":15,
+    "qs:photos_all":8950,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1103625,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793522,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713412,
+        "gp:id":26793522,
+        "qs:id":1103625,
+        "qs_pg:id":1103625
+    },
+    "wof:country":"PA",
+    "wof:created":1459009571,
+    "wof:geomhash":"3e230661bbb503f3602287087b704e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "localadmin_id":421188605,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421188605,
+    "wof:lastmodified":1497043639,
+    "wof:name":"La Exposicion",
+    "wof:parent_id":421196975,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.53333,
+    8.96667,
+    -79.53333,
+    8.96667
+],
+  "geometry": {"coordinates":[-79.53333000000001,8.96667],"type":"Point"}
+}

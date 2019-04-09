@@ -1,0 +1,64 @@
+{
+  "id": 1209024617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78333,8.3,-80.78333,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-80.78333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Jazmin",
+    "gn:country_code":"PA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710602,
+    "gn:latitude":8.3,
+    "gn:longitude":-80.78333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El Jazm\u00edn",
+    "gn:population":6,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710602
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f1843d400c30b1b778a0d2ca4936ba2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209024617
+        }
+    ],
+    "wof:id":1209024617,
+    "wof:lastmodified":1536300040,
+    "wof:name":"El Jazmin",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78333,
+    8.3,
+    -80.78333,
+    8.3
+],
+  "geometry": {"coordinates":[-80.78333000000001,8.3],"type":"Point"}
+}

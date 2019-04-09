@@ -1,0 +1,67 @@
+{
+  "id": 1209607793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.69316,7.90342,-80.69316,7.90342",
+    "geom:latitude":7.90342,
+    "geom:longitude":-80.69316,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Trinidaita",
+    "gn:country_code":"PA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706045,
+    "gn:latitude":7.90342,
+    "gn:longitude":-80.69316,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Trinida\u00edta",
+    "gn:population":109,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Trinida\u00edta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706045
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"050be0e910576eae87949a97cd7593ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209607793
+        }
+    ],
+    "wof:id":1209607793,
+    "wof:lastmodified":1537676389,
+    "wof:name":"La Trinidaita",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.69315999999998,
+    7.90342,
+    -80.69315999999998,
+    7.90342
+],
+  "geometry": {"coordinates":[-80.69315999999998,7.90342],"type":"Point"}
+}

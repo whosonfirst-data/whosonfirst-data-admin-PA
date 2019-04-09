@@ -1,0 +1,81 @@
+{
+  "id": 1293466157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90948,9.11254,-79.90948,9.11254",
+    "geom:latitude":9.11254,
+    "geom:longitude":-79.90948,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lagartera",
+    "gn:country_code":"PA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707661,
+    "gn:latitude":9.11254,
+    "gn:longitude":-79.90948,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Lagartera",
+    "gn:population":289,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lagartera"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707661
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fd30ca7c054c0e601d48a0a002a4091c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1293466157,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1293466157,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293466157,
+    "wof:lastmodified":1537676410,
+    "wof:name":"Lagartera",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90948,
+    9.11254,
+    -79.90948,
+    9.11254
+],
+  "geometry": {"coordinates":[-79.90948,9.11254],"type":"Point"}
+}

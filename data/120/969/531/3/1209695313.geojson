@@ -1,0 +1,61 @@
+{
+  "id": 1209695313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.01667,8.51667,-80.01667,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":-80.01667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Espinito",
+    "gn:country_code":"PA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710884,
+    "gn:latitude":8.51667,
+    "gn:longitude":-80.01667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"El Espinito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710884
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"771eebb4e270bdb4abb7f59a11c7ee5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209695313
+        }
+    ],
+    "wof:id":1209695313,
+    "wof:lastmodified":1536279096,
+    "wof:name":"El Espinito",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.01666999999998,
+    8.51667,
+    -80.01666999999998,
+    8.51667
+],
+  "geometry": {"coordinates":[-80.01666999999998,8.51667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1277156451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.77056,8.85028,-79.77056,8.85028",
+    "geom:latitude":8.85028,
+    "geom:longitude":-79.77056,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Loma Bonita",
+    "gn:country_code":"PA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705603,
+    "gn:latitude":8.85028,
+    "gn:longitude":-79.77056,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Loma Bonita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loma Mojica",
+        "Loma Bonita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705603
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be9b07919cea2d4da48c8e667586493f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1277156451,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1277156451,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1277156451,
+    "wof:lastmodified":1537676383,
+    "wof:name":"Loma Bonita",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.77056,
+    8.85028,
+    -79.77056,
+    8.85028
+],
+  "geometry": {"coordinates":[-79.77056,8.85028],"type":"Point"}
+}

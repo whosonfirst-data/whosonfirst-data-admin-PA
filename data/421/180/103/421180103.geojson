@@ -1,0 +1,83 @@
+{
+  "id": 421180103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.48333,7.91667,-80.48333,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":-80.48333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Los Olivos"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3705131,
+    "qs:gn_pop":0,
+    "qs:name":"Los Olivos",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Los Santos",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":401516,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793413,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705131,
+        "gp:id":26793413,
+        "qs:id":401516,
+        "qs_pg:id":401516
+    },
+    "wof:country":"PA",
+    "wof:created":1459009244,
+    "wof:geomhash":"07800c818a7f9d240bb4b37e1d7c7b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693235,
+            "localadmin_id":421180103,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":421180103,
+    "wof:lastmodified":1497043374,
+    "wof:name":"Los Olivos",
+    "wof:parent_id":1108693235,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.48333,
+    7.91667,
+    -80.48333,
+    7.91667
+],
+  "geometry": {"coordinates":[-80.48333,7.91667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327266953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71111,9.48333,-79.71111,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":-79.71111,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tiende Ropa",
+    "gn:country_code":"PA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764474,
+    "gn:latitude":9.48333,
+    "gn:longitude":-79.71111,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Tiende Ropa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764474
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c3e9a63bb444cbaf824bde22a38d8d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1327266953,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1327266953,
+    "wof:lastmodified":1536920437,
+    "wof:name":"Tiende Ropa",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71110999999998,
+    9.48333,
+    -79.71110999999998,
+    9.48333
+],
+  "geometry": {"coordinates":[-79.71110999999998,9.48333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343449909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.77124,8.24433,-80.77124,8.24433",
+    "geom:latitude":8.24433,
+    "geom:longitude":-80.77124,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guias Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708795,
+    "gn:latitude":8.24433,
+    "gn:longitude":-80.77124,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Gu\u00edas Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gu\u00edas Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708795
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"400ef60759f2cd613a1e250c9f89f424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1343449909,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343449909,
+    "wof:lastmodified":1537676422,
+    "wof:name":"Guias Arriba",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.77124,
+    8.24433,
+    -80.77124,
+    8.24433
+],
+  "geometry": {"coordinates":[-80.77124000000001,8.24433],"type":"Point"}
+}

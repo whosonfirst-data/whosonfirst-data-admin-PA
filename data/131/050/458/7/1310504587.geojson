@@ -1,0 +1,73 @@
+{
+  "id": 1310504587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.33361,8.51486,-82.33361,8.51486",
+    "geom:latitude":8.51486,
+    "geom:longitude":-82.33361,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bijagual",
+    "gn:country_code":"PA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3714123,
+    "gn:latitude":8.51486,
+    "gn:longitude":-82.33361,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Bijagual",
+    "gn:population":257,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bijagual"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714123
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f720a94c5a2da86841dc1294c28bd95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1310504587,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1310504587,
+    "wof:lastmodified":1537676484,
+    "wof:name":"Bijagual",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.33361,
+    8.51486,
+    -82.33361,
+    8.51486
+],
+  "geometry": {"coordinates":[-82.33360999999999,8.51486],"type":"Point"}
+}

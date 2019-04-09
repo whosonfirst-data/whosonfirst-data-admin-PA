@@ -1,0 +1,73 @@
+{
+  "id": 1293592279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35397,8.57273,-82.35397,8.57273",
+    "geom:latitude":8.57273,
+    "geom:longitude":-82.35397,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cerrillos",
+    "gn:country_code":"PA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705422,
+    "gn:latitude":8.57273,
+    "gn:longitude":-82.35397,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerrillos",
+    "gn:population":151,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Cerrillos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705422
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3466d5e0b76edb68e245e648c99dd284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1293592279,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293592279,
+    "wof:lastmodified":1537676380,
+    "wof:name":"Cerrillos",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35396999999998,
+    8.57273,
+    -82.35396999999998,
+    8.57273
+],
+  "geometry": {"coordinates":[-82.35396999999998,8.57273],"type":"Point"}
+}

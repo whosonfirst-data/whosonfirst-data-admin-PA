@@ -1,0 +1,70 @@
+{
+  "id": 1226056889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.18329,8.91071,-82.18329,8.91071",
+    "geom:latitude":8.91071,
+    "geom:longitude":-82.18329,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Milagrosa",
+    "gn:country_code":"PA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347336,
+    "gn:latitude":8.91071,
+    "gn:longitude":-82.18329,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"La Milagrosa",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Milagrosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        1108693209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347336
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8702e8283d5443ebf183e80bff336513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693209,
+            "locality_id":1226056889,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1226056889,
+    "wof:lastmodified":1537676510,
+    "wof:name":"La Milagrosa",
+    "wof:parent_id":1108693209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.18329,
+    8.91071,
+    -82.18329,
+    8.91071
+],
+  "geometry": {"coordinates":[-82.18329,8.91071],"type":"Point"}
+}

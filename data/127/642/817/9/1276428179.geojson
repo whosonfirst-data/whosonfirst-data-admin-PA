@@ -1,0 +1,71 @@
+{
+  "id": 1276428179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.83333,9.08333,-81.83333,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":-81.83333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nancy Point",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703991,
+    "gn:latitude":9.08333,
+    "gn:longitude":-81.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nancy Point",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punta Nance",
+        "Nancy Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703991
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2d4720507532ac833866e669dc8d69fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693223,
+            "locality_id":1276428179,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276428179,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Nancy Point",
+    "wof:parent_id":1108693223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.83333,
+    9.08333,
+    -81.83333,
+    9.08333
+],
+  "geometry": {"coordinates":[-81.83333,9.08333],"type":"Point"}
+}

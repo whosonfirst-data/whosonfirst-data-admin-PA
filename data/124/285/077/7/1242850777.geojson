@@ -1,0 +1,78 @@
+{
+  "id": 1242850777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95607,8.4853,-79.95607,8.4853",
+    "geom:latitude":8.4853,
+    "geom:longitude":-79.95607,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Teresita",
+    "gn:country_code":"PA",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701122,
+    "gn:latitude":8.4853,
+    "gn:longitude":-79.95607,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Santa Teresita",
+    "gn:population":48,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701122
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9e89adf6a6fddfdcb8eb912d3614fe78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1242850777,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1242850777,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1242850777,
+    "wof:lastmodified":1536670209,
+    "wof:name":"Santa Teresita",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95607,
+    8.4853,
+    -79.95607,
+    8.4853
+],
+  "geometry": {"coordinates":[-79.95607,8.4853],"type":"Point"}
+}

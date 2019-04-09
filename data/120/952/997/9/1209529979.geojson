@@ -1,0 +1,65 @@
+{
+  "id": 1209529979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.84973,9.60942,-82.84973,9.60942",
+    "geom:latitude":9.60942,
+    "geom:longitude":-82.84973,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Las Delicias",
+    "gn:country_code":"PA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706564,
+    "gn:latitude":9.60942,
+    "gn:longitude":-82.84973,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Las Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Delicias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706564,
+        "wk:page":"Las_Delicias%2C_Bocas_del_Toro"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e3dab5ce46000e3ebae574ba7bd3b68e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209529979
+        }
+    ],
+    "wof:id":1209529979,
+    "wof:lastmodified":1537676397,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.84973000000002,
+    9.60942,
+    -82.84973000000002,
+    9.60942
+],
+  "geometry": {"coordinates":[-82.84973000000002,9.60942],"type":"Point"}
+}

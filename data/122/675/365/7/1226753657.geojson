@@ -1,0 +1,73 @@
+{
+  "id": 1226753657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13525,8.97064,-80.13525,8.97064",
+    "geom:latitude":8.97064,
+    "geom:longitude":-80.13525,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Nancito",
+    "gn:country_code":"PA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348410,
+    "gn:latitude":8.97064,
+    "gn:longitude":-80.13525,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Nancito",
+    "gn:population":115,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Nancito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348410
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6daad893ce6a9779b76edc76d9c4fc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1226753657,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1226753657,
+    "wof:lastmodified":1537676518,
+    "wof:name":"El Nancito",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13525,
+    8.97064,
+    -80.13525,
+    8.97064
+],
+  "geometry": {"coordinates":[-80.13525,8.97064],"type":"Point"}
+}

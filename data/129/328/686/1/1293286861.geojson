@@ -1,0 +1,73 @@
+{
+  "id": 1293286861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.5617,7.51093,-80.5617,7.51093",
+    "geom:latitude":7.51093,
+    "geom:longitude":-80.5617,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rio Quema",
+    "gn:country_code":"PA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701818,
+    "gn:latitude":7.51093,
+    "gn:longitude":-80.5617,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"R\u00edo Quema",
+    "gn:population":205,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Quema"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701818
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5d52a5073af41e6ea7687e262fc42710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1293286861,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1293286861,
+    "wof:lastmodified":1537676346,
+    "wof:name":"Rio Quema",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.5617,
+    7.51093,
+    -80.5617,
+    7.51093
+],
+  "geometry": {"coordinates":[-80.5617,7.51093],"type":"Point"}
+}

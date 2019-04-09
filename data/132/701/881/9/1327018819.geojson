@@ -1,0 +1,70 @@
+{
+  "id": 1327018819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.27611,7.87899,-81.27611,7.87899",
+    "geom:latitude":7.87899,
+    "geom:longitude":-81.27611,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Soledad",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706313,
+    "gn:latitude":7.87899,
+    "gn:longitude":-81.27611,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"La Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Soledad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706313
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1af8a6442595edf1bb770f5cdbd383ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1327018819,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327018819,
+    "wof:lastmodified":1537676392,
+    "wof:name":"La Soledad",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.27611,
+    7.87899,
+    -81.27611,
+    7.87899
+],
+  "geometry": {"coordinates":[-81.27611,7.87899],"type":"Point"}
+}

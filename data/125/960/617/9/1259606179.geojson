@@ -1,0 +1,73 @@
+{
+  "id": 1259606179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.17503,8.76904,-78.17503,8.76904",
+    "geom:latitude":8.76904,
+    "geom:longitude":-78.17503,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Tirao",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194284,
+    "gn:latitude":8.76904,
+    "gn:longitude":-78.17503,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Tirao",
+    "gn:population":463,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tirao"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194284
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a5aec204e69824d9cef2282196728915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1259606179,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1259606179,
+    "wof:lastmodified":1537676500,
+    "wof:name":"El Tirao",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":463,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.17503,
+    8.76904,
+    -78.17503,
+    8.76904
+],
+  "geometry": {"coordinates":[-78.17503000000001,8.76904],"type":"Point"}
+}

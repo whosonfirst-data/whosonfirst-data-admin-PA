@@ -1,0 +1,73 @@
+{
+  "id": 1209915839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25693,8.41613,-80.25693,8.41613",
+    "geom:latitude":8.41613,
+    "geom:longitude":-80.25693,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Hincada",
+    "gn:country_code":"PA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707561,
+    "gn:latitude":8.41613,
+    "gn:longitude":-80.25693,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Hincada",
+    "gn:population":264,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Hincada"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707561
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bd33f0fc1da9ced96037a0c38c71701b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1209915839,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1209915839,
+    "wof:lastmodified":1537676409,
+    "wof:name":"La Hincada",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25693000000003,
+    8.41613,
+    -80.25693000000003,
+    8.41613
+],
+  "geometry": {"coordinates":[-80.25693000000003,8.41613],"type":"Point"}
+}

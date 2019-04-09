@@ -1,0 +1,78 @@
+{
+  "id": 1310119015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.37547,8.53606,-82.37547,8.53606",
+    "geom:latitude":8.53606,
+    "geom:longitude":-82.37547,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Angostura de Cochea Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712168,
+    "gn:latitude":8.53606,
+    "gn:longitude":-82.37547,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Angostura de Cochea Arriba",
+    "gn:population":615,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Angostura de Cochea Arriba"
+    ],
+    "name:und_x_variant":[
+        "Angostura",
+        "Cochea Arriba Angostura",
+        "Cochea Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712168
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1c5662edf835c09ddd9cc408659a1a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1310119015,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1310119015,
+    "wof:lastmodified":1537676464,
+    "wof:name":"Angostura de Cochea Arriba",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":615,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.37546999999998,
+    8.53606,
+    -82.37546999999998,
+    8.53606
+],
+  "geometry": {"coordinates":[-82.37546999999998,8.53606],"type":"Point"}
+}

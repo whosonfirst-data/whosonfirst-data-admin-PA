@@ -1,0 +1,67 @@
+{
+  "id": 1209083505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.83614,8.37076,-81.83614,8.37076",
+    "geom:latitude":8.37076,
+    "geom:longitude":-81.83614,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cianca",
+    "gn:country_code":"PA",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712274,
+    "gn:latitude":8.37076,
+    "gn:longitude":-81.83614,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cianca",
+    "gn:population":217,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cianca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712274
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b1526be7c8b076426951ccca3daa2943",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209083505
+        }
+    ],
+    "wof:id":1209083505,
+    "wof:lastmodified":1537676465,
+    "wof:name":"Cianca",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.83614,
+    8.37076,
+    -81.83614,
+    8.37076
+],
+  "geometry": {"coordinates":[-81.83614,8.37076],"type":"Point"}
+}

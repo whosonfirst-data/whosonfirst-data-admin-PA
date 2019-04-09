@@ -1,0 +1,73 @@
+{
+  "id": 1327031887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.17744,8.60092,-80.17744,8.60092",
+    "geom:latitude":8.60092,
+    "geom:longitude":-80.17744,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alto Mexico",
+    "gn:country_code":"PA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348490,
+    "gn:latitude":8.60092,
+    "gn:longitude":-80.17744,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Alto M\u00e9xico",
+    "gn:population":127,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto M\u00e9xico"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348490
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0bf3f15a2f1c9608c4e9310036d1ba32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1327031887,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1327031887,
+    "wof:lastmodified":1537676519,
+    "wof:name":"Alto Mexico",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.17744,
+    8.60092,
+    -80.17744,
+    8.60092
+],
+  "geometry": {"coordinates":[-80.17744,8.60092],"type":"Point"}
+}

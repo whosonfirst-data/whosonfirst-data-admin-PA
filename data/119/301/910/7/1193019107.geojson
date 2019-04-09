@@ -1,0 +1,73 @@
+{
+  "id": 1193019107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.6256,8.54614,-82.6256,8.54614",
+    "geom:latitude":8.54614,
+    "geom:longitude":-82.6256,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Miguel del Yuco",
+    "gn:country_code":"PA",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701330,
+    "gn:latitude":8.54614,
+    "gn:longitude":-82.6256,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Miguel del Yuco",
+    "gn:population":756,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Miguel del Yuco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701330
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2161e66dbcd985cb60407cebc295de1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1193019107,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1193019107,
+    "wof:lastmodified":1537676341,
+    "wof:name":"San Miguel del Yuco",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":756,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.6256,
+    8.54614,
+    -82.6256,
+    8.54614
+],
+  "geometry": {"coordinates":[-82.62560000000001,8.54614],"type":"Point"}
+}

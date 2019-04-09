@@ -1,0 +1,70 @@
+{
+  "id": 1293404275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.59465,9.51171,-82.59465,9.51171",
+    "geom:latitude":9.51171,
+    "geom:longitude":-82.59465,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Debora",
+    "gn:country_code":"PA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211230,
+    "gn:latitude":9.51171,
+    "gn:longitude":-82.59465,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"D\u00e9bora",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "D\u00e9bora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211230
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8482e330f5d447157e22a9311ff7e593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1293404275,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1293404275,
+    "wof:lastmodified":1537676506,
+    "wof:name":"Debora",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.59465,
+    9.51171,
+    -82.59465,
+    9.51171
+],
+  "geometry": {"coordinates":[-82.59465,9.51171],"type":"Point"}
+}

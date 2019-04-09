@@ -1,0 +1,70 @@
+{
+  "id": 1277161041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.47539,8.21038,-81.47539,8.21038",
+    "geom:latitude":8.21038,
+    "geom:longitude":-81.47539,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Llano de Los Ruices",
+    "gn:country_code":"PA",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710500,
+    "gn:latitude":8.21038,
+    "gn:longitude":-81.47539,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Llano de Los Ruices",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Llano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710500
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3cbe606dc1a8469f91e8d47ddfef2f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1277161041,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1277161041,
+    "wof:lastmodified":1537676441,
+    "wof:name":"Llano de Los Ruices",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.47539,
+    8.21038,
+    -81.47539,
+    8.21038
+],
+  "geometry": {"coordinates":[-81.47539,8.21038],"type":"Point"}
+}

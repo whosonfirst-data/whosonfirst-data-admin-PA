@@ -1,0 +1,73 @@
+{
+  "id": 1209896319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.52089,8.40642,-81.52089,8.40642",
+    "geom:latitude":8.40642,
+    "geom:longitude":-81.52089,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Piro",
+    "gn:country_code":"PA",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710153,
+    "gn:latitude":8.40642,
+    "gn:longitude":-81.52089,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Piro",
+    "gn:population":137,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Piro N\u00famero Dos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710153
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eb69079871873b542d9281ac1504876b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1209896319,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1209896319,
+    "wof:lastmodified":1537676435,
+    "wof:name":"El Piro",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.52089000000002,
+    8.40642,
+    -81.52089000000002,
+    8.40642
+],
+  "geometry": {"coordinates":[-81.52089000000002,8.40642],"type":"Point"}
+}

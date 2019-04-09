@@ -1,0 +1,67 @@
+{
+  "id": 1242566779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.4,8.08333,-81.4,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-81.4,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Recodo del Maria",
+    "gn:country_code":"PA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702010,
+    "gn:latitude":8.08333,
+    "gn:longitude":-81.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Recodo del Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702010
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fb7684e3c1cad4de40d390766aecffe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1242566779,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242566779,
+    "wof:lastmodified":1537076144,
+    "wof:name":"Recodo del Maria",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.4,
+    8.08333,
+    -81.4,
+    8.08333
+],
+  "geometry": {"coordinates":[-81.40000000000001,8.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343683243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1,7.58333,-80.1,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":-80.1,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"PA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705420,
+    "gn:latitude":7.58333,
+    "gn:longitude":-80.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Cerritos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705420
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"81abe9ff68c2f5d89081561a967b5efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":1343683243,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1343683243,
+    "wof:lastmodified":1536922912,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1,
+    7.58333,
+    -80.1,
+    7.58333
+],
+  "geometry": {"coordinates":[-80.09999999999999,7.58333],"type":"Point"}
+}

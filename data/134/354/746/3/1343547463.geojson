@@ -1,0 +1,81 @@
+{
+  "id": 1343547463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83483,8.61685,-79.83483,8.61685",
+    "geom:latitude":8.61685,
+    "geom:longitude":-79.83483,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Libano",
+    "gn:country_code":"PA",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3710540,
+    "gn:latitude":8.61685,
+    "gn:longitude":-79.83483,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El L\u00edbano",
+    "gn:population":183,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El L\u00edbano"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710540
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"186c1a4420e068655c76021df20e6ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1343547463,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1343547463,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343547463,
+    "wof:lastmodified":1537676442,
+    "wof:name":"El Libano",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83483000000003,
+    8.61685,
+    -79.83483000000003,
+    8.61685
+],
+  "geometry": {"coordinates":[-79.83483000000003,8.61685],"type":"Point"}
+}

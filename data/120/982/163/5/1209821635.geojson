@@ -1,0 +1,74 @@
+{
+  "id": 1209821635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.15131,9.18563,-80.15131,9.18563",
+    "geom:latitude":9.18563,
+    "geom:longitude":-80.15131,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Icacal",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708567,
+    "gn:latitude":9.18563,
+    "gn:longitude":-80.15131,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Icacal",
+    "gn:population":486,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hicacal",
+        "Icacal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708567
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"37506a19389e2bbb2bb02723474f73cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1209821635,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1209821635,
+    "wof:lastmodified":1537676421,
+    "wof:name":"Icacal",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.15131,
+    9.18563,
+    -80.15131,
+    9.18563
+],
+  "geometry": {"coordinates":[-80.15131,9.18563],"type":"Point"}
+}

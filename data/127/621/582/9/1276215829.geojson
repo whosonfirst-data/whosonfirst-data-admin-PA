@@ -1,0 +1,67 @@
+{
+  "id": 1276215829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.49417,7.72806,-81.49417,7.72806",
+    "geom:latitude":7.72806,
+    "geom:longitude":-81.49417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Honduras",
+    "gn:country_code":"PA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708628,
+    "gn:latitude":7.72806,
+    "gn:longitude":-81.49417,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Honduras",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708628
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0629dffffdf028ef5d4ac2585b56b763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1276215829,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276215829,
+    "wof:lastmodified":1536937225,
+    "wof:name":"Honduras",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.49417,
+    7.72806,
+    -81.49417,
+    7.72806
+],
+  "geometry": {"coordinates":[-81.49417,7.72806],"type":"Point"}
+}

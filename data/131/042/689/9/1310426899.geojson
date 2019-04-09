@@ -1,0 +1,70 @@
+{
+  "id": 1310426899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.18333,7.56667,-80.18333,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":-80.18333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Tabano",
+    "gn:country_code":"PA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709922,
+    "gn:latitude":7.56667,
+    "gn:longitude":-80.18333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El T\u00e1bano",
+    "gn:population":24,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709922
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"24302d4b9db6ffae24356ad4b6bb0be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693255,
+            "locality_id":1310426899,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1310426899,
+    "wof:lastmodified":1537029166,
+    "wof:name":"El Tabano",
+    "wof:parent_id":1108693255,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.18333,
+    7.56667,
+    -80.18333,
+    7.56667
+],
+  "geometry": {"coordinates":[-80.18333,7.56667],"type":"Point"}
+}

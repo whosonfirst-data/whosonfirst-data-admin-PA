@@ -1,0 +1,70 @@
+{
+  "id": 1243155907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.48067,7.92542,-81.48067,7.92542",
+    "geom:latitude":7.92542,
+    "geom:longitude":-81.48067,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Gorgojo",
+    "gn:country_code":"PA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179196,
+    "gn:latitude":7.92542,
+    "gn:longitude":-81.48067,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"El Gorgojo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Gorgojo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179196
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c842dfeda346302c6ab14970a5f01602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1243155907,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243155907,
+    "wof:lastmodified":1537676495,
+    "wof:name":"El Gorgojo",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.48066999999998,
+    7.92542,
+    -81.48066999999998,
+    7.92542
+],
+  "geometry": {"coordinates":[-81.48066999999998,7.92542],"type":"Point"}
+}

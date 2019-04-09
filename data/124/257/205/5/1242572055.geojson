@@ -1,0 +1,73 @@
+{
+  "id": 1242572055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41755,7.4277,-80.41755,7.4277",
+    "geom:latitude":7.4277,
+    "geom:longitude":-80.41755,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rio Viejo del Solar",
+    "gn:country_code":"PA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701791,
+    "gn:latitude":7.4277,
+    "gn:longitude":-80.41755,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"R\u00edo Viejo del Solar",
+    "gn:population":354,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Viejo del Solar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701791
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"28c805d140f9ee58985e9dd8ff2e6a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1242572055,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1242572055,
+    "wof:lastmodified":1537676345,
+    "wof:name":"Rio Viejo del Solar",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:population":354,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41755,
+    7.4277,
+    -80.41755,
+    7.4277
+],
+  "geometry": {"coordinates":[-80.41755000000001,7.4277],"type":"Point"}
+}

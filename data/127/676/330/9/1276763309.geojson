@@ -1,0 +1,72 @@
+{
+  "id": 1276763309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61667,9.31667,-79.61667,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":-79.61667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Quebrada Rancho Grande",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702145,
+    "gn:latitude":9.31667,
+    "gn:longitude":-79.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Quebrada Rancho Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Grande",
+        "Quebrada Rancho Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702145
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0e2c5185f31ad30378ebd85c7f2ece64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1276763309,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1276763309,
+    "wof:lastmodified":1537676349,
+    "wof:name":"Quebrada Rancho Grande",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61667,
+    9.31667,
+    -79.61667,
+    9.31667
+],
+  "geometry": {"coordinates":[-79.61667,9.31667],"type":"Point"}
+}

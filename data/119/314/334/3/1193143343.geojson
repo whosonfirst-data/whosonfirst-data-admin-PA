@@ -1,0 +1,70 @@
+{
+  "id": 1193143343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.05121,9.14674,-80.05121,9.14674",
+    "geom:latitude":9.14674,
+    "geom:longitude":-80.05121,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Gloria",
+    "gn:country_code":"PA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10307636,
+    "gn:latitude":9.14674,
+    "gn:longitude":-80.05121,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"La Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Gloria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10307636
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3e4fc168695d85ceaa050d8b77303836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1193143343,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1193143343,
+    "wof:lastmodified":1537676507,
+    "wof:name":"La Gloria",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.05121,
+    9.14674,
+    -80.05121,
+    9.14674
+],
+  "geometry": {"coordinates":[-80.05121,9.14674],"type":"Point"}
+}

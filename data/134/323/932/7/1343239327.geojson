@@ -1,0 +1,73 @@
+{
+  "id": 1343239327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.65222,8.31353,-81.65222,8.31353",
+    "geom:latitude":8.31353,
+    "geom:longitude":-81.65222,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Pifa",
+    "gn:country_code":"PA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347855,
+    "gn:latitude":8.31353,
+    "gn:longitude":-81.65222,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Pif\u00e1",
+    "gn:population":205,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Pif\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347855
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c050a5877e29cfcb7ea09da2f988b148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1343239327,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1343239327,
+    "wof:lastmodified":1537676515,
+    "wof:name":"Cerro Pifa",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.65222,
+    8.31353,
+    -81.65222,
+    8.31353
+],
+  "geometry": {"coordinates":[-81.65222,8.31353],"type":"Point"}
+}

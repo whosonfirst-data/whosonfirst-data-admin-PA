@@ -1,0 +1,80 @@
+{
+  "id": 890429533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.87917,8.86056,-79.87917,8.86056",
+    "geom:latitude":8.86056,
+    "geom:longitude":-79.87917,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":987,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rita"
+    ],
+    "qs:name":"Santa Rita",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":282,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701148,
+        "gp:id":160281,
+        "qs:id":584769,
+        "wd:id":"Q185868",
+        "wk:page":"Santa Rita"
+    },
+    "wof:country":"PA",
+    "wof:created":1469051819,
+    "wof:geomhash":"02eed76e4ebaca1d905b8c8e1752670e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":890429533,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":890429533,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":890429533,
+    "wof:lastmodified":1527792786,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":987,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.87917,
+    8.86056,
+    -79.87917,
+    8.86056
+],
+  "geometry": {"coordinates":[-79.87917,8.86056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276776211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.80677,8.68898,-82.80677,8.68898",
+    "geom:latitude":8.68898,
+    "geom:longitude":-82.80677,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Canas Blancas Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347248,
+    "gn:latitude":8.68898,
+    "gn:longitude":-82.80677,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Ca\u00f1as Blancas Abajo",
+    "gn:population":166,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1as Blancas Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347248
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9b7f0d4c8d5c9b829f0f8a9fc7f2763c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693261,
+            "locality_id":1276776211,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1276776211,
+    "wof:lastmodified":1537676507,
+    "wof:name":"Canas Blancas Abajo",
+    "wof:parent_id":1108693261,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.80677,
+    8.68898,
+    -82.80677,
+    8.68898
+],
+  "geometry": {"coordinates":[-82.80677,8.68898],"type":"Point"}
+}

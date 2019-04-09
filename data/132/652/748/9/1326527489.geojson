@@ -1,0 +1,70 @@
+{
+  "id": 1326527489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.54225,8.04447,-80.54225,8.04447",
+    "geom:latitude":8.04447,
+    "geom:longitude":-80.54225,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Paris Viejo",
+    "gn:country_code":"PA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703356,
+    "gn:latitude":8.04447,
+    "gn:longitude":-80.54225,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Par\u00eds Viejo",
+    "gn:population":3,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703356
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f724e4459ae50cca8dd4197dbc30da61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1326527489,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1326527489,
+    "wof:lastmodified":1536990121,
+    "wof:name":"Paris Viejo",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.54225,
+    8.04447,
+    -80.54225,
+    8.04447
+],
+  "geometry": {"coordinates":[-80.54225,8.04447],"type":"Point"}
+}

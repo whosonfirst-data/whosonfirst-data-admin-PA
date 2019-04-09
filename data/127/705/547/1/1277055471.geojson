@@ -1,0 +1,71 @@
+{
+  "id": 1277055471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75,9.0,-79.75,9.0",
+    "geom:latitude":9.0,
+    "geom:longitude":-79.75,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Fuerte Clayton",
+    "gn:country_code":"PA",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709448,
+    "gn:latitude":9.0,
+    "gn:longitude":-79.75,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Fuerte Clayton",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort Clayton",
+        "Fuerte Clayton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709448
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"14f9e0c3a9f5011e4d51668738328826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1277055471,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1277055471,
+    "wof:lastmodified":1537676426,
+    "wof:name":"Fuerte Clayton",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75,
+    9.0,
+    -79.75,
+    9.0
+],
+  "geometry": {"coordinates":[-79.75,9.0],"type":"Point"}
+}

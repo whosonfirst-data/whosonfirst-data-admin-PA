@@ -1,0 +1,79 @@
+{
+  "id": 1293668581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81667,9.01667,-79.81667,9.01667",
+    "geom:latitude":9.01667,
+    "geom:longitude":-79.81667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Quebrada Lagarto Lagarto",
+    "gn:country_code":"PA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702181,
+    "gn:latitude":9.01667,
+    "gn:longitude":-79.81667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Quebrada Lagarto Lagarto",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quebrada Lagarta",
+        "Quebrada Lagarto Lagarto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702181
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4ba001c856896a59b9096448689988b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1293668581,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1293668581,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293668581,
+    "wof:lastmodified":1537676350,
+    "wof:name":"Quebrada Lagarto Lagarto",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81667,
+    9.01667,
+    -79.81667,
+    9.01667
+],
+  "geometry": {"coordinates":[-79.81667,9.01667],"type":"Point"}
+}

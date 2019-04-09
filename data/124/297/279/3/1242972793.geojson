@@ -1,0 +1,73 @@
+{
+  "id": 1242972793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.15906,8.5468,-80.15906,8.5468",
+    "geom:latitude":8.5468,
+    "geom:longitude":-80.15906,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Quira",
+    "gn:country_code":"PA",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710071,
+    "gn:latitude":8.5468,
+    "gn:longitude":-80.15906,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Quir\u00e1",
+    "gn:population":116,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Quir\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710071
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"845e689a4f4ee494f6956cf4b1277faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1242972793,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1242972793,
+    "wof:lastmodified":1537676434,
+    "wof:name":"El Quira",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.15906,
+    8.5468,
+    -80.15906,
+    8.5468
+],
+  "geometry": {"coordinates":[-80.15906,8.5468],"type":"Point"}
+}

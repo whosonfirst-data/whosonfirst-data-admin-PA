@@ -1,0 +1,70 @@
+{
+  "id": 1260159117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.62323,8.18047,-77.62323,8.18047",
+    "geom:latitude":8.18047,
+    "geom:longitude":-77.62323,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Comun",
+    "gn:country_code":"PA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194879,
+    "gn:latitude":8.18047,
+    "gn:longitude":-77.62323,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"El Com\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Com\u00fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194879
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8f4970c88149070404e613a46bf129e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693203,
+            "locality_id":1260159117,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1260159117,
+    "wof:lastmodified":1537676502,
+    "wof:name":"El Comun",
+    "wof:parent_id":1108693203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.62323,
+    8.18047,
+    -77.62323,
+    8.18047
+],
+  "geometry": {"coordinates":[-77.62323000000001,8.18047],"type":"Point"}
+}

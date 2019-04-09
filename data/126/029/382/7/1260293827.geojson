@@ -1,0 +1,79 @@
+{
+  "id": 1260293827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7471,8.35512,-82.7471,8.35512",
+    "geom:latitude":8.35512,
+    "geom:longitude":-82.7471,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Finca Baco",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714546,
+    "gn:latitude":8.35512,
+    "gn:longitude":-82.7471,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Finca Baco",
+    "gn:population":445,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca Baco"
+    ],
+    "name:und_x_variant":[
+        "Boca",
+        "Boca de Leones",
+        "Baco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714546,
+        "wk:page":"Baco%2C_Chiriqu%C3%AD"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1d9367b4e095b5f918d53f8772b058a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1260293827,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1260293827,
+    "wof:lastmodified":1537676487,
+    "wof:name":"Finca Baco",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":445,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.7471,
+    8.35512,
+    -82.7471,
+    8.35512
+],
+  "geometry": {"coordinates":[-82.7471,8.35512],"type":"Point"}
+}

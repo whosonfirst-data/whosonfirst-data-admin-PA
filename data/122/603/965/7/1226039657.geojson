@@ -1,0 +1,67 @@
+{
+  "id": 1226039657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.33333,7.78333,-80.33333,7.78333",
+    "geom:latitude":7.78333,
+    "geom:longitude":-80.33333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Guaca",
+    "gn:country_code":"PA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707606,
+    "gn:latitude":7.78333,
+    "gn:longitude":-80.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Guaca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707606
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b3819b7bc5142221cb61ae7053e97753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693219,
+            "locality_id":1226039657,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1226039657,
+    "wof:lastmodified":1536734171,
+    "wof:name":"La Guaca",
+    "wof:parent_id":1108693219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.33333,
+    7.78333,
+    -80.33333,
+    7.78333
+],
+  "geometry": {"coordinates":[-80.33333,7.78333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259963455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01639,7.71694,-81.01639,7.71694",
+    "geom:latitude":7.71694,
+    "geom:longitude":-81.01639,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rio Viejo Numero Dos",
+    "gn:country_code":"PA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701790,
+    "gn:latitude":7.71694,
+    "gn:longitude":-81.01639,
+    "gn:modification_date":"2014-11-20",
+    "gn:name":"R\u00edo Viejo N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701790
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e41223e51d8ba293da3c4b52e87932ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1259963455,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259963455,
+    "wof:lastmodified":1536664038,
+    "wof:name":"Rio Viejo Numero Dos",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01639,
+    7.71694,
+    -81.01639,
+    7.71694
+],
+  "geometry": {"coordinates":[-81.01639,7.71694],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226228413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08053,8.50277,-80.08053,8.50277",
+    "geom:latitude":8.50277,
+    "geom:longitude":-80.08053,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Pita",
+    "gn:country_code":"PA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706896,
+    "gn:latitude":8.50277,
+    "gn:longitude":-80.08053,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Pita",
+    "gn:population":158,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706896
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"129ffe4943045bc736266e8b1d7fc9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1226228413,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1226228413,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1226228413,
+    "wof:lastmodified":1536958633,
+    "wof:name":"La Pita",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08053000000002,
+    8.50277,
+    -80.08053000000002,
+    8.50277
+],
+  "geometry": {"coordinates":[-80.08053000000002,8.50277],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226022013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.65,8.36667,-81.65,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-81.65,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Lajitas",
+    "gn:country_code":"PA",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706425,
+    "gn:latitude":8.36667,
+    "gn:longitude":-81.65,
+    "gn:modification_date":"2011-09-12",
+    "gn:name":"Las Lajitas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706425
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"62f0296600c7bd7195848b760dd946ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1226022013,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226022013,
+    "wof:lastmodified":1536759653,
+    "wof:name":"Las Lajitas",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.65,
+    8.36667,
+    -81.65,
+    8.36667
+],
+  "geometry": {"coordinates":[-81.65000000000001,8.36667],"type":"Point"}
+}

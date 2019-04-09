@@ -1,0 +1,67 @@
+{
+  "id": 1209604385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.60704,8.1156,-81.60704,8.1156",
+    "geom:latitude":8.1156,
+    "geom:longitude":-81.60704,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zapiringo",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699936,
+    "gn:latitude":8.1156,
+    "gn:longitude":-81.60704,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Zapiringo",
+    "gn:population":77,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zapiringo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699936
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e8b160afdc2b8f6a98682d25632969b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209604385
+        }
+    ],
+    "wof:id":1209604385,
+    "wof:lastmodified":1537676330,
+    "wof:name":"Zapiringo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.60704,
+    8.1156,
+    -81.60704,
+    8.1156
+],
+  "geometry": {"coordinates":[-81.60704,8.1156],"type":"Point"}
+}

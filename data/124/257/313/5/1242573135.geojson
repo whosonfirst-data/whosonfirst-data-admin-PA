@@ -1,0 +1,73 @@
+{
+  "id": 1242573135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.14524,8.13535,-81.14524,8.13535",
+    "geom:latitude":8.13535,
+    "geom:longitude":-81.14524,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Piedra Hincada",
+    "gn:country_code":"PA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702907,
+    "gn:latitude":8.13535,
+    "gn:longitude":-81.14524,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Piedra Hincada",
+    "gn:population":61,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedra Hincada"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702907
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a09be7f7a83d1a4043e19f1610340dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1242573135,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242573135,
+    "wof:lastmodified":1537676359,
+    "wof:name":"Piedra Hincada",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.14524,
+    8.13535,
+    -81.14524,
+    8.13535
+],
+  "geometry": {"coordinates":[-81.14524,8.13535],"type":"Point"}
+}

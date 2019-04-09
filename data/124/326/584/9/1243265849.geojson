@@ -1,0 +1,63 @@
+{
+  "id": 1243265849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,8.3,-80.23333,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-80.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Juan Hombron",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708284,
+    "gn:latitude":8.3,
+    "gn:longitude":-80.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Juan Hombr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708284
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9b9cf14a37a4c988bcb673bf7dd9fe94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1243265849,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243265849,
+    "wof:lastmodified":1537063081,
+    "wof:name":"Juan Hombron",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333000000002,
+    8.3,
+    -80.23333000000002,
+    8.3
+],
+  "geometry": {"coordinates":[-80.23333000000002,8.3],"type":"Point"}
+}

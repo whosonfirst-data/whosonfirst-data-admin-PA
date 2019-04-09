@@ -1,0 +1,72 @@
+{
+  "id": 1343354215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.5701,7.94338,-80.5701,7.94338",
+    "geom:latitude":7.94338,
+    "geom:longitude":-80.5701,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Pajaro",
+    "gn:country_code":"PA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3710305,
+    "gn:latitude":7.94338,
+    "gn:longitude":-80.5701,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"El P\u00e1jaro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pajaro",
+        "El P\u00e1jaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710305,
+        "wk:page":"El_P%C3%A1jaro"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c3c6b0c7af3d8a275f2435a4aa1addf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1343354215,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1343354215,
+    "wof:lastmodified":1537676438,
+    "wof:name":"El Pajaro",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.5701,
+    7.94338,
+    -80.5701,
+    7.94338
+],
+  "geometry": {"coordinates":[-80.5701,7.94338],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360192147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.67929,8.43773,-80.67929,8.43773",
+    "geom:latitude":8.43773,
+    "geom:longitude":-80.67929,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Cope",
+    "gn:country_code":"PA",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711011,
+    "gn:latitude":8.43773,
+    "gn:longitude":-80.67929,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Cop\u00e9",
+    "gn:population":190,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711011
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3d4babfca077dd1d0a4eae08fe54c0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693249,
+            "locality_id":1360192147,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1360192147,
+    "wof:lastmodified":1537676451,
+    "wof:name":"El Cope",
+    "wof:parent_id":1108693249,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.67929000000002,
+    8.43773,
+    -80.67929000000002,
+    8.43773
+],
+  "geometry": {"coordinates":[-80.67929000000002,8.43773],"type":"Point"}
+}

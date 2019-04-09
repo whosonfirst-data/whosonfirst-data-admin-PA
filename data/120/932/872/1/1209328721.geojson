@@ -1,0 +1,64 @@
+{
+  "id": 1209328721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.41679,9.31033,-82.41679,9.31033",
+    "geom:latitude":9.31033,
+    "geom:longitude":-82.41679,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Milla Tres",
+    "gn:country_code":"PA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704293,
+    "gn:latitude":9.31033,
+    "gn:longitude":-82.41679,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Milla Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Milla Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704293
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7c8b21852003a0984bb1425e5b1ddcff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209328721
+        }
+    ],
+    "wof:id":1209328721,
+    "wof:lastmodified":1537676368,
+    "wof:name":"Milla Tres",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.41679,
+    9.31033,
+    -82.41679,
+    9.31033
+],
+  "geometry": {"coordinates":[-82.41679000000001,9.31033],"type":"Point"}
+}

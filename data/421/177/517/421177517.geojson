@@ -1,0 +1,79 @@
+{
+  "id": 421177517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46667,8.81667,-82.46667,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":-82.46667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701284,
+    "qs:gn_pop":0,
+    "qs:name":"San Ram\u00f3n",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1341497,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160222,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421175373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701284,
+        "gp:id":160222,
+        "qs:id":1341497
+    },
+    "wof:country":"PA",
+    "wof:created":1459009147,
+    "wof:geomhash":"077cc79336501d9a990df203a44dff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175373,
+            "locality_id":421177517,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421177517,
+    "wof:lastmodified":1501268745,
+    "wof:name":"San Ram\u00f3n",
+    "wof:parent_id":421175373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46667,
+    8.81667,
+    -82.46667,
+    8.81667
+],
+  "geometry": {"coordinates":[-82.46666999999999,8.81667],"type":"Point"}
+}

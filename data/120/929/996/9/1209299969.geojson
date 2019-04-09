@@ -1,0 +1,65 @@
+{
+  "id": 1209299969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.45612,8.41466,-78.45612,8.41466",
+    "geom:latitude":8.41466,
+    "geom:longitude":-78.45612,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gonzalo Vasquez",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3709218,
+    "gn:latitude":8.41466,
+    "gn:longitude":-78.45612,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Gonzalo V\u00e1squez",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gonzalo V\u00e1squez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709218,
+        "wk:page":"Gonzalo_V%C3%A1squez"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6afa48513c005e3d916ed83805971997",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209299969
+        }
+    ],
+    "wof:id":1209299969,
+    "wof:lastmodified":1537676424,
+    "wof:name":"Gonzalo Vasquez",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.45612,
+    8.41466,
+    -78.45612,
+    8.41466
+],
+  "geometry": {"coordinates":[-78.45612,8.41466],"type":"Point"}
+}

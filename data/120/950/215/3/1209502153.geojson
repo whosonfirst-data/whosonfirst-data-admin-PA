@@ -1,0 +1,68 @@
+{
+  "id": 1209502153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.93374,8.32676,-81.93374,8.32676",
+    "geom:latitude":8.32676,
+    "geom:longitude":-81.93374,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Brisas",
+    "gn:country_code":"PA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712775,
+    "gn:latitude":8.32676,
+    "gn:longitude":-81.93374,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cerro Brisas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Brisas"
+    ],
+    "name:und_x_variant":[
+        "Cerro Briza",
+        "Cerro Brisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712775
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"58ae914af0d5e1e5122db810ffa4c4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209502153
+        }
+    ],
+    "wof:id":1209502153,
+    "wof:lastmodified":1537676471,
+    "wof:name":"Cerro Brisas",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.93374,
+    8.32676,
+    -81.93374,
+    8.32676
+],
+  "geometry": {"coordinates":[-81.93374,8.32676],"type":"Point"}
+}

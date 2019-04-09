@@ -1,0 +1,66 @@
+{
+  "id": 1276876703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1,9.28333,-82.1,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":-82.1,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ladd House",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707812,
+    "gn:latitude":9.28333,
+    "gn:longitude":-82.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ladd House",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ccader Creek",
+        "Ladd House"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707812
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3a8c2c6c1f45a7e0caf323f91b784363",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276876703,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276876703,
+    "wof:lastmodified":1537676412,
+    "wof:name":"Ladd House",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1,
+    9.28333,
+    -82.1,
+    9.28333
+],
+  "geometry": {"coordinates":[-82.09999999999999,9.28333],"type":"Point"}
+}

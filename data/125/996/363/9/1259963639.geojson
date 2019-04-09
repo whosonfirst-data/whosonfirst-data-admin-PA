@@ -1,0 +1,71 @@
+{
+  "id": 1259963639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85752,8.4306,-80.85752,8.4306",
+    "geom:latitude":8.4306,
+    "geom:longitude":-80.85752,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Yeguada",
+    "gn:country_code":"PA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705969,
+    "gn:latitude":8.4306,
+    "gn:longitude":-80.85752,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Yeguada",
+    "gn:population":122,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705969,
+        "wk:page":"La_Yeguada_%28corregimiento%29"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"38ef24bcef73844629777dbac1a88229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1259963639,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259963639,
+    "wof:lastmodified":1537570200,
+    "wof:name":"La Yeguada",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85752,
+    8.4306,
+    -80.85752,
+    8.4306
+],
+  "geometry": {"coordinates":[-80.85751999999999,8.4306],"type":"Point"}
+}

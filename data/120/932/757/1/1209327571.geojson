@@ -1,0 +1,65 @@
+{
+  "id": 1209327571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.00517,8.31484,-82.00517,8.31484",
+    "geom:latitude":8.31484,
+    "geom:longitude":-82.00517,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cienaguita",
+    "gn:country_code":"PA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712257,
+    "gn:latitude":8.31484,
+    "gn:longitude":-82.00517,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cienaguita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cieneguita",
+        "Cienaguita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712257
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"136037e873033a3dc1c930d8a21fe7d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209327571
+        }
+    ],
+    "wof:id":1209327571,
+    "wof:lastmodified":1537676465,
+    "wof:name":"Cienaguita",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.00516999999998,
+    8.31484,
+    -82.00516999999998,
+    8.31484
+],
+  "geometry": {"coordinates":[-82.00516999999998,8.31484],"type":"Point"}
+}

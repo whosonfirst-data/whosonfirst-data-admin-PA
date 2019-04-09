@@ -1,0 +1,64 @@
+{
+  "id": 1209410445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.92783,8.28354,-80.92783,8.28354",
+    "geom:latitude":8.28354,
+    "geom:longitude":-80.92783,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Sanchez",
+    "gn:country_code":"PA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704967,
+    "gn:latitude":8.28354,
+    "gn:longitude":-80.92783,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los S\u00e1nchez",
+    "gn:population":14,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704967
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f1b1472064cab9d55d5cf86a65e0d241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209410445
+        }
+    ],
+    "wof:id":1209410445,
+    "wof:lastmodified":1536287855,
+    "wof:name":"Los Sanchez",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.92783,
+    8.283539999999999,
+    -80.92783,
+    8.283539999999999
+],
+  "geometry": {"coordinates":[-80.92783,8.28354],"type":"Point"}
+}

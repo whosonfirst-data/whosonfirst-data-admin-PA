@@ -1,0 +1,72 @@
+{
+  "id": 1293674637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9625,8.40472,-78.9625,8.40472",
+    "geom:latitude":8.40472,
+    "geom:longitude":-78.9625,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Playa Floral",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702678,
+    "gn:latitude":8.40472,
+    "gn:longitude":-78.9625,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Playa Floral",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Floral",
+        "Playa Floral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702678
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7ca45c2f178d1c41a610c6d4ee368918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1293674637,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293674637,
+    "wof:lastmodified":1537676357,
+    "wof:name":"Playa Floral",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9625,
+    8.40472,
+    -78.9625,
+    8.40472
+],
+  "geometry": {"coordinates":[-78.96250000000001,8.40472],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890422931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1,9.3,-82.1,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-82.1,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":150,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Salt Creek"
+    ],
+    "name:eng_x_preferred":[
+        "Salt Creek"
+    ],
+    "name:unk_x_variant":[
+        "Quebrada Ccader"
+    ],
+    "qs:name":"Sal Creek",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        1108693191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701640,
+        "gp:id":154866,
+        "qs:id":584813,
+        "wd:id":"Q7405813",
+        "wk:page":"Agua Sal Creek"
+    },
+    "wof:country":"PA",
+    "wof:created":1469051472,
+    "wof:geomhash":"49c0f10c48bd7a6ba2ae45c66ba8c5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693191,
+            "locality_id":890422931,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":890422931,
+    "wof:lastmodified":1527727158,
+    "wof:name":"Sal Creek",
+    "wof:parent_id":1108693191,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1,
+    9.3,
+    -82.1,
+    9.3
+],
+  "geometry": {"coordinates":[-82.09999999999999,9.3],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226355167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.87554,8.25947,-82.87554,8.25947",
+    "geom:latitude":8.25947,
+    "geom:longitude":-82.87554,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Altos de San Vicente",
+    "gn:country_code":"PA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347289,
+    "gn:latitude":8.25947,
+    "gn:longitude":-82.87554,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Altos de San Vicente",
+    "gn:population":424,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Altos de San Vicente"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347289
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ba11b422116e4c2cd4d707872992600a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1226355167,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226355167,
+    "wof:lastmodified":1537676509,
+    "wof:name":"Altos de San Vicente",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":424,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.87554,
+    8.25947,
+    -82.87554,
+    8.25947
+],
+  "geometry": {"coordinates":[-82.87554,8.25947],"type":"Point"}
+}

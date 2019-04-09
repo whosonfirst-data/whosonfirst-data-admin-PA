@@ -1,0 +1,71 @@
+{
+  "id": 1226265527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.11151,8.31805,-78.11151,8.31805",
+    "geom:latitude":8.31805,
+    "geom:longitude":-78.11151,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jose Paganti",
+    "gn:country_code":"PA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708334,
+    "gn:latitude":8.31805,
+    "gn:longitude":-78.11151,
+    "gn:modification_date":"2014-06-30",
+    "gn:name":"Jos\u00e9 Pagant\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Josefa Gant\u00ed",
+        "Jos\u00e9 Pagant\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708334
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b8ed37136dc7d6a641e36f22f2c0b687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1226265527,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1226265527,
+    "wof:lastmodified":1537676419,
+    "wof:name":"Jose Paganti",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.11151,
+    8.31805,
+    -78.11151,
+    8.31805
+],
+  "geometry": {"coordinates":[-78.11151,8.31805],"type":"Point"}
+}

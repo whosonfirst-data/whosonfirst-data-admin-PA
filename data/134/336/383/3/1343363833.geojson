@@ -1,0 +1,70 @@
+{
+  "id": 1343363833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61509,7.95751,-77.61509,7.95751",
+    "geom:latitude":7.95751,
+    "geom:longitude":-77.61509,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bajo Lepe",
+    "gn:country_code":"PA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203163,
+    "gn:latitude":7.95751,
+    "gn:longitude":-77.61509,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Bajo Lepe",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajo Lepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203163
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5933329048c332665e026a88f44784d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1343363833,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1343363833,
+    "wof:lastmodified":1537676503,
+    "wof:name":"Bajo Lepe",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61509000000002,
+    7.95751,
+    -77.61509000000002,
+    7.95751
+],
+  "geometry": {"coordinates":[-77.61509000000002,7.95751],"type":"Point"}
+}

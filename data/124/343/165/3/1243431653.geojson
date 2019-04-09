@@ -1,0 +1,73 @@
+{
+  "id": 1243431653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.77047,8.2906,-81.77047,8.2906",
+    "geom:latitude":8.2906,
+    "geom:longitude":-81.77047,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Lajero Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10348109,
+    "gn:latitude":8.2906,
+    "gn:longitude":-81.77047,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Lajero Arriba",
+    "gn:population":617,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lajero Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348109
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cb2deba79f5ed6417df938b149d5de4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1243431653,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1243431653,
+    "wof:lastmodified":1537676517,
+    "wof:name":"Lajero Arriba",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:population":617,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.77046999999997,
+    8.2906,
+    -81.77046999999997,
+    8.2906
+],
+  "geometry": {"coordinates":[-81.77046999999997,8.2906],"type":"Point"}
+}

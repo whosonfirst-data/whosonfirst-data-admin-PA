@@ -1,0 +1,73 @@
+{
+  "id": 1210009085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.79112,7.98702,-80.79112,7.98702",
+    "geom:latitude":7.98702,
+    "geom:longitude":-80.79112,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Quebrada de Agua",
+    "gn:country_code":"PA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702259,
+    "gn:latitude":7.98702,
+    "gn:longitude":-80.79112,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada de Agua",
+    "gn:population":364,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada de Agua"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702259
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ae6910ab2968a8ea1f5b663b88c05521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1210009085,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1210009085,
+    "wof:lastmodified":1537676352,
+    "wof:name":"Quebrada de Agua",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.79111999999998,
+    7.98702,
+    -80.79111999999998,
+    7.98702
+],
+  "geometry": {"coordinates":[-80.79111999999998,7.98702],"type":"Point"}
+}

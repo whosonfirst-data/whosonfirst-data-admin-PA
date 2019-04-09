@@ -1,0 +1,70 @@
+{
+  "id": 1226138073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.58823,8.10076,-81.58823,8.10076",
+    "geom:latitude":8.10076,
+    "geom:longitude":-81.58823,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Galgo",
+    "gn:country_code":"PA",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710833,
+    "gn:latitude":8.10076,
+    "gn:longitude":-81.58823,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Galgo",
+    "gn:population":31,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710833
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1090de90db3d16f327793d5e8b318e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1226138073,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226138073,
+    "wof:lastmodified":1537085610,
+    "wof:name":"El Galgo",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.58823000000002,
+    8.10076,
+    -81.58823000000002,
+    8.10076
+],
+  "geometry": {"coordinates":[-81.58823000000002,8.10076],"type":"Point"}
+}

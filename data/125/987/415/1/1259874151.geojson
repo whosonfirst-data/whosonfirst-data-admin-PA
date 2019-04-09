@@ -1,0 +1,72 @@
+{
+  "id": 1259874151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,7.58333,-80.23333,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":-80.23333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Loma",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707314,
+    "gn:latitude":7.58333,
+    "gn:longitude":-80.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loma Grande",
+        "La Loma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707314
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2eb84a6d0d04ab85c33577e359103518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1259874151,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1259874151,
+    "wof:lastmodified":1537676406,
+    "wof:name":"La Loma",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333000000002,
+    7.58333,
+    -80.23333000000002,
+    7.58333
+],
+  "geometry": {"coordinates":[-80.23333000000002,7.58333],"type":"Point"}
+}

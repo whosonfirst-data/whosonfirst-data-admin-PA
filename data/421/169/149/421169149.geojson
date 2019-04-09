@@ -1,0 +1,226 @@
+{
+  "id": 421169149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28333,7.76667,-80.28333,7.76667",
+    "geom:latitude":7.76667,
+    "geom:longitude":-80.28333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633 \u062a\u0627\u0628\u0644\u0627\u0633\u060c \u0644\u0648\u0633 \u0633\u0627\u0646\u062a\u0648\u0633"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u5854\u5e03\u62c9\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:fra_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30bf\u30d6\u30e9\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4\ud0c0\ube14\ub77c\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Las Tablasas"
+    ],
+    "name:pol_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:por_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u0430\u0431\u043b\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u062a\u0627\u0628\u0644\u0627\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u5854\u5e03\u62c9\u65af"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Panama",
+    "ne:ADM0_A3":"PAN",
+    "ne:ADM1NAME":"Los Santos",
+    "ne:ADMIN1_COD":7,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":3706208,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Las Tablas",
+    "ne:GN_POP":8570,
+    "ne:GTOPO30":41.0,
+    "ne:ISO_A2":"PA",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":7.760391,
+    "ne:LONGITUDE":-80.28002,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Las Tablas",
+    "ne:MAX_AREAKM":6.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-80.258333,
+    "ne:MAX_BBXMIN":-80.283333,
+    "ne:MAX_BBYMAX":7.791667,
+    "ne:MAX_BBYMIN":7.758333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":13.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":11358,
+    "ne:MAX_POP20":11358,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-80.272024,
+    "ne:MEAN_BBYC":7.770833,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":6.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-80.258333,
+    "ne:MIN_BBXMIN":-80.283333,
+    "ne:MIN_BBYMAX":7.791667,
+    "ne:MIN_BBYMIN":7.758333,
+    "ne:MIN_PERKM":13.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"Las Tablas",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Las Tablas",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":11358,
+    "ne:POP_MIN":8570,
+    "ne:POP_OTHER":11521,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Panama",
+    "ne:SOV_A3":"PAN",
+    "ne:TIMEZONE":"America/Panama",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3706208,
+    "qs:gn_pop":8570,
+    "qs:name":"Las Tablas",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Los Santos",
+    "qs:photos":456,
+    "qs:photos_1k":92,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":456,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":489326,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158290,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":42.0,
+    "wd:latitude":7.766667,
+    "wd:longitude":-80.283333,
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706208,
+        "gp:id":158290,
+        "qs:id":489326,
+        "wd:id":"Q2712890",
+        "wk:page":"Las Tablas, Los Santos"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008796,
+    "wof:geomhash":"c2ca481e8ce4aa47353add987c020be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":421169149,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":421169149,
+    "wof:lastmodified":1553816357,
+    "wof:name":"Las Tablas",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":8570,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28333,
+    7.76667,
+    -80.28333,
+    7.76667
+],
+  "geometry": {"coordinates":[-80.28333000000001,7.76667],"type":"Point"}
+}

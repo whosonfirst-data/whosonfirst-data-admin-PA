@@ -1,0 +1,81 @@
+{
+  "id": 890430245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.68333,9.21444,-78.68333,9.21444",
+    "geom:latitude":9.21444,
+    "geom:longitude":-78.68333,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":644,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Icant\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Icant\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Icant\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Aguas Claras"
+    ],
+    "qs:name":"Icant\u00ed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708558,
+        "gp:id":26793925,
+        "qs:id":585050,
+        "wd:id":"Q5985035",
+        "wk:page":"Icant\u00ed"
+    },
+    "wof:country":"PA",
+    "wof:created":1469051845,
+    "wof:geomhash":"15340533e5b2db6d8faa07fcfae320f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":890430245,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":890430245,
+    "wof:lastmodified":1527729735,
+    "wof:name":"Icant\u00ed",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:population":644,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.68333,
+    9.21444,
+    -78.68333,
+    9.21444
+],
+  "geometry": {"coordinates":[-78.68333,9.21444],"type":"Point"}
+}

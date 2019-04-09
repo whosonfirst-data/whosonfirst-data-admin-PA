@@ -1,0 +1,82 @@
+{
+  "id": 1125315733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.561786,9.633076,-79.561786,9.633076",
+    "geom:latitude":9.633076,
+    "geom:longitude":-79.561786,
+    "gn:gn_country":null,
+    "iso:country":"PA",
+    "lbl:latitude":9.633076,
+    "lbl:longitude":-79.561786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Isla Grande",
+    "qs_pg:name_adm0":"Panam\u00e1",
+    "qs_pg:name_adm1":"Col\u00f3n",
+    "qs_pg:photos":188,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":604,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":903042,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424924,
+    "qs_pg:woe_id":26793344,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424924,
+    "woe:name_adm0":"Panam\u00e1",
+    "woe:name_adm1":"Col\u00f3n",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191575,
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793344,
+        "qs:id":903042,
+        "qs_pg:id":903042
+    },
+    "wof:country":"PA",
+    "wof:created":1497044265,
+    "wof:geomhash":"fb2325ec1dc9e294d031592111d7a2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "localadmin_id":1125315733,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125315733,
+    "wof:lastmodified":1534379392,
+    "wof:name":"Isla Grande",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421201003
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.561786,
+    9.633076,
+    -79.561786,
+    9.633076
+],
+  "geometry": {"coordinates":[-79.561786,9.633076],"type":"Point"}
+}

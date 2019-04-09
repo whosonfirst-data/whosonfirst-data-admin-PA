@@ -1,0 +1,70 @@
+{
+  "id": 1326922867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.40964,7.97974,-80.40964,7.97974",
+    "geom:latitude":7.97974,
+    "geom:longitude":-80.40964,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Puerto El Agallito",
+    "gn:country_code":"PA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179285,
+    "gn:latitude":7.97974,
+    "gn:longitude":-80.40964,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Puerto El Agallito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto El Agallito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421189055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179285
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5ffc0674e8008bacb968ae354c38e6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189055,
+            "locality_id":1326922867,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1326922867,
+    "wof:lastmodified":1537676496,
+    "wof:name":"Puerto El Agallito",
+    "wof:parent_id":421189055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.40964,
+    7.97974,
+    -80.40964,
+    7.97974
+],
+  "geometry": {"coordinates":[-80.40964,7.97974],"type":"Point"}
+}

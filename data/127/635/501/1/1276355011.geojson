@@ -1,0 +1,66 @@
+{
+  "id": 1276355011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.95355,9.44212,-78.95355,9.44212",
+    "geom:latitude":9.44212,
+    "geom:longitude":-78.95355,
+    "gn:asciiname":"Warsobtugua",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9253856,
+    "gn:latitude":9.44212,
+    "gn:longitude":-78.95355,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"Warsobtugua",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253856
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be56cdc66559828e6d3a779e600baad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "locality_id":1276355011,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":1276355011,
+    "wof:lastmodified":1536749367,
+    "wof:name":"Warsobtugua",
+    "wof:parent_id":1108693213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.95355,
+    9.44212,
+    -78.95355,
+    9.44212
+],
+  "geometry": {"coordinates":[-78.95355000000001,9.44212],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343654283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78171,7.68545,-80.78171,7.68545",
+    "geom:latitude":7.68545,
+    "geom:longitude":-80.78171,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Quebrada del Cantaro",
+    "gn:country_code":"PA",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702250,
+    "gn:latitude":7.68545,
+    "gn:longitude":-80.78171,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Quebrada del C\u00e1ntaro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada del C\u00e1ntaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702250
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9054d45c515b0c085773d69ff76fb9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693227,
+            "locality_id":1343654283,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1343654283,
+    "wof:lastmodified":1537676351,
+    "wof:name":"Quebrada del Cantaro",
+    "wof:parent_id":1108693227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78171,
+    7.68545,
+    -80.78171,
+    7.68545
+],
+  "geometry": {"coordinates":[-80.78171,7.68545],"type":"Point"}
+}

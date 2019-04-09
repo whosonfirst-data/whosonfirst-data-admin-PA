@@ -1,0 +1,70 @@
+{
+  "id": 1310695603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.17225,8.16414,-81.17225,8.16414",
+    "geom:latitude":8.16414,
+    "geom:longitude":-81.17225,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Palomares",
+    "gn:country_code":"PA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703466,
+    "gn:latitude":8.16414,
+    "gn:longitude":-81.17225,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Palomares",
+    "gn:population":3,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703466
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"07318de4a0ff6f454accf6dc7fc6d334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1310695603,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310695603,
+    "wof:lastmodified":1536641862,
+    "wof:name":"Palomares",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.17225,
+    8.16414,
+    -81.17225,
+    8.16414
+],
+  "geometry": {"coordinates":[-81.17225000000001,8.16414],"type":"Point"}
+}

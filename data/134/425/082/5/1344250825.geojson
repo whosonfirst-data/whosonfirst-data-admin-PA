@@ -1,0 +1,73 @@
+{
+  "id": 1344250825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.32362,7.98938,-81.32362,7.98938",
+    "geom:latitude":7.98938,
+    "geom:longitude":-81.32362,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Tollosa",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179199,
+    "gn:latitude":7.98938,
+    "gn:longitude":-81.32362,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Tollosa",
+    "gn:population":580,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Tollosa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179199
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ff2353c4cd93b040ca7acdf83a726f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1344250825,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1344250825,
+    "wof:lastmodified":1537676495,
+    "wof:name":"La Tollosa",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":580,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.32361999999998,
+    7.98938,
+    -81.32361999999998,
+    7.98938
+],
+  "geometry": {"coordinates":[-81.32361999999998,7.98938],"type":"Point"}
+}

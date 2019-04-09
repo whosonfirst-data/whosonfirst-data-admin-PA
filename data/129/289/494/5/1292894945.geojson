@@ -1,0 +1,70 @@
+{
+  "id": 1292894945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.09322,7.95757,-81.09322,7.95757",
+    "geom:latitude":7.95757,
+    "geom:longitude":-81.09322,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Buena Vista Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713689,
+    "gn:latitude":7.95757,
+    "gn:longitude":-81.09322,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Buena Vista Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buena Vista Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713689
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ffac23daf8755ae76aaf37915f0bd622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171341,
+            "locality_id":1292894945,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1292894945,
+    "wof:lastmodified":1537676479,
+    "wof:name":"Buena Vista Abajo",
+    "wof:parent_id":421171341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.09322,
+    7.95757,
+    -81.09322,
+    7.95757
+],
+  "geometry": {"coordinates":[-81.09322,7.95757],"type":"Point"}
+}

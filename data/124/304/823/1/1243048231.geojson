@@ -1,0 +1,73 @@
+{
+  "id": 1243048231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.19328,8.45572,-81.19328,8.45572",
+    "geom:latitude":8.45572,
+    "geom:longitude":-81.19328,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Paredon Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348672,
+    "gn:latitude":8.45572,
+    "gn:longitude":-81.19328,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pared\u00f3n Abajo",
+    "gn:population":267,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pared\u00f3n Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348672
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8b05dbddb907904a296484899646aaf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1243048231,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1243048231,
+    "wof:lastmodified":1537676521,
+    "wof:name":"Paredon Abajo",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.19328,
+    8.45572,
+    -81.19328,
+    8.45572
+],
+  "geometry": {"coordinates":[-81.19328,8.45572],"type":"Point"}
+}

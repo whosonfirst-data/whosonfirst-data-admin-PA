@@ -1,0 +1,61 @@
+{
+  "id": 1209422571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63333,8.25,-80.63333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":-80.63333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Poza",
+    "gn:country_code":"PA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706801,
+    "gn:latitude":8.25,
+    "gn:longitude":-80.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Poza",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706801
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"284071216f66bc413bd750c0e0ddaeaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209422571
+        }
+    ],
+    "wof:id":1209422571,
+    "wof:lastmodified":1536287482,
+    "wof:name":"La Poza",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63333,
+    8.25,
+    -80.63333,
+    8.25
+],
+  "geometry": {"coordinates":[-80.63333,8.25],"type":"Point"}
+}

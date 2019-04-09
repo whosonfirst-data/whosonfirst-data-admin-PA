@@ -1,0 +1,70 @@
+{
+  "id": 1276863365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2819,7.61391,-80.2819,7.61391",
+    "geom:latitude":7.61391,
+    "geom:longitude":-80.2819,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Quebrada Grande del Tebujo",
+    "gn:country_code":"PA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702198,
+    "gn:latitude":7.61391,
+    "gn:longitude":-80.2819,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Quebrada Grande del Tebujo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Grande del Tebujo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702198
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"00cc98fb812c5efef982b6071a37c592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1276863365,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1276863365,
+    "wof:lastmodified":1537676350,
+    "wof:name":"Quebrada Grande del Tebujo",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2819,
+    7.61391,
+    -80.2819,
+    7.61391
+],
+  "geometry": {"coordinates":[-80.28189999999999,7.61391],"type":"Point"}
+}

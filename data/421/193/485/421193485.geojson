@@ -1,0 +1,75 @@
+{
+  "id": 421193485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25102,7.628735,-81.25102,7.628735",
+    "geom:latitude":7.628735,
+    "geom:longitude":-81.25102,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rio Grande",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Veraguas",
+    "qs:photos":97,
+    "qs:photos_1k":20,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":561,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":903049,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793657,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793657,
+        "qs:id":903049
+    },
+    "wof:country":"PA",
+    "wof:created":1459009773,
+    "wof:geomhash":"7b9399002552e6fae1a4a619d8a7f70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "localadmin_id":421193485,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":421193485,
+    "wof:lastmodified":1500018317,
+    "wof:name":"Rio Grande",
+    "wof:parent_id":421171349,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25102,
+    7.628735,
+    -81.25102,
+    7.628735
+],
+  "geometry": {"coordinates":[-81.25102,7.628735],"type":"Point"}
+}

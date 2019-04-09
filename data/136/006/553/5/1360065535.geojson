@@ -1,0 +1,71 @@
+{
+  "id": 1360065535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.9,8.43333,-81.9,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-81.9,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Madera",
+    "gn:country_code":"PA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712685,
+    "gn:latitude":8.43333,
+    "gn:longitude":-81.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cerro Madera",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerro Penca",
+        "Cerro Madera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712685
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0b2ffb11bcf566928a137f3fe8ae41fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1360065535,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1360065535,
+    "wof:lastmodified":1537676469,
+    "wof:name":"Cerro Madera",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.9,
+    8.43333,
+    -81.9,
+    8.43333
+],
+  "geometry": {"coordinates":[-81.90000000000001,8.43333],"type":"Point"}
+}

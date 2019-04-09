@@ -1,0 +1,64 @@
+{
+  "id": 1242799117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0,7.46667,-80.0,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":-80.0,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Punta Mala",
+    "gn:country_code":"PA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702319,
+    "gn:latitude":7.46667,
+    "gn:longitude":-80.0,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Punta Mala",
+    "gn:population":3,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702319
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e2b9e6e12a103ef4c7653a5f26dd20af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242799117,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242799117,
+    "wof:lastmodified":1536744357,
+    "wof:name":"Punta Mala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0,
+    7.46667,
+    -80.0,
+    7.46667
+],
+  "geometry": {"coordinates":[-80.0,7.46667],"type":"Point"}
+}

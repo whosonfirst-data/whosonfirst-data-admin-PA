@@ -1,0 +1,73 @@
+{
+  "id": 1226063921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.97347,9.19044,-77.97347,9.19044",
+    "geom:latitude":9.19044,
+    "geom:longitude":-77.97347,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mamitupu",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704704,
+    "gn:latitude":9.19044,
+    "gn:longitude":-77.97347,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Mamitupu",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamitupu"
+    ],
+    "name:eng_x_variant":[
+        "Mamiturru",
+        "Mamitupo"
+    ],
+    "name:und_x_variant":[
+        "Mamiturru",
+        "Mosquito",
+        "Mamitupo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704704
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8a6e14286d9482050f876b8c82bb200b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226063921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226063921,
+    "wof:lastmodified":1537676371,
+    "wof:name":"Mamitupu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.97346999999998,
+    9.19044,
+    -77.97346999999998,
+    9.19044
+],
+  "geometry": {"coordinates":[-77.97346999999998,9.19044],"type":"Point"}
+}

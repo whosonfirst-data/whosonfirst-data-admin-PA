@@ -1,0 +1,73 @@
+{
+  "id": 1209723277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.49325,8.64183,-80.49325,8.64183",
+    "geom:latitude":8.64183,
+    "geom:longitude":-80.49325,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Las Delicias",
+    "gn:country_code":"PA",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706561,
+    "gn:latitude":8.64183,
+    "gn:longitude":-80.49325,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Delicias",
+    "gn:population":180,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Delicias"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706561
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d6d01f9812ffab9d73ba9586d609fc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1209723277,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1209723277,
+    "wof:lastmodified":1537676396,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.49325,
+    8.64183,
+    -80.49325,
+    8.64183
+],
+  "geometry": {"coordinates":[-80.49325,8.64183],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293755135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96845,8.54121,-79.96845,8.54121",
+    "geom:latitude":8.54121,
+    "geom:longitude":-79.96845,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Llano Largo",
+    "gn:country_code":"PA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705703,
+    "gn:latitude":8.54121,
+    "gn:longitude":-79.96845,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano Largo",
+    "gn:population":61,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705703
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"54f633ed680f1500a943014aac698c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1293755135,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1293755135,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293755135,
+    "wof:lastmodified":1536898364,
+    "wof:name":"Llano Largo",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96845,
+    8.54121,
+    -79.96845,
+    8.54121
+],
+  "geometry": {"coordinates":[-79.96845,8.54121],"type":"Point"}
+}

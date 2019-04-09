@@ -1,0 +1,76 @@
+{
+  "id": 1242983833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.89366,8.26922,-82.89366,8.26922",
+    "geom:latitude":8.26922,
+    "geom:longitude":-82.89366,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Margenes de Corotu",
+    "gn:country_code":"PA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711942,
+    "gn:latitude":8.26922,
+    "gn:longitude":-82.89366,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Margenes de Corot\u00fa",
+    "gn:population":114,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Margenes de Corot\u00fa"
+    ],
+    "name:und_x_variant":[
+        "Corot\u00fa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711942
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"69bfbbf60a3f7febab28b7bd6c82bc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1242983833,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1242983833,
+    "wof:lastmodified":1537676462,
+    "wof:name":"Margenes de Corotu",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.89366,
+    8.26922,
+    -82.89366,
+    8.26922
+],
+  "geometry": {"coordinates":[-82.89366,8.26922],"type":"Point"}
+}

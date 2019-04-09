@@ -1,0 +1,67 @@
+{
+  "id": 1326839161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.78333,8.21667,-81.78333,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":-81.78333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Barranca",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708131,
+    "gn:latitude":8.21667,
+    "gn:longitude":-81.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Barranca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708131
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2032ae1b8f2b94f688e6981897112d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693259,
+            "locality_id":1326839161,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1326839161,
+    "wof:lastmodified":1537037093,
+    "wof:name":"La Barranca",
+    "wof:parent_id":1108693259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.78333,
+    8.21667,
+    -81.78333,
+    8.21667
+],
+  "geometry": {"coordinates":[-81.78333000000001,8.21667],"type":"Point"}
+}

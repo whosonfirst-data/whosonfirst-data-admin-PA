@@ -1,0 +1,76 @@
+{
+  "id": 1310508949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.75089,8.46702,-80.75089,8.46702",
+    "geom:latitude":8.46702,
+    "geom:longitude":-80.75089,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Las Huacas del Quije",
+    "gn:country_code":"PA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706482,
+    "gn:latitude":8.46702,
+    "gn:longitude":-80.75089,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Huacas del Quije",
+    "gn:population":451,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huacas del Quije",
+        "Las Huacas",
+        "Las Huacas del Quije"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706482,
+        "wk:page":"Las_Huacas%2C_Cocl%C3%A9"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c2cb421bc03c62be182af7715f94aabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":1310508949,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310508949,
+    "wof:lastmodified":1537676395,
+    "wof:name":"Las Huacas del Quije",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:population":451,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.75089,
+    8.46702,
+    -80.75089,
+    8.46702
+],
+  "geometry": {"coordinates":[-80.75089,8.46702],"type":"Point"}
+}

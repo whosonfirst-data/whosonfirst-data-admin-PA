@@ -1,0 +1,75 @@
+{
+  "id": 1225920539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98333,8.73333,-79.98333,8.73333",
+    "geom:latitude":8.73333,
+    "geom:longitude":-79.98333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Trinidad del Cerro",
+    "gn:country_code":"PA",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700407,
+    "gn:latitude":8.73333,
+    "gn:longitude":-79.98333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Trinidad del Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700407
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7eef4d03c5a62342a58fcfb00c8cec55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1225920539,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1225920539,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1225920539,
+    "wof:lastmodified":1536906130,
+    "wof:name":"Trinidad del Cerro",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98333000000002,
+    8.73333,
+    -79.98333000000002,
+    8.73333
+],
+  "geometry": {"coordinates":[-79.98333000000002,8.73333],"type":"Point"}
+}

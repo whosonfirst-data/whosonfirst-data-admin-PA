@@ -1,0 +1,74 @@
+{
+  "id": 1327310947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.79184,8.91238,-81.79184,8.91238",
+    "geom:latitude":8.91238,
+    "geom:longitude":-81.79184,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Catavela",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712896,
+    "gn:latitude":8.91238,
+    "gn:longitude":-81.79184,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Catavela",
+    "gn:population":98,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Catavela",
+        "Catavela"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712896
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"66317b797b14d9d6cddb4d0e84857c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1327310947,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1327310947,
+    "wof:lastmodified":1537676472,
+    "wof:name":"Catavela",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.79184000000002,
+    8.91238,
+    -81.79184000000002,
+    8.91238
+],
+  "geometry": {"coordinates":[-81.79184000000002,8.91238],"type":"Point"}
+}

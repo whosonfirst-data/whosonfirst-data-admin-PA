@@ -1,0 +1,67 @@
+{
+  "id": 1327422901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.98333,7.78333,-80.98333,7.78333",
+    "geom:latitude":7.78333,
+    "geom:longitude":-80.98333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alto del Horcon",
+    "gn:country_code":"PA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714826,
+    "gn:latitude":7.78333,
+    "gn:longitude":-80.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Alto del Horc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714826
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e5dba5276ba3901d68b75c599b0a38ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1327422901,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327422901,
+    "wof:lastmodified":1536694743,
+    "wof:name":"Alto del Horcon",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.98333000000002,
+    7.78333,
+    -80.98333000000002,
+    7.78333
+],
+  "geometry": {"coordinates":[-80.98333000000002,7.78333],"type":"Point"}
+}

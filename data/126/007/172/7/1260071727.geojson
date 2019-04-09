@@ -1,0 +1,74 @@
+{
+  "id": 1260071727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.4595,7.64261,-80.4595,7.64261",
+    "geom:latitude":7.64261,
+    "geom:longitude":-80.4595,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mogollon",
+    "gn:country_code":"PA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3704231,
+    "gn:latitude":7.64261,
+    "gn:longitude":-80.4595,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Mogoll\u00f3n",
+    "gn:population":79,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mogoll\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704231,
+        "wk:page":"Mogoll%C3%B3n%2C_Los_Santos"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"efda37bbf381a71fbc478bd9b4f8d138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1260071727,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1260071727,
+    "wof:lastmodified":1537676367,
+    "wof:name":"Mogollon",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.4595,
+    7.64261,
+    -80.4595,
+    7.64261
+],
+  "geometry": {"coordinates":[-80.45950000000001,7.64261],"type":"Point"}
+}

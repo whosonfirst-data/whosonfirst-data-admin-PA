@@ -1,0 +1,91 @@
+{
+  "id": 421185839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.45,8.01667,-80.45,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-80.45,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Boca de Parita"
+    ],
+    "name:eng_x_preferred":[
+        "Boca de Parita"
+    ],
+    "name:nld_x_preferred":[
+        "Boca de Parita"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3714000,
+    "qs:gn_pop":1047,
+    "qs:name":"Boca de Parita",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Herrera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1046625,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":154953,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421189055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714000,
+        "gp:id":154953,
+        "qs:id":1046625,
+        "wd:id":"Q4936126",
+        "wk:page":"Boca de Parita"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009456,
+    "wof:geomhash":"719cc3b2fa269700b9abb2f6a3dd778b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189055,
+            "locality_id":421185839,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":421185839,
+    "wof:lastmodified":1527726511,
+    "wof:name":"Boca de Parita",
+    "wof:parent_id":421189055,
+    "wof:placetype":"locality",
+    "wof:population":1047,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.45,
+    8.01667,
+    -80.45,
+    8.01667
+],
+  "geometry": {"coordinates":[-80.45,8.01667],"type":"Point"}
+}

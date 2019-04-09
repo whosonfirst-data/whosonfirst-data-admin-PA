@@ -1,0 +1,67 @@
+{
+  "id": 1360074103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36667,8.16667,-81.36667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":-81.36667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Picador",
+    "gn:country_code":"PA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710178,
+    "gn:latitude":8.16667,
+    "gn:longitude":-81.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Picador",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710178
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eade42b6dcf4afa48e8f24c07ea11cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1360074103,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1360074103,
+    "wof:lastmodified":1536961434,
+    "wof:name":"El Picador",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.36667,
+    8.16667,
+    -81.36667,
+    8.16667
+],
+  "geometry": {"coordinates":[-81.36667,8.16667],"type":"Point"}
+}

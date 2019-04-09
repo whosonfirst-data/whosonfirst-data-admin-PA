@@ -1,0 +1,73 @@
+{
+  "id": 1209920053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.64856,9.24346,-79.64856,9.24346",
+    "geom:latitude":9.24346,
+    "geom:longitude":-79.64856,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gatuncillo",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709285,
+    "gn:latitude":9.24346,
+    "gn:longitude":-79.64856,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Gatuncillo",
+    "gn:population":4605,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gatuncillo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709285
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"db1206a8be4739fe4d9227e6dbb60cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1209920053,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1209920053,
+    "wof:lastmodified":1537676425,
+    "wof:name":"Gatuncillo",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":4605,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.64856,
+    9.24346,
+    -79.64856,
+    9.24346
+],
+  "geometry": {"coordinates":[-79.64856,9.24346],"type":"Point"}
+}

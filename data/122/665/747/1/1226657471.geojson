@@ -1,0 +1,67 @@
+{
+  "id": 1226657471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.20111,8.89444,-80.20111,8.89444",
+    "geom:latitude":8.89444,
+    "geom:longitude":-80.20111,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Silencito",
+    "gn:country_code":"PA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700954,
+    "gn:latitude":8.89444,
+    "gn:longitude":-80.20111,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Silencito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700954
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"58a86b2021154b6c2c70a53625b949e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1226657471,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226657471,
+    "wof:lastmodified":1536841455,
+    "wof:name":"Silencito",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.20111,
+    8.89444,
+    -80.20111,
+    8.89444
+],
+  "geometry": {"coordinates":[-80.20111,8.89444],"type":"Point"}
+}

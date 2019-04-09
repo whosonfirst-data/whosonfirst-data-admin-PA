@@ -1,0 +1,73 @@
+{
+  "id": 1310392463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.01372,8.53803,-82.01372,8.53803",
+    "geom:latitude":8.53803,
+    "geom:longitude":-82.01372,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pellejo de Agua",
+    "gn:country_code":"PA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347391,
+    "gn:latitude":8.53803,
+    "gn:longitude":-82.01372,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pellejo de Agua",
+    "gn:population":193,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pellejo de Agua"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        421184905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347391
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5d22601e7ea35fb1de9ed75ab72beb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421184905,
+            "locality_id":1310392463,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1310392463,
+    "wof:lastmodified":1537676512,
+    "wof:name":"Pellejo de Agua",
+    "wof:parent_id":421184905,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.01371999999998,
+    8.53803,
+    -82.01371999999998,
+    8.53803
+],
+  "geometry": {"coordinates":[-82.01371999999998,8.53803],"type":"Point"}
+}

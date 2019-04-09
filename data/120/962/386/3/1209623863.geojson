@@ -1,0 +1,70 @@
+{
+  "id": 1209623863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.42417,8.49601,-82.42417,8.49601",
+    "geom:latitude":8.49601,
+    "geom:longitude":-82.42417,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Algarrobos",
+    "gn:country_code":"PA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705562,
+    "gn:latitude":8.49601,
+    "gn:longitude":-82.42417,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Algarrobos",
+    "gn:population":4160,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Algarrobo",
+        "Algarrabo",
+        "Los Algarrobos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705562,
+        "wk:page":"Los_Algarrobos%2C_Chiriqu%C3%AD"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"139034328e664a84f9478e476164447a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209623863
+        }
+    ],
+    "wof:id":1209623863,
+    "wof:lastmodified":1537676382,
+    "wof:name":"Los Algarrobos",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":4160,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.42416999999998,
+    8.49601,
+    -82.42416999999998,
+    8.49601
+],
+  "geometry": {"coordinates":[-82.42416999999998,8.49601],"type":"Point"}
+}

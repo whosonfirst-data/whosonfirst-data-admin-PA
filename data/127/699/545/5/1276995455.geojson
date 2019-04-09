@@ -1,0 +1,73 @@
+{
+  "id": 1276995455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.41624,9.25575,-82.41624,9.25575",
+    "geom:latitude":9.25575,
+    "geom:longitude":-82.41624,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rio Oeste Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10212537,
+    "gn:latitude":9.25575,
+    "gn:longitude":-82.41624,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"R\u00edo Oeste Arriba",
+    "gn:population":360,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Oeste Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10212537
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4af8f0781a2c415a6b32f0d02c7f24b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1276995455,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1276995455,
+    "wof:lastmodified":1537676506,
+    "wof:name":"Rio Oeste Arriba",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":360,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.41624,
+    9.25575,
+    -82.41624,
+    9.25575
+],
+  "geometry": {"coordinates":[-82.41624,9.25575],"type":"Point"}
+}

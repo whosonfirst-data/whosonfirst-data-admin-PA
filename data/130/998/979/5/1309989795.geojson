@@ -1,0 +1,67 @@
+{
+  "id": 1309989795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.41667,8.41667,-81.41667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-81.41667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alto de Palo Verde",
+    "gn:country_code":"PA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714802,
+    "gn:latitude":8.41667,
+    "gn:longitude":-81.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Alto de Palo Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714802
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"732ee212e9ecea9e8a0e7b73fa78658e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1309989795,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1309989795,
+    "wof:lastmodified":1536665962,
+    "wof:name":"Alto de Palo Verde",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.41667,
+    8.41667,
+    -81.41667,
+    8.41667
+],
+  "geometry": {"coordinates":[-81.41667,8.41667],"type":"Point"}
+}

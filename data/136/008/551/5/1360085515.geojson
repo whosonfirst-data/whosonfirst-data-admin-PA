@@ -1,0 +1,73 @@
+{
+  "id": 1360085515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.27156,8.96514,-80.27156,8.96514",
+    "geom:latitude":8.96514,
+    "geom:longitude":-80.27156,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cerro Miguel de Donoso",
+    "gn:country_code":"PA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348512,
+    "gn:latitude":8.96514,
+    "gn:longitude":-80.27156,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Miguel de Donoso",
+    "gn:population":98,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Miguel de Donoso"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348512
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c3daa981e898d2287e9466e011397be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693217,
+            "locality_id":1360085515,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1360085515,
+    "wof:lastmodified":1537676519,
+    "wof:name":"Cerro Miguel de Donoso",
+    "wof:parent_id":1108693217,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.27156,
+    8.96514,
+    -80.27156,
+    8.96514
+],
+  "geometry": {"coordinates":[-80.27155999999999,8.96514],"type":"Point"}
+}

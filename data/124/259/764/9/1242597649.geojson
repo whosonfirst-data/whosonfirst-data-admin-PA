@@ -1,0 +1,67 @@
+{
+  "id": 1242597649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.85,8.36667,-78.85,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-78.85,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Quiebra Castilla",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702090,
+    "gn:latitude":8.36667,
+    "gn:longitude":-78.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Quiebra Castilla",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702090
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9062efe45eb68a47d380b9f76a3322b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1242597649,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1242597649,
+    "wof:lastmodified":1537033385,
+    "wof:name":"Quiebra Castilla",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.85,
+    8.36667,
+    -78.85,
+    8.36667
+],
+  "geometry": {"coordinates":[-78.84999999999999,8.36667],"type":"Point"}
+}

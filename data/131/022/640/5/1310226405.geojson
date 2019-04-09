@@ -1,0 +1,67 @@
+{
+  "id": 1310226405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.18333,7.63333,-80.18333,7.63333",
+    "geom:latitude":7.63333,
+    "geom:longitude":-80.18333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Noneco",
+    "gn:country_code":"PA",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710331,
+    "gn:latitude":7.63333,
+    "gn:longitude":-80.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El No\u00f1eco",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710331
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0fc0776bb58bb9038d318762a7c61c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693255,
+            "locality_id":1310226405,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1310226405,
+    "wof:lastmodified":1536821303,
+    "wof:name":"El Noneco",
+    "wof:parent_id":1108693255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.18333,
+    7.63333,
+    -80.18333,
+    7.63333
+],
+  "geometry": {"coordinates":[-80.18333,7.63333],"type":"Point"}
+}

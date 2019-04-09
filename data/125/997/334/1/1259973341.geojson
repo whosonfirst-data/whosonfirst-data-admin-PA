@@ -1,0 +1,76 @@
+{
+  "id": 1259973341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.31117,8.04982,-81.31117,8.04982",
+    "geom:latitude":8.04982,
+    "geom:longitude":-81.31117,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bajos del Cobre",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705516,
+    "gn:latitude":8.04982,
+    "gn:longitude":-81.31117,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Bajos del Cobre",
+    "gn:population":57,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajos del Cobre"
+    ],
+    "name:und_x_variant":[
+        "Los Bajos del Cobre"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705516
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"682822c11241375ec4968c2c9386a044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1259973341,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1259973341,
+    "wof:lastmodified":1537676381,
+    "wof:name":"Bajos del Cobre",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.31116999999998,
+    8.04982,
+    -81.31116999999998,
+    8.04982
+],
+  "geometry": {"coordinates":[-81.31116999999998,8.04982],"type":"Point"}
+}

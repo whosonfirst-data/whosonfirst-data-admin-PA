@@ -1,0 +1,73 @@
+{
+  "id": 1276309927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.30808,9.04513,-82.30808,9.04513",
+    "geom:latitude":9.04513,
+    "geom:longitude":-82.30808,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cilico Greek",
+    "gn:country_code":"PA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712251,
+    "gn:latitude":9.04513,
+    "gn:longitude":-82.30808,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cilico Greek",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cilico Greek"
+    ],
+    "name:und_x_variant":[
+        "Cilico Creek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        1108693209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712251
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"99358ef6f9e2f4d93167e42389c212b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693209,
+            "locality_id":1276309927,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1276309927,
+    "wof:lastmodified":1537676465,
+    "wof:name":"Cilico Greek",
+    "wof:parent_id":1108693209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.30808,
+    9.04513,
+    -82.30808,
+    9.04513
+],
+  "geometry": {"coordinates":[-82.30808,9.04513],"type":"Point"}
+}

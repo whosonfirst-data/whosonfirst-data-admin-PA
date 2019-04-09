@@ -1,0 +1,67 @@
+{
+  "id": 1209086537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.81684,8.38505,-81.81684,8.38505",
+    "geom:latitude":8.38505,
+    "geom:longitude":-81.81684,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Corozo",
+    "gn:country_code":"PA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347470,
+    "gn:latitude":8.38505,
+    "gn:longitude":-81.81684,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Corozo",
+    "gn:population":150,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Corozo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347470
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7bcbb960b3e18bf486029d83b76606f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209086537
+        }
+    ],
+    "wof:id":1209086537,
+    "wof:lastmodified":1537676514,
+    "wof:name":"Cerro Corozo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.81684,
+    8.38505,
+    -81.81684,
+    8.38505
+],
+  "geometry": {"coordinates":[-81.81684,8.38505],"type":"Point"}
+}

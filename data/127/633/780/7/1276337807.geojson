@@ -1,0 +1,73 @@
+{
+  "id": 1276337807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.60534,8.59905,-82.60534,8.59905",
+    "geom:latitude":8.59905,
+    "geom:longitude":-82.60534,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Cuchilla",
+    "gn:country_code":"PA",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707832,
+    "gn:latitude":8.59905,
+    "gn:longitude":-82.60534,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Cuchilla",
+    "gn:population":174,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cuchilla"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707832
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a2422887c1b9bc198d7da48cac9c7336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1276337807,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1276337807,
+    "wof:lastmodified":1537676412,
+    "wof:name":"La Cuchilla",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.60534,
+    8.59905,
+    -82.60534,
+    8.59905
+],
+  "geometry": {"coordinates":[-82.60534,8.59905],"type":"Point"}
+}

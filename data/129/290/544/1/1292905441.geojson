@@ -1,0 +1,70 @@
+{
+  "id": 1292905441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.34359,8.87571,-80.34359,8.87571",
+    "geom:latitude":8.87571,
+    "geom:longitude":-80.34359,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boca de La Encantada",
+    "gn:country_code":"PA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714034,
+    "gn:latitude":8.87571,
+    "gn:longitude":-80.34359,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Boca de La Encantada",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de La Encantada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714034
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"649e2852d28259adad75be1ae63e110e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1292905441,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1292905441,
+    "wof:lastmodified":1537676483,
+    "wof:name":"Boca de La Encantada",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.34359,
+    8.87571,
+    -80.34359,
+    8.87571
+],
+  "geometry": {"coordinates":[-80.34359000000001,8.87571],"type":"Point"}
+}

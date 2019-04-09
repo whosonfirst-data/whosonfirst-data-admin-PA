@@ -1,0 +1,61 @@
+{
+  "id": 1209432721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.18333,8.86667,-82.18333,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":-82.18333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Catalina",
+    "gn:country_code":"PA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712905,
+    "gn:latitude":8.86667,
+    "gn:longitude":-82.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Catalina",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712905
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"af6f0f88e58cd5a1f12d8dc0f37fdda5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209432721
+        }
+    ],
+    "wof:id":1209432721,
+    "wof:lastmodified":1536287191,
+    "wof:name":"Catalina",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.18333,
+    8.86667,
+    -82.18333,
+    8.86667
+],
+  "geometry": {"coordinates":[-82.18333,8.86667],"type":"Point"}
+}

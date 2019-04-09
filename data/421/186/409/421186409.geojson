@@ -1,0 +1,103 @@
+{
+  "id": 421186409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.08333,8.51667,-81.08333,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":-81.08333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30d5\u30a7"
+    ],
+    "name:lit_x_preferred":[
+        "Santa F\u0117"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:spa_x_variant":[
+        "Santa F\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0641\u06d2\u060c \u0648\u06cc\u0631\u0627\u06af\u0648\u0627\u0633"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701196,
+    "qs:gn_pop":950,
+    "qs:name":"Santa Fe",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Veraguas",
+    "qs:photos":110,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":110,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1341490,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160265,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":602,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701196,
+        "gp:id":160265,
+        "qs:id":1341490,
+        "wd:id":"Q5620819",
+        "wk:page":"Santa Fe, Veraguas"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009480,
+    "wof:geomhash":"6f0f5914e9c6171092e95c5fe866f394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":421186409,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":421186409,
+    "wof:lastmodified":1553816375,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:population":950,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08333,
+    8.51667,
+    -81.08333,
+    8.51667
+],
+  "geometry": {"coordinates":[-81.08333,8.51667],"type":"Point"}
+}

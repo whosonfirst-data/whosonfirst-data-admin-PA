@@ -1,0 +1,73 @@
+{
+  "id": 1259992221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.43712,8.45698,-82.43712,8.45698",
+    "geom:latitude":8.45698,
+    "geom:longitude":-82.43712,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nuevo San Carlitos",
+    "gn:country_code":"PA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347321,
+    "gn:latitude":8.45698,
+    "gn:longitude":-82.43712,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Nuevo San Carlitos",
+    "gn:population":1724,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo San Carlitos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347321
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"acd273ff3462e82f20f360bb58e0aac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":1259992221,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1259992221,
+    "wof:lastmodified":1537676510,
+    "wof:name":"Nuevo San Carlitos",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":1724,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.43712,
+    8.45698,
+    -82.43712,
+    8.45698
+],
+  "geometry": {"coordinates":[-82.43711999999999,8.45698],"type":"Point"}
+}

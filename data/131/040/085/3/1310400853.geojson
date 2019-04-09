@@ -1,0 +1,67 @@
+{
+  "id": 1310400853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.41667,8.38333,-81.41667,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":-81.41667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Higo",
+    "gn:country_code":"PA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710669,
+    "gn:latitude":8.38333,
+    "gn:longitude":-81.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Higo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710669
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"33f326de95dad158d52127c03da245ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1310400853,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310400853,
+    "wof:lastmodified":1537065103,
+    "wof:name":"El Higo",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.41667,
+    8.38333,
+    -81.41667,
+    8.38333
+],
+  "geometry": {"coordinates":[-81.41667,8.38333],"type":"Point"}
+}

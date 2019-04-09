@@ -1,0 +1,74 @@
+{
+  "id": 1344246159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.30071,8.16933,-81.30071,8.16933",
+    "geom:latitude":8.16933,
+    "geom:longitude":-81.30071,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Boro",
+    "gn:country_code":"PA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3713843,
+    "gn:latitude":8.16933,
+    "gn:longitude":-81.30071,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Bor\u00f3",
+    "gn:population":326,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bor\u00f3"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713843,
+        "wk:page":"Bor%C3%B3"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c17148b554570c326c9049ac3d4ba98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1344246159,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1344246159,
+    "wof:lastmodified":1537676480,
+    "wof:name":"Boro",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.30071,
+    8.16933,
+    -81.30071,
+    8.16933
+],
+  "geometry": {"coordinates":[-81.30071,8.16933],"type":"Point"}
+}

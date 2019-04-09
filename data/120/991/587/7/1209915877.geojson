@@ -1,0 +1,74 @@
+{
+  "id": 1209915877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70458,8.1989,-80.70458,8.1989",
+    "geom:latitude":8.1989,
+    "geom:longitude":-80.70458,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Llano Sanchez",
+    "gn:country_code":"PA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705684,
+    "gn:latitude":8.1989,
+    "gn:longitude":-80.70458,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano S\u00e1nchez",
+    "gn:population":702,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cruz",
+        "Llano S\u00e1nchez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705684
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"19deff8d97b8e1536fd12d5f64bf1781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693183,
+            "locality_id":1209915877,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1209915877,
+    "wof:lastmodified":1537676384,
+    "wof:name":"Llano Sanchez",
+    "wof:parent_id":1108693183,
+    "wof:placetype":"locality",
+    "wof:population":702,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70458,
+    8.1989,
+    -80.70458,
+    8.1989
+],
+  "geometry": {"coordinates":[-80.70458000000001,8.1989],"type":"Point"}
+}

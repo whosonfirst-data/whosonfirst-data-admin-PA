@@ -1,0 +1,97 @@
+{
+  "id": 421168587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.41667,8.53333,-82.41667,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":-82.41667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Los Anastacios"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10d0\u10dc\u10d0\u10e1\u10e2\u10d0\u10e1\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Los Anastacios"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10d0\u10dc\u10d0\u10e1\u10e2\u10d0\u10e1\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:spa_x_preferred":[
+        "Los Anastacios"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3705549,
+    "qs:gn_pop":1123,
+    "qs:name":"Los Anastacios",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1046599,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158550,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705549,
+        "gp:id":158550,
+        "qs:id":1046599,
+        "wd:id":"Q6681910",
+        "wk:page":"Los Anastacios"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008770,
+    "wof:geomhash":"4bd929f2a825cc853651054bfbe472e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":421168587,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421168587,
+    "wof:lastmodified":1527716095,
+    "wof:name":"Los Anastacios",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:population":1123,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.41667,
+    8.53333,
+    -82.41667,
+    8.53333
+],
+  "geometry": {"coordinates":[-82.41667,8.53333],"type":"Point"}
+}

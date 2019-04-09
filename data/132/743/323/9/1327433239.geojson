@@ -1,0 +1,76 @@
+{
+  "id": 1327433239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.33906,8.78593,-80.33906,8.78593",
+    "geom:latitude":8.78593,
+    "geom:longitude":-80.33906,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boca de Lura",
+    "gn:country_code":"PA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713969,
+    "gn:latitude":8.78593,
+    "gn:longitude":-80.33906,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Boca de Lura",
+    "gn:population":181,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de Lura"
+    ],
+    "name:und_x_variant":[
+        "Boca Lur\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713969
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"63ea3099a3a4cefe904f2659f82f7809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1327433239,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1327433239,
+    "wof:lastmodified":1537676481,
+    "wof:name":"Boca de Lura",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.33906,
+    8.78593,
+    -80.33906,
+    8.78593
+],
+  "geometry": {"coordinates":[-80.33906,8.78593],"type":"Point"}
+}

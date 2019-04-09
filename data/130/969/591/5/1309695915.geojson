@@ -1,0 +1,67 @@
+{
+  "id": 1309695915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.08611,7.57944,-81.08611,7.57944",
+    "geom:latitude":7.57944,
+    "geom:longitude":-81.08611,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Pifa",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706939,
+    "gn:latitude":7.57944,
+    "gn:longitude":-81.08611,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"La Pif\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706939
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"950f8d7c7df762d208df24cee3d6a15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171341,
+            "locality_id":1309695915,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1309695915,
+    "wof:lastmodified":1537086378,
+    "wof:name":"La Pifa",
+    "wof:parent_id":421171341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08610999999998,
+    7.57944,
+    -81.08610999999998,
+    7.57944
+],
+  "geometry": {"coordinates":[-81.08610999999998,7.57944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226437841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.38028,7.91806,-81.38028,7.91806",
+    "geom:latitude":7.91806,
+    "geom:longitude":-81.38028,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Pavo",
+    "gn:country_code":"PA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710242,
+    "gn:latitude":7.91806,
+    "gn:longitude":-81.38028,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"El Pavo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710242
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"36e37ef96b90530e3832cf870727fbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1226437841,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226437841,
+    "wof:lastmodified":1536657018,
+    "wof:name":"El Pavo",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.38028,
+    7.91806,
+    -81.38028,
+    7.91806
+],
+  "geometry": {"coordinates":[-81.38028,7.91806],"type":"Point"}
+}

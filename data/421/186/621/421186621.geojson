@@ -1,0 +1,111 @@
+{
+  "id": 421186621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.579467,8.947458,-79.579467,8.947458",
+    "geom:latitude":8.947458,
+    "geom:longitude":-79.579467,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Arraij\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Arraij\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Arraij\u00e1n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10d8\u10ee\u10d0\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Arraij\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30a4\u30cf\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Araichanas"
+    ],
+    "name:pol_x_preferred":[
+        "Arraij\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Arraij\u00e1n"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Arrajan",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":105,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":105,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1074628,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":154722,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421203467,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":154722,
+        "qs:id":1074628,
+        "wd:id":"Q1841186"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009486,
+    "wof:geomhash":"83dff97c134a55a0e256be97d931013b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421186621,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421186621,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421186621,
+    "wof:lastmodified":1514494829,
+    "wof:name":"Arrajan",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.579467,
+    8.947458,
+    -79.579467,
+    8.947458
+],
+  "geometry": {"coordinates":[-79.57946699999999,8.947458],"type":"Point"}
+}

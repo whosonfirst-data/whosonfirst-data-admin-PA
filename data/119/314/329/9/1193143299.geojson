@@ -1,0 +1,73 @@
+{
+  "id": 1193143299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78159,9.38695,-79.78159,9.38695",
+    "geom:latitude":9.38695,
+    "geom:longitude":-79.78159,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Villa Alondra",
+    "gn:country_code":"PA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700081,
+    "gn:latitude":9.38695,
+    "gn:longitude":-79.78159,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Villa Alondra",
+    "gn:population":705,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Alondra"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700081
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"77aec651157bf7be285bba2909111b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1193143299,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1193143299,
+    "wof:lastmodified":1537676331,
+    "wof:name":"Villa Alondra",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":705,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78159000000002,
+    9.38695,
+    -79.78159000000002,
+    9.38695
+],
+  "geometry": {"coordinates":[-79.78159000000002,9.38695],"type":"Point"}
+}

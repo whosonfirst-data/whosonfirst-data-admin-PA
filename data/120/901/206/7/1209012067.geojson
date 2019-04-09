@@ -1,0 +1,64 @@
+{
+  "id": 1209012067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.205,8.92028,-80.205,8.92028",
+    "geom:latitude":8.92028,
+    "geom:longitude":-80.205,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tierra Buena",
+    "gn:country_code":"PA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700669,
+    "gn:latitude":8.92028,
+    "gn:longitude":-80.205,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Tierra Buena",
+    "gn:population":40,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700669
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6afc9b498fd92b9dbc6bda9fa80fb689",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209012067
+        }
+    ],
+    "wof:id":1209012067,
+    "wof:lastmodified":1536300414,
+    "wof:name":"Tierra Buena",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.205,
+    8.92028,
+    -80.205,
+    8.92028
+],
+  "geometry": {"coordinates":[-80.205,8.92028],"type":"Point"}
+}

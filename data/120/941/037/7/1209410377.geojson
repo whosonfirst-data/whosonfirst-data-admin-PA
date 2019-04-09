@@ -1,0 +1,61 @@
+{
+  "id": 1209410377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29556,7.86222,-81.29556,7.86222",
+    "geom:latitude":7.86222,
+    "geom:longitude":-81.29556,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Sitios",
+    "gn:country_code":"PA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704956,
+    "gn:latitude":7.86222,
+    "gn:longitude":-81.29556,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Los Sitios",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704956
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"013d478c46e186c981e435a34eb066e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209410377
+        }
+    ],
+    "wof:id":1209410377,
+    "wof:lastmodified":1536287857,
+    "wof:name":"Los Sitios",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29556,
+    7.86222,
+    -81.29556,
+    7.86222
+],
+  "geometry": {"coordinates":[-81.29555999999999,7.86222],"type":"Point"}
+}

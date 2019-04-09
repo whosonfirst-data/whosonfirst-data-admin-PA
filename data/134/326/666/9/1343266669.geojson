@@ -1,0 +1,77 @@
+{
+  "id": 1343266669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.97539,8.84246,-77.97539,8.84246",
+    "geom:latitude":8.84246,
+    "geom:longitude":-77.97539,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Morti",
+    "gn:country_code":"PA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3704073,
+    "gn:latitude":8.84246,
+    "gn:longitude":-77.97539,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Mort\u00ed",
+    "gn:population":567,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iquinina",
+        "Boca de Mort\u00ed",
+        "Mort\u00ed Abajo",
+        "Mort\u00ed",
+        "Mortinak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704073
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f01134de5016d12126bd11430356dbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1343266669,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1343266669,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Morti",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:population":567,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.97539,
+    8.84246,
+    -77.97539,
+    8.84246
+],
+  "geometry": {"coordinates":[-77.97539,8.84246],"type":"Point"}
+}

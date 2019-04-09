@@ -1,0 +1,74 @@
+{
+  "id": 1243365607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.69695,8.56294,-80.69695,8.56294",
+    "geom:latitude":8.56294,
+    "geom:longitude":-80.69695,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Machos",
+    "gn:country_code":"PA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705222,
+    "gn:latitude":8.56294,
+    "gn:longitude":-80.69695,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Machos",
+    "gn:population":188,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machos",
+        "Los Machos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705222
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6f4e237ead5947a2522f7e49ccca3361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693249,
+            "locality_id":1243365607,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1243365607,
+    "wof:lastmodified":1537676376,
+    "wof:name":"Los Machos",
+    "wof:parent_id":1108693249,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.69695,
+    8.56294,
+    -80.69695,
+    8.56294
+],
+  "geometry": {"coordinates":[-80.69695,8.56294],"type":"Point"}
+}

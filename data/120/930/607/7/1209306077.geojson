@@ -1,0 +1,64 @@
+{
+  "id": 1209306077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.51667,7.88333,-80.51667,7.88333",
+    "geom:latitude":7.88333,
+    "geom:longitude":-80.51667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cienaga Larga",
+    "gn:country_code":"PA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712267,
+    "gn:latitude":7.88333,
+    "gn:longitude":-80.51667,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Ci\u00e9naga Larga",
+    "gn:population":46,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712267
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3e889da030aa451154060b65ac9e993d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209306077
+        }
+    ],
+    "wof:id":1209306077,
+    "wof:lastmodified":1536291192,
+    "wof:name":"Cienaga Larga",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.51666999999998,
+    7.88333,
+    -80.51666999999998,
+    7.88333
+],
+  "geometry": {"coordinates":[-80.51666999999998,7.88333],"type":"Point"}
+}

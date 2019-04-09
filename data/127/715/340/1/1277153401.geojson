@@ -1,0 +1,75 @@
+{
+  "id": 1277153401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.92639,9.03139,-79.92639,9.03139",
+    "geom:latitude":9.03139,
+    "geom:longitude":-79.92639,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Hules",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705270,
+    "gn:latitude":9.03139,
+    "gn:longitude":-79.92639,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Los Hules",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705270
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ee3d3ff4ea2bdee29f55419c138d89a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1277153401,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1277153401,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1277153401,
+    "wof:lastmodified":1536665893,
+    "wof:name":"Los Hules",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.92639,
+    9.03139,
+    -79.92639,
+    9.03139
+],
+  "geometry": {"coordinates":[-79.92639,9.03139],"type":"Point"}
+}

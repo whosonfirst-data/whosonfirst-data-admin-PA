@@ -1,0 +1,70 @@
+{
+  "id": 1259696571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.82657,8.43013,-82.82657,8.43013",
+    "geom:latitude":8.43013,
+    "geom:longitude":-82.82657,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Soberania",
+    "gn:country_code":"PA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347262,
+    "gn:latitude":8.43013,
+    "gn:longitude":-82.82657,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Soberan\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Soberan\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347262
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c3405e23b030887c6e786aa14510445e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1259696571,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1259696571,
+    "wof:lastmodified":1537676508,
+    "wof:name":"Soberania",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.82656999999998,
+    8.43013,
+    -82.82656999999998,
+    8.43013
+],
+  "geometry": {"coordinates":[-82.82656999999998,8.43013],"type":"Point"}
+}

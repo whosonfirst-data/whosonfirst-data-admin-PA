@@ -1,0 +1,67 @@
+{
+  "id": 1242775325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66677,7.61937,-80.66677,7.61937",
+    "geom:latitude":7.61937,
+    "geom:longitude":-80.66677,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Pava",
+    "gn:country_code":"PA",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707000,
+    "gn:latitude":7.61937,
+    "gn:longitude":-80.66677,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Pava",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707000
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"43b50b97aec15eebee8b1673d5190da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693231,
+            "locality_id":1242775325,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1242775325,
+    "wof:lastmodified":1536779436,
+    "wof:name":"La Pava",
+    "wof:parent_id":1108693231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66677,
+    7.61937,
+    -80.66677,
+    7.61937
+],
+  "geometry": {"coordinates":[-80.66677,7.61937],"type":"Point"}
+}

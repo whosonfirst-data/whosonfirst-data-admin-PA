@@ -1,0 +1,73 @@
+{
+  "id": 1226630631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98293,9.19239,-77.98293,9.19239",
+    "geom:latitude":9.19239,
+    "geom:longitude":-77.98293,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Wakitupu",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700003,
+    "gn:latitude":9.19239,
+    "gn:longitude":-77.98293,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Wakitupu",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waguitupo",
+        "Wuaguitupo",
+        "Wakitupu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700003
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"392fa6cc06017c618ae10b4aefcd5744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "locality_id":1226630631,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":1226630631,
+    "wof:lastmodified":1537676331,
+    "wof:name":"Wakitupu",
+    "wof:parent_id":1108693213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98293000000002,
+    9.19239,
+    -77.98293000000002,
+    9.19239
+],
+  "geometry": {"coordinates":[-77.98293000000002,9.19239],"type":"Point"}
+}

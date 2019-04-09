@@ -1,0 +1,67 @@
+{
+  "id": 1277001875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03333,9.11667,-79.03333,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-79.03333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Culebra",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711722,
+    "gn:latitude":9.11667,
+    "gn:longitude":-79.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Culebra",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711722
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be511bffdfa906a44b4d1f633be9edff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1277001875,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1277001875,
+    "wof:lastmodified":1536876844,
+    "wof:name":"Culebra",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03333,
+    9.11667,
+    -79.03333,
+    9.11667
+],
+  "geometry": {"coordinates":[-79.03333000000001,9.11667],"type":"Point"}
+}

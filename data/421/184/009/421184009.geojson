@@ -1,0 +1,95 @@
+{
+  "id": 421184009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1,8.6,-80.1,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-80.1,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Los Llanitos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Llanitos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Llanitos"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3705238,
+    "qs:gn_pop":0,
+    "qs:name":"Los Llanitos",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988311,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158729,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705238,
+        "gp:id":158729,
+        "qs:id":988311,
+        "wd:id":"Q21042844"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009397,
+    "wof:geomhash":"0a7a00a8fc02409af4c44ffd9f205e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":421184009,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":421184009,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421184009,
+    "wof:lastmodified":1527716446,
+    "wof:name":"Los Llanitos",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1,
+    8.6,
+    -80.1,
+    8.6
+],
+  "geometry": {"coordinates":[-80.09999999999999,8.6],"type":"Point"}
+}

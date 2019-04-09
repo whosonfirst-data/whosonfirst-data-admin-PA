@@ -1,0 +1,79 @@
+{
+  "id": 1326806853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.94917,9.00472,-79.94917,9.00472",
+    "geom:latitude":9.00472,
+    "geom:longitude":-79.94917,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Astilleros",
+    "gn:country_code":"PA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705528,
+    "gn:latitude":9.00472,
+    "gn:longitude":-79.94917,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Los Astilleros",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Astillero",
+        "Los Astilleros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705528
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e2c0daf89ae0fc17963392ed7b413117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1326806853,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1326806853,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1326806853,
+    "wof:lastmodified":1537676382,
+    "wof:name":"Los Astilleros",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.94917,
+    9.00472,
+    -79.94917,
+    9.00472
+],
+  "geometry": {"coordinates":[-79.94917,9.00472],"type":"Point"}
+}

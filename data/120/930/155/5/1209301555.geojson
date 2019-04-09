@@ -1,0 +1,64 @@
+{
+  "id": 1209301555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.058,8.47828,-82.058,8.47828",
+    "geom:latitude":8.47828,
+    "geom:longitude":-82.058,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Alto Bonito",
+    "gn:country_code":"PA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347398,
+    "gn:latitude":8.47828,
+    "gn:longitude":-82.058,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Alto Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto Bonito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347398
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"efdb29e57f624662daaa4d556f83f8ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209301555
+        }
+    ],
+    "wof:id":1209301555,
+    "wof:lastmodified":1537676512,
+    "wof:name":"Alto Bonito",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.05799999999998,
+    8.47828,
+    -82.05799999999998,
+    8.47828
+],
+  "geometry": {"coordinates":[-82.05799999999998,8.47828],"type":"Point"}
+}

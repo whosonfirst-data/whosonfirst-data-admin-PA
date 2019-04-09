@@ -1,0 +1,69 @@
+{
+  "id": 1209437275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.55409,8.05053,-80.55409,8.05053",
+    "geom:latitude":8.05053,
+    "geom:longitude":-80.55409,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Paris",
+    "gn:country_code":"PA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3703358,
+    "gn:latitude":8.05053,
+    "gn:longitude":-80.55409,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Par\u00eds",
+    "gn:population":894,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sucio",
+        "Par\u00eds"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703358,
+        "wk:page":"Par%C3%ADs%2C_Herrera"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3879cd22f2813a900338585ff6c1b4a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209437275
+        }
+    ],
+    "wof:id":1209437275,
+    "wof:lastmodified":1537676361,
+    "wof:name":"Paris",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":894,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.55409,
+    8.05053,
+    -80.55409,
+    8.05053
+],
+  "geometry": {"coordinates":[-80.55409,8.05053],"type":"Point"}
+}

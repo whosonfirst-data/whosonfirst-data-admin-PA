@@ -1,0 +1,73 @@
+{
+  "id": 1226750577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.49965,8.63822,-82.49965,8.63822",
+    "geom:latitude":8.63822,
+    "geom:longitude":-82.49965,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rovira Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701727,
+    "gn:latitude":8.63822,
+    "gn:longitude":-82.49965,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Rovira Arriba",
+    "gn:population":403,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rovira Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701727
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2b07d69e8301b4801a3afb5fbaf0f2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":1226750577,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226750577,
+    "wof:lastmodified":1537676345,
+    "wof:name":"Rovira Arriba",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.49965,
+    8.63822,
+    -82.49965,
+    8.63822
+],
+  "geometry": {"coordinates":[-82.49965,8.63822],"type":"Point"}
+}

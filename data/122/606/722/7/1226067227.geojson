@@ -1,0 +1,71 @@
+{
+  "id": 1226067227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.54912,7.87561,-80.54912,7.87561",
+    "geom:latitude":7.87561,
+    "geom:longitude":-80.54912,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Cabras",
+    "gn:country_code":"PA",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706614,
+    "gn:latitude":7.87561,
+    "gn:longitude":-80.54912,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Las Cabras",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cabras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706614,
+        "wk:page":"Las_Cabras%2C_Herrera"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5314c3e61736db75f086e337be88c5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1226067227,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1226067227,
+    "wof:lastmodified":1537676397,
+    "wof:name":"Las Cabras",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.54912,
+    7.87561,
+    -80.54912,
+    7.87561
+],
+  "geometry": {"coordinates":[-80.54912,7.87561],"type":"Point"}
+}

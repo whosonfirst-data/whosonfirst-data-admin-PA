@@ -1,0 +1,67 @@
+{
+  "id": 1327118065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.23333,8.01667,-81.23333,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-81.23333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nuestro Amo",
+    "gn:country_code":"PA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703848,
+    "gn:latitude":8.01667,
+    "gn:longitude":-81.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nuestro Amo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703848
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c21926c669469d1cab580b3b805d2b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1327118065,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327118065,
+    "wof:lastmodified":1536635606,
+    "wof:name":"Nuestro Amo",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.23333000000002,
+    8.01667,
+    -81.23333000000002,
+    8.01667
+],
+  "geometry": {"coordinates":[-81.23333000000002,8.01667],"type":"Point"}
+}

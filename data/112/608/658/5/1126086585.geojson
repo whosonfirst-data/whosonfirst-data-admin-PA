@@ -1,0 +1,100 @@
+{
+  "id": 1126086585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48333,9.03333,-79.48333,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":-79.48333,
+    "gn:gn_country":"PA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":9.03333,
+    "gn:longitude":-79.48333,
+    "iso:country":"PA",
+    "lbl:latitude":9.03333,
+    "lbl:longitude":-79.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Villa Guadalupe"
+    ],
+    "name:unk_x_variant":[
+        "Villa Guadalupe"
+    ],
+    "qs_pg:aaroncc":"PA",
+    "qs_pg:gn_country":"PA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3700078,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Villa Guadalupe",
+    "qs_pg:name_adm0":"Panam\u00e1",
+    "qs_pg:name_adm1":"Panam\u00e1",
+    "qs_pg:photos":125,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":125,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":297823,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424924,
+    "qs_pg:woe_id":160588,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424924,
+    "woe:name_adm0":"Panam\u00e1",
+    "woe:name_adm1":"Panam\u00e1",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675789,
+        102191575,
+        85632179,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700078,
+        "gp:id":160588,
+        "qs:id":297823,
+        "qs_pg:id":297823
+    },
+    "wof:country":"PA",
+    "wof:created":1497312903,
+    "wof:geomhash":"b3cf01de376f87a27bdac4600f37c4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":-1,
+            "neighbourhood_id":1126086585,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1126086585,
+    "wof:lastmodified":1534379394,
+    "wof:name":"Villa Guadalupe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764021
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48333,
+    9.03333,
+    -79.48333,
+    9.03333
+],
+  "geometry": {"coordinates":[-79.48333,9.03333],"type":"Point"}
+}

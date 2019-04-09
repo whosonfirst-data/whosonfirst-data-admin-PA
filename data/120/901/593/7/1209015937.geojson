@@ -1,0 +1,61 @@
+{
+  "id": 1209015937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2,8.51667,-80.2,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":-80.2,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rio Anton",
+    "gn:country_code":"PA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701912,
+    "gn:latitude":8.51667,
+    "gn:longitude":-80.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"R\u00edo Ant\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701912
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cba2fa210eb5c4431ca2e624a52195b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209015937
+        }
+    ],
+    "wof:id":1209015937,
+    "wof:lastmodified":1536300299,
+    "wof:name":"Rio Anton",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2,
+    8.51667,
+    -80.2,
+    8.51667
+],
+  "geometry": {"coordinates":[-80.2,8.51667],"type":"Point"}
+}

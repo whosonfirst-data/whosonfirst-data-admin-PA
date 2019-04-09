@@ -1,0 +1,67 @@
+{
+  "id": 1343855485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65,8.0,-80.65,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":-80.65,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Lagarto",
+    "gn:country_code":"PA",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710550,
+    "gn:latitude":8.0,
+    "gn:longitude":-80.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Lagarto",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710550
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a76a9b59a8e91946c8c3347dc22bac2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1343855485,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1343855485,
+    "wof:lastmodified":1536673785,
+    "wof:name":"El Lagarto",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65,
+    8.0,
+    -80.65,
+    8.0
+],
+  "geometry": {"coordinates":[-80.65000000000001,8.0],"type":"Point"}
+}

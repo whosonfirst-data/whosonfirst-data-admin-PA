@@ -1,0 +1,95 @@
+{
+  "id": 421173749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56667,9.36667,-79.56667,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":-79.56667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Boqueron"
+    ],
+    "name:hbs_x_preferred":[
+        "Boquer\u00f3n"
+    ],
+    "name:nld_x_preferred":[
+        "Boquer\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Boquer\u00f3n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u043a\u0435\u0440\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Rojas"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3713870,
+    "qs:gn_pop":0,
+    "qs:name":"Boquer\u00f3n",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":297577,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155015,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713870,
+        "gp:id":155015,
+        "qs:id":297577
+    },
+    "wof:country":"PA",
+    "wof:created":1459009005,
+    "wof:geomhash":"923b0c4945d0f14857ae8132c2844f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":421173749,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421173749,
+    "wof:lastmodified":1527716257,
+    "wof:name":"Boquer\u00f3n",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56667,
+    9.36667,
+    -79.56667,
+    9.36667
+],
+  "geometry": {"coordinates":[-79.56667,9.36667],"type":"Point"}
+}

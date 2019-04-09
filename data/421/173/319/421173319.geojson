@@ -1,0 +1,100 @@
+{
+  "id": 421173319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.51667,8.4,-80.51667,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-80.51667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "El Ca\u00f1o"
+    ],
+    "name:eng_x_preferred":[
+        "El Ca\u00f1o"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d9\u10d0\u10dc\u10d8\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "El Ca\u00f1o"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d9\u10d0\u10dc\u10d8\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "El Ca\u00f1o"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3711240,
+    "qs:gn_pop":1247,
+    "qs:name":"El Ca\u00f1o",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":286749,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":156007,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711240,
+        "gp:id":156007,
+        "qs:id":286749,
+        "wd:id":"Q5350969",
+        "wk:page":"El Ca\u00f1o"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008978,
+    "wof:geomhash":"f5a764b87e3f1b00f0e5ee73faba3c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":421173319,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421173319,
+    "wof:lastmodified":1527716262,
+    "wof:name":"El Ca\u00f1o",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:population":1247,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.51667,
+    8.4,
+    -80.51667,
+    8.4
+],
+  "geometry": {"coordinates":[-80.51667,8.4],"type":"Point"}
+}

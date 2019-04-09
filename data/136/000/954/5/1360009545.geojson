@@ -1,0 +1,67 @@
+{
+  "id": 1360009545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.41667,9.58333,-79.41667,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":-79.41667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Salato",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701643,
+    "gn:latitude":9.58333,
+    "gn:longitude":-79.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Salato",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701643
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"af8d413283af06780ebbd14bfe62b279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693271,
+            "locality_id":1360009545,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1360009545,
+    "wof:lastmodified":1537052415,
+    "wof:name":"Salato",
+    "wof:parent_id":1108693271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.41667,
+    9.58333,
+    -79.41667,
+    9.58333
+],
+  "geometry": {"coordinates":[-79.41667,9.58333],"type":"Point"}
+}

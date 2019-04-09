@@ -1,0 +1,66 @@
+{
+  "id": 1209108039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21329,8.53333,-80.21329,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":-80.21329,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Caballerito",
+    "gn:country_code":"PA",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713638,
+    "gn:latitude":8.53333,
+    "gn:longitude":-80.21329,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Caballerito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Alveos",
+        "Callerito",
+        "Caballerito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713638
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7b7f2a96f31af5ec940dd024a8763583",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209108039
+        }
+    ],
+    "wof:id":1209108039,
+    "wof:lastmodified":1537676478,
+    "wof:name":"Caballerito",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21329,
+    8.53333,
+    -80.21329,
+    8.53333
+],
+  "geometry": {"coordinates":[-80.21329,8.53333],"type":"Point"}
+}

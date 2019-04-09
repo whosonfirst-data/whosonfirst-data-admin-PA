@@ -1,0 +1,67 @@
+{
+  "id": 1209017109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.84256,8.44778,-82.84256,8.44778",
+    "geom:latitude":8.44778,
+    "geom:longitude":-82.84256,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"PA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347259,
+    "gn:latitude":8.44778,
+    "gn:longitude":-82.84256,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":827,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347259
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ab7ea1a122ccb4c4fb1ff4bd9bbe00d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209017109
+        }
+    ],
+    "wof:id":1209017109,
+    "wof:lastmodified":1537676508,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":827,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.84255999999998,
+    8.44778,
+    -82.84255999999998,
+    8.44778
+],
+  "geometry": {"coordinates":[-82.84255999999998,8.44778],"type":"Point"}
+}

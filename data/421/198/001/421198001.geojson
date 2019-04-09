@@ -1,0 +1,88 @@
+{
+  "id": 421198001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.66194,9.22333,-79.66194,9.22333",
+    "geom:latitude":9.22333,
+    "geom:longitude":-79.66194,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Nuevo San Juan"
+    ],
+    "name:eng_x_preferred":[
+        "Nuevo San Juan"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3703820,
+    "qs:gn_pop":1232,
+    "qs:name":"Nuevo San Juan",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":287159,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159245,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703820,
+        "gp:id":159245,
+        "qs:id":287159,
+        "wd:id":"Q7068690",
+        "wk:page":"Nuevo San Juan"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009933,
+    "wof:geomhash":"85ba8dc8de34f003dbbf474d9d6bfa3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":421198001,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421198001,
+    "wof:lastmodified":1527716352,
+    "wof:name":"Nuevo San Juan",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":1232,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.66194,
+    9.22333,
+    -79.66194,
+    9.22333
+],
+  "geometry": {"coordinates":[-79.66194,9.22333],"type":"Point"}
+}

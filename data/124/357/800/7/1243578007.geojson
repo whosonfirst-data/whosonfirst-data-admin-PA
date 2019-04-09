@@ -1,0 +1,73 @@
+{
+  "id": 1243578007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7328,8.7484,-80.7328,8.7484",
+    "geom:latitude":8.7484,
+    "geom:longitude":-80.7328,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Calle Larga",
+    "gn:country_code":"PA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348361,
+    "gn:latitude":8.7484,
+    "gn:longitude":-80.7328,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Calle Larga",
+    "gn:population":140,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calle Larga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348361
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c9af994f788efc3dc0085a9480ff29c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1243578007,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243578007,
+    "wof:lastmodified":1537676517,
+    "wof:name":"Calle Larga",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7328,
+    8.7484,
+    -80.7328,
+    8.7484
+],
+  "geometry": {"coordinates":[-80.7328,8.7484],"type":"Point"}
+}

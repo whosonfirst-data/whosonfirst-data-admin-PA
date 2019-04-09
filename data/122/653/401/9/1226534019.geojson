@@ -1,0 +1,67 @@
+{
+  "id": 1226534019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.4,7.71667,-80.4,7.71667",
+    "geom:latitude":7.71667,
+    "geom:longitude":-80.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Jatillo",
+    "gn:country_code":"PA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710606,
+    "gn:latitude":7.71667,
+    "gn:longitude":-80.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Jatillo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710606
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e9c91704625c797fb9a6d74e62c1bbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693219,
+            "locality_id":1226534019,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1226534019,
+    "wof:lastmodified":1537014289,
+    "wof:name":"El Jatillo",
+    "wof:parent_id":1108693219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.4,
+    7.71667,
+    -80.4,
+    7.71667
+],
+  "geometry": {"coordinates":[-80.40000000000001,7.71667],"type":"Point"}
+}

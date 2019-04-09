@@ -1,0 +1,80 @@
+{
+  "id": 421201331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23333,9.3,-78.23333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-78.23333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Play\u00f3n Chico"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3702647,
+    "qs:gn_pop":2042,
+    "qs:name":"Play\u00f3n Chico",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Kuna Yala",
+    "qs:photos":291,
+    "qs:photos_1k":59,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":291,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":211119,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159595,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702647,
+        "gp:id":159595,
+        "qs:id":211119
+    },
+    "wof:country":"PA",
+    "wof:created":1459010069,
+    "wof:geomhash":"bb8585a5de75de6afcd0530d50d66ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "locality_id":421201331,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":421201331,
+    "wof:lastmodified":1505340772,
+    "wof:name":"Play\u00f3n Chico",
+    "wof:parent_id":85675801,
+    "wof:placetype":"locality",
+    "wof:population":2042,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23333,
+    9.3,
+    -78.23333,
+    9.3
+],
+  "geometry": {"coordinates":[-78.23333,9.3],"type":"Point"}
+}

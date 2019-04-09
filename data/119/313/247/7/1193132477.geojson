@@ -1,0 +1,73 @@
+{
+  "id": 1193132477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.98022,8.29854,-80.98022,8.29854",
+    "geom:latitude":8.29854,
+    "geom:longitude":-80.98022,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Carabali",
+    "gn:country_code":"PA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713037,
+    "gn:latitude":8.29854,
+    "gn:longitude":-80.98022,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Carabal\u00ed",
+    "gn:population":73,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carabal\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421173571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713037
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a07d2ea702795bb86934c680e3dbd4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421173571,
+            "locality_id":1193132477,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1193132477,
+    "wof:lastmodified":1537676473,
+    "wof:name":"Carabali",
+    "wof:parent_id":421173571,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.98021999999997,
+    8.29854,
+    -80.98021999999997,
+    8.29854
+],
+  "geometry": {"coordinates":[-80.98021999999997,8.29854],"type":"Point"}
+}

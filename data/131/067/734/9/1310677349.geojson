@@ -1,0 +1,79 @@
+{
+  "id": 1310677349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9,9.08333,-79.9,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":-79.9,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cano del Gigante",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713102,
+    "gn:latitude":9.08333,
+    "gn:longitude":-79.9,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ca\u00f1o del Gigante",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1o de Gigante",
+        "Ca\u00f1o del Gigante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713102
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"960ae0c141274b0c85447ab9831e426f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1310677349,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1310677349,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1310677349,
+    "wof:lastmodified":1537676474,
+    "wof:name":"Cano del Gigante",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9,
+    9.08333,
+    -79.9,
+    9.08333
+],
+  "geometry": {"coordinates":[-79.90000000000001,9.08333],"type":"Point"}
+}

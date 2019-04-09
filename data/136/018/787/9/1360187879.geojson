@@ -1,0 +1,76 @@
+{
+  "id": 1360187879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5267,8.37174,-82.5267,8.37174",
+    "geom:latitude":8.37174,
+    "geom:longitude":-82.5267,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Querevalo",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702098,
+    "gn:latitude":8.37174,
+    "gn:longitude":-82.5267,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quer\u00e9valo",
+    "gn:population":882,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Querebalo",
+        "Quer\u00e9valos",
+        "Quer\u00e9valo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702098,
+        "wk:page":"Quer%C3%A9valo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c9dbd952fa1172c2374f3926ef727bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":1360187879,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1360187879,
+    "wof:lastmodified":1537676348,
+    "wof:name":"Querevalo",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:population":882,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5267,
+    8.37174,
+    -82.5267,
+    8.37174
+],
+  "geometry": {"coordinates":[-82.52670000000001,8.37174],"type":"Point"}
+}

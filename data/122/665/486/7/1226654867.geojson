@@ -1,0 +1,70 @@
+{
+  "id": 1226654867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.76875,8.4194,-82.76875,8.4194",
+    "geom:latitude":8.4194,
+    "geom:longitude":-82.76875,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Finca Santa Lucia",
+    "gn:country_code":"PA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709543,
+    "gn:latitude":8.4194,
+    "gn:longitude":-82.76875,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Finca Santa Luc\u00eda",
+    "gn:population":11,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709543
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bd82306a91ed68f8083cf115a06792d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":1226654867,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226654867,
+    "wof:lastmodified":1536845124,
+    "wof:name":"Finca Santa Lucia",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.76875,
+    8.4194,
+    -82.76875,
+    8.4194
+],
+  "geometry": {"coordinates":[-82.76875,8.4194],"type":"Point"}
+}

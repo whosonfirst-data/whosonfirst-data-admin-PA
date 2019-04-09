@@ -1,0 +1,67 @@
+{
+  "id": 1327123279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.27278,7.95889,-81.27278,7.95889",
+    "geom:latitude":7.95889,
+    "geom:longitude":-81.27278,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Seria Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701001,
+    "gn:latitude":7.95889,
+    "gn:longitude":-81.27278,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Seria Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701001
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3652418b888a659f93944685b0febdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1327123279,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327123279,
+    "wof:lastmodified":1536627491,
+    "wof:name":"Seria Abajo",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.27278000000003,
+    7.95889,
+    -81.27278000000003,
+    7.95889
+],
+  "geometry": {"coordinates":[-81.27278000000003,7.95889],"type":"Point"}
+}

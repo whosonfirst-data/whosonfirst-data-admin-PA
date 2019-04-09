@@ -1,0 +1,71 @@
+{
+  "id": 1309812645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.54393,8.62725,-82.54393,8.62725",
+    "geom:latitude":8.62725,
+    "geom:longitude":-82.54393,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Aguacate",
+    "gn:country_code":"PA",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711540,
+    "gn:latitude":8.62725,
+    "gn:longitude":-82.54393,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"El Aguacate",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguacate",
+        "El Aguacate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711540
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"836c6df1f5c82fb5839946b6d06a80b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693193,
+            "locality_id":1309812645,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1309812645,
+    "wof:lastmodified":1537676460,
+    "wof:name":"El Aguacate",
+    "wof:parent_id":1108693193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.54393,
+    8.62725,
+    -82.54393,
+    8.62725
+],
+  "geometry": {"coordinates":[-82.54393,8.62725],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209008325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48851,9.3333,-82.48851,9.3333",
+    "geom:latitude":9.3333,
+    "geom:longitude":-82.48851,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Gloria",
+    "gn:country_code":"PA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211157,
+    "gn:latitude":9.3333,
+    "gn:longitude":-82.48851,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"La Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Gloria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211157,
+        "wk:page":"La_Gloria%2C_Bocas_del_Toro"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c6a2b0754d2e017ffc941620822b1760",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209008325
+        }
+    ],
+    "wof:id":1209008325,
+    "wof:lastmodified":1537676505,
+    "wof:name":"La Gloria",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48850999999998,
+    9.3333,
+    -82.48850999999998,
+    9.3333
+],
+  "geometry": {"coordinates":[-82.48850999999998,9.3333],"type":"Point"}
+}

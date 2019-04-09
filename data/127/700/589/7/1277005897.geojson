@@ -1,0 +1,67 @@
+{
+  "id": 1277005897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25,9.15,-80.25,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":-80.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Viejito",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709817,
+    "gn:latitude":9.15,
+    "gn:longitude":-80.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Viejito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709817
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8cd81d662e0ee4627eb990d3f56960d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693217,
+            "locality_id":1277005897,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1277005897,
+    "wof:lastmodified":1536871198,
+    "wof:name":"El Viejito",
+    "wof:parent_id":1108693217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25,
+    9.15,
+    -80.25,
+    9.15
+],
+  "geometry": {"coordinates":[-80.25,9.15],"type":"Point"}
+}

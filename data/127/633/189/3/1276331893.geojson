@@ -1,0 +1,70 @@
+{
+  "id": 1276331893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63394,7.85751,-80.63394,7.85751",
+    "geom:latitude":7.85751,
+    "geom:longitude":-80.63394,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Penas Prietas",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703090,
+    "gn:latitude":7.85751,
+    "gn:longitude":-80.63394,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pe\u00f1as Prietas",
+    "gn:population":58,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703090
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3b35b0599adb563f503e2e5b4b1135a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1276331893,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276331893,
+    "wof:lastmodified":1536780993,
+    "wof:name":"Penas Prietas",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63394,
+    7.85751,
+    -80.63394,
+    7.85751
+],
+  "geometry": {"coordinates":[-80.63394,7.85751],"type":"Point"}
+}

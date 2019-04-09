@@ -1,0 +1,67 @@
+{
+  "id": 1343975825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.03333,8.9,-82.03333,8.9",
+    "geom:latitude":8.9,
+    "geom:longitude":-82.03333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Banco",
+    "gn:country_code":"PA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711436,
+    "gn:latitude":8.9,
+    "gn:longitude":-82.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Banco",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711436
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"34076ba163250673a41557399957ce20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1343975825,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1343975825,
+    "wof:lastmodified":1536997098,
+    "wof:name":"El Banco",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.03333,
+    8.9,
+    -82.03333,
+    8.9
+],
+  "geometry": {"coordinates":[-82.03333000000001,8.9],"type":"Point"}
+}

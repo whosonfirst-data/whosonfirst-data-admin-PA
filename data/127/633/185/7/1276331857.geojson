@@ -1,0 +1,67 @@
+{
+  "id": 1276331857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.71667,7.9,-80.71667,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":-80.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Salto",
+    "gn:country_code":"PA",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709967,
+    "gn:latitude":7.9,
+    "gn:longitude":-80.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Salto",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709967
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8af27a05a89a3a6f0a528cf321ba8db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1276331857,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276331857,
+    "wof:lastmodified":1536781043,
+    "wof:name":"El Salto",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.71667,
+    7.9,
+    -80.71667,
+    7.9
+],
+  "geometry": {"coordinates":[-80.71666999999999,7.9],"type":"Point"}
+}

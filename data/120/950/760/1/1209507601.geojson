@@ -1,0 +1,67 @@
+{
+  "id": 1209507601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.83352,8.00824,-80.83352,8.00824",
+    "geom:latitude":8.00824,
+    "geom:longitude":-80.83352,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rincon Grande",
+    "gn:country_code":"PA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701936,
+    "gn:latitude":8.00824,
+    "gn:longitude":-80.83352,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Rinc\u00f3n Grande",
+    "gn:population":257,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n Grande"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701936
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4828fe95ad020226755fbc37dda16859",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209507601
+        }
+    ],
+    "wof:id":1209507601,
+    "wof:lastmodified":1537676348,
+    "wof:name":"Rincon Grande",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.83352,
+    8.00824,
+    -80.83352,
+    8.00824
+],
+  "geometry": {"coordinates":[-80.83351999999999,8.00824],"type":"Point"}
+}

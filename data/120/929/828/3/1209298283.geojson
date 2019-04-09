@@ -1,0 +1,64 @@
+{
+  "id": 1209298283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.35,8.2,-81.35,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":-81.35,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lajilla",
+    "gn:country_code":"PA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707421,
+    "gn:latitude":8.2,
+    "gn:longitude":-81.35,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Lajilla",
+    "gn:population":59,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707421
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"784472d93f26fab51dae10035b77b212",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209298283
+        }
+    ],
+    "wof:id":1209298283,
+    "wof:lastmodified":1536291447,
+    "wof:name":"Lajilla",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.35,
+    8.2,
+    -81.35,
+    8.2
+],
+  "geometry": {"coordinates":[-81.34999999999999,8.2],"type":"Point"}
+}

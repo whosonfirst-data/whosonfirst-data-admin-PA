@@ -1,0 +1,70 @@
+{
+  "id": 1309928555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.28366,7.9871,-78.28366,7.9871",
+    "geom:latitude":7.9871,
+    "geom:longitude":-78.28366,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Atalaya",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202390,
+    "gn:latitude":7.9871,
+    "gn:longitude":-78.28366,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Atalaya",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Atalaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202390
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c1bf0083927fe98d061efa392093f69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1309928555,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1309928555,
+    "wof:lastmodified":1537676502,
+    "wof:name":"Atalaya",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.28366,
+    7.9871,
+    -78.28366,
+    7.9871
+],
+  "geometry": {"coordinates":[-78.28366,7.9871],"type":"Point"}
+}

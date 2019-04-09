@@ -1,0 +1,70 @@
+{
+  "id": 1293281389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.02528,7.72417,-81.02528,7.72417",
+    "geom:latitude":7.72417,
+    "geom:longitude":-81.02528,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Jagua",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710624,
+    "gn:latitude":7.72417,
+    "gn:longitude":-81.02528,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El Jagua",
+    "gn:population":7,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710624
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"052277c1ef5285df35653ba57344bba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1293281389,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293281389,
+    "wof:lastmodified":1537080998,
+    "wof:name":"El Jagua",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.02528000000002,
+    7.72417,
+    -81.02528000000002,
+    7.72417
+],
+  "geometry": {"coordinates":[-81.02528000000002,7.72417],"type":"Point"}
+}

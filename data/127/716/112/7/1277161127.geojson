@@ -1,0 +1,70 @@
+{
+  "id": 1277161127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.20408,8.27394,-81.20408,8.27394",
+    "geom:latitude":8.27394,
+    "geom:longitude":-81.20408,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Huacas",
+    "gn:country_code":"PA",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706488,
+    "gn:latitude":8.27394,
+    "gn:longitude":-81.20408,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Las Huacas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Huacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706488
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"45d909e791f5ba209f6e695de329ee87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1277161127,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1277161127,
+    "wof:lastmodified":1537676395,
+    "wof:name":"Las Huacas",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.20408,
+    8.27394,
+    -81.20408,
+    8.27394
+],
+  "geometry": {"coordinates":[-81.20408,8.27394],"type":"Point"}
+}

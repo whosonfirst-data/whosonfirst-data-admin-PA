@@ -1,0 +1,74 @@
+{
+  "id": 1360179113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.31931,7.88025,-80.31931,7.88025",
+    "geom:latitude":7.88025,
+    "geom:longitude":-80.31931,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lagartillo",
+    "gn:country_code":"PA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707654,
+    "gn:latitude":7.88025,
+    "gn:longitude":-80.31931,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Lagartillo",
+    "gn:population":203,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Lagartillo",
+        "Lagartillo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707654
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5bec84633eaac17077bbc31912807cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693219,
+            "locality_id":1360179113,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1360179113,
+    "wof:lastmodified":1537676409,
+    "wof:name":"Lagartillo",
+    "wof:parent_id":1108693219,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.31931,
+    7.88025,
+    -80.31931,
+    7.88025
+],
+  "geometry": {"coordinates":[-80.31931,7.88025],"type":"Point"}
+}

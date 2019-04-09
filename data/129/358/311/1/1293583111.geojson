@@ -1,0 +1,75 @@
+{
+  "id": 1293583111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.82729,8.2163,-80.82729,8.2163",
+    "geom:latitude":8.2163,
+    "geom:longitude":-80.82729,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Raya de Calobre",
+    "gn:country_code":"PA",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706727,
+    "gn:latitude":8.2163,
+    "gn:longitude":-80.82729,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Raya de Calobre",
+    "gn:population":233,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raya de Calobre",
+        "La Raya de Calobre"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706727,
+        "wk:page":"La_Raya_de_Calobre"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f68658c1555bfaa9facda28dab4cacd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1293583111,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293583111,
+    "wof:lastmodified":1537676399,
+    "wof:name":"La Raya de Calobre",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.82729,
+    8.2163,
+    -80.82729,
+    8.2163
+],
+  "geometry": {"coordinates":[-80.82729,8.2163],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293373699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25,8.11667,-81.25,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":-81.25,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Puerto",
+    "gn:country_code":"PA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710083,
+    "gn:latitude":8.11667,
+    "gn:longitude":-81.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Puerto",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710083
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b0d079a22e9f5e67e9df258044f3fa54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1293373699,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293373699,
+    "wof:lastmodified":1536951311,
+    "wof:name":"El Puerto",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25,
+    8.11667,
+    -81.25,
+    8.11667
+],
+  "geometry": {"coordinates":[-81.25,8.11667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209128359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03748,8.62483,-79.03748,8.62483",
+    "geom:latitude":8.62483,
+    "geom:longitude":-79.03748,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Contadora",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10206733,
+    "gn:latitude":8.62483,
+    "gn:longitude":-79.03748,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Contadora",
+    "gn:population":253,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Contadora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206733
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"65dbad5ff6785ad20f28fdaa0adf3f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209128359
+        }
+    ],
+    "wof:id":1209128359,
+    "wof:lastmodified":1537676504,
+    "wof:name":"Contadora",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03748,
+    8.62483,
+    -79.03748,
+    8.62483
+],
+  "geometry": {"coordinates":[-79.03748,8.62483],"type":"Point"}
+}

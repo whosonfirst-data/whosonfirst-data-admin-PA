@@ -1,0 +1,67 @@
+{
+  "id": 1243548181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.46972,7.87306,-81.46972,7.87306",
+    "geom:latitude":7.87306,
+    "geom:longitude":-81.46972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Platanares",
+    "gn:country_code":"PA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702706,
+    "gn:latitude":7.87306,
+    "gn:longitude":-81.46972,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Platanares",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702706
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bceb0c56f011ab20d8a52790ac3d6158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1243548181,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243548181,
+    "wof:lastmodified":1536659058,
+    "wof:name":"Platanares",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.46972,
+    7.87306,
+    -81.46972,
+    7.87306
+],
+  "geometry": {"coordinates":[-81.46972,7.87306],"type":"Point"}
+}

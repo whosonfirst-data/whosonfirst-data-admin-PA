@@ -1,0 +1,106 @@
+{
+  "id": 421202865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.45,8.6,-80.45,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-80.45,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "La Pintada"
+    ],
+    "name:eng_x_preferred":[
+        "La Pintada"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d8\u10dc\u10e2\u10d0\u10d3\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "La Pintada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d8\u10dc\u10e2\u10d0\u10d3\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "La Pintada"
+    ],
+    "name:spa_x_preferred":[
+        "La Pintada"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u06cc\u0646\u0679\u0627\u0688\u0627\u060c \u067e\u0627\u0646\u0627\u0645\u0627"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3706931,
+    "qs:gn_pop":1938,
+    "qs:name":"La Pintada",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":122,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":122,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":228606,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":157839,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706931,
+        "gp:id":157839,
+        "qs:id":228606,
+        "wd:id":"Q4845032",
+        "wk:page":"La Pintada, Panama"
+    },
+    "wof:country":"PA",
+    "wof:created":1459010132,
+    "wof:geomhash":"75ca1cb9b9da4f07158d549ae891e803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":421202865,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421202865,
+    "wof:lastmodified":1527716212,
+    "wof:name":"La Pintada",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":1938,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.45,
+    8.6,
+    -80.45,
+    8.6
+],
+  "geometry": {"coordinates":[-80.45,8.6],"type":"Point"}
+}

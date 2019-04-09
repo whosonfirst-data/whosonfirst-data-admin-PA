@@ -1,0 +1,67 @@
+{
+  "id": 1225946273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65,8.4,-80.65,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-80.65,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Cienaga",
+    "gn:country_code":"PA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707947,
+    "gn:latitude":8.4,
+    "gn:longitude":-80.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Ci\u00e9naga",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707947
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2e6382d79c4846c4acbeb3bcc046311e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693249,
+            "locality_id":1225946273,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1225946273,
+    "wof:lastmodified":1536867337,
+    "wof:name":"La Cienaga",
+    "wof:parent_id":1108693249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65,
+    8.4,
+    -80.65,
+    8.4
+],
+  "geometry": {"coordinates":[-80.65000000000001,8.4],"type":"Point"}
+}

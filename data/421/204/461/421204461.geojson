@@ -1,0 +1,77 @@
+{
+  "id": 421204461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56667,8.95,-79.56667,8.95",
+    "geom:latitude":8.95,
+    "geom:longitude":-79.56667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3708111,
+    "qs:gn_pop":0,
+    "qs:name":"La Boca",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":399,
+    "qs:photos_1k":81,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":399,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240946,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":157295,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":500,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708111,
+        "gp:id":157295,
+        "qs:id":240946
+    },
+    "wof:country":"PA",
+    "wof:created":1459010187,
+    "wof:geomhash":"996aaa1ddf1c68d9156d0291d1cbe4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":421204461,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421204461,
+    "wof:lastmodified":1527716186,
+    "wof:name":"La Boca",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56667,
+    8.95,
+    -79.56667,
+    8.95
+],
+  "geometry": {"coordinates":[-79.56667,8.95],"type":"Point"}
+}

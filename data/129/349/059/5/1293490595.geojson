@@ -1,0 +1,67 @@
+{
+  "id": 1293490595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.75,8.28333,-81.75,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":-81.75,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Potrero de Olla",
+    "gn:country_code":"PA",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702540,
+    "gn:latitude":8.28333,
+    "gn:longitude":-81.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Potrero de Olla",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702540
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"535f636fb48b82a7e35adde6c7c973dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1293490595,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1293490595,
+    "wof:lastmodified":1536783029,
+    "wof:name":"Potrero de Olla",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.75,
+    8.28333,
+    -81.75,
+    8.28333
+],
+  "geometry": {"coordinates":[-81.75,8.28333],"type":"Point"}
+}

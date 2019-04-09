@@ -1,0 +1,71 @@
+{
+  "id": 1360106077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.27395,7.65353,-80.27395,7.65353",
+    "geom:latitude":7.65353,
+    "geom:longitude":-80.27395,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Yescas",
+    "gn:country_code":"PA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706125,
+    "gn:latitude":7.65353,
+    "gn:longitude":-80.27395,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Las Yescas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Miguel",
+        "Las Yescas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706125
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"94f22521eaacaa89ec580ca58a79b4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1360106077,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1360106077,
+    "wof:lastmodified":1537676389,
+    "wof:name":"Las Yescas",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.27395,
+    7.65353,
+    -80.27395,
+    7.65353
+],
+  "geometry": {"coordinates":[-80.27395,7.65353],"type":"Point"}
+}

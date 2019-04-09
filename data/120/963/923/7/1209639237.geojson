@@ -1,0 +1,64 @@
+{
+  "id": 1209639237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84145,9.37586,-79.84145,9.37586",
+    "geom:latitude":9.37586,
+    "geom:longitude":-79.84145,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Progreso Kuna",
+    "gn:country_code":"PA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10181381,
+    "gn:latitude":9.37586,
+    "gn:longitude":-79.84145,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Progreso Kuna",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Progreso Kuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10181381
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9393920bc54d6bf6b6903c7091ba5a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209639237
+        }
+    ],
+    "wof:id":1209639237,
+    "wof:lastmodified":1537676498,
+    "wof:name":"Progreso Kuna",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84145,
+    9.37586,
+    -79.84145,
+    9.37586
+],
+  "geometry": {"coordinates":[-79.84144999999999,9.37586],"type":"Point"}
+}

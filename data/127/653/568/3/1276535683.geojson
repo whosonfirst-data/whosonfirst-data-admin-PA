@@ -1,0 +1,70 @@
+{
+  "id": 1276535683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.8862,8.39198,-81.8862,8.39198",
+    "geom:latitude":8.39198,
+    "geom:longitude":-81.8862,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Hato Jobo",
+    "gn:country_code":"PA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3708737,
+    "gn:latitude":8.39198,
+    "gn:longitude":-81.8862,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Hato Jobo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hato Jobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708737
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eec6b816aa4ec6e4d9024487189c63e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1276535683,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1276535683,
+    "wof:lastmodified":1537676421,
+    "wof:name":"Hato Jobo",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.8862,
+    8.39198,
+    -81.8862,
+    8.39198
+],
+  "geometry": {"coordinates":[-81.8862,8.39198],"type":"Point"}
+}

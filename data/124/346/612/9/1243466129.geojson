@@ -1,0 +1,74 @@
+{
+  "id": 1243466129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.51681,8.52146,-80.51681,8.52146",
+    "geom:latitude":8.52146,
+    "geom:longitude":-80.51681,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Potrero",
+    "gn:country_code":"PA",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3710107,
+    "gn:latitude":8.52146,
+    "gn:longitude":-80.51681,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Potrero",
+    "gn:population":550,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Potrero"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710107,
+        "wk:page":"El_Potrero%2C_Cocl%C3%A9"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"71d0d0fefb5d4004a1f8f303252bdf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1243466129,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1243466129,
+    "wof:lastmodified":1537676434,
+    "wof:name":"El Potrero",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":550,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.51680999999998,
+    8.52146,
+    -80.51680999999998,
+    8.52146
+],
+  "geometry": {"coordinates":[-80.51680999999998,8.52146],"type":"Point"}
+}

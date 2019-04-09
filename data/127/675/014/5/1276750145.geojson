@@ -1,0 +1,84 @@
+{
+  "id": 1276750145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88764,8.7324,-79.88764,8.7324",
+    "geom:latitude":8.7324,
+    "geom:longitude":-79.88764,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Alto de Capira",
+    "gn:country_code":"PA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711513,
+    "gn:latitude":8.7324,
+    "gn:longitude":-79.88764,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Alto de Capira",
+    "gn:population":585,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Alto de Capira"
+    ],
+    "name:und_x_variant":[
+        "El Alto"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711513
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8a35456cc40a09a26e6f90786bcf1c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276750145,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276750145,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1276750145,
+    "wof:lastmodified":1537676459,
+    "wof:name":"El Alto de Capira",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":585,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88764,
+    8.7324,
+    -79.88764,
+    8.7324
+],
+  "geometry": {"coordinates":[-79.88764,8.7324],"type":"Point"}
+}

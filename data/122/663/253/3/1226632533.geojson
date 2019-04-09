@@ -1,0 +1,70 @@
+{
+  "id": 1226632533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73333,8.98333,-79.73333,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":-79.73333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Serrano",
+    "gn:country_code":"PA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700999,
+    "gn:latitude":8.98333,
+    "gn:longitude":-79.73333,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Serrano",
+    "gn:population":73,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700999
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"adf0a2005a7ebe74e81d181828fc0b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1226632533,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1226632533,
+    "wof:lastmodified":1536877711,
+    "wof:name":"Serrano",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73333000000002,
+    8.98333,
+    -79.73333000000002,
+    8.98333
+],
+  "geometry": {"coordinates":[-79.73333000000002,8.98333],"type":"Point"}
+}

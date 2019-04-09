@@ -1,0 +1,67 @@
+{
+  "id": 1209027873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.55634,7.83548,-80.55634,7.83548",
+    "geom:latitude":7.83548,
+    "geom:longitude":-80.55634,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rodeito",
+    "gn:country_code":"PA",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701769,
+    "gn:latitude":7.83548,
+    "gn:longitude":-80.55634,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Rodeito",
+    "gn:population":145,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rode\u00edto N\u00famero Uno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701769
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a2b76484718f217eb96e7306f6c62bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209027873
+        }
+    ],
+    "wof:id":1209027873,
+    "wof:lastmodified":1537676345,
+    "wof:name":"Rodeito",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.55634,
+    7.83548,
+    -80.55634,
+    7.83548
+],
+  "geometry": {"coordinates":[-80.55634000000001,7.83548],"type":"Point"}
+}

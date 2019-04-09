@@ -1,0 +1,70 @@
+{
+  "id": 1293760087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.67434,8.94626,-79.67434,8.94626",
+    "geom:latitude":8.94626,
+    "geom:longitude":-79.67434,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Caceres",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713535,
+    "gn:latitude":8.94626,
+    "gn:longitude":-79.67434,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"C\u00e1ceres",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "C\u00e1ceres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713535
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"067c215d1416c754685b0d0edcfa2047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1293760087,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293760087,
+    "wof:lastmodified":1537676477,
+    "wof:name":"Caceres",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.67434,
+    8.94626,
+    -79.67434,
+    8.94626
+],
+  "geometry": {"coordinates":[-79.67434,8.94626],"type":"Point"}
+}

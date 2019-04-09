@@ -1,0 +1,67 @@
+{
+  "id": 1277062111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.83806,8.89333,-78.83806,8.89333",
+    "geom:latitude":8.89333,
+    "geom:longitude":-78.83806,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oquendo",
+    "gn:country_code":"PA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764111,
+    "gn:latitude":8.89333,
+    "gn:longitude":-78.83806,
+    "gn:modification_date":"1998-08-03",
+    "gn:name":"Oquendo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        1108693207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764111
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"017944d3c2c49ecca387a702ecaab4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693207,
+            "locality_id":1277062111,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1277062111,
+    "wof:lastmodified":1536796911,
+    "wof:name":"Oquendo",
+    "wof:parent_id":1108693207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.83806,
+    8.89333,
+    -78.83806,
+    8.89333
+],
+  "geometry": {"coordinates":[-78.83806,8.89333],"type":"Point"}
+}

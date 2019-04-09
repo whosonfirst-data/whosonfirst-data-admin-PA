@@ -1,0 +1,67 @@
+{
+  "id": 1326519147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.4,8.3,-81.4,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-81.4,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Mata",
+    "gn:country_code":"PA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707247,
+    "gn:latitude":8.3,
+    "gn:longitude":-81.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Mata",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707247
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c7ffcee957a2bb43e8c5d5eba542ef26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1326519147,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1326519147,
+    "wof:lastmodified":1537002161,
+    "wof:name":"La Mata",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.4,
+    8.3,
+    -81.4,
+    8.3
+],
+  "geometry": {"coordinates":[-81.40000000000001,8.3],"type":"Point"}
+}

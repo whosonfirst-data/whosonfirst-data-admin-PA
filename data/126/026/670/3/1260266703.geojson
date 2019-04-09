@@ -1,0 +1,73 @@
+{
+  "id": 1260266703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93021,8.50697,-80.93021,8.50697",
+    "geom:latitude":8.50697,
+    "geom:longitude":-80.93021,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pandura",
+    "gn:country_code":"PA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703399,
+    "gn:latitude":8.50697,
+    "gn:longitude":-80.93021,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pandura",
+    "gn:population":81,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pandura"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703399
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3744ec2db0f27d4c8d00d09989b57e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1260266703,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1260266703,
+    "wof:lastmodified":1537676361,
+    "wof:name":"Pandura",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93021,
+    8.50697,
+    -80.93021,
+    8.50697
+],
+  "geometry": {"coordinates":[-80.93021,8.50697],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327337515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.62232,9.41412,-82.62232,9.41412",
+    "geom:latitude":9.41412,
+    "geom:longitude":-82.62232,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Romulo",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211161,
+    "gn:latitude":9.41412,
+    "gn:longitude":-82.62232,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"R\u00f3mulo",
+    "gn:population":184,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00f3mulo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211161
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"adbabebde3435306f35688a6a506e773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1327337515,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1327337515,
+    "wof:lastmodified":1537676505,
+    "wof:name":"Romulo",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:population":184,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.62232,
+    9.41412,
+    -82.62232,
+    9.41412
+],
+  "geometry": {"coordinates":[-82.62232,9.41412],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209520443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15111,8.42172,-78.15111,8.42172",
+    "geom:latitude":8.42172,
+    "geom:longitude":-78.15111,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Encanto",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710915,
+    "gn:latitude":8.42172,
+    "gn:longitude":-78.15111,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Encanto",
+    "gn:population":8,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710915
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"61db02760c30df9ea786388dd4f8abd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209520443
+        }
+    ],
+    "wof:id":1209520443,
+    "wof:lastmodified":1536284597,
+    "wof:name":"El Encanto",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15111,
+    8.42172,
+    -78.15111,
+    8.42172
+],
+  "geometry": {"coordinates":[-78.15111,8.42172],"type":"Point"}
+}

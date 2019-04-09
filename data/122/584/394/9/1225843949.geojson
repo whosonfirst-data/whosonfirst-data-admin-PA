@@ -1,0 +1,67 @@
+{
+  "id": 1225843949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05018,8.43374,-78.05018,8.43374",
+    "geom:latitude":8.43374,
+    "geom:longitude":-78.05018,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Tigre",
+    "gn:country_code":"PA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709890,
+    "gn:latitude":8.43374,
+    "gn:longitude":-78.05018,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"El Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709890
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"faa08a78a7e860682c1e4c8959a4efd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1225843949,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1225843949,
+    "wof:lastmodified":1537015565,
+    "wof:name":"El Tigre",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05018000000003,
+    8.43374,
+    -78.05018000000003,
+    8.43374
+],
+  "geometry": {"coordinates":[-78.05018000000003,8.43374],"type":"Point"}
+}

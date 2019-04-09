@@ -1,0 +1,79 @@
+{
+  "id": 421193477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.026216,7.53085,-80.026216,7.53085",
+    "geom:latitude":7.53085,
+    "geom:longitude":-80.026216,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pedasi",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Los Santos",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":483,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":903045,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793473,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793473,
+        "qs:id":903045,
+        "qs_pg:id":903045
+    },
+    "wof:country":"PA",
+    "wof:created":1459009772,
+    "wof:geomhash":"4413f7fc965f7b9f23618753466d559f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "localadmin_id":421193477,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":421193477,
+    "wof:lastmodified":1497047626,
+    "wof:name":"Pedasi",
+    "wof:parent_id":421202587,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.026216,
+    7.53085,
+    -80.026216,
+    7.53085
+],
+  "geometry": {"coordinates":[-80.02621600000001,7.53085],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421173709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1,8.3,-82.1,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-82.1,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Distretto di San Lorenzo"
+    ],
+    "name:por_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de San Lorenzo"
+    ],
+    "name:vie_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22\u5340"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701371,
+    "qs:gn_pop":0,
+    "qs:name":"San Lorenzo",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"3",
+    "qs:qs_id":532125,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793245,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701371,
+        "gp:id":26793245,
+        "qs:id":532125,
+        "wd:id":"Q2071697",
+        "wk:page":"San Lorenzo District, Panama"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009000,
+    "wof:geomhash":"94567ec5261109a0bb92bb4541e93ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693267,
+            "localadmin_id":421173709,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421173709,
+    "wof:lastmodified":1527716254,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":1108693267,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1,
+    8.3,
+    -82.1,
+    8.3
+],
+  "geometry": {"coordinates":[-82.09999999999999,8.3],"type":"Point"}
+}

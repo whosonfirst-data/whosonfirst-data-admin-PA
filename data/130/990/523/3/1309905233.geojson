@@ -1,0 +1,71 @@
+{
+  "id": 1309905233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98431,7.31719,-77.98431,7.31719",
+    "geom:latitude":7.31719,
+    "geom:longitude":-77.98431,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cocalito",
+    "gn:country_code":"PA",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712174,
+    "gn:latitude":7.31719,
+    "gn:longitude":-77.98431,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cocalito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cocalita",
+        "Cocalito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712174
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6016ac2e4d4d8b6f7c1c2d86c70cf493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1309905233,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1309905233,
+    "wof:lastmodified":1537676464,
+    "wof:name":"Cocalito",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98431,
+    7.31719,
+    -77.98431,
+    7.31719
+],
+  "geometry": {"coordinates":[-77.98430999999999,7.31719],"type":"Point"}
+}

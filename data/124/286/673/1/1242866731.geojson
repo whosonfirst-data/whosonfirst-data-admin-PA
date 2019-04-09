@@ -1,0 +1,70 @@
+{
+  "id": 1242866731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7,7.58333,-80.7,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":-80.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Llanita",
+    "gn:country_code":"PA",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707325,
+    "gn:latitude":7.58333,
+    "gn:longitude":-80.7,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"La Llanita",
+    "gn:population":24,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707325
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d445ac0fe9f3f1bd43958ba062109652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693231,
+            "locality_id":1242866731,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1242866731,
+    "wof:lastmodified":1536646776,
+    "wof:name":"La Llanita",
+    "wof:parent_id":1108693231,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7,
+    7.58333,
+    -80.7,
+    7.58333
+],
+  "geometry": {"coordinates":[-80.7,7.58333],"type":"Point"}
+}

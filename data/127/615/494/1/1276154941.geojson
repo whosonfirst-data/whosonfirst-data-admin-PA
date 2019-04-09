@@ -1,0 +1,70 @@
+{
+  "id": 1276154941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.87417,7.89188,-77.87417,7.89188",
+    "geom:latitude":7.89188,
+    "geom:longitude":-77.87417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Llano Bonito",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203153,
+    "gn:latitude":7.89188,
+    "gn:longitude":-77.87417,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Llano Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano Bonito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203153
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"67634369cd67743ef439af860bd8e775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1276154941,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1276154941,
+    "wof:lastmodified":1537676503,
+    "wof:name":"Llano Bonito",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.87416999999998,
+    7.89188,
+    -77.87416999999998,
+    7.89188
+],
+  "geometry": {"coordinates":[-77.87416999999998,7.89188],"type":"Point"}
+}

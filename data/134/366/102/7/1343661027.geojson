@@ -1,0 +1,73 @@
+{
+  "id": 1343661027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.09558,8.54064,-78.09558,8.54064",
+    "geom:latitude":8.54064,
+    "geom:longitude":-78.09558,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Quintin",
+    "gn:country_code":"PA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710074,
+    "gn:latitude":8.54064,
+    "gn:longitude":-78.09558,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quintin",
+    "gn:population":26,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Quint\u00edn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710074
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"376146b38450eb4bbb43a96a88b05817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1343661027,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1343661027,
+    "wof:lastmodified":1537676434,
+    "wof:name":"Quintin",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.09558,
+    8.54064,
+    -78.09558,
+    8.54064
+],
+  "geometry": {"coordinates":[-78.09558,8.54064],"type":"Point"}
+}

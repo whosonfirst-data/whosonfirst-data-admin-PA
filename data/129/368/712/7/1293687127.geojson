@@ -1,0 +1,73 @@
+{
+  "id": 1293687127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7337,9.45717,-79.7337,9.45717",
+    "geom:latitude":9.45717,
+    "geom:longitude":-79.7337,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rio Piedra Numero Uno",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764476,
+    "gn:latitude":9.45717,
+    "gn:longitude":-79.7337,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"R\u00edo Piedra N\u00famero Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Piedra N\u00famero Uno"
+    ],
+    "name:und_x_variant":[
+        "R\u00edo Piedra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764476
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c84f2037095178e5aa1015c4e918c5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1293687127,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1293687127,
+    "wof:lastmodified":1537676494,
+    "wof:name":"Rio Piedra Numero Uno",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7337,
+    9.45717,
+    -79.7337,
+    9.45717
+],
+  "geometry": {"coordinates":[-79.7337,9.45717],"type":"Point"}
+}

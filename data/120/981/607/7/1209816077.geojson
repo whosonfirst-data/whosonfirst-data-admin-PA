@@ -1,0 +1,67 @@
+{
+  "id": 1209816077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96889,9.0275,-79.96889,9.0275",
+    "geom:latitude":9.0275,
+    "geom:longitude":-79.96889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Honda",
+    "gn:country_code":"PA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707544,
+    "gn:latitude":9.0275,
+    "gn:longitude":-79.96889,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"La Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707544
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"49af98413ac530d6b9020776e158d98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1209816077,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1209816077,
+    "wof:lastmodified":1536383770,
+    "wof:name":"La Honda",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96889,
+    9.0275,
+    -79.96889,
+    9.0275
+],
+  "geometry": {"coordinates":[-79.96889,9.0275],"type":"Point"}
+}

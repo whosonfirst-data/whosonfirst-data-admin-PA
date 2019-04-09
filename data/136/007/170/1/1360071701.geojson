@@ -1,0 +1,75 @@
+{
+  "id": 1360071701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84472,8.96444,-79.84472,8.96444",
+    "geom:latitude":8.96444,
+    "geom:longitude":-79.84472,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rio Cito",
+    "gn:country_code":"PA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764401,
+    "gn:latitude":8.96444,
+    "gn:longitude":-79.84472,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"R\u00edo Cito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764401
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0ae7fbb4a3655653935de10cc6ff3f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1360071701,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1360071701,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1360071701,
+    "wof:lastmodified":1536964829,
+    "wof:name":"Rio Cito",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84472,
+    8.96444,
+    -79.84472,
+    8.96444
+],
+  "geometry": {"coordinates":[-79.84472,8.96444],"type":"Point"}
+}

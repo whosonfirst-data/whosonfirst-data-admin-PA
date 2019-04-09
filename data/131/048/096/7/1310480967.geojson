@@ -1,0 +1,75 @@
+{
+  "id": 1310480967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.05,8.78333,-80.05,8.78333",
+    "geom:latitude":8.78333,
+    "geom:longitude":-80.05,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ciri Numero Uno",
+    "gn:country_code":"PA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712216,
+    "gn:latitude":8.78333,
+    "gn:longitude":-80.05,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Cir\u00ed N\u00famero Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712216
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cc39952422192118a1bdf281a3c0292f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1310480967,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1310480967,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1310480967,
+    "wof:lastmodified":1536952470,
+    "wof:name":"Ciri Numero Uno",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.05,
+    8.78333,
+    -80.05,
+    8.78333
+],
+  "geometry": {"coordinates":[-80.05,8.78333],"type":"Point"}
+}

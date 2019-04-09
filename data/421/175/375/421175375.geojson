@@ -1,0 +1,164 @@
+{
+  "id": 421175375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00424,
+    "geom:area_square_m":51769345.036324,
+    "geom:bbox":"-79.5448917665,9.02781547417,-79.4375220056,9.09136514822",
+    "geom:latitude":9.06006,
+    "geom:longitude":-79.489175,
+    "iso:country":"PA",
+    "lbl:latitude":9.059219,
+    "lbl:longitude":-79.488153,
+    "meso:admin_1":"Panama",
+    "meso:gadm_admin":"San Miguelito",
+    "meso:gadm_hasc2":"PA.PN.SM",
+    "meso:gaul_admin":"San Miguelito",
+    "meso:local_id":"0810",
+    "meso:mps_x":-79.488153,
+    "meso:mps_y":9.059219,
+    "meso:name_local":"San Miguelito",
+    "meso:source":"AOTM",
+    "mps:latitude":9.059219,
+    "mps:longitude":-79.488153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u5229\u6258\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:eng_x_variant":[
+        "San Miguelito",
+        "San Miguelito District"
+    ],
+    "name:epo_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10db\u10d8\u10d2\u10d4\u10da\u10d8\u10e2\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di San Miguelito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30df\u30b2\u30ea\u30fc\u30c8"
+    ],
+    "name:lit_x_preferred":[
+        "San Migelitas"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:por_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u0438\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:srd_x_preferred":[
+        "distretto de San Miguelito"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0644\u06cc\u062a\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:war_x_preferred":[
+        "San Miguelito"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Miguelito",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":241,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":368817,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793141,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-16",
+    "statoids:area_km":"50.0",
+    "statoids:as_of_date":"2010-05-16",
+    "statoids:capital":"Belisario Porras",
+    "statoids:country":"PA",
+    "statoids:hasc":"PA.PN",
+    "statoids:name":"San Miguelito",
+    "statoids:population":"315019",
+    "statoids:statoid":"PA.PN.SM",
+    "statoids:timezone":"-5",
+    "statoids:type":"district",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793141,
+        "hasc:id":"PA.PN.SM",
+        "qs:id":368817,
+        "wd:id":"Q932699"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009065,
+    "wof:geomhash":"5da9ea1608dc309a448b46a9d1ff1d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421175375,
+    "wof:lastmodified":1536615950,
+    "wof:name":"San Miguelito",
+    "wof:parent_id":85675789,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":315019,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:shortcode":"SM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.544891766548,
+    9.0278154741739,
+    -79.43752200557066,
+    9.09136514822411
+],
+  "geometry": {"coordinates":[[[-79.5423523183689,9.05213850877725],[-79.54489176654801,9.05580959427138],[-79.54454405601653,9.0587599216219],[-79.54102278572756,9.06113110839093],[-79.53523095658113,9.06329867445585],[-79.52950837405274,9.06631151564295],[-79.52566613445174,9.07071396648736],[-79.52303317270628,9.07502552495552],[-79.5197597454158,9.0772046868948],[-79.51498924124039,9.07699223159162],[-79.50897268698552,9.07614610346169],[-79.50277489404493,9.07683479822167],[-79.49820386263929,9.07970334291043],[-79.49621761470294,9.08354123992848],[-79.4958877159643,9.08655533751809],[-79.49593602199735,9.08791212398943],[-79.49595116438437,9.08817728888454],[-79.47712881563294,9.09037443143824],[-79.47338894434097,9.09136514822411],[-79.46928241859314,9.09112990576334],[-79.46401423447469,9.08905478952281],[-79.45681256300894,9.08586727313393],[-79.44836644790088,9.08236631864268],[-79.44148964841567,9.0790937595352],[-79.43818334620455,9.07605708628659],[-79.43752200557066,9.07181837772636],[-79.4385028508552,9.06527052124095],[-79.44142388624697,9.05798844107558],[-79.44529367632234,9.05245407373744],[-79.44837044608255,9.04945634849634],[-79.45115869211375,9.04851138540461],[-79.45518587568343,9.0487726761069],[-79.46025591119081,9.04897296578487],[-79.4656563842961,9.04770365332462],[-79.47155470530321,9.0440336098365],[-79.47729258900118,9.03859403311926],[-79.48137598676388,9.03380126728376],[-79.48427066359153,9.0310592096717],[-79.48876622744024,9.02926043969809],[-79.49626407965636,9.0278154741739],[-79.50422939786122,9.02783010080834],[-79.50957028256667,9.02933430657892],[-79.5127840140529,9.03098975672274],[-79.5164939856131,9.0325123527518],[-79.52173606087007,9.03484524031065],[-79.52744822618526,9.03850269640142],[-79.53279345775141,9.04305181198343],[-79.53790498343014,9.0477763564518],[-79.5423523183689,9.05213850877725]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276650395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.55,8.08333,-81.55,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-81.55,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cerro Azul",
+    "gn:country_code":"PA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712787,
+    "gn:latitude":8.08333,
+    "gn:longitude":-81.55,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Cerro Azul",
+    "gn:population":42,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712787
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fd598123b9d14d00ac8e1296ed056e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1276650395,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276650395,
+    "wof:lastmodified":1536849886,
+    "wof:name":"Cerro Azul",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.55,
+    8.08333,
+    -81.55,
+    8.08333
+],
+  "geometry": {"coordinates":[-81.55,8.08333],"type":"Point"}
+}

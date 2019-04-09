@@ -1,0 +1,73 @@
+{
+  "id": 1276235445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7304,8.19065,-80.7304,8.19065",
+    "geom:latitude":8.19065,
+    "geom:longitude":-80.7304,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Llano Santo",
+    "gn:country_code":"PA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705682,
+    "gn:latitude":8.19065,
+    "gn:longitude":-80.7304,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano Santo",
+    "gn:population":350,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano Santo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705682
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c6bcc42ccaa8680b01e6369cae5a23c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693183,
+            "locality_id":1276235445,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1276235445,
+    "wof:lastmodified":1537676384,
+    "wof:name":"Llano Santo",
+    "wof:parent_id":1108693183,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7304,
+    8.19065,
+    -80.7304,
+    8.19065
+],
+  "geometry": {"coordinates":[-80.7304,8.19065],"type":"Point"}
+}

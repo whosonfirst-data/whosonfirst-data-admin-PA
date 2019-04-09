@@ -1,0 +1,70 @@
+{
+  "id": 1276421919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81161,8.41482,-77.81161,8.41482",
+    "geom:latitude":8.41482,
+    "geom:longitude":-77.81161,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lajas Blancas",
+    "gn:country_code":"PA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":7543540,
+    "gn:latitude":8.41482,
+    "gn:longitude":-77.81161,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Lajas Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lajas Blancas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543540
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e1330e54e153fcc542223a5392794f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693203,
+            "locality_id":1276421919,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1276421919,
+    "wof:lastmodified":1537676495,
+    "wof:name":"Lajas Blancas",
+    "wof:parent_id":1108693203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81161,
+    8.41482,
+    -77.81161,
+    8.41482
+],
+  "geometry": {"coordinates":[-77.81161,8.41482],"type":"Point"}
+}

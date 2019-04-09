@@ -1,0 +1,74 @@
+{
+  "id": 1343847251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.40124,8.11454,-81.40124,8.11454",
+    "geom:latitude":8.11454,
+    "geom:longitude":-81.40124,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Espavecito",
+    "gn:country_code":"PA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710892,
+    "gn:latitude":8.11454,
+    "gn:longitude":-81.40124,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Espavecito",
+    "gn:population":159,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Espavecito",
+        "El Espavecito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710892
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d3df382f71e0fbfc9c1c51b4c63b3ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1343847251,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343847251,
+    "wof:lastmodified":1537676449,
+    "wof:name":"El Espavecito",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.40124,
+    8.11454,
+    -81.40124,
+    8.11454
+],
+  "geometry": {"coordinates":[-81.40124,8.11454],"type":"Point"}
+}

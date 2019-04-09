@@ -1,0 +1,70 @@
+{
+  "id": 1276895549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.52549,7.74879,-80.52549,7.74879",
+    "geom:latitude":7.74879,
+    "geom:longitude":-80.52549,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Leales",
+    "gn:country_code":"PA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705931,
+    "gn:latitude":7.74879,
+    "gn:longitude":-80.52549,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Los Leales",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705931
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f2fee18d3e8d9d482e1626374949593b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1276895549,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1276895549,
+    "wof:lastmodified":1537676387,
+    "wof:name":"Los Leales",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.52549,
+    7.74879,
+    -80.52549,
+    7.74879
+],
+  "geometry": {"coordinates":[-80.52549,7.74879],"type":"Point"}
+}

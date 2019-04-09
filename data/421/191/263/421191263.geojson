@@ -1,0 +1,92 @@
+{
+  "id": 421191263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.63389,8.71694,-78.63389,8.71694",
+    "geom:latitude":8.71694,
+    "geom:longitude":-78.63389,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Chim\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Chim\u00e1n"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3712448,
+    "qs:gn_pop":786,
+    "qs:name":"Chim\u00f3n",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"2",
+    "qs:qs_id":61340,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793512,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        1108693207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712448,
+        "gp:id":26793512,
+        "qs:id":61340,
+        "qs_pg:id":61340,
+        "wd:id":"Q5099459",
+        "wk:page":"Chim\u00e1n"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009686,
+    "wof:geomhash":"47057829f9bb86953eff514d360120eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693207,
+            "localadmin_id":421191263,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":421191263,
+    "wof:lastmodified":1527716386,
+    "wof:name":"Chim\u00f3n",
+    "wof:parent_id":1108693207,
+    "wof:placetype":"localadmin",
+    "wof:population":786,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.63389,
+    8.71694,
+    -78.63389,
+    8.71694
+],
+  "geometry": {"coordinates":[-78.63388999999999,8.71694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209711075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46667,9.06667,-79.46667,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":-79.46667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Altamira",
+    "gn:country_code":"PA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714885,
+    "gn:latitude":9.06667,
+    "gn:longitude":-79.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Altamira",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714885
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"74fb12dd617c2c24966876a637098c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":1209711075,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1209711075,
+    "wof:lastmodified":1536390668,
+    "wof:name":"Altamira",
+    "wof:parent_id":421175375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46667,
+    9.06667,
+    -79.46667,
+    9.06667
+],
+  "geometry": {"coordinates":[-79.46666999999999,9.06667],"type":"Point"}
+}

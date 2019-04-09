@@ -1,0 +1,62 @@
+{
+  "id": 1293109251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.99011,9.4533,-78.99011,9.4533",
+    "geom:latitude":9.4533,
+    "geom:longitude":-78.99011,
+    "gn:asciiname":"Carti",
+    "gn:country_code":"PA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":9253854,
+    "gn:latitude":9.4533,
+    "gn:longitude":-78.99011,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"Carti",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253854
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"01736b7af11cd8fa48f38a0aa81d2661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1293109251,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293109251,
+    "wof:lastmodified":1536834261,
+    "wof:name":"Carti",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.99011,
+    9.4533,
+    -78.99011,
+    9.4533
+],
+  "geometry": {"coordinates":[-78.99011,9.4533],"type":"Point"}
+}

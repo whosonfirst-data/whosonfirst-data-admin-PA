@@ -1,0 +1,73 @@
+{
+  "id": 1309743715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88333,8.13333,-77.88333,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":-77.88333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Camoganti",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713332,
+    "gn:latitude":8.13333,
+    "gn:longitude":-77.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Camogant\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camaganti",
+        "Camogant\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713332,
+        "wk:page":"Camoganti"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c220b983541532c2ae03e7d46328c5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1309743715,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1309743715,
+    "wof:lastmodified":1537676476,
+    "wof:name":"Camoganti",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88333,
+    8.13333,
+    -77.88333,
+    8.13333
+],
+  "geometry": {"coordinates":[-77.88333,8.13333],"type":"Point"}
+}

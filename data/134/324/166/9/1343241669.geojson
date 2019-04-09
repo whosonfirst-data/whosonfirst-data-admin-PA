@@ -1,0 +1,75 @@
+{
+  "id": 1343241669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08333,8.91667,-80.08333,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-80.08333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Bongo Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711333,
+    "gn:latitude":8.91667,
+    "gn:longitude":-80.08333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"El Bongo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711333
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"66b667bea3ebcf48de84d0d1fe3c4ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1343241669,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1343241669,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343241669,
+    "wof:lastmodified":1537059533,
+    "wof:name":"El Bongo Abajo",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08333,
+    8.91667,
+    -80.08333,
+    8.91667
+],
+  "geometry": {"coordinates":[-80.08333,8.91667],"type":"Point"}
+}

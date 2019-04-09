@@ -1,0 +1,61 @@
+{
+  "id": 1209118903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.86667,8.4,-82.86667,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-82.86667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Finca Caoba",
+    "gn:country_code":"PA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709565,
+    "gn:latitude":8.4,
+    "gn:longitude":-82.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Finca Caoba",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709565
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cc3773a1bd75562b611208cdae2f602f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209118903
+        }
+    ],
+    "wof:id":1209118903,
+    "wof:lastmodified":1536297166,
+    "wof:name":"Finca Caoba",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.86667,
+    8.4,
+    -82.86667,
+    8.4
+],
+  "geometry": {"coordinates":[-82.86667,8.4],"type":"Point"}
+}

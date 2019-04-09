@@ -1,0 +1,74 @@
+{
+  "id": 1276552231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.99271,8.13384,-77.99271,8.13384",
+    "geom:latitude":8.13384,
+    "geom:longitude":-77.99271,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rio Bagre",
+    "gn:country_code":"PA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707266,
+    "gn:latitude":8.13384,
+    "gn:longitude":-77.99271,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"R\u00edo Bagre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Bagre"
+    ],
+    "name:und_x_variant":[
+        "Marea",
+        "La Marea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707266
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"53b805a005870e9dd8a7dc84ae9bfe8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1276552231,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1276552231,
+    "wof:lastmodified":1537676405,
+    "wof:name":"Rio Bagre",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.99271,
+    8.13384,
+    -77.99271,
+    8.13384
+],
+  "geometry": {"coordinates":[-77.99271,8.13384],"type":"Point"}
+}

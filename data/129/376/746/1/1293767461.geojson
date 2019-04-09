@@ -1,0 +1,74 @@
+{
+  "id": 1293767461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.27572,8.21063,-81.27572,8.21063",
+    "geom:latitude":8.21063,
+    "geom:longitude":-81.27572,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Bartolo",
+    "gn:country_code":"PA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701544,
+    "gn:latitude":8.21063,
+    "gn:longitude":-81.27572,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Bartolo",
+    "gn:population":158,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Bartolo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701544,
+        "wk:page":"San_Bartolo%2C_Veraguas"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9ddf755f7f81cadfb6d731f0ae7b4187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1293767461,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293767461,
+    "wof:lastmodified":1537676343,
+    "wof:name":"San Bartolo",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.27571999999998,
+    8.21063,
+    -81.27571999999998,
+    8.21063
+],
+  "geometry": {"coordinates":[-81.27571999999998,8.21063],"type":"Point"}
+}

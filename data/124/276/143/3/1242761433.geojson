@@ -1,0 +1,70 @@
+{
+  "id": 1242761433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.30484,7.70277,-81.30484,7.70277",
+    "geom:latitude":7.70277,
+    "geom:longitude":-81.30484,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Tigre de San Lorenzo",
+    "gn:country_code":"PA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709894,
+    "gn:latitude":7.70277,
+    "gn:longitude":-81.30484,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"El Tigre de San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tigre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709894
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9a451e6b0f4048d2067af3d970198e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1242761433,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242761433,
+    "wof:lastmodified":1537676431,
+    "wof:name":"El Tigre de San Lorenzo",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.30484,
+    7.70277,
+    -81.30484,
+    7.70277
+],
+  "geometry": {"coordinates":[-81.30484,7.70277],"type":"Point"}
+}

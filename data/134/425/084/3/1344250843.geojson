@@ -1,0 +1,73 @@
+{
+  "id": 1344250843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.30944,7.88224,-81.30944,7.88224",
+    "geom:latitude":7.88224,
+    "geom:longitude":-81.30944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Juanito",
+    "gn:country_code":"PA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701378,
+    "gn:latitude":7.88224,
+    "gn:longitude":-81.30944,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Juanito",
+    "gn:population":205,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juanito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701378
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0ca35b861a2e52c066bafa32563419bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1344250843,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1344250843,
+    "wof:lastmodified":1537676342,
+    "wof:name":"San Juanito",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.30944000000002,
+    7.88224,
+    -81.30944000000002,
+    7.88224
+],
+  "geometry": {"coordinates":[-81.30944000000002,7.88224],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242763865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.67304,8.96385,-79.67304,8.96385",
+    "geom:latitude":8.96385,
+    "geom:longitude":-79.67304,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Burunga",
+    "gn:country_code":"PA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713648,
+    "gn:latitude":8.96385,
+    "gn:longitude":-79.67304,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Burunga",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Burunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713648,
+        "wk:page":"Burunga"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d19c483df4f88d6a78ee20b2362cafa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1242763865,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1242763865,
+    "wof:lastmodified":1537676478,
+    "wof:name":"Burunga",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.67304,
+    8.96385,
+    -79.67304,
+    8.96385
+],
+  "geometry": {"coordinates":[-79.67304,8.96385],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209114843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.58787,8.5869,-82.58787,8.5869",
+    "geom:latitude":8.5869,
+    "geom:longitude":-82.58787,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bocalatum",
+    "gn:country_code":"PA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713970,
+    "gn:latitude":8.5869,
+    "gn:longitude":-82.58787,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bocalatum",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bocalatum"
+    ],
+    "name:und_x_variant":[
+        "Bocalat\u00fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713970
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3254c0e5df2c7c8f46222c6cff4547c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209114843
+        }
+    ],
+    "wof:id":1209114843,
+    "wof:lastmodified":1537676481,
+    "wof:name":"Bocalatum",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.58787,
+    8.5869,
+    -82.58787,
+    8.5869
+],
+  "geometry": {"coordinates":[-82.58787,8.5869],"type":"Point"}
+}

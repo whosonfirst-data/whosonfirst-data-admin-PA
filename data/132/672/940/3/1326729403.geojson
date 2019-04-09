@@ -1,0 +1,63 @@
+{
+  "id": 1326729403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.18742,8.43865,-78.18742,8.43865",
+    "geom:latitude":8.43865,
+    "geom:longitude":-78.18742,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sebolleta",
+    "gn:country_code":"PA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701036,
+    "gn:latitude":8.43865,
+    "gn:longitude":-78.18742,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Sebolleta",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701036
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8df787241b17954370bc2e111fc106d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1326729403,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326729403,
+    "wof:lastmodified":1536700113,
+    "wof:name":"Sebolleta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.18741999999997,
+    8.43865,
+    -78.18741999999997,
+    8.43865
+],
+  "geometry": {"coordinates":[-78.18741999999997,8.43865],"type":"Point"}
+}

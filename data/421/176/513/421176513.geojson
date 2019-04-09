@@ -1,0 +1,90 @@
+{
+  "id": 421176513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75222,9.03528,-79.75222,9.03528",
+    "geom:latitude":9.03528,
+    "geom:longitude":-79.75222,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Santa Clara"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701239,
+    "qs:gn_pop":1410,
+    "qs:name":"Santa Clara",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1046575,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160244,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421203467,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701239,
+        "gp:id":160244,
+        "qs:id":1046575
+    },
+    "wof:country":"PA",
+    "wof:created":1459009110,
+    "wof:geomhash":"24c633477ff0e81542984d8e8174db2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421176513,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":421176513,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421176513,
+    "wof:lastmodified":1505340629,
+    "wof:name":"Santa Clara",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:population":1410,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75222,
+    9.03528,
+    -79.75222,
+    9.03528
+],
+  "geometry": {"coordinates":[-79.75221999999999,9.03528],"type":"Point"}
+}

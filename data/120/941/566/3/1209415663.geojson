@@ -1,0 +1,64 @@
+{
+  "id": 1209415663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7725,9.40222,-79.7725,9.40222",
+    "geom:latitude":9.40222,
+    "geom:longitude":-79.7725,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Las Merceditas",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764346,
+    "gn:latitude":9.40222,
+    "gn:longitude":-79.7725,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Las Merceditas",
+    "gn:population":352,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764346
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e77254a6bbebc321a2ceace86c34a7da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209415663
+        }
+    ],
+    "wof:id":1209415663,
+    "wof:lastmodified":1536287697,
+    "wof:name":"Las Merceditas",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":352,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7725,
+    9.40222,
+    -79.7725,
+    9.40222
+],
+  "geometry": {"coordinates":[-79.77249999999999,9.40222],"type":"Point"}
+}

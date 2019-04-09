@@ -1,0 +1,66 @@
+{
+  "id": 890441245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.16748,9.560125,-79.16748,9.560125",
+    "geom:latitude":9.560125,
+    "geom:longitude":-79.16748,
+    "gn:country":"PA",
+    "gp:adm0":23424924,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Santa Isabel",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":368,
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793143,
+        "qs:id":1263682,
+        "wd:id":"Q234744",
+        "wk:page":"Santa Isabel"
+    },
+    "wof:country":"PA",
+    "wof:created":1469052315,
+    "wof:geomhash":"f69866b243d913a4da9be7434d349a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "county_id":890441245
+        }
+    ],
+    "wof:id":890441245,
+    "wof:lastmodified":1527727227,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.16748,
+    9.560125,
+    -79.16748,
+    9.560125
+],
+  "geometry": {"coordinates":[-79.16748,9.560125],"type":"Point"}
+}

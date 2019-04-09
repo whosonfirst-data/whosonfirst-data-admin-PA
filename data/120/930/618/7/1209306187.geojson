@@ -1,0 +1,68 @@
+{
+  "id": 1209306187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.24438,7.67395,-80.24438,7.67395",
+    "geom:latitude":7.67395,
+    "geom:longitude":-80.24438,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"PA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701459,
+    "gn:latitude":7.67395,
+    "gn:longitude":-80.24438,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":523,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701459,
+        "wk:page":"San_Jos%C3%A9%2C_Los_Santos"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"532ba034865cd2c38ba8f70b8f6af741",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209306187
+        }
+    ],
+    "wof:id":1209306187,
+    "wof:lastmodified":1537676343,
+    "wof:name":"San Jose",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":523,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.24438,
+    7.67395,
+    -80.24438,
+    7.67395
+],
+  "geometry": {"coordinates":[-80.24438000000001,7.67395],"type":"Point"}
+}

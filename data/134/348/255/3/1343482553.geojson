@@ -1,0 +1,67 @@
+{
+  "id": 1343482553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66667,7.4,-80.66667,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":-80.66667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Maquencal",
+    "gn:country_code":"PA",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704615,
+    "gn:latitude":7.4,
+    "gn:longitude":-80.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Maquencal",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704615
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a03118012b0e03c2007c14e1895e72fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1343482553,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1343482553,
+    "wof:lastmodified":1536714625,
+    "wof:name":"Maquencal",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66667,
+    7.4,
+    -80.66667,
+    7.4
+],
+  "geometry": {"coordinates":[-80.66667,7.4],"type":"Point"}
+}

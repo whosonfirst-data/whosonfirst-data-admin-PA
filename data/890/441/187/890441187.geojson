@@ -1,0 +1,84 @@
+{
+  "id": 890441187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.83333,8.45,-82.83333,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-82.83333,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:pop":2107,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u666e\u7f57\u683c\u96f7\u7d22"
+    ],
+    "name:eng_x_preferred":[
+        "Progreso"
+    ],
+    "name:ita_x_preferred":[
+        "Progreso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ed\u30b0\u30ec\u30c3\u30bd"
+    ],
+    "name:spa_x_preferred":[
+        "Progreso"
+    ],
+    "qs:name":"Progreso",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":358,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702509,
+        "gp:id":159637,
+        "qs:id":150231,
+        "wd:id":"Q6087669",
+        "wk:page":"Progreso"
+    },
+    "wof:country":"PA",
+    "wof:created":1469052313,
+    "wof:geomhash":"f1db9f8f99095972d58a6b281607f6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":890441187,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":890441187,
+    "wof:lastmodified":1553816399,
+    "wof:name":"Progreso",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":2107,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.83333,
+    8.45,
+    -82.83333,
+    8.45
+],
+  "geometry": {"coordinates":[-82.83333,8.45],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1260177285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21667,7.55,-81.21667,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":-81.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Calabacito",
+    "gn:country_code":"PA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713467,
+    "gn:latitude":7.55,
+    "gn:longitude":-81.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Calabacito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713467
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"838923e55506fdfe883b8460474e5bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260177285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260177285,
+    "wof:lastmodified":1536855376,
+    "wof:name":"Calabacito",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21667,
+    7.55,
+    -81.21667,
+    7.55
+],
+  "geometry": {"coordinates":[-81.21666999999999,7.55],"type":"Point"}
+}

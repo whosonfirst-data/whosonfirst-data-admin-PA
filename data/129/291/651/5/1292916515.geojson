@@ -1,0 +1,72 @@
+{
+  "id": 1292916515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.58333,8.2,-81.58333,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":-81.58333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bajo Hondo",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714461,
+    "gn:latitude":8.2,
+    "gn:longitude":-81.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bajo Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Corocita",
+        "Bajo Hondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714461
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"52591732af9b8021501975afb15e61c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693277,
+            "locality_id":1292916515,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1292916515,
+    "wof:lastmodified":1537676486,
+    "wof:name":"Bajo Hondo",
+    "wof:parent_id":1108693277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.58333,
+    8.2,
+    -81.58333,
+    8.2
+],
+  "geometry": {"coordinates":[-81.58333,8.2],"type":"Point"}
+}

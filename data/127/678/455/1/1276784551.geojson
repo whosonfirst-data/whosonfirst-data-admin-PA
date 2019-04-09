@@ -1,0 +1,70 @@
+{
+  "id": 1276784551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.1307,8.16354,-81.1307,8.16354",
+    "geom:latitude":8.16354,
+    "geom:longitude":-81.1307,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Canto del Llano",
+    "gn:country_code":"PA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713064,
+    "gn:latitude":8.16354,
+    "gn:longitude":-81.1307,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Canto del Llano",
+    "gn:population":71,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713064
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d1ce022a7544bf0263c854c0067b0ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1276784551,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276784551,
+    "wof:lastmodified":1536671355,
+    "wof:name":"Canto del Llano",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.1307,
+    8.16354,
+    -81.1307,
+    8.16354
+],
+  "geometry": {"coordinates":[-81.1307,8.16354],"type":"Point"}
+}

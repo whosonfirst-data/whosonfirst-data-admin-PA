@@ -1,0 +1,70 @@
+{
+  "id": 1292895013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.47447,8.05476,-81.47447,8.05476",
+    "geom:latitude":8.05476,
+    "geom:longitude":-81.47447,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cuesta de Novillos",
+    "gn:country_code":"PA",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348703,
+    "gn:latitude":8.05476,
+    "gn:longitude":-81.47447,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Cuesta de Novillos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuesta de Novillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348703
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d62ed497f584fe90dab7b42d736684c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1292895013,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1292895013,
+    "wof:lastmodified":1537676522,
+    "wof:name":"Cuesta de Novillos",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.47447,
+    8.05476,
+    -81.47447,
+    8.05476
+],
+  "geometry": {"coordinates":[-81.47447,8.05476],"type":"Point"}
+}

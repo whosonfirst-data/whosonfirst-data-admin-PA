@@ -1,0 +1,73 @@
+{
+  "id": 1310317905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81323,8.38499,-82.81323,8.38499",
+    "geom:latitude":8.38499,
+    "geom:longitude":-82.81323,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Berba",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347297,
+    "gn:latitude":8.38499,
+    "gn:longitude":-82.81323,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Berba",
+    "gn:population":831,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Berba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347297
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"30c9ec92ada1059c9d0357e7fb98a01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1310317905,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1310317905,
+    "wof:lastmodified":1537676509,
+    "wof:name":"Berba",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":831,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81323,
+    8.38499,
+    -82.81323,
+    8.38499
+],
+  "geometry": {"coordinates":[-82.81323,8.38499],"type":"Point"}
+}

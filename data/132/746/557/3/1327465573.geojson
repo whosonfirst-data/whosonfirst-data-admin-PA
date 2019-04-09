@@ -1,0 +1,73 @@
+{
+  "id": 1327465573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07127,7.49785,-78.07127,7.49785",
+    "geom:latitude":7.49785,
+    "geom:longitude":-78.07127,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Coco",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203149,
+    "gn:latitude":7.49785,
+    "gn:longitude":-78.07127,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Coco",
+    "gn:population":140,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Coco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203149
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6428bbd3182f71a4dedd820434e40ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1327465573,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1327465573,
+    "wof:lastmodified":1537676503,
+    "wof:name":"El Coco",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07127,
+    7.49785,
+    -78.07127,
+    7.49785
+],
+  "geometry": {"coordinates":[-78.07127,7.49785],"type":"Point"}
+}

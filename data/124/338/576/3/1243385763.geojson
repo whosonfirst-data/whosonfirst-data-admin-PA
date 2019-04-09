@@ -1,0 +1,70 @@
+{
+  "id": 1243385763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76246,7.96225,-80.76246,7.96225",
+    "geom:latitude":7.96225,
+    "geom:longitude":-80.76246,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Los Mitres",
+    "gn:country_code":"PA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705189,
+    "gn:latitude":7.96225,
+    "gn:longitude":-80.76246,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Mitres",
+    "gn:population":8,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705189
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6acecc0bed803d67b96ad880a5d970c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1243385763,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1243385763,
+    "wof:lastmodified":1536892843,
+    "wof:name":"Los Mitres",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76246,
+    7.96225,
+    -80.76246,
+    7.96225
+],
+  "geometry": {"coordinates":[-80.76246,7.96225],"type":"Point"}
+}

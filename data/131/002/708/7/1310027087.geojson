@@ -1,0 +1,70 @@
+{
+  "id": 1310027087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.48042,7.31831,-80.48042,7.31831",
+    "geom:latitude":7.31831,
+    "geom:longitude":-80.48042,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Palma",
+    "gn:country_code":"PA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707068,
+    "gn:latitude":7.31831,
+    "gn:longitude":-80.48042,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Palma",
+    "gn:population":5,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707068
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2503007e92eb155e9dbf2248a2bbbcef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "locality_id":1310027087,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1310027087,
+    "wof:lastmodified":1536609542,
+    "wof:name":"La Palma",
+    "wof:parent_id":421203469,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.48042,
+    7.31831,
+    -80.48042,
+    7.31831
+],
+  "geometry": {"coordinates":[-80.48042,7.31831],"type":"Point"}
+}

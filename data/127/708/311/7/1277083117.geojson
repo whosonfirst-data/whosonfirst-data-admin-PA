@@ -1,0 +1,73 @@
+{
+  "id": 1277083117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.91323,8.23219,-81.91323,8.23219",
+    "geom:latitude":8.23219,
+    "geom:longitude":-81.91323,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"PA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701231,
+    "gn:latitude":8.23219,
+    "gn:longitude":-81.91323,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Santa Cruz",
+    "gn:population":386,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421176641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701231
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0a983c2b18ee8508595cd01d7cc52130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176641,
+            "locality_id":1277083117,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1277083117,
+    "wof:lastmodified":1537676340,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":421176641,
+    "wof:placetype":"locality",
+    "wof:population":386,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.91323,
+    8.23219,
+    -81.91323,
+    8.23219
+],
+  "geometry": {"coordinates":[-81.91323,8.23219],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276348709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.66667,8.1,-81.66667,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":-81.66667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tinta Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700592,
+    "gn:latitude":8.1,
+    "gn:longitude":-81.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tinta Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700592
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"864b72540682c7ee4b04ec9110f28661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693277,
+            "locality_id":1276348709,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1276348709,
+    "wof:lastmodified":1536757946,
+    "wof:name":"Tinta Abajo",
+    "wof:parent_id":1108693277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.66667,
+    8.1,
+    -81.66667,
+    8.1
+],
+  "geometry": {"coordinates":[-81.66667,8.1],"type":"Point"}
+}

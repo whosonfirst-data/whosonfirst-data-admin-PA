@@ -1,0 +1,70 @@
+{
+  "id": 1326525455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.16667,8.13333,-81.16667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":-81.16667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rincon Largo",
+    "gn:country_code":"PA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701931,
+    "gn:latitude":8.13333,
+    "gn:longitude":-81.16667,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Rinc\u00f3n Largo",
+    "gn:population":4,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701931
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"43b594f7526393c5f206314dc6824d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1326525455,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1326525455,
+    "wof:lastmodified":1536993047,
+    "wof:name":"Rincon Largo",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.16667,
+    8.13333,
+    -81.16667,
+    8.13333
+],
+  "geometry": {"coordinates":[-81.16667,8.13333],"type":"Point"}
+}

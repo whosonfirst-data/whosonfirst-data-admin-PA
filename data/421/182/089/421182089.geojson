@@ -1,0 +1,71 @@
+{
+  "id": 421182089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.97111,9.47917,-78.97111,9.47917",
+    "geom:latitude":9.47917,
+    "geom:longitude":-78.97111,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Yantupo"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3712949,
+    "qs:gn_pop":0,
+    "qs:name":"Cart\u00ed Yantupo",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Kuna Yala",
+    "qs:photos":281,
+    "qs:photos_1k":57,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":281,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887569,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155328,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712949,
+        "gp:id":155328,
+        "qs:id":887569
+    },
+    "wof:country":"PA",
+    "wof:created":1459009318,
+    "wof:geomhash":"1cf657f6347ba322aac105e6b55983d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":421182089
+        }
+    ],
+    "wof:id":421182089,
+    "wof:lastmodified":1501268797,
+    "wof:name":"Cart\u00ed Yantupo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.97111,
+    9.47917,
+    -78.97111,
+    9.47917
+],
+  "geometry": {"coordinates":[-78.97111,9.47917],"type":"Point"}
+}

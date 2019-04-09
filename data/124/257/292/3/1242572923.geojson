@@ -1,0 +1,73 @@
+{
+  "id": 1242572923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.04838,7.94858,-81.04838,7.94858",
+    "geom:latitude":7.94858,
+    "geom:longitude":-81.04838,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Bongo",
+    "gn:country_code":"PA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711347,
+    "gn:latitude":7.94858,
+    "gn:longitude":-81.04838,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Bongo",
+    "gn:population":686,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Bongo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711347
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"883f9b62dc5bc8a542707836f4574b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171341,
+            "locality_id":1242572923,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242572923,
+    "wof:lastmodified":1537676456,
+    "wof:name":"El Bongo",
+    "wof:parent_id":421171341,
+    "wof:placetype":"locality",
+    "wof:population":686,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.04838000000002,
+    7.94858,
+    -81.04838000000002,
+    7.94858
+],
+  "geometry": {"coordinates":[-81.04838000000002,7.94858],"type":"Point"}
+}

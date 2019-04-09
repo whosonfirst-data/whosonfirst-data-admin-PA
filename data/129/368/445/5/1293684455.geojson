@@ -1,0 +1,70 @@
+{
+  "id": 1293684455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.59823,7.9181,-80.59823,7.9181",
+    "geom:latitude":7.9181,
+    "geom:longitude":-80.59823,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bayano",
+    "gn:country_code":"PA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714230,
+    "gn:latitude":7.9181,
+    "gn:longitude":-80.59823,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bayano",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bayano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714230
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c50e81a86fd77b455eac34c22a2aeb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1293684455,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1293684455,
+    "wof:lastmodified":1537676484,
+    "wof:name":"Bayano",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.59823,
+    7.9181,
+    -80.59823,
+    7.9181
+],
+  "geometry": {"coordinates":[-80.59823,7.9181],"type":"Point"}
+}

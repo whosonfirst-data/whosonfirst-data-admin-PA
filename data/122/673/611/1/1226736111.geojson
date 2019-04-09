@@ -1,0 +1,78 @@
+{
+  "id": 1226736111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03513,8.61059,-80.03513,8.61059",
+    "geom:latitude":8.61059,
+    "geom:longitude":-80.03513,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Jobo Dulce",
+    "gn:country_code":"PA",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708353,
+    "gn:latitude":8.61059,
+    "gn:longitude":-80.03513,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Jobo Dulce",
+    "gn:population":25,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708353
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d5729bd4b14e43dae1b037c25960eab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1226736111,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1226736111,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1226736111,
+    "wof:lastmodified":1536729828,
+    "wof:name":"Jobo Dulce",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03513000000002,
+    8.61059,
+    -80.03513000000002,
+    8.61059
+],
+  "geometry": {"coordinates":[-80.03513000000002,8.61059],"type":"Point"}
+}

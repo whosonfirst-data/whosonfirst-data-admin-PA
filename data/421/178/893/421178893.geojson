@@ -1,0 +1,91 @@
+{
+  "id": 421178893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85,8.08333,-80.85,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-80.85,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Los Boquerones"
+    ],
+    "name:eng_x_preferred":[
+        "Los Boquerones"
+    ],
+    "name:unk_x_variant":[
+        "Boquerones"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3705493,
+    "qs:gn_pop":1038,
+    "qs:name":"Los Boquerones",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Veraguas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":287073,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158582,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705493,
+        "gp:id":158582,
+        "qs:id":287073,
+        "wd:id":"Q6682528",
+        "wk:page":"Los Boquerones"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009197,
+    "wof:geomhash":"d6f7cfce37677c615011eb1bb97b3d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":421178893,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":421178893,
+    "wof:lastmodified":1527717721,
+    "wof:name":"Los Boquerones",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":1038,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85,
+    8.08333,
+    -80.85,
+    8.08333
+],
+  "geometry": {"coordinates":[-80.84999999999999,8.08333],"type":"Point"}
+}

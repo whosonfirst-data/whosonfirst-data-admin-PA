@@ -1,0 +1,67 @@
+{
+  "id": 1209090155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.10769,8.31593,-81.10769,8.31593",
+    "geom:latitude":8.31593,
+    "geom:longitude":-81.10769,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pena de Los Hernandez",
+    "gn:country_code":"PA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706956,
+    "gn:latitude":8.31593,
+    "gn:longitude":-81.10769,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Pe\u00f1a de Los Hern\u00e1ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pe\u00f1a de Los Hern\u00e1ndez"
+    ],
+    "name:und_x_variant":[
+        "La Pe\u00f1a de Los Hern\u00e1ndez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706956
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1f785e1bdb25ee082c08f9055886247c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209090155
+        }
+    ],
+    "wof:id":1209090155,
+    "wof:lastmodified":1537676401,
+    "wof:name":"Pena de Los Hernandez",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.10769,
+    8.31593,
+    -81.10769,
+    8.31593
+],
+  "geometry": {"coordinates":[-81.10769000000001,8.31593],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209410315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.28,7.92778,-81.28,7.92778",
+    "geom:latitude":7.92778,
+    "geom:longitude":-81.28,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rincon Redondo",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701925,
+    "gn:latitude":7.92778,
+    "gn:longitude":-81.28,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Rinc\u00f3n Redondo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701925
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5aa5e9b4dd6563787dd248de7814f86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209410315
+        }
+    ],
+    "wof:id":1209410315,
+    "wof:lastmodified":1536287859,
+    "wof:name":"Rincon Redondo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.28,
+    7.92778,
+    -81.28,
+    7.92778
+],
+  "geometry": {"coordinates":[-81.28,7.92778],"type":"Point"}
+}

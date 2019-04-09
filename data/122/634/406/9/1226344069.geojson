@@ -1,0 +1,67 @@
+{
+  "id": 1226344069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.18333,8.53333,-80.18333,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":-80.18333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Claro Rincon",
+    "gn:country_code":"PA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701950,
+    "gn:latitude":8.53333,
+    "gn:longitude":-80.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Claro Rinc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701950
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ffe6b4db40be4a005796df006c23242e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1226344069,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226344069,
+    "wof:lastmodified":1536792200,
+    "wof:name":"Claro Rincon",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.18333,
+    8.53333,
+    -80.18333,
+    8.53333
+],
+  "geometry": {"coordinates":[-80.18333,8.53333],"type":"Point"}
+}

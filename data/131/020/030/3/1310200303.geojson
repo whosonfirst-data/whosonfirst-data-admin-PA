@@ -1,0 +1,67 @@
+{
+  "id": 1310200303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.22639,7.81556,-81.22639,7.81556",
+    "geom:latitude":7.81556,
+    "geom:longitude":-81.22639,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cerro Negro",
+    "gn:country_code":"PA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712666,
+    "gn:latitude":7.81556,
+    "gn:longitude":-81.22639,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Cerro Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712666
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"46af91c2c1283268be59cb9c444126ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1310200303,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310200303,
+    "wof:lastmodified":1536858492,
+    "wof:name":"Cerro Negro",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.22639000000002,
+    7.81556,
+    -81.22639000000002,
+    7.81556
+],
+  "geometry": {"coordinates":[-81.22639000000002,7.81556],"type":"Point"}
+}

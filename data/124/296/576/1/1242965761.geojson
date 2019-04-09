@@ -1,0 +1,73 @@
+{
+  "id": 1242965761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85055,8.05842,-80.85055,8.05842",
+    "geom:latitude":8.05842,
+    "geom:longitude":-80.85055,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Dos Bocas",
+    "gn:country_code":"PA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706557,
+    "gn:latitude":8.05842,
+    "gn:longitude":-80.85055,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Dos Bocas",
+    "gn:population":180,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Dos Bocas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706557
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0a5ef1b404bd05e7f399e021198c6114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1242965761,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1242965761,
+    "wof:lastmodified":1537676396,
+    "wof:name":"Las Dos Bocas",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85055,
+    8.05842,
+    -80.85055,
+    8.05842
+],
+  "geometry": {"coordinates":[-80.85055,8.05842],"type":"Point"}
+}

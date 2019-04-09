@@ -1,0 +1,90 @@
+{
+  "id": 421192105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13333,8.6,-80.13333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-80.13333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Anton Valley"
+    ],
+    "name:spa_x_preferred":[
+        "El Valle de Anton"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3709826,
+    "qs:gn_pop":0,
+    "qs:name":"El Valle",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":298,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":298,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165198,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":156859,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709826,
+        "gp:id":156859,
+        "qs:id":1165198,
+        "wd:id":"Q1324715",
+        "wk:page":"El Valle (volcano)"
+    },
+    "wof:concordances_alt":{
+        "gp:id":156858,
+        "qs:id":1052733
+    },
+    "wof:country":"PA",
+    "wof:created":1459009725,
+    "wof:geomhash":"3d00ded4c7a626ea0a1a1a3b740ae56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":421192105,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421192105,
+    "wof:lastmodified":1534379393,
+    "wof:name":"El Valle",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421176619
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13333,
+    8.6,
+    -80.13333,
+    8.6
+],
+  "geometry": {"coordinates":[-80.13333,8.6],"type":"Point"}
+}

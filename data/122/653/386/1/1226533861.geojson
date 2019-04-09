@@ -1,0 +1,73 @@
+{
+  "id": 1226533861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08598,7.5989,-80.08598,7.5989",
+    "geom:latitude":7.5989,
+    "geom:longitude":-80.08598,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Purio",
+    "gn:country_code":"PA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702300,
+    "gn:latitude":7.5989,
+    "gn:longitude":-80.08598,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"El Purio",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Purio"
+    ],
+    "name:und_x_variant":[
+        "Purio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702300
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"01c2da75b6326f1853a4cfece8e17b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":1226533861,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1226533861,
+    "wof:lastmodified":1537676352,
+    "wof:name":"El Purio",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08598,
+    7.5989,
+    -80.08598,
+    7.5989
+],
+  "geometry": {"coordinates":[-80.08598000000001,7.5989],"type":"Point"}
+}

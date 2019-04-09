@@ -1,0 +1,73 @@
+{
+  "id": 1276224715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88112,7.79802,-80.88112,7.79802",
+    "geom:latitude":7.79802,
+    "geom:longitude":-80.88112,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Rascador",
+    "gn:country_code":"PA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710063,
+    "gn:latitude":7.79802,
+    "gn:longitude":-80.88112,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Rascador",
+    "gn:population":69,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Rascador"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710063
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4b542df67a89eae9b5ff5f5b43793e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1276224715,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276224715,
+    "wof:lastmodified":1537676433,
+    "wof:name":"El Rascador",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88112,
+    7.79802,
+    -80.88112,
+    7.79802
+],
+  "geometry": {"coordinates":[-80.88112,7.79802],"type":"Point"}
+}

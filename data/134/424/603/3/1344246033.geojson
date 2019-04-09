@@ -1,0 +1,67 @@
+{
+  "id": 1344246033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.54389,7.97333,-81.54389,7.97333",
+    "geom:latitude":7.97333,
+    "geom:longitude":-81.54389,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tabacal Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700820,
+    "gn:latitude":7.97333,
+    "gn:longitude":-81.54389,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"Tabacal Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700820
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f9f4ce34dc1ca4df8bc73508cd4284c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1344246033,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1344246033,
+    "wof:lastmodified":1536604800,
+    "wof:name":"Tabacal Abajo",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54389,
+    7.97333,
+    -81.54389,
+    7.97333
+],
+  "geometry": {"coordinates":[-81.54389,7.97333],"type":"Point"}
+}

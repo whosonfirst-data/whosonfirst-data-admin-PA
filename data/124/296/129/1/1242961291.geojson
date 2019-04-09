@@ -1,0 +1,71 @@
+{
+  "id": 1242961291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.80694,8.63187,-77.80694,8.63187",
+    "geom:latitude":8.63187,
+    "geom:longitude":-77.80694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Membrillo",
+    "gn:country_code":"PA",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704367,
+    "gn:latitude":8.63187,
+    "gn:longitude":-77.80694,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Membrillo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Membrillo N\u00famero Uno",
+        "Membrillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704367
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1b8d8699bc92304bb70a1e5bd292bcdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693203,
+            "locality_id":1242961291,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1242961291,
+    "wof:lastmodified":1537676368,
+    "wof:name":"Membrillo",
+    "wof:parent_id":1108693203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.80694,
+    8.63187,
+    -77.80694,
+    8.63187
+],
+  "geometry": {"coordinates":[-77.80694,8.63187],"type":"Point"}
+}

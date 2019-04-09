@@ -1,0 +1,71 @@
+{
+  "id": 1226830317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53507,8.08404,-77.53507,8.08404",
+    "geom:latitude":8.08404,
+    "geom:longitude":-77.53507,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Union Choco",
+    "gn:country_code":"PA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":8581466,
+    "gn:latitude":8.08404,
+    "gn:longitude":-77.53507,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Uni\u00f3n Choc\u00f3",
+    "gn:population":9497,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8581466,
+        "wk:page":"Uni%C3%B3n_Choc%C3%B3"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a5a29d28612a2881c9e785f97646b5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693203,
+            "locality_id":1226830317,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1226830317,
+    "wof:lastmodified":1537570217,
+    "wof:name":"Union Choco",
+    "wof:parent_id":1108693203,
+    "wof:placetype":"locality",
+    "wof:population":9497,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53506999999998,
+    8.08404,
+    -77.53506999999998,
+    8.08404
+],
+  "geometry": {"coordinates":[-77.53506999999998,8.08404],"type":"Point"}
+}

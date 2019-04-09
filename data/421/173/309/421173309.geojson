@@ -1,0 +1,92 @@
+{
+  "id": 421173309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69528,9.27472,-79.69528,9.27472",
+    "geom:latitude":9.27472,
+    "geom:longitude":-79.69528,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:ita_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:spa_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648\u06cc\u0646\u0627 \u0648\u0633\u0679\u0627\u060c \u06a9\u0648\u0644\u0648\u0646"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3713715,
+    "qs:gn_pop":3060,
+    "qs:name":"Buena Vista",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":286632,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155066,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713715,
+        "gp:id":155066,
+        "qs:id":286632,
+        "wd:id":"Q5734977"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008978,
+    "wof:geomhash":"346bd54f3570600587af2460eb005d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":421173309,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421173309,
+    "wof:lastmodified":1514494839,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":3060,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69528,
+    9.27472,
+    -79.69528,
+    9.27472
+],
+  "geometry": {"coordinates":[-79.69528,9.27472],"type":"Point"}
+}

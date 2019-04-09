@@ -1,0 +1,70 @@
+{
+  "id": 1226543065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.75289,8.45127,-82.75289,8.45127",
+    "geom:latitude":8.45127,
+    "geom:longitude":-82.75289,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gariche Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709344,
+    "gn:latitude":8.45127,
+    "gn:longitude":-82.75289,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Garich\u00e9 Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Garich\u00e9 Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421202705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709344
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c435647025ca1b510dd4a1e48040bd51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202705,
+            "locality_id":1226543065,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226543065,
+    "wof:lastmodified":1537676425,
+    "wof:name":"Gariche Abajo",
+    "wof:parent_id":421202705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.75289000000002,
+    8.45127,
+    -82.75289000000002,
+    8.45127
+],
+  "geometry": {"coordinates":[-82.75289000000002,8.45127],"type":"Point"}
+}

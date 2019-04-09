@@ -1,0 +1,75 @@
+{
+  "id": 1226237749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.97825,7.71369,-80.97825,7.71369",
+    "geom:latitude":7.71369,
+    "geom:longitude":-80.97825,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tebario",
+    "gn:country_code":"PA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3700740,
+    "gn:latitude":7.71369,
+    "gn:longitude":-80.97825,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tebario",
+    "gn:population":190,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mariato",
+        "Tebario"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700740,
+        "wk:page":"Llano_de_Catival_o_Mariato"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d0dfe35432c8a7722cce59bf4e9ef244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1226237749,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226237749,
+    "wof:lastmodified":1537676337,
+    "wof:name":"Tebario",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.97825,
+    7.71369,
+    -80.97825,
+    7.71369
+],
+  "geometry": {"coordinates":[-80.97825,7.71369],"type":"Point"}
+}

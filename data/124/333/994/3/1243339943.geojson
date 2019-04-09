@@ -1,0 +1,85 @@
+{
+  "id": 1243339943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.77547,8.78389,-79.77547,8.78389",
+    "geom:latitude":8.78389,
+    "geom:longitude":-79.77547,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Playa Leona",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702661,
+    "gn:latitude":8.78389,
+    "gn:longitude":-79.77547,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Playa Leona",
+    "gn:population":556,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Playa",
+        "Playa Leon",
+        "Playa Leone",
+        "Playa Leona"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702661,
+        "wk:page":"Playa_Leona"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"22a9d4a95194456e4a312c6851c76d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1243339943,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1243339943,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1243339943,
+    "wof:lastmodified":1537676357,
+    "wof:name":"Playa Leona",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":556,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.77547,
+    8.78389,
+    -79.77547,
+    8.78389
+],
+  "geometry": {"coordinates":[-79.77547,8.78389],"type":"Point"}
+}

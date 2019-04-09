@@ -1,0 +1,70 @@
+{
+  "id": 1259769683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04045,8.9603,-80.04045,8.9603",
+    "geom:latitude":8.9603,
+    "geom:longitude":-80.04045,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Tagua",
+    "gn:country_code":"PA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706118,
+    "gn:latitude":8.9603,
+    "gn:longitude":-80.04045,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Tagua",
+    "gn:population":18,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706118
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"99503d4fd71a4b8fa6d0b632ca2631a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1259769683,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1259769683,
+    "wof:lastmodified":1536943584,
+    "wof:name":"La Tagua",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04045,
+    8.9603,
+    -80.04045,
+    8.9603
+],
+  "geometry": {"coordinates":[-80.04045000000001,8.9603],"type":"Point"}
+}

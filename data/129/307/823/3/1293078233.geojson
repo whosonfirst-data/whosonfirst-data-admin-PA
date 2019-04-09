@@ -1,0 +1,70 @@
+{
+  "id": 1293078233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.46397,8.50486,-81.46397,8.50486",
+    "geom:latitude":8.50486,
+    "geom:longitude":-81.46397,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Agua de Salud",
+    "gn:country_code":"PA",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3715049,
+    "gn:latitude":8.50486,
+    "gn:longitude":-81.46397,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Agua de Salud",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agua de Salud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715049
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6c9c4f864556391e8d75223d56912b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1293078233,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1293078233,
+    "wof:lastmodified":1537676492,
+    "wof:name":"Agua de Salud",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.46396999999997,
+    8.50486,
+    -81.46396999999997,
+    8.50486
+],
+  "geometry": {"coordinates":[-81.46396999999997,8.50486],"type":"Point"}
+}

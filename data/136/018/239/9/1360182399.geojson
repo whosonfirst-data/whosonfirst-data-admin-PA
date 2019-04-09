@@ -1,0 +1,67 @@
+{
+  "id": 1360182399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.95,8.43333,-78.95,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-78.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Monteriano",
+    "gn:country_code":"PA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704132,
+    "gn:latitude":8.43333,
+    "gn:longitude":-78.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Monteriano",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704132
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4cffa4922202a6d19cb5e68f7b740fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1360182399,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1360182399,
+    "wof:lastmodified":1536805140,
+    "wof:name":"Monteriano",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.95,
+    8.43333,
+    -78.95,
+    8.43333
+],
+  "geometry": {"coordinates":[-78.95,8.43333],"type":"Point"}
+}

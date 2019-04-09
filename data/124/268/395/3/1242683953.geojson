@@ -1,0 +1,67 @@
+{
+  "id": 1242683953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.63483,9.56677,-79.63483,9.56677",
+    "geom:latitude":9.56677,
+    "geom:longitude":-79.63483,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"PA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701201,
+    "gn:latitude":9.56677,
+    "gn:longitude":-79.63483,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701201
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a3709297087dd8ba18980c695b8df491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1242683953,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1242683953,
+    "wof:lastmodified":1536910906,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63483000000002,
+    9.56677,
+    -79.63483000000002,
+    9.56677
+],
+  "geometry": {"coordinates":[-79.63483000000002,9.56677],"type":"Point"}
+}

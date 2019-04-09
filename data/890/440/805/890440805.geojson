@@ -1,0 +1,66 @@
+{
+  "id": 890440805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.194015,8.309341,-80.194015,8.309341",
+    "geom:latitude":8.309341,
+    "geom:longitude":-80.194015,
+    "gn:country":"PA",
+    "gp:adm0":23424924,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Ant\u00f3n",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":417,
+    "qs:photos_1k":84,
+    "qs:photos_9k":18,
+    "qs:photos_9r":12,
+    "qs:photos_all":4097,
+    "qs:photos_sr":6,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793084,
+        "qs:id":220299,
+        "wd:id":"Q610518",
+        "wk:page":"Ant\u00f3n"
+    },
+    "wof:country":"PA",
+    "wof:created":1469052298,
+    "wof:geomhash":"7e29f18c86a985a100d71adde56b1cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "county_id":890440805
+        }
+    ],
+    "wof:id":890440805,
+    "wof:lastmodified":1527727104,
+    "wof:name":"Ant\u00f3n",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.194015,
+    8.309341,
+    -80.194015,
+    8.309341
+],
+  "geometry": {"coordinates":[-80.19401499999999,8.309341],"type":"Point"}
+}

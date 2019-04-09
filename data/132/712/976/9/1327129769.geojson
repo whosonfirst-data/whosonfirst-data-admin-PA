@@ -1,0 +1,67 @@
+{
+  "id": 1327129769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51667,9.06667,-79.51667,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":-79.51667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ramonazo",
+    "gn:country_code":"PA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702040,
+    "gn:latitude":9.06667,
+    "gn:longitude":-79.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ramonazo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702040
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cd2492afe5cc6bce3e2971215afa9ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175375,
+            "locality_id":1327129769,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1327129769,
+    "wof:lastmodified":1536617732,
+    "wof:name":"Ramonazo",
+    "wof:parent_id":421175375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51666999999998,
+    9.06667,
+    -79.51666999999998,
+    9.06667
+],
+  "geometry": {"coordinates":[-79.51666999999998,9.06667],"type":"Point"}
+}

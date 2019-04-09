@@ -1,0 +1,70 @@
+{
+  "id": 1260089699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48564,9.44291,-82.48564,9.44291",
+    "geom:latitude":9.44291,
+    "geom:longitude":-82.48564,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Finca Sesenta y Dos",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211188,
+    "gn:latitude":9.44291,
+    "gn:longitude":-82.48564,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Finca Sesenta y Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca Sesenta y Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211188
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fdf4c870c57ea181441f11006b66304d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1260089699,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1260089699,
+    "wof:lastmodified":1537676505,
+    "wof:name":"Finca Sesenta y Dos",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48564,
+    9.44291,
+    -82.48564,
+    9.44291
+],
+  "geometry": {"coordinates":[-82.48564,9.44291],"type":"Point"}
+}

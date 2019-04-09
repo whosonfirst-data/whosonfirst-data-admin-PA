@@ -1,0 +1,73 @@
+{
+  "id": 1243247259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.34638,8.07585,-81.34638,8.07585",
+    "geom:latitude":8.07585,
+    "geom:longitude":-81.34638,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Nay",
+    "gn:country_code":"PA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348704,
+    "gn:latitude":8.07585,
+    "gn:longitude":-81.34638,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Nay",
+    "gn:population":74,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Nay"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348704
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"df23368edaa88c82b1f6c676d97717cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1243247259,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243247259,
+    "wof:lastmodified":1537676522,
+    "wof:name":"El Nay",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.34638000000002,
+    8.07585,
+    -81.34638000000002,
+    8.07585
+],
+  "geometry": {"coordinates":[-81.34638000000002,8.07585],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 421201775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.31667,8.4,-82.31667,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":-82.31667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5947\u91cc\u57fa"
+    ],
+    "name:deu_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0438\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3712419,
+    "qs:gn_pop":2431,
+    "qs:name":"Chiriqu\u00ed",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":158,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214538,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155574,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712419,
+        "gp:id":155574,
+        "qs:id":214538,
+        "wd:id":"Q20992284"
+    },
+    "wof:country":"PA",
+    "wof:created":1459010087,
+    "wof:geomhash":"dba11f7bf8d3624a43d38cf15f871f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171339,
+            "locality_id":421201775,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421201775,
+    "wof:lastmodified":1553816388,
+    "wof:name":"Chiriqu\u00ed",
+    "wof:parent_id":421171339,
+    "wof:placetype":"locality",
+    "wof:population":2431,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.31667,
+    8.4,
+    -82.31667,
+    8.4
+],
+  "geometry": {"coordinates":[-82.31667,8.4],"type":"Point"}
+}

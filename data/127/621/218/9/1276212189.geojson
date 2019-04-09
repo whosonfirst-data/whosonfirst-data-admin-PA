@@ -1,0 +1,67 @@
+{
+  "id": 1276212189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.95,9.15,-78.95,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":-78.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Calobre",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713395,
+    "gn:latitude":9.15,
+    "gn:longitude":-78.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Calobre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713395
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"06f9837cf8b9625e1ef95cf1020e8572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1276212189,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1276212189,
+    "wof:lastmodified":1536942065,
+    "wof:name":"Calobre",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.95,
+    9.15,
+    -78.95,
+    9.15
+],
+  "geometry": {"coordinates":[-78.95,9.15],"type":"Point"}
+}

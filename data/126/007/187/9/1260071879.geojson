@@ -1,0 +1,70 @@
+{
+  "id": 1260071879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.34845,7.97251,-80.34845,7.97251",
+    "geom:latitude":7.97251,
+    "geom:longitude":-80.34845,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Monagre",
+    "gn:country_code":"PA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704189,
+    "gn:latitude":7.97251,
+    "gn:longitude":-80.34845,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Monagre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Monagre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704189
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2e4b7c13a399e350e259e543a87460dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693235,
+            "locality_id":1260071879,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1260071879,
+    "wof:lastmodified":1537676367,
+    "wof:name":"Monagre",
+    "wof:parent_id":1108693235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.34845,
+    7.97251,
+    -80.34845,
+    7.97251
+],
+  "geometry": {"coordinates":[-80.34845,7.97251],"type":"Point"}
+}

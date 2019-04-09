@@ -1,0 +1,73 @@
+{
+  "id": 1276569951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.12552,9.43859,-79.12552,9.43859",
+    "geom:latitude":9.43859,
+    "geom:longitude":-79.12552,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Rio Cangandi",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713143,
+    "gn:latitude":9.43859,
+    "gn:longitude":-79.12552,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"R\u00edo Cangand\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Cangand\u00ed"
+    ],
+    "name:und_x_variant":[
+        "Cangand\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713143
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"833f2c88b48c2d0f9d7c3d2621b73069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "locality_id":1276569951,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":1276569951,
+    "wof:lastmodified":1537676474,
+    "wof:name":"Rio Cangandi",
+    "wof:parent_id":1108693213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.12552,
+    9.43859,
+    -79.12552,
+    9.43859
+],
+  "geometry": {"coordinates":[-79.12551999999999,9.43859],"type":"Point"}
+}

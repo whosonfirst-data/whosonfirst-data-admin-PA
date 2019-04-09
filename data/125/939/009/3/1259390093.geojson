@@ -1,0 +1,70 @@
+{
+  "id": 1259390093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65,8.18333,-80.65,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":-80.65,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chilibre",
+    "gn:country_code":"PA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712457,
+    "gn:latitude":8.18333,
+    "gn:longitude":-80.65,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Chilibre",
+    "gn:population":115,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712457
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"93ae6adb0df15e819270c2240183b664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693183,
+            "locality_id":1259390093,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1259390093,
+    "wof:lastmodified":1536991851,
+    "wof:name":"Chilibre",
+    "wof:parent_id":1108693183,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65,
+    8.18333,
+    -80.65,
+    8.18333
+],
+  "geometry": {"coordinates":[-80.65000000000001,8.18333],"type":"Point"}
+}

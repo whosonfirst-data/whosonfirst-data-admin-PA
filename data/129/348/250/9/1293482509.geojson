@@ -1,0 +1,73 @@
+{
+  "id": 1293482509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61006,8.11152,-80.61006,8.11152",
+    "geom:latitude":8.11152,
+    "geom:longitude":-80.61006,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Rodeo",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710007,
+    "gn:latitude":8.11152,
+    "gn:longitude":-80.61006,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Rodeo",
+    "gn:population":341,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Rodeo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710007
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e52068bb5cf75275737ca0272bf6fe50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693273,
+            "locality_id":1293482509,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1293482509,
+    "wof:lastmodified":1537676433,
+    "wof:name":"El Rodeo",
+    "wof:parent_id":1108693273,
+    "wof:placetype":"locality",
+    "wof:population":341,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61006,
+    8.11152,
+    -80.61006,
+    8.11152
+],
+  "geometry": {"coordinates":[-80.61006,8.11152],"type":"Point"}
+}

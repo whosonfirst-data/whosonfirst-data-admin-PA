@@ -1,0 +1,70 @@
+{
+  "id": 1343949915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1,7.43333,-80.1,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":-80.1,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Chumico",
+    "gn:country_code":"PA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711115,
+    "gn:latitude":7.43333,
+    "gn:longitude":-80.1,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El Chumico",
+    "gn:population":9,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711115
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ad4591083adb8646f9be5256f7f11b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":1343949915,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1343949915,
+    "wof:lastmodified":1537033820,
+    "wof:name":"El Chumico",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1,
+    7.43333,
+    -80.1,
+    7.43333
+],
+  "geometry": {"coordinates":[-80.09999999999999,7.43333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260281611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66788,7.64216,-80.66788,7.64216",
+    "geom:latitude":7.64216,
+    "geom:longitude":-80.66788,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pitaloza Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3706845,
+    "gn:latitude":7.64216,
+    "gn:longitude":-80.66788,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pitaloza Arriba",
+    "gn:population":188,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Pitaloza Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706845
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9749641836f95cf345cd09d7a17d55f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693231,
+            "locality_id":1260281611,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1260281611,
+    "wof:lastmodified":1537676400,
+    "wof:name":"Pitaloza Arriba",
+    "wof:parent_id":1108693231,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66788000000003,
+    7.64216,
+    -80.66788000000003,
+    7.64216
+],
+  "geometry": {"coordinates":[-80.66788000000003,7.64216],"type":"Point"}
+}

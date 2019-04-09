@@ -1,0 +1,70 @@
+{
+  "id": 1226339783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63799,7.98459,-80.63799,7.98459",
+    "geom:latitude":7.98459,
+    "geom:longitude":-80.63799,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Santo Domingo",
+    "gn:country_code":"PA",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701102,
+    "gn:latitude":7.98459,
+    "gn:longitude":-80.63799,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Santo Domingo",
+    "gn:population":74,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701102
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4ed7958e3bf4414e0b548d23c8e1d6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1226339783,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1226339783,
+    "wof:lastmodified":1536798201,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63799,
+    7.98459,
+    -80.63799,
+    7.98459
+],
+  "geometry": {"coordinates":[-80.63799,7.98459],"type":"Point"}
+}

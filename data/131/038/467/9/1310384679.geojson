@@ -1,0 +1,78 @@
+{
+  "id": 1310384679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83389,9.03472,-79.83389,9.03472",
+    "geom:latitude":9.03472,
+    "geom:longitude":-79.83389,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"PA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702459,
+    "gn:latitude":9.03472,
+    "gn:longitude":-79.83389,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":70,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702459
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cee28635c6415987cd6e154074ba8efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1310384679,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1310384679,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1310384679,
+    "wof:lastmodified":1537088124,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83389,
+    9.03472,
+    -79.83389,
+    9.03472
+],
+  "geometry": {"coordinates":[-79.83389,9.03472],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276569313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.89125,8.24105,-80.89125,8.24105",
+    "geom:latitude":8.24105,
+    "geom:longitude":-80.89125,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Baco",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711479,
+    "gn:latitude":8.24105,
+    "gn:longitude":-80.89125,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Baco",
+    "gn:population":63,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Salto",
+        "El Baco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711479
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b97985a8d9b49ea9826c6e74526d6fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693199,
+            "locality_id":1276569313,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276569313,
+    "wof:lastmodified":1537676458,
+    "wof:name":"El Baco",
+    "wof:parent_id":1108693199,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.89125,
+    8.24105,
+    -80.89125,
+    8.24105
+],
+  "geometry": {"coordinates":[-80.89125,8.24105],"type":"Point"}
+}

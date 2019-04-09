@@ -1,0 +1,67 @@
+{
+  "id": 1344054607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.73333,7.96667,-80.73333,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":-80.73333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Higuito de La Canada",
+    "gn:country_code":"PA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710654,
+    "gn:latitude":7.96667,
+    "gn:longitude":-80.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Higuito de La Ca\u00f1ada",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710654
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"691f6be0f1cc5b617d8789a02bd35a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1344054607,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1344054607,
+    "wof:lastmodified":1536883472,
+    "wof:name":"El Higuito de La Canada",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.73333000000002,
+    7.96667,
+    -80.73333000000002,
+    7.96667
+],
+  "geometry": {"coordinates":[-80.73333000000002,7.96667],"type":"Point"}
+}

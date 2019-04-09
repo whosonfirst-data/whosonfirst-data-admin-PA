@@ -1,0 +1,65 @@
+{
+  "id": 1293384489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.02087,9.46293,-79.02087,9.46293",
+    "geom:latitude":9.46293,
+    "geom:longitude":-79.02087,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Naranjos Chicos",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703948,
+    "gn:latitude":9.46293,
+    "gn:longitude":-79.02087,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Naranjos Chicos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naranjo Chico",
+        "Naranjos Chicos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703948
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"164af1fcbd49fda33884a93d5681c30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293384489,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293384489,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Naranjos Chicos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.02087,
+    9.46293,
+    -79.02087,
+    9.46293
+],
+  "geometry": {"coordinates":[-79.02087,9.46293],"type":"Point"}
+}

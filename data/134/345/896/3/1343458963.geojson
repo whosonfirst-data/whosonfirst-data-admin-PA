@@ -1,0 +1,70 @@
+{
+  "id": 1343458963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.39948,9.13491,-80.39948,9.13491",
+    "geom:latitude":9.13491,
+    "geom:longitude":-80.39948,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diego",
+    "gn:country_code":"PA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711639,
+    "gn:latitude":9.13491,
+    "gn:longitude":-80.39948,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Diego",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Diego"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711639
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"91e9b136b8307baa4bcb24bfc659390c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693217,
+            "locality_id":1343458963,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1343458963,
+    "wof:lastmodified":1537676460,
+    "wof:name":"Diego",
+    "wof:parent_id":1108693217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.39948000000003,
+    9.13491,
+    -80.39948000000003,
+    9.13491
+],
+  "geometry": {"coordinates":[-80.39948000000003,9.13491],"type":"Point"}
+}

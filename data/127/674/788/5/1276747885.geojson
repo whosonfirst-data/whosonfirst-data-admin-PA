@@ -1,0 +1,70 @@
+{
+  "id": 1276747885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.8,9.38333,-78.8,9.38333",
+    "geom:latitude":9.38333,
+    "geom:longitude":-78.8,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Rio Alzucar",
+    "gn:country_code":"PA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8299137,
+    "gn:latitude":9.38333,
+    "gn:longitude":-78.8,
+    "gn:modification_date":"2016-03-29",
+    "gn:name":"Rio Alzucar",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rio Alzucar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8299137
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ba33f7fb00e96f45d7148e8f784a6dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1276747885,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1276747885,
+    "wof:lastmodified":1537676495,
+    "wof:name":"Rio Alzucar",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.8,
+    9.38333,
+    -78.8,
+    9.38333
+],
+  "geometry": {"coordinates":[-78.8,9.38333],"type":"Point"}
+}

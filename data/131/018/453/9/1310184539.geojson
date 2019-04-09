@@ -1,0 +1,81 @@
+{
+  "id": 1310184539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90487,8.93408,-79.90487,8.93408",
+    "geom:latitude":8.93408,
+    "geom:longitude":-79.90487,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Sainos",
+    "gn:country_code":"PA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709802,
+    "gn:latitude":8.93408,
+    "gn:longitude":-79.90487,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Los Sainos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Sainos"
+    ],
+    "name:und_x_variant":[
+        "El Zahino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709802
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"90fa189a4361bebe2ca75d8228658f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1310184539,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1310184539,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1310184539,
+    "wof:lastmodified":1537676430,
+    "wof:name":"Los Sainos",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90486999999997,
+    8.93408,
+    -79.90486999999997,
+    8.93408
+],
+  "geometry": {"coordinates":[-79.90486999999997,8.93408],"type":"Point"}
+}

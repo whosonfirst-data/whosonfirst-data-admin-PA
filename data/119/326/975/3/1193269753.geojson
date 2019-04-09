@@ -1,0 +1,70 @@
+{
+  "id": 1193269753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.43333,7.58333,-80.43333,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":-80.43333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taboga",
+    "gn:country_code":"PA",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700804,
+    "gn:latitude":7.58333,
+    "gn:longitude":-80.43333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Taboga",
+    "gn:population":23,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700804
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f6ceebd2c8c99d08ed8f86d602fff4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1193269753,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1193269753,
+    "wof:lastmodified":1536371983,
+    "wof:name":"Taboga",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.43333,
+    7.58333,
+    -80.43333,
+    7.58333
+],
+  "geometry": {"coordinates":[-80.43333,7.58333],"type":"Point"}
+}

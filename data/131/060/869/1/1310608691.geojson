@@ -1,0 +1,73 @@
+{
+  "id": 1310608691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.22623,8.55119,-80.22623,8.55119",
+    "geom:latitude":8.55119,
+    "geom:longitude":-80.22623,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Juan de Dios",
+    "gn:country_code":"PA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10348488,
+    "gn:latitude":8.55119,
+    "gn:longitude":-80.22623,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Juan de Dios",
+    "gn:population":400,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan de Dios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348488
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"034a724e5023aadc28f13ad563c46652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693185,
+            "locality_id":1310608691,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310608691,
+    "wof:lastmodified":1537676518,
+    "wof:name":"San Juan de Dios",
+    "wof:parent_id":1108693185,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.22623,
+    8.55119,
+    -80.22623,
+    8.55119
+],
+  "geometry": {"coordinates":[-80.22623,8.55119],"type":"Point"}
+}

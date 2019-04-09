@@ -1,0 +1,67 @@
+{
+  "id": 1209427859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.78659,8.50993,-82.78659,8.50993",
+    "geom:latitude":8.50993,
+    "geom:longitude":-82.78659,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Libertad",
+    "gn:country_code":"PA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347252,
+    "gn:latitude":8.50993,
+    "gn:longitude":-82.78659,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Libertad",
+    "gn:population":133,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Libertad"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347252
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4d2080b155fa7fd07e59f4acdbeaaaef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209427859
+        }
+    ],
+    "wof:id":1209427859,
+    "wof:lastmodified":1537676507,
+    "wof:name":"La Libertad",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.78659,
+    8.50993,
+    -82.78659,
+    8.50993
+],
+  "geometry": {"coordinates":[-82.78659,8.50993],"type":"Point"}
+}

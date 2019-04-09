@@ -1,0 +1,73 @@
+{
+  "id": 1259563479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.06548,8.89915,-82.06548,8.89915",
+    "geom:latitude":8.89915,
+    "geom:longitude":-82.06548,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Buenaventura",
+    "gn:country_code":"PA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347364,
+    "gn:latitude":8.89915,
+    "gn:longitude":-82.06548,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Quebrada Buenaventura",
+    "gn:population":189,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Buenaventura"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347364
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ca345e4f3741de68c525c1cb030f1135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1259563479,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1259563479,
+    "wof:lastmodified":1537676511,
+    "wof:name":"Quebrada Buenaventura",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:population":189,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.06548000000002,
+    8.89915,
+    -82.06548000000002,
+    8.89915
+],
+  "geometry": {"coordinates":[-82.06548000000002,8.89915],"type":"Point"}
+}

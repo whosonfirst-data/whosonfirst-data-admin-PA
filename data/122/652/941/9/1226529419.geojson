@@ -1,0 +1,70 @@
+{
+  "id": 1226529419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.84685,9.11081,-81.84685,9.11081",
+    "geom:latitude":9.11081,
+    "geom:longitude":-81.84685,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"PA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211023,
+    "gn:latitude":9.11081,
+    "gn:longitude":-81.84685,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211023
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"578ac6e74a1800868509454077bd619b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693223,
+            "locality_id":1226529419,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226529419,
+    "wof:lastmodified":1537676504,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":1108693223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.84685,
+    9.11081,
+    -81.84685,
+    9.11081
+],
+  "geometry": {"coordinates":[-81.84685,9.11081],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277060071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.22075,8.03227,-81.22075,8.03227",
+    "geom:latitude":8.03227,
+    "geom:longitude":-81.22075,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Piedras Negras",
+    "gn:country_code":"PA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702879,
+    "gn:latitude":8.03227,
+    "gn:longitude":-81.22075,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Piedras Negras",
+    "gn:population":110,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedras Negras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702879
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f07527f8e44efbb002c21b487ae5e1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1277060071,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1277060071,
+    "wof:lastmodified":1537676358,
+    "wof:name":"Piedras Negras",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.22075,
+    8.03227,
+    -81.22075,
+    8.03227
+],
+  "geometry": {"coordinates":[-81.22075,8.03227],"type":"Point"}
+}

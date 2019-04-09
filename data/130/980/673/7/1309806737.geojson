@@ -1,0 +1,73 @@
+{
+  "id": 1309806737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.97411,8.26132,-81.97411,8.26132",
+    "geom:latitude":8.26132,
+    "geom:longitude":-81.97411,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pueblito",
+    "gn:country_code":"PA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702494,
+    "gn:latitude":8.26132,
+    "gn:longitude":-81.97411,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pueblito",
+    "gn:population":515,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblito de San Juan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702494
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"47eea73772a20dc06397fa0fe2d2eac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693267,
+            "locality_id":1309806737,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1309806737,
+    "wof:lastmodified":1537676356,
+    "wof:name":"Pueblito",
+    "wof:parent_id":1108693267,
+    "wof:placetype":"locality",
+    "wof:population":515,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.97411,
+    8.26132,
+    -81.97411,
+    8.26132
+],
+  "geometry": {"coordinates":[-81.97411,8.26132],"type":"Point"}
+}

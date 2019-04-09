@@ -1,0 +1,67 @@
+{
+  "id": 1326930761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13333,9.11667,-80.13333,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-80.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Gallina",
+    "gn:country_code":"PA",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707692,
+    "gn:latitude":9.11667,
+    "gn:longitude":-80.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Gallina",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707692
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"befe56f53f307b3bf5eaf2bc07c2aa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1326930761,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1326930761,
+    "wof:lastmodified":1536907131,
+    "wof:name":"La Gallina",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13333,
+    9.11667,
+    -80.13333,
+    9.11667
+],
+  "geometry": {"coordinates":[-80.13333,9.11667],"type":"Point"}
+}

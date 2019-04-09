@@ -1,0 +1,73 @@
+{
+  "id": 1293279357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.73486,8.28123,-81.73486,8.28123",
+    "geom:latitude":8.28123,
+    "geom:longitude":-81.73486,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Palma Gira",
+    "gn:country_code":"PA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703541,
+    "gn:latitude":8.28123,
+    "gn:longitude":-81.73486,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Palma Gira",
+    "gn:population":313,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palma Gira"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703541
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4e90d5548679eddd95217966fb523c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1293279357,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1293279357,
+    "wof:lastmodified":1537676363,
+    "wof:name":"Palma Gira",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":313,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.73486,
+    8.28123,
+    -81.73486,
+    8.28123
+],
+  "geometry": {"coordinates":[-81.73486,8.28123],"type":"Point"}
+}

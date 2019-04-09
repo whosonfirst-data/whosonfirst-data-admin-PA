@@ -1,0 +1,64 @@
+{
+  "id": 1209303511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.0974,8.36668,-81.0974,8.36668",
+    "geom:latitude":8.36668,
+    "geom:longitude":-81.0974,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Bordones",
+    "gn:country_code":"PA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348582,
+    "gn:latitude":8.36668,
+    "gn:longitude":-81.0974,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Los Bordones",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Bordones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348582
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0ba76de53587135176b28a1ccf18ae33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209303511
+        }
+    ],
+    "wof:id":1209303511,
+    "wof:lastmodified":1537676520,
+    "wof:name":"Los Bordones",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.0974,
+    8.36668,
+    -81.0974,
+    8.36668
+],
+  "geometry": {"coordinates":[-81.09739999999999,8.36668],"type":"Point"}
+}

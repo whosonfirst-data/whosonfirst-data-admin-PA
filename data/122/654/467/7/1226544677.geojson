@@ -1,0 +1,70 @@
+{
+  "id": 1226544677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.97675,8.52201,-77.97675,8.52201",
+    "geom:latitude":8.52201,
+    "geom:longitude":-77.97675,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Punolocita",
+    "gn:country_code":"PA",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194727,
+    "gn:latitude":8.52201,
+    "gn:longitude":-77.97675,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"La Punolocita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Punolocita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194727
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2834a550d5d97f870b018ffac5367ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1226544677,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1226544677,
+    "wof:lastmodified":1537676501,
+    "wof:name":"La Punolocita",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.97675,
+    8.52201,
+    -77.97675,
+    8.52201
+],
+  "geometry": {"coordinates":[-77.97675,8.52201],"type":"Point"}
+}

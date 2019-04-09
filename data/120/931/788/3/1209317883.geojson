@@ -1,0 +1,67 @@
+{
+  "id": 1209317883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.71462,8.44005,-82.71462,8.44005",
+    "geom:latitude":8.44005,
+    "geom:longitude":-82.71462,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Las Mercedes",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706362,
+    "gn:latitude":8.44005,
+    "gn:longitude":-82.71462,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Mercedes",
+    "gn:population":451,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Mercedes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706362
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0bb32e4518e7652a360c35c39a083cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209317883
+        }
+    ],
+    "wof:id":1209317883,
+    "wof:lastmodified":1537676393,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":451,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.71462,
+    8.44005,
+    -82.71462,
+    8.44005
+],
+  "geometry": {"coordinates":[-82.71462,8.44005],"type":"Point"}
+}

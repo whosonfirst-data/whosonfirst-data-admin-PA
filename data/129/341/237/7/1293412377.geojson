@@ -1,0 +1,73 @@
+{
+  "id": 1293412377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.85423,7.87151,-77.85423,7.87151",
+    "geom:latitude":7.87151,
+    "geom:longitude":-77.85423,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manene",
+    "gn:country_code":"PA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203154,
+    "gn:latitude":7.87151,
+    "gn:longitude":-77.85423,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Manen\u00e9",
+    "gn:population":275,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manen\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203154
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3fbaf4b2b02e8b586c09f85808f8aeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1293412377,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1293412377,
+    "wof:lastmodified":1537676503,
+    "wof:name":"Manene",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.85423,
+    7.87151,
+    -77.85423,
+    7.87151
+],
+  "geometry": {"coordinates":[-77.85423,7.87151],"type":"Point"}
+}

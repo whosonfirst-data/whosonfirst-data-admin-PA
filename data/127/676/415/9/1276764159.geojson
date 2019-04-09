@@ -1,0 +1,75 @@
+{
+  "id": 1276764159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.51024,8.63777,-80.51024,8.63777",
+    "geom:latitude":8.63777,
+    "geom:longitude":-80.51024,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Piedras Gordas",
+    "gn:country_code":"PA",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702882,
+    "gn:latitude":8.63777,
+    "gn:longitude":-80.51024,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Piedras Gordas",
+    "gn:population":510,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piedras Goroas",
+        "Piedras Gordas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702882,
+        "wk:page":"Piedras_Gordas"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6ffe29f43557b24a873f6d8f13090c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1276764159,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1276764159,
+    "wof:lastmodified":1537676358,
+    "wof:name":"Piedras Gordas",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":510,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.51024,
+    8.63777,
+    -80.51024,
+    8.63777
+],
+  "geometry": {"coordinates":[-80.51024,8.63777],"type":"Point"}
+}

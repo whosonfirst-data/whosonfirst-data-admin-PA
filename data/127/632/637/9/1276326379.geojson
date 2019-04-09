@@ -1,0 +1,73 @@
+{
+  "id": 1276326379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.69286,8.05953,-80.69286,8.05953",
+    "geom:latitude":8.05953,
+    "geom:longitude":-80.69286,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Concepcion",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707901,
+    "gn:latitude":8.05953,
+    "gn:longitude":-80.69286,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Concepci\u00f3n",
+    "gn:population":211,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707901
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d75c465a5333e9df5a0c1b7af39e19a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1276326379,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276326379,
+    "wof:lastmodified":1537676414,
+    "wof:name":"La Concepcion",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.69286,
+    8.05953,
+    -80.69286,
+    8.05953
+],
+  "geometry": {"coordinates":[-80.69286,8.05953],"type":"Point"}
+}

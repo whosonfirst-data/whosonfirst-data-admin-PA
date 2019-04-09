@@ -1,0 +1,61 @@
+{
+  "id": 1209622791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.11667,8.55,-80.11667,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-80.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Corrales",
+    "gn:country_code":"PA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705367,
+    "gn:latitude":8.55,
+    "gn:longitude":-80.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Corrales",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705367
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"65e6e6163f36d171e50adcb32526214a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209622791
+        }
+    ],
+    "wof:id":1209622791,
+    "wof:lastmodified":1536281459,
+    "wof:name":"Los Corrales",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.11667,
+    8.55,
+    -80.11667,
+    8.55
+],
+  "geometry": {"coordinates":[-80.11667,8.55],"type":"Point"}
+}

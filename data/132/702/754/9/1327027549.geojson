@@ -1,0 +1,66 @@
+{
+  "id": 1327027549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.87601,9.59197,-82.87601,9.59197",
+    "geom:latitude":9.59197,
+    "geom:longitude":-82.87601,
+    "gn:asciiname":"Piedra Grande",
+    "gn:country_code":"PA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622415,
+    "gn:latitude":9.59197,
+    "gn:longitude":-82.87601,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Piedra Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622415
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bdcf734a5b60206d56ef6fae0baf4f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1327027549,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1327027549,
+    "wof:lastmodified":1536767932,
+    "wof:name":"Piedra Grande",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.87601,
+    9.59197,
+    -82.87601,
+    9.59197
+],
+  "geometry": {"coordinates":[-82.87600999999999,9.59197],"type":"Point"}
+}

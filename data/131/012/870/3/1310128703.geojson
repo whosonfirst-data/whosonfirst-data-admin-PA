@@ -1,0 +1,71 @@
+{
+  "id": 1310128703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93023,8.75874,-77.93023,8.75874",
+    "geom:latitude":8.75874,
+    "geom:longitude":-77.93023,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Surcurti",
+    "gn:country_code":"PA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700833,
+    "gn:latitude":8.75874,
+    "gn:longitude":-77.93023,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Surcurt\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Subcuti",
+        "Surcurt\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700833
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a5a4bbbdff131aecf172d581271fd495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1310128703,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1310128703,
+    "wof:lastmodified":1537676338,
+    "wof:name":"Surcurti",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93023000000002,
+    8.75874,
+    -77.93023000000002,
+    8.75874
+],
+  "geometry": {"coordinates":[-77.93023000000002,8.75874],"type":"Point"}
+}

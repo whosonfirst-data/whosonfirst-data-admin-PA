@@ -1,0 +1,67 @@
+{
+  "id": 1242956989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.06667,8.13333,-81.06667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":-81.06667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Guacas",
+    "gn:country_code":"PA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706510,
+    "gn:latitude":8.13333,
+    "gn:longitude":-81.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Guacas",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706510
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"aebca3257f739b962f88a8bcaceca654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1242956989,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242956989,
+    "wof:lastmodified":1537013576,
+    "wof:name":"Las Guacas",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.06667,
+    8.13333,
+    -81.06667,
+    8.13333
+],
+  "geometry": {"coordinates":[-81.06667,8.13333],"type":"Point"}
+}

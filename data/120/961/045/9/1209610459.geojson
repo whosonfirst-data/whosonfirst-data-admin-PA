@@ -1,0 +1,66 @@
+{
+  "id": 1209610459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.31667,8.26667,-81.31667,8.26667",
+    "geom:latitude":8.26667,
+    "geom:longitude":-81.31667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Milinga",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707186,
+    "gn:latitude":8.26667,
+    "gn:longitude":-81.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Milinga",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Melinga",
+        "La Milinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707186
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0c02c6f0cb8fd2ea0b89d776bb35a879",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209610459
+        }
+    ],
+    "wof:id":1209610459,
+    "wof:lastmodified":1537676403,
+    "wof:name":"La Milinga",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.31667,
+    8.26667,
+    -81.31667,
+    8.26667
+],
+  "geometry": {"coordinates":[-81.31667,8.26667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243060175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61886,7.98565,-80.61886,7.98565",
+    "geom:latitude":7.98565,
+    "geom:longitude":-80.61886,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Los Castillos",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705446,
+    "gn:latitude":7.98565,
+    "gn:longitude":-80.61886,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Castillos",
+    "gn:population":400,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Castillos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705446,
+        "wk:page":"Los_Castillos%2C_Herrera"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"91a9c0e20b07ba11c05999eb1d5d3467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1243060175,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1243060175,
+    "wof:lastmodified":1537676380,
+    "wof:name":"Los Castillos",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61886,
+    7.98565,
+    -80.61886,
+    7.98565
+],
+  "geometry": {"coordinates":[-80.61886,7.98565],"type":"Point"}
+}

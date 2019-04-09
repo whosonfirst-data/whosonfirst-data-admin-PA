@@ -1,0 +1,67 @@
+{
+  "id": 1276781599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46667,9.25,-82.46667,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":-82.46667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Risco Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701780,
+    "gn:latitude":9.25,
+    "gn:longitude":-82.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Risco Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701780
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"38a254d3449062a1034e80352a46de12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1276781599,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1276781599,
+    "wof:lastmodified":1536675259,
+    "wof:name":"Risco Abajo",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46667,
+    9.25,
+    -82.46667,
+    9.25
+],
+  "geometry": {"coordinates":[-82.46666999999999,9.25],"type":"Point"}
+}

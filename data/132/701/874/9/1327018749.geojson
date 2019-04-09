@@ -1,0 +1,67 @@
+{
+  "id": 1327018749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26667,8.0,-81.26667,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":-81.26667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Potrero de La Pita",
+    "gn:country_code":"PA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710095,
+    "gn:latitude":8.0,
+    "gn:longitude":-81.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Potrero de La Pita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710095
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b67621330bdf8e7012b9a3ea01940ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1327018749,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327018749,
+    "wof:lastmodified":1536780688,
+    "wof:name":"El Potrero de La Pita",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26666999999998,
+    8.0,
+    -81.26666999999998,
+    8.0
+],
+  "geometry": {"coordinates":[-81.26666999999998,8.0],"type":"Point"}
+}

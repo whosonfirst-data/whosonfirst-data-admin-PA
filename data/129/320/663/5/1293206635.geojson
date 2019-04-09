@@ -1,0 +1,66 @@
+{
+  "id": 1293206635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.08333,9.56667,-79.08333,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":-79.08333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Playa Colorada",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702682,
+    "gn:latitude":9.56667,
+    "gn:longitude":-79.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Playa Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colorado Beach",
+        "Playa Colorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702682
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0a43e2195736c30055df22e4b7d38a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293206635,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293206635,
+    "wof:lastmodified":1537676357,
+    "wof:name":"Playa Colorada",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.08333,
+    9.56667,
+    -79.08333,
+    9.56667
+],
+  "geometry": {"coordinates":[-79.08333,9.56667],"type":"Point"}
+}

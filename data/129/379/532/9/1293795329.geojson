@@ -1,0 +1,73 @@
+{
+  "id": 1293795329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.49005,8.43916,-80.49005,8.43916",
+    "geom:latitude":8.43916,
+    "geom:longitude":-80.49005,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Candelaria",
+    "gn:country_code":"PA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708020,
+    "gn:latitude":8.43916,
+    "gn:longitude":-80.49005,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Candelaria",
+    "gn:population":881,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Candelaria"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708020
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f8b65e2cd943bd88667ed2ea5b08f445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1293795329,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1293795329,
+    "wof:lastmodified":1537676416,
+    "wof:name":"La Candelaria",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":881,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.49005,
+    8.43916,
+    -80.49005,
+    8.43916
+],
+  "geometry": {"coordinates":[-80.49005,8.43916],"type":"Point"}
+}

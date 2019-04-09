@@ -1,0 +1,67 @@
+{
+  "id": 1293084777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.15,8.05,-81.15,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":-81.15,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Llano del Harino",
+    "gn:country_code":"PA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705756,
+    "gn:latitude":8.05,
+    "gn:longitude":-81.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Llano del Harino",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705756
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8114e1c790cc2d1215f3feb9e5dbc610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693263,
+            "locality_id":1293084777,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293084777,
+    "wof:lastmodified":1536869563,
+    "wof:name":"Llano del Harino",
+    "wof:parent_id":1108693263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.15,
+    8.05,
+    -81.15,
+    8.05
+],
+  "geometry": {"coordinates":[-81.15000000000001,8.05],"type":"Point"}
+}

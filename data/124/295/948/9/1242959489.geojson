@@ -1,0 +1,78 @@
+{
+  "id": 1242959489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0896,8.53369,-80.0896,8.53369",
+    "geom:latitude":8.53369,
+    "geom:longitude":-80.0896,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Corrientes",
+    "gn:country_code":"PA",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706586,
+    "gn:latitude":8.53369,
+    "gn:longitude":-80.0896,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Corrientes",
+    "gn:population":42,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706586
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9bd68b5660233f11b4e783f3fd4918b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1242959489,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1242959489,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1242959489,
+    "wof:lastmodified":1537009979,
+    "wof:name":"Las Corrientes",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0896,
+    8.53369,
+    -80.0896,
+    8.53369
+],
+  "geometry": {"coordinates":[-80.0896,8.53369],"type":"Point"}
+}

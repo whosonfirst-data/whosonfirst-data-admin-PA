@@ -1,0 +1,116 @@
+{
+  "id": 421170077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.86667,8.81667,-82.86667,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":-82.86667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u91cc\u7ea6\u585e\u96f7\u8bfa"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Sereno"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d8\u10dd-\u10e1\u10d4\u10e0\u10d4\u10dc\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Sereno"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10dd-\u10e1\u10d4\u10e0\u10d4\u10dc\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Sereno"
+    ],
+    "name:unk_x_variant":[
+        "Sereno"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u7ea6\u585e\u96f7\u8bfa"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701810,
+    "qs:gn_pop":1908,
+    "qs:name":"R\u00edo Sereno",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":214590,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160042,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693261,
+        85632487,
+        85670385,
+        421171715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701810,
+        "gp:id":160042,
+        "qs:id":214590,
+        "wd:id":"Q7386411",
+        "wk:page":"R\u00edo Sereno"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008836,
+    "wof:geomhash":"ade6ef93bc66a3e8d262ba002a177890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693261,
+            "locality_id":421170077,
+            "region_id":85675767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171715,
+            "locality_id":421170077,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421170077,
+    "wof:lastmodified":1527716459,
+    "wof:name":"R\u00edo Sereno",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":1908,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.86667,
+    8.81667,
+    -82.86667,
+    8.81667
+],
+  "geometry": {"coordinates":[-82.86667,8.81667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327035889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13186,9.19841,-80.13186,9.19841",
+    "geom:latitude":9.19841,
+    "geom:longitude":-80.13186,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Salud",
+    "gn:country_code":"PA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3701603,
+    "gn:latitude":9.19841,
+    "gn:longitude":-80.13186,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Salud",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salud N\u00famero Uno",
+        "Salud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701603,
+        "wk:page":"Salud%2C_Col%C3%B3n"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1ca64aa0e49d905d88d58b514141d5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1327035889,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1327035889,
+    "wof:lastmodified":1537676344,
+    "wof:name":"Salud",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13186,
+    9.19841,
+    -80.13186,
+    9.19841
+],
+  "geometry": {"coordinates":[-80.13186,9.19841],"type":"Point"}
+}

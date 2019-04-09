@@ -1,0 +1,68 @@
+{
+  "id": 1209301471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.07474,8.91757,-82.07474,8.91757",
+    "geom:latitude":8.91757,
+    "geom:longitude":-82.07474,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ballena",
+    "gn:country_code":"PA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709771,
+    "gn:latitude":8.91757,
+    "gn:longitude":-82.07474,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ballena",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ballena"
+    ],
+    "name:und_x_variant":[
+        "La Promesa",
+        "Ensenada Ballena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709771
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2a71aed2210008c52f503added64061d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209301471
+        }
+    ],
+    "wof:id":1209301471,
+    "wof:lastmodified":1537676429,
+    "wof:name":"Ballena",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.07474,
+    8.91757,
+    -82.07474,
+    8.91757
+],
+  "geometry": {"coordinates":[-82.07474000000001,8.91757],"type":"Point"}
+}

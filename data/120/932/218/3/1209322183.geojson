@@ -1,0 +1,67 @@
+{
+  "id": 1209322183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58401,8.6312,-80.58401,8.6312",
+    "geom:latitude":8.6312,
+    "geom:longitude":-80.58401,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Pajaros",
+    "gn:country_code":"PA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705118,
+    "gn:latitude":8.6312,
+    "gn:longitude":-80.58401,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los P\u00e1jaros",
+    "gn:population":144,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los P\u00e1jaros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705118
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d1422bbfe7bcf2978880992bde19a680",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209322183
+        }
+    ],
+    "wof:id":1209322183,
+    "wof:lastmodified":1537676375,
+    "wof:name":"Los Pajaros",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58400999999998,
+    8.6312,
+    -80.58400999999998,
+    8.6312
+],
+  "geometry": {"coordinates":[-80.58400999999998,8.6312],"type":"Point"}
+}

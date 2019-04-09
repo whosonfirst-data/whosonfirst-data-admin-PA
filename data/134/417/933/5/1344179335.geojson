@@ -1,0 +1,75 @@
+{
+  "id": 1344179335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.59538,8.01738,-80.59538,8.01738",
+    "geom:latitude":8.01738,
+    "geom:longitude":-80.59538,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Portobelillo",
+    "gn:country_code":"PA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3702579,
+    "gn:latitude":8.01738,
+    "gn:longitude":-80.59538,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Portobelillo",
+    "gn:population":497,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porto Bello",
+        "Portobelillo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702579,
+        "wk:page":"Portobelillo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2ba596f13206e654c7f3861d4096d66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1344179335,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1344179335,
+    "wof:lastmodified":1537676356,
+    "wof:name":"Portobelillo",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:population":497,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.59538,
+    8.01738,
+    -80.59538,
+    8.01738
+],
+  "geometry": {"coordinates":[-80.59538000000001,8.01738],"type":"Point"}
+}

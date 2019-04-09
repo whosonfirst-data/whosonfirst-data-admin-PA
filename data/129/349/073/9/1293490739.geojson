@@ -1,0 +1,73 @@
+{
+  "id": 1293490739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.71289,8.64017,-82.71289,8.64017",
+    "geom:latitude":8.64017,
+    "geom:longitude":-82.71289,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"PA",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707756,
+    "gn:latitude":8.64017,
+    "gn:longitude":-82.71289,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Esperanza",
+    "gn:population":93,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Esperanza"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707756
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d7d6b373ad64bb18227bcd6605b52175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1293490739,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293490739,
+    "wof:lastmodified":1537676411,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.71289,
+    8.64017,
+    -82.71289,
+    8.64017
+],
+  "geometry": {"coordinates":[-82.71289,8.64017],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276733967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.97228,8.49588,-79.97228,8.49588",
+    "geom:latitude":8.49588,
+    "geom:longitude":-79.97228,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Colon",
+    "gn:country_code":"PA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712077,
+    "gn:latitude":8.49588,
+    "gn:longitude":-79.97228,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Col\u00f3n",
+    "gn:population":371,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712077
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"47067825f78e183bd21c1584900c3446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1276733967,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1276733967,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1276733967,
+    "wof:lastmodified":1537676463,
+    "wof:name":"Colon",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97228,
+    8.49588,
+    -79.97228,
+    8.49588
+],
+  "geometry": {"coordinates":[-79.97228,8.49588],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226519519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.70253,8.37529,-81.70253,8.37529",
+    "geom:latitude":8.37529,
+    "geom:longitude":-81.70253,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tebujo Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347853,
+    "gn:latitude":8.37529,
+    "gn:longitude":-81.70253,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tebujo Abajo",
+    "gn:population":325,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tebujo Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347853
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a3f8e05c2048104c573a9dd71cf64162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1226519519,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226519519,
+    "wof:lastmodified":1537676515,
+    "wof:name":"Tebujo Abajo",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.70253000000002,
+    8.37529,
+    -81.70253000000002,
+    8.37529
+],
+  "geometry": {"coordinates":[-81.70253000000002,8.37529],"type":"Point"}
+}

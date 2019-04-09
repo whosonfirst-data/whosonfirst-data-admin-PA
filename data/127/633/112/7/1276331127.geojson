@@ -1,0 +1,74 @@
+{
+  "id": 1276331127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.55552,7.82362,-80.55552,7.82362",
+    "geom:latitude":7.82362,
+    "geom:longitude":-80.55552,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Colorada",
+    "gn:country_code":"PA",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3707924,
+    "gn:latitude":7.82362,
+    "gn:longitude":-80.55552,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Colorada",
+    "gn:population":158,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Colorada"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707924,
+        "wk:page":"La_Colorada%2C_Los_Santos"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4db629f5a20475a05fda1cc12b415c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693235,
+            "locality_id":1276331127,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1276331127,
+    "wof:lastmodified":1537676414,
+    "wof:name":"La Colorada",
+    "wof:parent_id":1108693235,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.55552,
+    7.82362,
+    -80.55552,
+    7.82362
+],
+  "geometry": {"coordinates":[-80.55552,7.82362],"type":"Point"}
+}

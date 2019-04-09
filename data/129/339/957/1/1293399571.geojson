@@ -1,0 +1,71 @@
+{
+  "id": 1293399571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.55905,9.43417,-82.55905,9.43417",
+    "geom:latitude":9.43417,
+    "geom:longitude":-82.55905,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Finca Treinta y Dos",
+    "gn:country_code":"PA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709537,
+    "gn:latitude":9.43417,
+    "gn:longitude":-82.55905,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Finca Treinta y Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca 32",
+        "Finca Treinta y Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709537
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"74d932a821f08a664ca85e38e71622ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1293399571,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1293399571,
+    "wof:lastmodified":1537676426,
+    "wof:name":"Finca Treinta y Dos",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.55905,
+    9.43417,
+    -82.55905,
+    9.43417
+],
+  "geometry": {"coordinates":[-82.55905,9.43417],"type":"Point"}
+}

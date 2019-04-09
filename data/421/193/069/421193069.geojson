@@ -1,0 +1,88 @@
+{
+  "id": 421193069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68333,9.26667,-79.68333,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-79.68333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "R\u00edo Duque"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Duque"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701874,
+    "qs:gn_pop":1166,
+    "qs:name":"R\u00edo Duque",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1117721,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160002,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701874,
+        "gp:id":160002,
+        "qs:id":1117721,
+        "wd:id":"Q7386274",
+        "wk:page":"R\u00edo Duque"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009759,
+    "wof:geomhash":"0d5d4cb6dd6c4dcdd4427225b92f9abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":421193069,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":421193069,
+    "wof:lastmodified":1527716151,
+    "wof:name":"R\u00edo Duque",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":1166,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68333,
+    9.26667,
+    -79.68333,
+    9.26667
+],
+  "geometry": {"coordinates":[-79.68333,9.26667],"type":"Point"}
+}

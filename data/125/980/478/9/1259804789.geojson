@@ -1,0 +1,74 @@
+{
+  "id": 1259804789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13521,7.51656,-80.13521,7.51656",
+    "geom:latitude":7.51656,
+    "geom:longitude":-80.13521,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Asientos",
+    "gn:country_code":"PA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705533,
+    "gn:latitude":7.51656,
+    "gn:longitude":-80.13521,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Asientos",
+    "gn:population":430,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Asientos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705533,
+        "wk:page":"Los_Asientos"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c764937ea66392ba24d7324433477648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":1259804789,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1259804789,
+    "wof:lastmodified":1537676382,
+    "wof:name":"Los Asientos",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:population":430,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13521,
+    7.51656,
+    -80.13521,
+    7.51656
+],
+  "geometry": {"coordinates":[-80.13521,7.51656],"type":"Point"}
+}

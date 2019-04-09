@@ -1,0 +1,70 @@
+{
+  "id": 1243004829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.94142,8.47232,-77.94142,8.47232",
+    "geom:latitude":8.47232,
+    "geom:longitude":-77.94142,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Portuchada",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194720,
+    "gn:latitude":8.47232,
+    "gn:longitude":-77.94142,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Portuchada",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Portuchada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421196973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194720
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5de3f1f690d48f4d781989741488def3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196973,
+            "locality_id":1243004829,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1243004829,
+    "wof:lastmodified":1537676501,
+    "wof:name":"Portuchada",
+    "wof:parent_id":421196973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.94142,
+    8.47232,
+    -77.94142,
+    8.47232
+],
+  "geometry": {"coordinates":[-77.94141999999999,8.47232],"type":"Point"}
+}

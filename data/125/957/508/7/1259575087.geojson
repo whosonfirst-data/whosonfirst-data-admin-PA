@@ -1,0 +1,70 @@
+{
+  "id": 1259575087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.20279,7.59612,-80.20279,7.59612",
+    "geom:latitude":7.59612,
+    "geom:longitude":-80.20279,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Herreritas",
+    "gn:country_code":"PA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706496,
+    "gn:latitude":7.59612,
+    "gn:longitude":-80.20279,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Herreritas",
+    "gn:population":2,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706496
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9b8a74e937069679b0c61506d8665a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693255,
+            "locality_id":1259575087,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1259575087,
+    "wof:lastmodified":1536727358,
+    "wof:name":"Las Herreritas",
+    "wof:parent_id":1108693255,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.20279000000002,
+    7.59612,
+    -80.20279000000002,
+    7.59612
+],
+  "geometry": {"coordinates":[-80.20279000000002,7.59612],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209107857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13937,8.5516,-80.13937,8.5516",
+    "geom:latitude":8.5516,
+    "geom:longitude":-80.13937,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mata Palo",
+    "gn:country_code":"PA",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704441,
+    "gn:latitude":8.5516,
+    "gn:longitude":-80.13937,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Mata Palo",
+    "gn:population":147,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mata Palo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704441
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b4106ed5d17883c89c1be5ae15f167ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209107857
+        }
+    ],
+    "wof:id":1209107857,
+    "wof:lastmodified":1537676369,
+    "wof:name":"Mata Palo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13937,
+    8.5516,
+    -80.13937,
+    8.5516
+],
+  "geometry": {"coordinates":[-80.13937,8.5516],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259554933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88139,9.05306,-79.88139,9.05306",
+    "geom:latitude":9.05306,
+    "geom:longitude":-79.88139,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tinajones Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700598,
+    "gn:latitude":9.05306,
+    "gn:longitude":-79.88139,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Tinajones Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700598
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"cdcf6bf19ee058d05e691b8cbe7cc678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1259554933,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1259554933,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1259554933,
+    "wof:lastmodified":1536756157,
+    "wof:name":"Tinajones Abajo",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88139,
+    9.05306,
+    -79.88139,
+    9.05306
+],
+  "geometry": {"coordinates":[-79.88139,9.05306],"type":"Point"}
+}

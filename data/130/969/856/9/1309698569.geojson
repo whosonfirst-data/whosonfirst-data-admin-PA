@@ -1,0 +1,82 @@
+{
+  "id": 1309698569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03603,8.44731,-80.03603,8.44731",
+    "geom:latitude":8.44731,
+    "geom:longitude":-80.03603,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Higo",
+    "gn:country_code":"PA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3710668,
+    "gn:latitude":8.44731,
+    "gn:longitude":-80.03603,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Higo",
+    "gn:population":566,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Higo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710668,
+        "wk:page":"El_Higo%2C_Panama"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bfd8caebd51b7f7010cf6c3a36436752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1309698569,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1309698569,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1309698569,
+    "wof:lastmodified":1537676444,
+    "wof:name":"El Higo",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":566,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03603000000003,
+    8.44731,
+    -80.03603000000003,
+    8.44731
+],
+  "geometry": {"coordinates":[-80.03603000000003,8.44731],"type":"Point"}
+}

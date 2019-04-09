@@ -1,0 +1,70 @@
+{
+  "id": 1226760545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.58826,8.21471,-81.58826,8.21471",
+    "geom:latitude":8.21471,
+    "geom:longitude":-81.58826,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nancito",
+    "gn:country_code":"PA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703995,
+    "gn:latitude":8.21471,
+    "gn:longitude":-81.58826,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Nancito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nancito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703995
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d6c81267e7953d378ff050ec748da471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693277,
+            "locality_id":1226760545,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226760545,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Nancito",
+    "wof:parent_id":1108693277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.58825999999998,
+    8.21471,
+    -81.58825999999998,
+    8.21471
+],
+  "geometry": {"coordinates":[-81.58825999999998,8.21471],"type":"Point"}
+}

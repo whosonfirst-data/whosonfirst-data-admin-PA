@@ -1,0 +1,65 @@
+{
+  "id": 1276140721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.02471,9.46737,-79.02471,9.46737",
+    "geom:latitude":9.46737,
+    "geom:longitude":-79.02471,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Naranjos Grandes",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703947,
+    "gn:latitude":9.46737,
+    "gn:longitude":-79.02471,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Naranjos Grandes",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naranjo Grande",
+        "Naranjos Grandes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703947
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6668b7979d0c42a9006c24c34f91874c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276140721,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276140721,
+    "wof:lastmodified":1537676365,
+    "wof:name":"Naranjos Grandes",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.02471,
+    9.46737,
+    -79.02471,
+    9.46737
+],
+  "geometry": {"coordinates":[-79.02471,9.46737],"type":"Point"}
+}

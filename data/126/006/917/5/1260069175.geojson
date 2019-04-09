@@ -1,0 +1,67 @@
+{
+  "id": 1260069175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36667,8.01667,-81.36667,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-81.36667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Sabaneta",
+    "gn:country_code":"PA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706671,
+    "gn:latitude":8.01667,
+    "gn:longitude":-81.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Sabaneta",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706671
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f7ccd0e7e05f8f34abeb1d4094a55810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1260069175,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1260069175,
+    "wof:lastmodified":1537007933,
+    "wof:name":"La Sabaneta",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.36667,
+    8.01667,
+    -81.36667,
+    8.01667
+],
+  "geometry": {"coordinates":[-81.36667,8.01667],"type":"Point"}
+}

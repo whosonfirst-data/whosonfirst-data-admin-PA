@@ -1,0 +1,76 @@
+{
+  "id": 1209807975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.55728,7.86821,-80.55728,7.86821",
+    "geom:latitude":7.86821,
+    "geom:longitude":-80.55728,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bulungo",
+    "gn:country_code":"PA",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713655,
+    "gn:latitude":7.86821,
+    "gn:longitude":-80.55728,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Bulungo",
+    "gn:population":96,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bulungo"
+    ],
+    "name:und_x_variant":[
+        "Bulungo de la Arenita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713655
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"de957bbd3dca9cd213cf9767f054cc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1209807975,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1209807975,
+    "wof:lastmodified":1537676479,
+    "wof:name":"Bulungo",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.55728,
+    7.86821,
+    -80.55728,
+    7.86821
+],
+  "geometry": {"coordinates":[-80.55728000000001,7.86821],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309839135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71777,9.48299,-79.71777,9.48299",
+    "geom:latitude":9.48299,
+    "geom:longitude":-79.71777,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Punta Gorda",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764473,
+    "gn:latitude":9.48299,
+    "gn:longitude":-79.71777,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Punta Gorda",
+    "gn:population":50,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764473
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"45f182547e9555fd5e1726cd2c88dd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1309839135,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1309839135,
+    "wof:lastmodified":1536882468,
+    "wof:name":"Punta Gorda",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71777,
+    9.48299,
+    -79.71777,
+    9.48299
+],
+  "geometry": {"coordinates":[-79.71777,9.48299],"type":"Point"}
+}

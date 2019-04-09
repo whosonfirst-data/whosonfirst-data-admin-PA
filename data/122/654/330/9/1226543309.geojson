@@ -1,0 +1,70 @@
+{
+  "id": 1226543309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.54686,8.27988,-81.54686,8.27988",
+    "geom:latitude":8.27988,
+    "geom:longitude":-81.54686,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Macano",
+    "gn:country_code":"PA",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704882,
+    "gn:latitude":8.27988,
+    "gn:longitude":-81.54686,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Macano",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Macano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704882
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fc3bdf124d48ba4fae6d63ef0a6e1f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1226543309,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226543309,
+    "wof:lastmodified":1537676372,
+    "wof:name":"Macano",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54686,
+    8.27988,
+    -81.54686,
+    8.27988
+],
+  "geometry": {"coordinates":[-81.54686,8.27988],"type":"Point"}
+}

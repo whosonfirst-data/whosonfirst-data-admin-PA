@@ -1,0 +1,75 @@
+{
+  "id": 1259980153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.21946,9.54359,-79.21946,9.54359",
+    "geom:latitude":9.54359,
+    "geom:longitude":-79.21946,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Palmira",
+    "gn:country_code":"PA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3703503,
+    "gn:latitude":9.54359,
+    "gn:longitude":-79.21946,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Palmira",
+    "gn:population":254,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Culebra",
+        "Palmira"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703503,
+        "wk:page":"Palmira%2C_Col%C3%B3n"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9176842732f1e63bba87c61ce7f25789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693271,
+            "locality_id":1259980153,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1259980153,
+    "wof:lastmodified":1537676362,
+    "wof:name":"Palmira",
+    "wof:parent_id":1108693271,
+    "wof:placetype":"locality",
+    "wof:population":254,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.21946,
+    9.54359,
+    -79.21946,
+    9.54359
+],
+  "geometry": {"coordinates":[-79.21946,9.54359],"type":"Point"}
+}

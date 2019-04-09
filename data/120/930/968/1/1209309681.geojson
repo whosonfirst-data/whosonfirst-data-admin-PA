@@ -1,0 +1,61 @@
+{
+  "id": 1209309681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36667,8.36667,-81.36667,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-81.36667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Misericordia",
+    "gn:country_code":"PA",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707151,
+    "gn:latitude":8.36667,
+    "gn:longitude":-81.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Misericordia",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707151
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"07ad153bee7004bc7194b5a48995b58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209309681
+        }
+    ],
+    "wof:id":1209309681,
+    "wof:lastmodified":1536291072,
+    "wof:name":"La Misericordia",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.36667,
+    8.36667,
+    -81.36667,
+    8.36667
+],
+  "geometry": {"coordinates":[-81.36667,8.36667],"type":"Point"}
+}

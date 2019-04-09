@@ -1,0 +1,72 @@
+{
+  "id": 1326715805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.10199,8.41281,-79.10199,8.41281",
+    "geom:latitude":8.41281,
+    "geom:longitude":-79.10199,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"845.0",
+    "gn:admin3_code":"3703187.0",
+    "gn:asciiname":"Pedro Gonzalez",
+    "gn:country_code":"PA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204627,
+    "gn:latitude":8.41281,
+    "gn:longitude":-79.10199,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pedro Gonzalez",
+    "gn:population":251,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204627
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1facf770ab81bad6c30b245383419913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1326715805,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1326715805,
+    "wof:lastmodified":1536719824,
+    "wof:name":"Pedro Gonzalez",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.10199,
+    8.41281,
+    -79.10199,
+    8.41281
+],
+  "geometry": {"coordinates":[-79.10199,8.41281],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276444095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.29434,8.58073,-80.29434,8.58073",
+    "geom:latitude":8.58073,
+    "geom:longitude":-80.29434,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tue",
+    "gn:country_code":"PA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700378,
+    "gn:latitude":8.58073,
+    "gn:longitude":-80.29434,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tu\u00e9",
+    "gn:population":40,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700378
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2f78568efdcfcae636286cbaf66b63a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1276444095,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1276444095,
+    "wof:lastmodified":1536628464,
+    "wof:name":"Tue",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.29434,
+    8.58073,
+    -80.29434,
+    8.58073
+],
+  "geometry": {"coordinates":[-80.29434000000001,8.58073],"type":"Point"}
+}

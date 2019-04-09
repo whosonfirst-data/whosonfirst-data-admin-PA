@@ -1,0 +1,71 @@
+{
+  "id": 1242886991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7,8.8,-82.7,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":-82.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Barriles",
+    "gn:country_code":"PA",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714296,
+    "gn:latitude":8.8,
+    "gn:longitude":-82.7,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Barriles",
+    "gn:population":154,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714296,
+        "wk:page":"Barriles"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"11f0ec72f45304404c605bb353938854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1242886991,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1242886991,
+    "wof:lastmodified":1537570215,
+    "wof:name":"Barriles",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.7,
+    8.8,
+    -82.7,
+    8.8
+],
+  "geometry": {"coordinates":[-82.7,8.8],"type":"Point"}
+}

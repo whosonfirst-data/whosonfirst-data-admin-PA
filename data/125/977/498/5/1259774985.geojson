@@ -1,0 +1,74 @@
+{
+  "id": 1259774985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.3213,7.67582,-80.3213,7.67582",
+    "geom:latitude":7.67582,
+    "geom:longitude":-80.3213,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Munoz",
+    "gn:country_code":"PA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3710377,
+    "gn:latitude":7.67582,
+    "gn:longitude":-80.3213,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Mu\u00f1oz",
+    "gn:population":161,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Mu\u00f1oz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710377,
+        "wk:page":"El_Mu%C3%B1oz"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e168f7062dc4ba2089838a3ad4c622e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1259774985,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1259774985,
+    "wof:lastmodified":1537676439,
+    "wof:name":"El Munoz",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.3213,
+    7.67582,
+    -80.3213,
+    7.67582
+],
+  "geometry": {"coordinates":[-80.32129999999999,7.67582],"type":"Point"}
+}

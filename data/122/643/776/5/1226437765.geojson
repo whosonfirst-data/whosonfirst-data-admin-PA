@@ -1,0 +1,72 @@
+{
+  "id": 1226437765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.47861,7.92917,-81.47861,7.92917",
+    "geom:latitude":7.92917,
+    "geom:longitude":-81.47861,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bubi Arriba",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713749,
+    "gn:latitude":7.92917,
+    "gn:longitude":-81.47861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bub\u00ed Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorgojo",
+        "Bub\u00ed Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713749
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a9550d669bba51f33d393a32df12dec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1226437765,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226437765,
+    "wof:lastmodified":1537676480,
+    "wof:name":"Bubi Arriba",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.47861,
+    7.92917,
+    -81.47861,
+    7.92917
+],
+  "geometry": {"coordinates":[-81.47861,7.92917],"type":"Point"}
+}

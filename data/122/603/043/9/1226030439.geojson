@@ -1,0 +1,61 @@
+{
+  "id": 1226030439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93333,8.25,-78.93333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":-78.93333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pedregal",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703230,
+    "gn:latitude":8.25,
+    "gn:longitude":-78.93333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pedregal",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703230
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f48ad95758c20c5b458b385a629f8ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226030439,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226030439,
+    "wof:lastmodified":1536747033,
+    "wof:name":"Pedregal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93333,
+    8.25,
+    -78.93333,
+    8.25
+],
+  "geometry": {"coordinates":[-78.93333,8.25],"type":"Point"}
+}

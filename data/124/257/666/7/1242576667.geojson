@@ -1,0 +1,70 @@
+{
+  "id": 1242576667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23048,7.99366,-78.23048,7.99366",
+    "geom:latitude":7.99366,
+    "geom:longitude":-78.23048,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Colonia Bijagual",
+    "gn:country_code":"PA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202391,
+    "gn:latitude":7.99366,
+    "gn:longitude":-78.23048,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"La Colonia Bijagual",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Colonia Bijagual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202391
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"389f897450b788b95c5734aaefce8d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1242576667,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1242576667,
+    "wof:lastmodified":1537676502,
+    "wof:name":"La Colonia Bijagual",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23048,
+    7.99366,
+    -78.23048,
+    7.99366
+],
+  "geometry": {"coordinates":[-78.23048,7.99366],"type":"Point"}
+}

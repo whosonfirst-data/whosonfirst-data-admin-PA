@@ -1,0 +1,70 @@
+{
+  "id": 1242566693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.17065,8.23846,-81.17065,8.23846",
+    "geom:latitude":8.23846,
+    "geom:longitude":-81.17065,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Piro",
+    "gn:country_code":"PA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710156,
+    "gn:latitude":8.23846,
+    "gn:longitude":-81.17065,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Piro",
+    "gn:population":27,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710156
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3288eba9250a04dfb0e26ac41b160fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693225,
+            "locality_id":1242566693,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1242566693,
+    "wof:lastmodified":1537076259,
+    "wof:name":"El Piro",
+    "wof:parent_id":1108693225,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.17065,
+    8.23846,
+    -81.17065,
+    8.23846
+],
+  "geometry": {"coordinates":[-81.17064999999999,8.23846],"type":"Point"}
+}

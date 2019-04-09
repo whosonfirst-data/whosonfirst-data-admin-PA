@@ -1,0 +1,206 @@
+{
+  "id": 1141907187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.1402281105,8.3981811716,-78.1402281105,8.3981811716",
+    "geom:latitude":8.398181,
+    "geom:longitude":-78.140228,
+    "iso:country":"PA",
+    "lbl:latitude":8.398181,
+    "lbl:longitude":-78.140228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0628\u0627\u0644\u0645\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "La Palma"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u5e15\u5c14\u9a6c"
+    ],
+    "name:dut_x_preferred":[
+        "La Palma"
+    ],
+    "name:eng_x_preferred":[
+        "La Palma"
+    ],
+    "name:fre_x_preferred":[
+        "La Palma"
+    ],
+    "name:ger_x_preferred":[
+        "La Palma"
+    ],
+    "name:glg_x_preferred":[
+        "La Palma"
+    ],
+    "name:ita_x_preferred":[
+        "La Palma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30d1\u30eb\u30de"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud314\ub9c8"
+    ],
+    "name:lit_x_preferred":[
+        "La Palma"
+    ],
+    "name:nah_x_preferred":[
+        "La Palma"
+    ],
+    "name:pol_x_preferred":[
+        "La Palma"
+    ],
+    "name:por_x_preferred":[
+        "La Palma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u043b\u044c\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Palma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0644\u0645\u0627\u060c \u062f\u0627\u0631\u06cc\u0626\u0646"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Panama",
+    "ne:ADM0_A3":"PAN",
+    "ne:ADM1NAME":"Dari\u00e9n",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":3707058,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"La Palma",
+    "ne:GN_POP":1845,
+    "ne:GTOPO30":15.0,
+    "ne:ISO_A2":"PA",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":8.398181,
+    "ne:LONGITUDE":-78.140228,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"La Palma",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"La Palma",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"La Palma",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":1845,
+    "ne:POP_MIN":1845,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":3,
+    "ne:RANK_MIN":3,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Panama",
+    "ne:SOV_A3":"PAN",
+    "ne:TIMEZONE":"America/Panama",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":8.398181,
+    "reversegeo:longitude":-78.140228,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1798993"
+    },
+    "wof:country":"PA",
+    "wof:created":1499130693,
+    "wof:geomhash":"b2f9e9eeba850c967feddc3da0a56af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1141907187,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1141907187,
+    "wof:lastmodified":1553816736,
+    "wof:name":"La Palma",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14022811045118,
+    8.39818117159945,
+    -78.14022811045118,
+    8.39818117159945
+],
+  "geometry": {"coordinates":[-78.14022811045118,8.39818117159945],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209090815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06667,9.45,-79.06667,9.45",
+    "geom:latitude":9.45,
+    "geom:longitude":-79.06667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mandinga",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704685,
+    "gn:latitude":9.45,
+    "gn:longitude":-79.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mandinga",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandinga N\u00famero Uno",
+        "Mandinga Civil",
+        "Manding",
+        "Mandinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704685
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2b2a3b384afe5538fa290f7cf5bab69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209090815
+        }
+    ],
+    "wof:id":1209090815,
+    "wof:lastmodified":1537676370,
+    "wof:name":"Mandinga",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06667,
+    9.45,
+    -79.06667,
+    9.45
+],
+  "geometry": {"coordinates":[-79.06667,9.45],"type":"Point"}
+}

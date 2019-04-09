@@ -1,0 +1,70 @@
+{
+  "id": 1226355437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.54959,8.25416,-81.54959,8.25416",
+    "geom:latitude":8.25416,
+    "geom:longitude":-81.54959,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cerro Caballo",
+    "gn:country_code":"PA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712769,
+    "gn:latitude":8.25416,
+    "gn:longitude":-81.54959,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Cerro Caballo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Caballo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712769
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"383bcfea992a93193e9768fbbc97ba0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693277,
+            "locality_id":1226355437,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1226355437,
+    "wof:lastmodified":1537676471,
+    "wof:name":"Cerro Caballo",
+    "wof:parent_id":1108693277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54959000000002,
+    8.25416,
+    -81.54959000000002,
+    8.25416
+],
+  "geometry": {"coordinates":[-81.54959000000002,8.25416],"type":"Point"}
+}

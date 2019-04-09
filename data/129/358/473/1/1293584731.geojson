@@ -1,0 +1,67 @@
+{
+  "id": 1293584731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.98333,9.23333,-78.98333,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":-78.98333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Puente",
+    "gn:country_code":"PA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706776,
+    "gn:latitude":9.23333,
+    "gn:longitude":-78.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Puente",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706776
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"92147f44a6ca26847a3b27ecfe5e0b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1293584731,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293584731,
+    "wof:lastmodified":1536646515,
+    "wof:name":"La Puente",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.98333000000002,
+    9.23333,
+    -78.98333000000002,
+    9.23333
+],
+  "geometry": {"coordinates":[-78.98333000000002,9.23333],"type":"Point"}
+}

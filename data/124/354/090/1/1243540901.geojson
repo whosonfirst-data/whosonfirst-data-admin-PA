@@ -1,0 +1,71 @@
+{
+  "id": 1243540901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.70917,8.93858,-79.70917,8.93858",
+    "geom:latitude":8.93858,
+    "geom:longitude":-79.70917,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cerro Tigre",
+    "gn:country_code":"PA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712625,
+    "gn:latitude":8.93858,
+    "gn:longitude":-79.70917,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Cerro Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerro Micho",
+        "Cerro Tigre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421203467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712625
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"51612c11c3b3e7cc616a20811c256855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "locality_id":1243540901,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1243540901,
+    "wof:lastmodified":1537676468,
+    "wof:name":"Cerro Tigre",
+    "wof:parent_id":421203467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.70917,
+    8.93858,
+    -79.70917,
+    8.93858
+],
+  "geometry": {"coordinates":[-79.70917,8.93858],"type":"Point"}
+}

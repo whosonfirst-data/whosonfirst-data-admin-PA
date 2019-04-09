@@ -1,0 +1,67 @@
+{
+  "id": 1343978103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.96583,9.11528,-78.96583,9.11528",
+    "geom:latitude":9.11528,
+    "geom:longitude":-78.96583,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Calobrito",
+    "gn:country_code":"PA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764145,
+    "gn:latitude":9.11528,
+    "gn:longitude":-78.96583,
+    "gn:modification_date":"1998-08-07",
+    "gn:name":"Calobrito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764145
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"383322ab1b3bab2b750b84511b05823d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1343978103,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1343978103,
+    "wof:lastmodified":1536993764,
+    "wof:name":"Calobrito",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96583000000003,
+    9.11528,
+    -78.96583000000003,
+    9.11528
+],
+  "geometry": {"coordinates":[-78.96583000000003,9.11528],"type":"Point"}
+}

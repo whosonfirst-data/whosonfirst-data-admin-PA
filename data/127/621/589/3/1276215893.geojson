@@ -1,0 +1,70 @@
+{
+  "id": 1276215893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.84789,8.01759,-80.84789,8.01759",
+    "geom:latitude":8.01759,
+    "geom:longitude":-80.84789,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Salero",
+    "gn:country_code":"PA",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709982,
+    "gn:latitude":8.01759,
+    "gn:longitude":-80.84789,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Salero",
+    "gn:population":54,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709982
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"87b5c89b8f17f77395bb7ae287a1b7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693187,
+            "locality_id":1276215893,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276215893,
+    "wof:lastmodified":1536937136,
+    "wof:name":"El Salero",
+    "wof:parent_id":1108693187,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.84789,
+    8.01759,
+    -80.84789,
+    8.01759
+],
+  "geometry": {"coordinates":[-80.84789000000001,8.01759],"type":"Point"}
+}

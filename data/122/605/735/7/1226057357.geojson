@@ -1,0 +1,70 @@
+{
+  "id": 1226057357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.20913,8.0811,-78.20913,8.0811",
+    "geom:latitude":8.0811,
+    "geom:longitude":-78.20913,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Chunga",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194159,
+    "gn:latitude":8.0811,
+    "gn:longitude":-78.20913,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"La Chunga",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Chunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194159
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8debb25261343c00cbf237c65e488011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1226057357,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1226057357,
+    "wof:lastmodified":1537676499,
+    "wof:name":"La Chunga",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.20913,
+    8.0811,
+    -78.20913,
+    8.0811
+],
+  "geometry": {"coordinates":[-78.20913,8.0811],"type":"Point"}
+}

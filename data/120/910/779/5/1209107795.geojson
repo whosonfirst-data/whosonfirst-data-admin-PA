@@ -1,0 +1,61 @@
+{
+  "id": 1209107795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58333,8.6,-80.58333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-80.58333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Macano",
+    "gn:country_code":"PA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710474,
+    "gn:latitude":8.6,
+    "gn:longitude":-80.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Macano",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710474
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f7301ba1158aaf65c57961bc6e246a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209107795
+        }
+    ],
+    "wof:id":1209107795,
+    "wof:lastmodified":1536297509,
+    "wof:name":"El Macano",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58333,
+    8.6,
+    -80.58333,
+    8.6
+],
+  "geometry": {"coordinates":[-80.58333,8.6],"type":"Point"}
+}

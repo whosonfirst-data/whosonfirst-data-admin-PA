@@ -1,0 +1,73 @@
+{
+  "id": 1243065457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.67008,7.65629,-80.67008,7.65629",
+    "geom:latitude":7.65629,
+    "geom:longitude":-80.67008,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pitaloza Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702763,
+    "gn:latitude":7.65629,
+    "gn:longitude":-80.67008,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pitaloza Abajo",
+    "gn:population":52,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pitaloza Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702763
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d7480256f748e1f47c5d48c46a7abaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693231,
+            "locality_id":1243065457,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1243065457,
+    "wof:lastmodified":1537676358,
+    "wof:name":"Pitaloza Abajo",
+    "wof:parent_id":1108693231,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.67008,
+    7.65629,
+    -80.67008,
+    7.65629
+],
+  "geometry": {"coordinates":[-80.67008,7.65629],"type":"Point"}
+}

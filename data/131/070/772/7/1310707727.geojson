@@ -1,0 +1,70 @@
+{
+  "id": 1310707727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69905,9.2682,-79.69905,9.2682",
+    "geom:latitude":9.2682,
+    "geom:longitude":-79.69905,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Llano",
+    "gn:country_code":"PA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179994,
+    "gn:latitude":9.2682,
+    "gn:longitude":-79.69905,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"El Llano",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Llano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179994
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3b5bb1484199fda5a34c9cf76cb74962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1310707727,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1310707727,
+    "wof:lastmodified":1537676497,
+    "wof:name":"El Llano",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69905,
+    9.2682,
+    -79.69905,
+    9.2682
+],
+  "geometry": {"coordinates":[-79.69905,9.2682],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209623963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.18333,8.65,-82.18333,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":-82.18333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Valle Hornito",
+    "gn:country_code":"PA",
+    "gn:dem":2076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700223,
+    "gn:latitude":8.65,
+    "gn:longitude":-82.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Valle Hornito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700223
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"90af3c328f648ef156d59d60e1fd4e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209623963
+        }
+    ],
+    "wof:id":1209623963,
+    "wof:lastmodified":1536281420,
+    "wof:name":"Valle Hornito",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.18333,
+    8.65,
+    -82.18333,
+    8.65
+],
+  "geometry": {"coordinates":[-82.18333,8.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259984433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15712,8.66328,-78.15712,8.66328",
+    "geom:latitude":8.66328,
+    "geom:longitude":-78.15712,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Charcolargo",
+    "gn:country_code":"PA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712533,
+    "gn:latitude":8.66328,
+    "gn:longitude":-78.15712,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Charcolargo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712533
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f7e49f51b1eebe5a94b5a8a28ae8780a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1259984433,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1259984433,
+    "wof:lastmodified":1536632276,
+    "wof:name":"Charcolargo",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15711999999998,
+    8.66328,
+    -78.15711999999998,
+    8.66328
+],
+  "geometry": {"coordinates":[-78.15711999999998,8.66328],"type":"Point"}
+}

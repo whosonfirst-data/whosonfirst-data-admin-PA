@@ -1,0 +1,73 @@
+{
+  "id": 1276220737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.47056,8.17251,-81.47056,8.17251",
+    "geom:latitude":8.17251,
+    "geom:longitude":-81.47056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Pedregosa",
+    "gn:country_code":"PA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706990,
+    "gn:latitude":8.17251,
+    "gn:longitude":-81.47056,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Pedregosa",
+    "gn:population":130,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Pedregosa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706990
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0d24fccf6d558b011fbca653000a4fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1276220737,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276220737,
+    "wof:lastmodified":1537676402,
+    "wof:name":"La Pedregosa",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.47055999999998,
+    8.17251,
+    -81.47055999999998,
+    8.17251
+],
+  "geometry": {"coordinates":[-81.47055999999998,8.17251],"type":"Point"}
+}

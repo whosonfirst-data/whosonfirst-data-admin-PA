@@ -1,0 +1,67 @@
+{
+  "id": 1209322149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.22675,8.51398,-80.22675,8.51398",
+    "geom:latitude":8.51398,
+    "geom:longitude":-80.22675,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cerro Lino",
+    "gn:country_code":"PA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348486,
+    "gn:latitude":8.51398,
+    "gn:longitude":-80.22675,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Lino",
+    "gn:population":102,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Lino"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348486
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b2ebc14041c235674638755167776d8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209322149
+        }
+    ],
+    "wof:id":1209322149,
+    "wof:lastmodified":1537676518,
+    "wof:name":"Cerro Lino",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.22675,
+    8.51398,
+    -80.22675,
+    8.51398
+],
+  "geometry": {"coordinates":[-80.22675,8.51398],"type":"Point"}
+}

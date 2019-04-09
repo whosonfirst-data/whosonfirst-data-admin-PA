@@ -1,0 +1,67 @@
+{
+  "id": 1226126963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.98333,9.55,-78.98333,9.55",
+    "geom:latitude":9.55,
+    "geom:longitude":-78.98333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pico Feo",
+    "gn:country_code":"PA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702963,
+    "gn:latitude":9.55,
+    "gn:longitude":-78.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pico Feo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702963
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"419dfe2d93d90be6d69f2ade1ca0d337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "locality_id":1226126963,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":1226126963,
+    "wof:lastmodified":1536604965,
+    "wof:name":"Pico Feo",
+    "wof:parent_id":1108693213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.98333000000002,
+    9.55,
+    -78.98333000000002,
+    9.55
+],
+  "geometry": {"coordinates":[-78.98333000000002,9.55],"type":"Point"}
+}

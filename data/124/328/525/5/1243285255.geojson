@@ -1,0 +1,73 @@
+{
+  "id": 1243285255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.5319,7.7031,-80.5319,7.7031",
+    "geom:latitude":7.7031,
+    "geom:longitude":-80.5319,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Higos",
+    "gn:country_code":"PA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705283,
+    "gn:latitude":7.7031,
+    "gn:longitude":-80.5319,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Higos",
+    "gn:population":159,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Higos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705283
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e057c26733f9d1df7db7fd3f44afb08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1243285255,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1243285255,
+    "wof:lastmodified":1537676377,
+    "wof:name":"Los Higos",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.5319,
+    7.7031,
+    -80.5319,
+    7.7031
+],
+  "geometry": {"coordinates":[-80.53189999999999,7.7031],"type":"Point"}
+}

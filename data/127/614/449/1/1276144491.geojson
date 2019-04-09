@@ -1,0 +1,70 @@
+{
+  "id": 1276144491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70306,7.88639,-80.70306,7.88639",
+    "geom:latitude":7.88639,
+    "geom:longitude":-80.70306,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Mesitas",
+    "gn:country_code":"PA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706354,
+    "gn:latitude":7.88639,
+    "gn:longitude":-80.70306,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Mesitas",
+    "gn:population":65,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706354
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d82325f1892f9a5f9e2f9493db027df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1276144491,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276144491,
+    "wof:lastmodified":1537030462,
+    "wof:name":"Las Mesitas",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70306,
+    7.88639,
+    -80.70306,
+    7.88639
+],
+  "geometry": {"coordinates":[-80.70305999999999,7.88639],"type":"Point"}
+}

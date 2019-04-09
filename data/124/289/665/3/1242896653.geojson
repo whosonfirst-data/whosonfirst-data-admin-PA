@@ -1,0 +1,71 @@
+{
+  "id": 1242896653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.20528,8.02171,-78.20528,8.02171",
+    "geom:latitude":8.02171,
+    "geom:longitude":-78.20528,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Puerto Indio",
+    "gn:country_code":"PA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9252016,
+    "gn:latitude":8.02171,
+    "gn:longitude":-78.20528,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Puerto Indio",
+    "gn:population":686,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9252016,
+        "wk:page":"Puerto_Indio"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c480e3cee5d2c448bc96240ebfaeebcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "locality_id":1242896653,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":1242896653,
+    "wof:lastmodified":1537570217,
+    "wof:name":"Puerto Indio",
+    "wof:parent_id":1108693265,
+    "wof:placetype":"locality",
+    "wof:population":686,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.20528,
+    8.02171,
+    -78.20528,
+    8.02171
+],
+  "geometry": {"coordinates":[-78.20528,8.02171],"type":"Point"}
+}

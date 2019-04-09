@@ -1,0 +1,70 @@
+{
+  "id": 1226647911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58816,8.48635,-80.58816,8.48635",
+    "geom:latitude":8.48635,
+    "geom:longitude":-80.58816,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Valles",
+    "gn:country_code":"PA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704928,
+    "gn:latitude":8.48635,
+    "gn:longitude":-80.58816,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Los Valles",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Valles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704928
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c81bad984fb0d2ed1cea0f2cd5721f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":1226647911,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226647911,
+    "wof:lastmodified":1537676373,
+    "wof:name":"Los Valles",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58816,
+    8.48635,
+    -80.58816,
+    8.48635
+],
+  "geometry": {"coordinates":[-80.58816,8.48635],"type":"Point"}
+}

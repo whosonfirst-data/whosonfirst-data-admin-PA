@@ -1,0 +1,73 @@
+{
+  "id": 1226025103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.47554,8.4741,-81.47554,8.4741",
+    "geom:latitude":8.4741,
+    "geom:longitude":-81.47554,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tierra Blanca",
+    "gn:country_code":"PA",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348683,
+    "gn:latitude":8.4741,
+    "gn:longitude":-81.47554,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Tierra Blanca",
+    "gn:population":234,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348683
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ba539a524265372f47b19641b9a5f6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1226025103,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226025103,
+    "wof:lastmodified":1537676521,
+    "wof:name":"Tierra Blanca",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.47554000000002,
+    8.4741,
+    -81.47554000000002,
+    8.4741
+],
+  "geometry": {"coordinates":[-81.47554000000002,8.4741],"type":"Point"}
+}

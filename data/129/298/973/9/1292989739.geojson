@@ -1,0 +1,70 @@
+{
+  "id": 1292989739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.42389,7.89306,-81.42389,7.89306",
+    "geom:latitude":7.89306,
+    "geom:longitude":-81.42389,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Lavadero",
+    "gn:country_code":"PA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710544,
+    "gn:latitude":7.89306,
+    "gn:longitude":-81.42389,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El Lavadero",
+    "gn:population":7,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710544
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0259014e7be4a73c567fd0d26030b4ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1292989739,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1292989739,
+    "wof:lastmodified":1537006857,
+    "wof:name":"El Lavadero",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.42389,
+    7.89306,
+    -81.42389,
+    7.89306
+],
+  "geometry": {"coordinates":[-81.42389,7.89306],"type":"Point"}
+}

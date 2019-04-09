@@ -1,0 +1,73 @@
+{
+  "id": 1327032913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.44724,8.76715,-82.44724,8.76715",
+    "geom:latitude":8.76715,
+    "geom:longitude":-82.44724,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Volcancito",
+    "gn:country_code":"PA",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714428,
+    "gn:latitude":8.76715,
+    "gn:longitude":-82.44724,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Volcancito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Volcancito"
+    ],
+    "name:spa_x_variant":[
+        "Bajo Volcancito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421175373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714428
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b5c79d92f189ca6664baa6710cb82870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175373,
+            "locality_id":1327032913,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1327032913,
+    "wof:lastmodified":1537676486,
+    "wof:name":"Volcancito",
+    "wof:parent_id":421175373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.44724000000002,
+    8.76715,
+    -82.44724000000002,
+    8.76715
+],
+  "geometry": {"coordinates":[-82.44724000000002,8.76715],"type":"Point"}
+}

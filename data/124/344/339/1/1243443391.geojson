@@ -1,0 +1,72 @@
+{
+  "id": 1243443391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.96667,8.3,-80.96667,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-80.96667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bajos de la Honda",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714436,
+    "gn:latitude":8.3,
+    "gn:longitude":-80.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bajos de la Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajos La Honda",
+        "Bajos de la Honda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421173571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714436
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7b23e9e65448a10f94003519536c3942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421173571,
+            "locality_id":1243443391,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243443391,
+    "wof:lastmodified":1537676486,
+    "wof:name":"Bajos de la Honda",
+    "wof:parent_id":421173571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.96667,
+    8.3,
+    -80.96667,
+    8.3
+],
+  "geometry": {"coordinates":[-80.96666999999999,8.3],"type":"Point"}
+}

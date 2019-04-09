@@ -1,0 +1,67 @@
+{
+  "id": 1310324893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.61667,8.68333,-78.61667,8.68333",
+    "geom:latitude":8.68333,
+    "geom:longitude":-78.61667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Isleta de Esteban",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707488,
+    "gn:latitude":8.68333,
+    "gn:longitude":-78.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Isleta de Esteban",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        1108693207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707488
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7b3d9c0aaa1fe714d259a6bf36e907ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693207,
+            "locality_id":1310324893,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1310324893,
+    "wof:lastmodified":1536679997,
+    "wof:name":"La Isleta de Esteban",
+    "wof:parent_id":1108693207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.61667,
+    8.68333,
+    -78.61667,
+    8.68333
+],
+  "geometry": {"coordinates":[-78.61667,8.68333],"type":"Point"}
+}

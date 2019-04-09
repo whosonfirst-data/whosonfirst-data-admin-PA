@@ -1,0 +1,70 @@
+{
+  "id": 1310082703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.98714,8.55162,-81.98714,8.55162",
+    "geom:latitude":8.55162,
+    "geom:longitude":-81.98714,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Boca de Sagui",
+    "gn:country_code":"PA",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347393,
+    "gn:latitude":8.55162,
+    "gn:longitude":-81.98714,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Boca de Sagu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de Sagu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        421184905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347393
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0d1b754dda30c5c971c49b1c86e9d74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421184905,
+            "locality_id":1310082703,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1310082703,
+    "wof:lastmodified":1537676512,
+    "wof:name":"Boca de Sagui",
+    "wof:parent_id":421184905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.98714,
+    8.55162,
+    -81.98714,
+    8.55162
+],
+  "geometry": {"coordinates":[-81.98714,8.55162],"type":"Point"}
+}

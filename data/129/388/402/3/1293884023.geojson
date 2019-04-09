@@ -1,0 +1,72 @@
+{
+  "id": 1293884023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55898,9.62203,-79.55898,9.62203",
+    "geom:latitude":9.62203,
+    "geom:longitude":-79.55898,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Guayra",
+    "gn:country_code":"PA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707593,
+    "gn:latitude":9.62203,
+    "gn:longitude":-79.55898,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"La Guayra",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayra",
+        "La Guaira",
+        "La Guayra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707593
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"38ba59ed15e2dafe1ac57dd127f42444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693257,
+            "locality_id":1293884023,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1293884023,
+    "wof:lastmodified":1537676409,
+    "wof:name":"La Guayra",
+    "wof:parent_id":1108693257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55898,
+    9.62203,
+    -79.55898,
+    9.62203
+],
+  "geometry": {"coordinates":[-79.55898000000001,9.62203],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226260451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.50264,9.39948,-82.50264,9.39948",
+    "geom:latitude":9.39948,
+    "geom:longitude":-82.50264,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Finca Cuatro",
+    "gn:country_code":"PA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709557,
+    "gn:latitude":9.39948,
+    "gn:longitude":-82.50264,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Finca Cuatro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca 4",
+        "Finca N\u00famero Cuatro",
+        "Finca Cuatro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709557
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5fc9433d56948cf63c973bd51e6bf34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1226260451,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1226260451,
+    "wof:lastmodified":1537676427,
+    "wof:name":"Finca Cuatro",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.50264,
+    9.39948,
+    -82.50264,
+    9.39948
+],
+  "geometry": {"coordinates":[-82.50264,9.39948],"type":"Point"}
+}

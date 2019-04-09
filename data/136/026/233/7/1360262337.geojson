@@ -1,0 +1,74 @@
+{
+  "id": 1360262337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.59581,8.46844,-81.59581,8.46844",
+    "geom:latitude":8.46844,
+    "geom:longitude":-81.59581,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Javilla",
+    "gn:country_code":"PA",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708421,
+    "gn:latitude":8.46844,
+    "gn:longitude":-81.59581,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Javilla",
+    "gn:population":148,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerro Javilla",
+        "Javilla"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708421
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"9d7d38a0cbe9af2e11bb8b33933135c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1360262337,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1360262337,
+    "wof:lastmodified":1537676420,
+    "wof:name":"Javilla",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.59581,
+    8.46844,
+    -81.59581,
+    8.46844
+],
+  "geometry": {"coordinates":[-81.59581,8.46844],"type":"Point"}
+}

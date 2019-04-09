@@ -1,0 +1,74 @@
+{
+  "id": 1276962619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.47163,8.09326,-81.47163,8.09326",
+    "geom:latitude":8.09326,
+    "geom:longitude":-81.47163,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lola",
+    "gn:country_code":"PA",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705666,
+    "gn:latitude":8.09326,
+    "gn:longitude":-81.47163,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Lol\u00e1",
+    "gn:population":364,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lol\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705666,
+        "wk:page":"Lol%C3%A1"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"03eca8cb11f94abba30c0e39f4765a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1276962619,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276962619,
+    "wof:lastmodified":1537676384,
+    "wof:name":"Lola",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.47163,
+    8.09326,
+    -81.47163,
+    8.09326
+],
+  "geometry": {"coordinates":[-81.47163,8.09326],"type":"Point"}
+}

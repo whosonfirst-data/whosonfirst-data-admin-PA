@@ -1,0 +1,73 @@
+{
+  "id": 1293572977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.3927,8.44172,-81.3927,8.44172",
+    "geom:latitude":8.44172,
+    "geom:longitude":-81.3927,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Cobrizo",
+    "gn:country_code":"PA",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711074,
+    "gn:latitude":8.44172,
+    "gn:longitude":-81.3927,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Cobrizo",
+    "gn:population":163,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cobrizo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711074
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"819d702cb1e5b4ecd19c48cdd67759b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1293572977,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293572977,
+    "wof:lastmodified":1537676452,
+    "wof:name":"El Cobrizo",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.3927,
+    8.44172,
+    -81.3927,
+    8.44172
+],
+  "geometry": {"coordinates":[-81.3927,8.44172],"type":"Point"}
+}

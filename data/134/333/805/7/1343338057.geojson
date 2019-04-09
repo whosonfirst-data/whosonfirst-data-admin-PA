@@ -1,0 +1,81 @@
+{
+  "id": 1343338057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04225,8.43266,-80.04225,8.43266",
+    "geom:latitude":8.43266,
+    "geom:longitude":-80.04225,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Piedras Gordas",
+    "gn:country_code":"PA",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702884,
+    "gn:latitude":8.43266,
+    "gn:longitude":-80.04225,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Piedras Gordas",
+    "gn:population":360,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedras Gordas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702884
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"bdda59fa4efdca65ad6c2c52de068242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1343338057,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1343338057,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1343338057,
+    "wof:lastmodified":1537676358,
+    "wof:name":"Piedras Gordas",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":360,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04225,
+    8.43266,
+    -80.04225,
+    8.43266
+],
+  "geometry": {"coordinates":[-80.04225,8.43266],"type":"Point"}
+}

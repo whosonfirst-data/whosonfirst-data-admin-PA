@@ -1,0 +1,67 @@
+{
+  "id": 1309731871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93333,8.38333,-78.93333,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":-78.93333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Leonera",
+    "gn:country_code":"PA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707346,
+    "gn:latitude":8.38333,
+    "gn:longitude":-78.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Leonera",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707346
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5b112e4dc888155c33eb468d21231e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1309731871,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1309731871,
+    "wof:lastmodified":1537036160,
+    "wof:name":"La Leonera",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93333,
+    8.38333,
+    -78.93333,
+    8.38333
+],
+  "geometry": {"coordinates":[-78.93333,8.38333],"type":"Point"}
+}

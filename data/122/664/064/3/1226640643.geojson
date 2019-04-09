@@ -1,0 +1,74 @@
+{
+  "id": 1226640643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.35983,7.80023,-80.35983,7.80023",
+    "geom:latitude":7.80023,
+    "geom:longitude":-80.35983,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Guarare Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3708904,
+    "gn:latitude":7.80023,
+    "gn:longitude":-80.35983,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Guarar\u00e9 Arriba",
+    "gn:population":350,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guarar\u00e9 Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708904,
+        "wk:page":"Guarar%C3%A9_Arriba"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6b7c4d7d3681d79f6f206117d8f8f697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693219,
+            "locality_id":1226640643,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1226640643,
+    "wof:lastmodified":1537676423,
+    "wof:name":"Guarare Arriba",
+    "wof:parent_id":1108693219,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.35983,
+    7.80023,
+    -80.35983,
+    7.80023
+],
+  "geometry": {"coordinates":[-80.35983,7.80023],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209217593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.53635,8.64856,-82.53635,8.64856",
+    "geom:latitude":8.64856,
+    "geom:longitude":-82.53635,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nance Bonito",
+    "gn:country_code":"PA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703997,
+    "gn:latitude":8.64856,
+    "gn:longitude":-82.53635,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Nance Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nance Bonito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703997
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b92bb1a271a045d26bdac92d094bb9c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209217593
+        }
+    ],
+    "wof:id":1209217593,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Nance Bonito",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.53635,
+    8.64856,
+    -82.53635,
+    8.64856
+],
+  "geometry": {"coordinates":[-82.53635,8.64856],"type":"Point"}
+}

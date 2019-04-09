@@ -1,0 +1,73 @@
+{
+  "id": 1192998297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.9703,8.33516,-81.9703,8.33516",
+    "geom:latitude":8.33516,
+    "geom:longitude":-81.9703,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Hato Corotu",
+    "gn:country_code":"PA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3708745,
+    "gn:latitude":8.33516,
+    "gn:longitude":-81.9703,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Hato Corot\u00fa",
+    "gn:population":303,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hato Corot\u00fa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708745
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2fd79c999201842304f4688f1a42fbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1192998297,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1192998297,
+    "wof:lastmodified":1537676422,
+    "wof:name":"Hato Corotu",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.9703,
+    8.33516,
+    -81.9703,
+    8.33516
+],
+  "geometry": {"coordinates":[-81.97029999999999,8.33516],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310017559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.64012,8.34542,-80.64012,8.34542",
+    "geom:latitude":8.34542,
+    "geom:longitude":-80.64012,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Toza",
+    "gn:country_code":"PA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3700486,
+    "gn:latitude":8.34542,
+    "gn:longitude":-80.64012,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Toza",
+    "gn:population":253,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Toza"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700486,
+        "wk:page":"Toza"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ceb8bbd6d9e63cb85bdebb1e97d25fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":1310017559,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310017559,
+    "wof:lastmodified":1537676335,
+    "wof:name":"Toza",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.64012,
+    8.34542,
+    -80.64012,
+    8.34542
+],
+  "geometry": {"coordinates":[-80.64012,8.34542],"type":"Point"}
+}

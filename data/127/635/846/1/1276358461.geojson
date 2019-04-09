@@ -1,0 +1,67 @@
+{
+  "id": 1276358461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7,7.95,-80.7,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":-80.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Guaymie",
+    "gn:country_code":"PA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3708814,
+    "gn:latitude":7.95,
+    "gn:longitude":-80.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Guaymie",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708814
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eadfd323851dda8d661af4e40b3de7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1276358461,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1276358461,
+    "wof:lastmodified":1536744614,
+    "wof:name":"Guaymie",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7,
+    7.95,
+    -80.7,
+    7.95
+],
+  "geometry": {"coordinates":[-80.7,7.95],"type":"Point"}
+}

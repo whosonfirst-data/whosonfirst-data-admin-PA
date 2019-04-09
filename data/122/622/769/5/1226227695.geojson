@@ -1,0 +1,74 @@
+{
+  "id": 1226227695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.39552,9.0384,-79.39552,9.0384",
+    "geom:latitude":9.0384,
+    "geom:longitude":-79.39552,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Puerto Parra",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702386,
+    "gn:latitude":9.0384,
+    "gn:longitude":-79.39552,
+    "gn:modification_date":"2014-07-02",
+    "gn:name":"Puerto Parra",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puente de Parra",
+        "Puente",
+        "Puerto de Parra",
+        "Puerto Parra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702386
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"efa20dc1bb6e017cfb1f8e5a7c316a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1226227695,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1226227695,
+    "wof:lastmodified":1537676354,
+    "wof:name":"Puerto Parra",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.39551999999998,
+    9.0384,
+    -79.39551999999998,
+    9.0384
+],
+  "geometry": {"coordinates":[-79.39551999999998,9.0384],"type":"Point"}
+}

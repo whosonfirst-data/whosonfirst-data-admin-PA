@@ -1,0 +1,81 @@
+{
+  "id": 1310284375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.02055,8.67222,-80.02055,8.67222",
+    "geom:latitude":8.67222,
+    "geom:longitude":-80.02055,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Manglarito",
+    "gn:country_code":"PA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398399,
+    "gn:latitude":8.67222,
+    "gn:longitude":-80.02055,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Manglarito",
+    "gn:population":135,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Manglarito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398399
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"df6894b4621c77ed32fc619c63a4a34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1310284375,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":1310284375,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1310284375,
+    "wof:lastmodified":1537676524,
+    "wof:name":"El Manglarito",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.02055,
+    8.67222,
+    -80.02055,
+    8.67222
+],
+  "geometry": {"coordinates":[-80.02055,8.67222],"type":"Point"}
+}

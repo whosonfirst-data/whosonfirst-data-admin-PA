@@ -1,0 +1,67 @@
+{
+  "id": 1259578577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85,7.9,-80.85,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":-80.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cerro Prieto",
+    "gn:country_code":"PA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712641,
+    "gn:latitude":7.9,
+    "gn:longitude":-80.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cerro Prieto",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712641
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3ac9d5e4b1f677af9aa428f814d9cbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1259578577,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1259578577,
+    "wof:lastmodified":1536722289,
+    "wof:name":"Cerro Prieto",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85,
+    7.9,
+    -80.85,
+    7.9
+],
+  "geometry": {"coordinates":[-80.84999999999999,7.9],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209327535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.9,8.31667,-81.9,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":-81.9,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sardina",
+    "gn:country_code":"PA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701069,
+    "gn:latitude":8.31667,
+    "gn:longitude":-81.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sardina",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701069
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4a6402e49baec6b74b4a4f9bae6b1095",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209327535
+        }
+    ],
+    "wof:id":1209327535,
+    "wof:lastmodified":1536290483,
+    "wof:name":"Sardina",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.9,
+    8.31667,
+    -81.9,
+    8.31667
+],
+  "geometry": {"coordinates":[-81.90000000000001,8.31667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360161881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.86539,9.07518,-81.86539,9.07518",
+    "geom:latitude":9.07518,
+    "geom:longitude":-81.86539,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Playa Lorenzo",
+    "gn:country_code":"PA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702658,
+    "gn:latitude":9.07518,
+    "gn:longitude":-81.86539,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Playa Lorenzo",
+    "gn:population":397,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa Lorenzo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702658
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8d187cd5da7fc2a21b460f24c35bf882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693223,
+            "locality_id":1360161881,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1360161881,
+    "wof:lastmodified":1537676357,
+    "wof:name":"Playa Lorenzo",
+    "wof:parent_id":1108693223,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.86539,
+    9.07518,
+    -81.86539,
+    9.07518
+],
+  "geometry": {"coordinates":[-81.86539,9.07518],"type":"Point"}
+}

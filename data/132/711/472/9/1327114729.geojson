@@ -1,0 +1,70 @@
+{
+  "id": 1327114729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.98715,8.39429,-81.98715,8.39429",
+    "geom:latitude":8.39429,
+    "geom:longitude":-81.98715,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cabecera de Quebrada Guacamaya",
+    "gn:country_code":"PA",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347405,
+    "gn:latitude":8.39429,
+    "gn:longitude":-81.98715,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Cabecera de Quebrada Guacamaya",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cabecera de Quebrada Guacamaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        421184905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347405
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6472ef9fad16c65dd260cc3f64e0a46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421184905,
+            "locality_id":1327114729,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1327114729,
+    "wof:lastmodified":1537676512,
+    "wof:name":"Cabecera de Quebrada Guacamaya",
+    "wof:parent_id":421184905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.98715,
+    8.39429,
+    -81.98715,
+    8.39429
+],
+  "geometry": {"coordinates":[-81.98715,8.39429],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310382643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.49485,8.54127,-81.49485,8.54127",
+    "geom:latitude":8.54127,
+    "geom:longitude":-81.49485,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Virotal",
+    "gn:country_code":"PA",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348678,
+    "gn:latitude":8.54127,
+    "gn:longitude":-81.49485,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Virotal",
+    "gn:population":176,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Virotal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348678
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fb6a080afb7e137f766fe1987e48b14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693279,
+            "locality_id":1310382643,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1310382643,
+    "wof:lastmodified":1537676521,
+    "wof:name":"Virotal",
+    "wof:parent_id":1108693279,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.49485,
+    8.54127,
+    -81.49485,
+    8.54127
+],
+  "geometry": {"coordinates":[-81.49485,8.54127],"type":"Point"}
+}

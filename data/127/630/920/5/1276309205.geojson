@@ -1,0 +1,75 @@
+{
+  "id": 1276309205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.91667,8.78333,-79.91667,8.78333",
+    "geom:latitude":8.78333,
+    "geom:longitude":-79.91667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Jose Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701432,
+    "gn:latitude":8.78333,
+    "gn:longitude":-79.91667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"San Jos\u00e9 Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701432
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b1de85a8996aa49a864161de94a598b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276309205,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1276309205,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1276309205,
+    "wof:lastmodified":1536810579,
+    "wof:name":"San Jose Arriba",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.91667,
+    8.78333,
+    -79.91667,
+    8.78333
+],
+  "geometry": {"coordinates":[-79.91667,8.78333],"type":"Point"}
+}

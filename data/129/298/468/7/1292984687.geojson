@@ -1,0 +1,73 @@
+{
+  "id": 1292984687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.02417,8.13974,-81.02417,8.13974",
+    "geom:latitude":8.13974,
+    "geom:longitude":-81.02417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Remedios",
+    "gn:country_code":"PA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705001,
+    "gn:latitude":8.13974,
+    "gn:longitude":-81.02417,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Los Remedios",
+    "gn:population":540,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Remedios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705001
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"adb9fa2628b7f212f26586146b43d8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1292984687,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1292984687,
+    "wof:lastmodified":1537676374,
+    "wof:name":"Los Remedios",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":540,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.02417,
+    8.13974,
+    -81.02417,
+    8.13974
+],
+  "geometry": {"coordinates":[-81.02417,8.13974],"type":"Point"}
+}

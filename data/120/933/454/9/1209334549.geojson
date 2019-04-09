@@ -1,0 +1,61 @@
+{
+  "id": 1209334549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.84222,8.34944,-78.84222,8.34944",
+    "geom:latitude":8.34944,
+    "geom:longitude":-78.84222,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Puntita",
+    "gn:country_code":"PA",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706761,
+    "gn:latitude":8.34944,
+    "gn:longitude":-78.84222,
+    "gn:modification_date":"1994-11-07",
+    "gn:name":"La Puntita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706761
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2a4b4b10a3fea6956cfa9ea4b04b2789",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209334549
+        }
+    ],
+    "wof:id":1209334549,
+    "wof:lastmodified":1536290267,
+    "wof:name":"La Puntita",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.84222,
+    8.34944,
+    -78.84222,
+    8.34944
+],
+  "geometry": {"coordinates":[-78.84222,8.34944],"type":"Point"}
+}

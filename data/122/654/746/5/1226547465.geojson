@@ -1,0 +1,73 @@
+{
+  "id": 1226547465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.53721,8.57679,-80.53721,8.57679",
+    "geom:latitude":8.57679,
+    "geom:longitude":-80.53721,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Piedras Blancas",
+    "gn:country_code":"PA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702890,
+    "gn:latitude":8.57679,
+    "gn:longitude":-80.53721,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Piedras Blancas",
+    "gn:population":245,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedras Blancas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421189057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702890
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"62724dac1c38ce3014933aba0d44b9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189057,
+            "locality_id":1226547465,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226547465,
+    "wof:lastmodified":1537676359,
+    "wof:name":"Piedras Blancas",
+    "wof:parent_id":421189057,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.53721,
+    8.57679,
+    -80.53721,
+    8.57679
+],
+  "geometry": {"coordinates":[-80.53721,8.57679],"type":"Point"}
+}

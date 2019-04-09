@@ -1,0 +1,73 @@
+{
+  "id": 1310288879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.15329,8.31465,-81.15329,8.31465",
+    "geom:latitude":8.31465,
+    "geom:longitude":-81.15329,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guabal Saliente",
+    "gn:country_code":"PA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709001,
+    "gn:latitude":8.31465,
+    "gn:longitude":-81.15329,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Guabal Saliente",
+    "gn:population":131,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guabal Saliente"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709001
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"dbce90e166726dbea26ac802d97f5c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1310288879,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310288879,
+    "wof:lastmodified":1537676424,
+    "wof:name":"Guabal Saliente",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.15329,
+    8.31465,
+    -81.15329,
+    8.31465
+],
+  "geometry": {"coordinates":[-81.15329,8.31465],"type":"Point"}
+}

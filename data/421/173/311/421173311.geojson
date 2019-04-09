@@ -1,0 +1,83 @@
+{
+  "id": 421173311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.43333,8.55,-82.43333,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-82.43333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Caminito"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3713491,
+    "qs:gn_pop":906,
+    "qs:name":"Caimito",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":286639,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155146,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713491,
+        "gp:id":155146,
+        "qs:id":286639
+    },
+    "wof:country":"PA",
+    "wof:created":1459008978,
+    "wof:geomhash":"a2465a326ba76c1a6e472a0e3e33f84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":421173311,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":421173311,
+    "wof:lastmodified":1527716261,
+    "wof:name":"Caimito",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:population":906,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.43333,
+    8.55,
+    -82.43333,
+    8.55
+],
+  "geometry": {"coordinates":[-82.43333,8.55],"type":"Point"}
+}

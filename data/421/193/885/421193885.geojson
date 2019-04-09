@@ -1,0 +1,90 @@
+{
+  "id": 421193885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.38333,8.5,-80.38333,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":-80.38333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Las Lomas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Lomas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Lomas"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3706409,
+    "qs:gn_pop":1062,
+    "qs:name":"Las Lomas",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":287033,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":158194,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706409,
+        "gp:id":158194,
+        "qs:id":287033,
+        "wd:id":"Q21065779"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009786,
+    "wof:geomhash":"fc31ab11ca58ab901eed912c3c504fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":421193885,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421193885,
+    "wof:lastmodified":1527716148,
+    "wof:name":"Las Lomas",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":1062,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.38333,
+    8.5,
+    -80.38333,
+    8.5
+],
+  "geometry": {"coordinates":[-80.38333,8.5],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209610447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.42509,8.00565,-81.42509,8.00565",
+    "geom:latitude":8.00565,
+    "geom:longitude":-81.42509,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Loma de la Silla",
+    "gn:country_code":"PA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705636,
+    "gn:latitude":8.00565,
+    "gn:longitude":-81.42509,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Loma de la Silla",
+    "gn:population":40,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705636
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0cb5c36b28efd89f7d457b0cb3906d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209610447
+        }
+    ],
+    "wof:id":1209610447,
+    "wof:lastmodified":1536281865,
+    "wof:name":"Loma de la Silla",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.42509,
+    8.00565,
+    -81.42509,
+    8.00565
+],
+  "geometry": {"coordinates":[-81.42509,8.00565],"type":"Point"}
+}

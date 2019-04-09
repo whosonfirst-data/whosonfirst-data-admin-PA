@@ -1,0 +1,70 @@
+{
+  "id": 1242994227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.13333,7.48333,-80.13333,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":-80.13333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Siete Vueltas",
+    "gn:country_code":"PA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700964,
+    "gn:latitude":7.48333,
+    "gn:longitude":-80.13333,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Siete Vueltas",
+    "gn:population":2,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700964
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"34af42dc7f821db1015d4790e14c80c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":1242994227,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1242994227,
+    "wof:lastmodified":1536960504,
+    "wof:name":"Siete Vueltas",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.13333,
+    7.48333,
+    -80.13333,
+    7.48333
+],
+  "geometry": {"coordinates":[-80.13333,7.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344265685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48333,8.6,-82.48333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-82.48333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cana Blanca",
+    "gn:country_code":"PA",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3713283,
+    "gn:latitude":8.6,
+    "gn:longitude":-82.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ca\u00f1a Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        421171219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713283
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d35e309f50a2cc529fff562d451a4619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171219,
+            "locality_id":1344265685,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1344265685,
+    "wof:lastmodified":1537073435,
+    "wof:name":"Cana Blanca",
+    "wof:parent_id":421171219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48333000000002,
+    8.6,
+    -82.48333000000002,
+    8.6
+],
+  "geometry": {"coordinates":[-82.48333000000002,8.6],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209097873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66667,7.56667,-80.66667,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":-80.66667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Tallo",
+    "gn:country_code":"PA",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709916,
+    "gn:latitude":7.56667,
+    "gn:longitude":-80.66667,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El Tallo",
+    "gn:population":46,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709916
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0e9e3807209d55f24658d97b16ea4b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209097873
+        }
+    ],
+    "wof:id":1209097873,
+    "wof:lastmodified":1536297829,
+    "wof:name":"El Tallo",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66667,
+    7.5666699999999985,
+    -80.66667,
+    7.5666699999999985
+],
+  "geometry": {"coordinates":[-80.66667,7.56667],"type":"Point"}
+}

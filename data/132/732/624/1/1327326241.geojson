@@ -1,0 +1,73 @@
+{
+  "id": 1327326241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78992,8.05476,-80.78992,8.05476",
+    "geom:latitude":8.05476,
+    "geom:longitude":-80.78992,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Espinito",
+    "gn:country_code":"PA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710885,
+    "gn:latitude":8.05476,
+    "gn:longitude":-80.78992,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Espin\u00edto",
+    "gn:population":109,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Espin\u00edto"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710885
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3ec54b5510858f6dbc549612eae2b2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1327326241,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1327326241,
+    "wof:lastmodified":1537676448,
+    "wof:name":"El Espinito",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78992,
+    8.05476,
+    -80.78992,
+    8.05476
+],
+  "geometry": {"coordinates":[-80.78992,8.05476],"type":"Point"}
+}

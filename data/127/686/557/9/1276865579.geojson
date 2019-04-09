@@ -1,0 +1,67 @@
+{
+  "id": 1276865579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93333,7.7,-80.93333,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":-80.93333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Palmita",
+    "gn:country_code":"PA",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707022,
+    "gn:latitude":7.7,
+    "gn:longitude":-80.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Palmita",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707022
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"388bdb507aebf2d0880ad5f57c20e3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1276865579,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276865579,
+    "wof:lastmodified":1537057773,
+    "wof:name":"La Palmita",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93333,
+    7.7,
+    -80.93333,
+    7.7
+],
+  "geometry": {"coordinates":[-80.93333,7.7],"type":"Point"}
+}

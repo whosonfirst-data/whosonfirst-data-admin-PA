@@ -1,0 +1,73 @@
+{
+  "id": 1327118125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03095,8.51374,-81.03095,8.51374",
+    "geom:latitude":8.51374,
+    "geom:longitude":-81.03095,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Puente",
+    "gn:country_code":"PA",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706779,
+    "gn:latitude":8.51374,
+    "gn:longitude":-81.03095,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"El Puente",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Puente"
+    ],
+    "name:und_x_variant":[
+        "La Puente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706779
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e05e136487578bd3d5860a7133a4a5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1327118125,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327118125,
+    "wof:lastmodified":1537676399,
+    "wof:name":"El Puente",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03095,
+    8.51374,
+    -81.03095,
+    8.51374
+],
+  "geometry": {"coordinates":[-81.03095,8.51374],"type":"Point"}
+}

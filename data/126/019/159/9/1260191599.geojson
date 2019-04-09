@@ -1,0 +1,74 @@
+{
+  "id": 1260191599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.62253,8.58881,-82.62253,8.58881",
+    "geom:latitude":8.58881,
+    "geom:longitude":-82.62253,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bongo Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3711341,
+    "gn:latitude":8.58881,
+    "gn:longitude":-82.62253,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bongo Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bongo Arriba"
+    ],
+    "name:und_x_variant":[
+        "El Bongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711341,
+        "wk:page":"El_Bongo"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"ae87f9b2f508a9ba3cacfbb1b9b70867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693195,
+            "locality_id":1260191599,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1260191599,
+    "wof:lastmodified":1537676456,
+    "wof:name":"Bongo Arriba",
+    "wof:parent_id":1108693195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.62253,
+    8.58881,
+    -82.62253,
+    8.58881
+],
+  "geometry": {"coordinates":[-82.62253,8.58881],"type":"Point"}
+}

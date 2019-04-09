@@ -1,0 +1,89 @@
+{
+  "id": 421185837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21667,8.31667,-81.21667,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":-81.21667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Ca\u00f1azas"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3713196,
+    "qs:gn_pop":2963,
+    "qs:name":"Ca\u00f1azas",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Veraguas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1046615,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793592,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3713196,
+        "gp:id":26793592,
+        "qs:id":1046615,
+        "qs_pg:id":1046615,
+        "wd:id":"Q13362652",
+        "wk:page":"Ca\u00f1azas"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009456,
+    "wof:geomhash":"6a054a55d1f44522e5684434323ac2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "localadmin_id":421185837,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":421185837,
+    "wof:lastmodified":1527726511,
+    "wof:name":"Ca\u00f1azas",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"localadmin",
+    "wof:population":2963,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21667,
+    8.31667,
+    -81.21667,
+    8.31667
+],
+  "geometry": {"coordinates":[-81.21666999999999,8.31667],"type":"Point"}
+}

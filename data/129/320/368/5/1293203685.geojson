@@ -1,0 +1,73 @@
+{
+  "id": 1293203685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.84818,8.37716,-82.84818,8.37716",
+    "geom:latitude":8.37716,
+    "geom:longitude":-82.84818,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Finca Zapote",
+    "gn:country_code":"PA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10347272,
+    "gn:latitude":8.37716,
+    "gn:longitude":-82.84818,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Finca Zapote",
+    "gn:population":148,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca Zapote"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10347272
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"320783a267691ac224f83ad336a4fbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "locality_id":1293203685,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":1293203685,
+    "wof:lastmodified":1537676508,
+    "wof:name":"Finca Zapote",
+    "wof:parent_id":1108693189,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.84818,
+    8.37716,
+    -82.84818,
+    8.37716
+],
+  "geometry": {"coordinates":[-82.84818,8.37716],"type":"Point"}
+}

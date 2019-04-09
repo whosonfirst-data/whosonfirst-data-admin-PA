@@ -1,0 +1,85 @@
+{
+  "id": 1193257639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.09209,8.97206,-80.09209,8.97206",
+    "geom:latitude":8.97206,
+    "geom:longitude":-80.09209,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ciri de Los Sotos",
+    "gn:country_code":"PA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3712225,
+    "gn:latitude":8.97206,
+    "gn:longitude":-80.09209,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cir\u00ed de Los Sotos",
+    "gn:population":250,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cir\u00ed de Los Sotos"
+    ],
+    "name:und_x_variant":[
+        "Ciricito de los Sotos",
+        "Ciricito Los Sotos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712225
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"7450b21ed08509ece0495893508eacff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1193257639,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1193257639,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1193257639,
+    "wof:lastmodified":1537676464,
+    "wof:name":"Ciri de Los Sotos",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.09209,
+    8.97206,
+    -80.09209,
+    8.97206
+],
+  "geometry": {"coordinates":[-80.09209,8.97206],"type":"Point"}
+}

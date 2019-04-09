@@ -1,0 +1,73 @@
+{
+  "id": 1360180037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.84757,7.95188,-80.84757,7.95188",
+    "geom:latitude":7.95188,
+    "geom:longitude":-80.84757,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"PA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701457,
+    "gn:latitude":7.95188,
+    "gn:longitude":-80.84757,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":580,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701457
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c63e36499c3989807a862fd210f83215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1360180037,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1360180037,
+    "wof:lastmodified":1537676343,
+    "wof:name":"San Jose",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":580,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.84756999999998,
+    7.95188,
+    -80.84756999999998,
+    7.95188
+],
+  "geometry": {"coordinates":[-80.84756999999998,7.95188],"type":"Point"}
+}

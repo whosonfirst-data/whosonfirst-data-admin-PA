@@ -1,0 +1,67 @@
+{
+  "id": 1327217663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03833,7.67139,-81.03833,7.67139",
+    "geom:latitude":7.67139,
+    "geom:longitude":-81.03833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Puerto Mariato",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702399,
+    "gn:latitude":7.67139,
+    "gn:longitude":-81.03833,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Puerto Mariato",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702399
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"2c34e3ff8ae379bf42f2d026be47f097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693239,
+            "locality_id":1327217663,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327217663,
+    "wof:lastmodified":1536990112,
+    "wof:name":"Puerto Mariato",
+    "wof:parent_id":1108693239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03833,
+    7.67139,
+    -81.03833,
+    7.67139
+],
+  "geometry": {"coordinates":[-81.03833,7.67139],"type":"Point"}
+}

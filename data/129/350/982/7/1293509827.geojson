@@ -1,0 +1,74 @@
+{
+  "id": 1293509827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.22272,9.21033,-79.22272,9.21033",
+    "geom:latitude":9.21033,
+    "geom:longitude":-79.22272,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rio Indio",
+    "gn:country_code":"PA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701848,
+    "gn:latitude":9.21033,
+    "gn:longitude":-79.22272,
+    "gn:modification_date":"2017-08-18",
+    "gn:name":"R\u00edo Indio",
+    "gn:population":132,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Indio N\u00famero Uno",
+        "R\u00edo Indio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701848
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3c797dcfe0572bc90f025246b50a2062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1293509827,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1293509827,
+    "wof:lastmodified":1537676346,
+    "wof:name":"Rio Indio",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.22272,
+    9.21033,
+    -79.22272,
+    9.21033
+],
+  "geometry": {"coordinates":[-79.22272,9.21033],"type":"Point"}
+}

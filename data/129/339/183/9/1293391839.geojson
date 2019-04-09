@@ -1,0 +1,73 @@
+{
+  "id": 1293391839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.45,8.45317,-80.45,8.45317",
+    "geom:latitude":8.45317,
+    "geom:longitude":-80.45,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ciruelito",
+    "gn:country_code":"PA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712212,
+    "gn:latitude":8.45317,
+    "gn:longitude":-80.45,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Ciruelito",
+    "gn:population":526,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ciruelito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712212
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"d38a60629b26c7d9080fdbca69db88a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1293391839,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1293391839,
+    "wof:lastmodified":1537676464,
+    "wof:name":"Ciruelito",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":526,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.45,
+    8.45317,
+    -80.45,
+    8.45317
+],
+  "geometry": {"coordinates":[-80.45,8.45317],"type":"Point"}
+}

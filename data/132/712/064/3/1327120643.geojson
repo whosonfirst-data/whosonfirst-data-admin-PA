@@ -1,0 +1,81 @@
+{
+  "id": 1327120643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.10286,8.55892,-80.10286,8.55892",
+    "geom:latitude":8.55892,
+    "geom:longitude":-80.10286,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Chichibali",
+    "gn:country_code":"PA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712484,
+    "gn:latitude":8.55892,
+    "gn:longitude":-80.10286,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Chichibal\u00ed",
+    "gn:population":255,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chichibal\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        1108805611,
+        421171351,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712484
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f5bae086028069b629ad47229b956515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1327120643,
+            "region_id":1108805611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171351,
+            "locality_id":1327120643,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1327120643,
+    "wof:lastmodified":1537676467,
+    "wof:name":"Chichibali",
+    "wof:parent_id":421171351,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.10285999999998,
+    8.55892,
+    -80.10285999999998,
+    8.55892
+],
+  "geometry": {"coordinates":[-80.10285999999998,8.55892],"type":"Point"}
+}

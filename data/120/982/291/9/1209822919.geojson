@@ -1,0 +1,70 @@
+{
+  "id": 1209822919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.27324,8.65724,-80.27324,8.65724",
+    "geom:latitude":8.65724,
+    "geom:longitude":-80.27324,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Martillada",
+    "gn:country_code":"PA",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3707251,
+    "gn:latitude":8.65724,
+    "gn:longitude":-80.27324,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"La Martillada",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Martillada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707251
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8c56a211336270e0d84c5890e8f5e3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1209822919,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1209822919,
+    "wof:lastmodified":1537676404,
+    "wof:name":"La Martillada",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.27324,
+    8.65724,
+    -80.27324,
+    8.65724
+],
+  "geometry": {"coordinates":[-80.27324,8.65724],"type":"Point"}
+}

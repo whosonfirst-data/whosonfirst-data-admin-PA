@@ -1,0 +1,73 @@
+{
+  "id": 1309989737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.23812,8.28848,-81.23812,8.28848",
+    "geom:latitude":8.28848,
+    "geom:longitude":-81.23812,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"PA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3701425,
+    "gn:latitude":8.28848,
+    "gn:longitude":-81.23812,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"San Juan",
+    "gn:population":119,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701425
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3d708e7ec58fc675f0d51d41fcd90b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1309989737,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1309989737,
+    "wof:lastmodified":1537676342,
+    "wof:name":"San Juan",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.23812,
+    8.28848,
+    -81.23812,
+    8.28848
+],
+  "geometry": {"coordinates":[-81.23812,8.28848],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327121409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.84141,9.13161,-81.84141,9.13161",
+    "geom:latitude":9.13161,
+    "geom:longitude":-81.84141,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pigeon Key",
+    "gn:country_code":"PA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211020,
+    "gn:latitude":9.13161,
+    "gn:longitude":-81.84141,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Pigeon Key",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pigeon Key"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211020
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a51c5bb9815f63ecb840869faf59fc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693223,
+            "locality_id":1327121409,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1327121409,
+    "wof:lastmodified":1537676504,
+    "wof:name":"Pigeon Key",
+    "wof:parent_id":1108693223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.84141,
+    9.13161,
+    -81.84141,
+    9.13161
+],
+  "geometry": {"coordinates":[-81.84141,9.13161],"type":"Point"}
+}

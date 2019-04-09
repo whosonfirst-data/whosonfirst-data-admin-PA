@@ -1,0 +1,105 @@
+{
+  "id": 421176511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66667,8.11667,-80.66667,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":-80.66667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5723\u739b\u5229\u4e9a"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Santa Mar\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Santa Mar\u00eda"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e\u5340"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3701174,
+    "qs:gn_pop":1739,
+    "qs:name":"Santa Mar\u00eda",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Herrera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1046573,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":160272,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3701174,
+        "gp:id":160272,
+        "qs:id":1046573,
+        "wd:id":"Q18403144",
+        "wk:page":"Santa Mar\u00eda District, Panama"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009110,
+    "wof:geomhash":"fc2a4a4ca7a88092b7f66837d3b203fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693273,
+            "locality_id":421176511,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":421176511,
+    "wof:lastmodified":1514494905,
+    "wof:name":"Santa Mar\u00eda",
+    "wof:parent_id":1108693273,
+    "wof:placetype":"locality",
+    "wof:population":1739,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66667,
+    8.11667,
+    -80.66667,
+    8.11667
+],
+  "geometry": {"coordinates":[-80.66667,8.11667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276682959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.79915,9.31817,-79.79915,9.31817",
+    "geom:latitude":9.31817,
+    "geom:longitude":-79.79915,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Quebrada Lopez",
+    "gn:country_code":"PA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702166,
+    "gn:latitude":9.31817,
+    "gn:longitude":-79.79915,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Quebrada L\u00f3pez",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada L\u00f3pez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702166
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"87d89288ce91be41a14b51a735bead2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1276682959,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1276682959,
+    "wof:lastmodified":1537676350,
+    "wof:name":"Quebrada Lopez",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.79915,
+    9.31817,
+    -79.79915,
+    9.31817
+],
+  "geometry": {"coordinates":[-79.79915,9.31817],"type":"Point"}
+}

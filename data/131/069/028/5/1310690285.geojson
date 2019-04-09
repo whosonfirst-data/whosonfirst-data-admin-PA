@@ -1,0 +1,70 @@
+{
+  "id": 1310690285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.22319,8.41818,-81.22319,8.41818",
+    "geom:latitude":8.41818,
+    "geom:longitude":-81.22319,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Lajones",
+    "gn:country_code":"PA",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705251,
+    "gn:latitude":8.41818,
+    "gn:longitude":-81.22319,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Los Lajones",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Lajones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705251
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"50d9f8e146797fe7a054cbdc6697697e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1310690285,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310690285,
+    "wof:lastmodified":1537676376,
+    "wof:name":"Los Lajones",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.22319,
+    8.41818,
+    -81.22319,
+    8.41818
+],
+  "geometry": {"coordinates":[-81.22319,8.41818],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243256219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.75,7.91667,-80.75,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":-80.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Teja",
+    "gn:country_code":"PA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706113,
+    "gn:latitude":7.91667,
+    "gn:longitude":-80.75,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"La Teja",
+    "gn:population":8,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706113
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f373c639727d0fd8e7513783fcf64459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "locality_id":1243256219,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1243256219,
+    "wof:lastmodified":1537076650,
+    "wof:name":"La Teja",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.75,
+    7.91667,
+    -80.75,
+    7.91667
+],
+  "geometry": {"coordinates":[-80.75,7.91667],"type":"Point"}
+}

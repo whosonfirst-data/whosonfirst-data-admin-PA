@@ -1,0 +1,67 @@
+{
+  "id": 1360106857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61667,7.96667,-80.61667,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":-80.61667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"PA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706533,
+    "gn:latitude":7.96667,
+    "gn:longitude":-80.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        421166923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706533
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e7b9d35243c03cd63811f3e9f1e39f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421166923,
+            "locality_id":1360106857,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1360106857,
+    "wof:lastmodified":1536914713,
+    "wof:name":"Las Flores",
+    "wof:parent_id":421166923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61667,
+    7.96667,
+    -80.61667,
+    7.96667
+],
+  "geometry": {"coordinates":[-80.61667,7.96667],"type":"Point"}
+}

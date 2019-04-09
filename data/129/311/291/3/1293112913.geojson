@@ -1,0 +1,63 @@
+{
+  "id": 1293112913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.18333,9.33333,-82.18333,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":-82.18333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Short Cut",
+    "gn:country_code":"PA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700975,
+    "gn:latitude":9.33333,
+    "gn:longitude":-82.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Short Cut",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700975
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"32f42fa26eac6441d11aad8ca74ee458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1293112913,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293112913,
+    "wof:lastmodified":1536829060,
+    "wof:name":"Short Cut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.18333,
+    9.33333,
+    -82.18333,
+    9.33333
+],
+  "geometry": {"coordinates":[-82.18333,9.33333],"type":"Point"}
+}

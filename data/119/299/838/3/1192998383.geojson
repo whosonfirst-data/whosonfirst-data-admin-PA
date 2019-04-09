@@ -1,0 +1,73 @@
+{
+  "id": 1192998383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.68926,8.34777,-81.68926,8.34777",
+    "geom:latitude":8.34777,
+    "geom:longitude":-81.68926,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cerro Mosquito",
+    "gn:country_code":"PA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712673,
+    "gn:latitude":8.34777,
+    "gn:longitude":-81.68926,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Cerro Mosquito",
+    "gn:population":579,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Mosquito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712673
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0460e4a44533509c51866257431d1289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1192998383,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1192998383,
+    "wof:lastmodified":1537676468,
+    "wof:name":"Cerro Mosquito",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":579,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.68926,
+    8.34777,
+    -81.68926,
+    8.34777
+],
+  "geometry": {"coordinates":[-81.68926,8.34777],"type":"Point"}
+}

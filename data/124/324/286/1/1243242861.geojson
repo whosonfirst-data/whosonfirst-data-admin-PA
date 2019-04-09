@@ -1,0 +1,79 @@
+{
+  "id": 1243242861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98333,8.9,-79.98333,8.9",
+    "geom:latitude":8.9,
+    "geom:longitude":-79.98333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Huesital",
+    "gn:country_code":"PA",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710642,
+    "gn:latitude":8.9,
+    "gn:longitude":-79.98333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"El Huesital",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Huesital N\u00famero Dos",
+        "El Huesital"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710642
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"edb3a7e9fb16934a881604a5f5affed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1243242861,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1243242861,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1243242861,
+    "wof:lastmodified":1537676444,
+    "wof:name":"El Huesital",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98333000000002,
+    8.9,
+    -79.98333000000002,
+    8.9
+],
+  "geometry": {"coordinates":[-79.98333000000002,8.9],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343855641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63963,7.63311,-80.63963,7.63311",
+    "geom:latitude":7.63311,
+    "geom:longitude":-80.63963,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Pedrito",
+    "gn:country_code":"PA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710219,
+    "gn:latitude":7.63311,
+    "gn:longitude":-80.63963,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Pedrito",
+    "gn:population":6,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710219
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"aeb5ba164e364b0a835d4a9a210c19d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1343855641,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1343855641,
+    "wof:lastmodified":1536673553,
+    "wof:name":"El Pedrito",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63963000000003,
+    7.63311,
+    -80.63963000000003,
+    7.63311
+],
+  "geometry": {"coordinates":[-80.63963000000003,7.63311],"type":"Point"}
+}

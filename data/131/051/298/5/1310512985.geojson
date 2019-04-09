@@ -1,0 +1,74 @@
+{
+  "id": 1310512985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58405,8.51969,-80.58405,8.51969",
+    "geom:latitude":8.51969,
+    "geom:longitude":-80.58405,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Guzman",
+    "gn:country_code":"PA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3708772,
+    "gn:latitude":8.51969,
+    "gn:longitude":-80.58405,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Guzman",
+    "gn:population":228,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guzman"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421191757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708772,
+        "wk:page":"Guzm%C3%A1n%2C_Cocl%C3%A9"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5542a29d011762d8222f2fc518220bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421191757,
+            "locality_id":1310512985,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1310512985,
+    "wof:lastmodified":1537676422,
+    "wof:name":"Guzman",
+    "wof:parent_id":421191757,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58405,
+    8.51969,
+    -80.58405,
+    8.51969
+],
+  "geometry": {"coordinates":[-80.58405,8.51969],"type":"Point"}
+}

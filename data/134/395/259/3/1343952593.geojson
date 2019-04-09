@@ -1,0 +1,67 @@
+{
+  "id": 1343952593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.17054,7.51118,-80.17054,7.51118",
+    "geom:latitude":7.51118,
+    "geom:longitude":-80.17054,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mina Honda",
+    "gn:country_code":"PA",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704281,
+    "gn:latitude":7.51118,
+    "gn:longitude":-80.17054,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Mina Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421202587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704281
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3322e7cdc1a53434f30b07205094530f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202587,
+            "locality_id":1343952593,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1343952593,
+    "wof:lastmodified":1537030113,
+    "wof:name":"Mina Honda",
+    "wof:parent_id":421202587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.17054,
+    7.51118,
+    -80.17054,
+    7.51118
+],
+  "geometry": {"coordinates":[-80.17054,7.51118],"type":"Point"}
+}

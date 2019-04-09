@@ -1,0 +1,91 @@
+{
+  "id": 1125940893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.78333,8.43333,-81.78333,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-81.78333,
+    "gn:gn_country":"PA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3061,
+    "gn:population":3061,
+    "iso:country":"PA",
+    "lbl:latitude":8.43333,
+    "lbl:longitude":-81.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Canoa"
+    ],
+    "name:eng_x_preferred":[
+        "Canoa"
+    ],
+    "name:pol_x_preferred":[
+        "Canoa"
+    ],
+    "name:unk_x_variant":[
+        "Canoa"
+    ],
+    "qs_pg:aaroncc":"PA",
+    "qs_pg:gn_country":"PA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3702269,
+    "qs_pg:gn_pop":3061,
+    "qs_pg:name":"Quebrada Canoa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1046578,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702269,
+        "qs_pg:id":1046578,
+        "wd:id":"Q3202438"
+    },
+    "wof:country":"PA",
+    "wof:created":1497297112,
+    "wof:geomhash":"e940ca69eaa2bb607a2c26d99bf0af17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693245,
+            "locality_id":1125940893,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1125940893,
+    "wof:lastmodified":1514494901,
+    "wof:name":"Quebrada Canoa",
+    "wof:parent_id":1108693245,
+    "wof:placetype":"locality",
+    "wof:population":3061,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.78333,
+    8.43333,
+    -81.78333,
+    8.43333
+],
+  "geometry": {"coordinates":[-81.78333000000001,8.43333],"type":"Point"}
+}

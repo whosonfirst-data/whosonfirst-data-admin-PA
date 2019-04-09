@@ -1,0 +1,73 @@
+{
+  "id": 1293298649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71462,9.24994,-79.71462,9.24994",
+    "geom:latitude":9.24994,
+    "geom:longitude":-79.71462,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Altos de Divisa",
+    "gn:country_code":"PA",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179999,
+    "gn:latitude":9.24994,
+    "gn:longitude":-79.71462,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Altos de Divisa",
+    "gn:population":470,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Altos de Divisa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179999
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"1a6a67b1637cfcae02bab10413ff290d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1293298649,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1293298649,
+    "wof:lastmodified":1537676497,
+    "wof:name":"Altos de Divisa",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:population":470,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71462,
+    9.24994,
+    -79.71462,
+    9.24994
+],
+  "geometry": {"coordinates":[-79.71462,9.24994],"type":"Point"}
+}

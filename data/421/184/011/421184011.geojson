@@ -1,0 +1,82 @@
+{
+  "id": 421184011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.41667,9.3,-82.41667,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-82.41667,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Una Mila"
+    ],
+    "name:unk_x_variant":[
+        "Milla N\u00famero Uno"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3704292,
+    "qs:gn_pop":0,
+    "qs:name":"Milla Uno",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Bocas del Toro",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988313,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":159120,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704292,
+        "gp:id":159120,
+        "qs:id":988313
+    },
+    "wof:country":"PA",
+    "wof:created":1459009397,
+    "wof:geomhash":"de5bbf317a2eae3ecc963b10b9101fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":421184011,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":421184011,
+    "wof:lastmodified":1501268794,
+    "wof:name":"Milla Uno",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.41667,
+    9.3,
+    -82.41667,
+    9.3
+],
+  "geometry": {"coordinates":[-82.41667,9.3],"type":"Point"}
+}

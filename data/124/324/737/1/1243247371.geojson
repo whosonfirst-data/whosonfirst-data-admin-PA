@@ -1,0 +1,73 @@
+{
+  "id": 1243247371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.18038,8.68976,-81.18038,8.68976",
+    "geom:latitude":8.68976,
+    "geom:longitude":-81.18038,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alto Limon",
+    "gn:country_code":"PA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348574,
+    "gn:latitude":8.68976,
+    "gn:longitude":-81.18038,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Alto Lim\u00f3n",
+    "gn:population":116,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto Lim\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348574
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"abf7f83d86964e6d750586f4f85fc8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1243247371,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243247371,
+    "wof:lastmodified":1537676520,
+    "wof:name":"Alto Limon",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18038,
+    8.68976,
+    -81.18038,
+    8.68976
+],
+  "geometry": {"coordinates":[-81.18038,8.68976],"type":"Point"}
+}

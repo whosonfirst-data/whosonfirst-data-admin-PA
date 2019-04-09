@@ -1,0 +1,82 @@
+{
+  "id": 1343834561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85944,8.85917,-79.85944,8.85917",
+    "geom:latitude":8.85917,
+    "geom:longitude":-79.85944,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Lajitas",
+    "gn:country_code":"PA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764405,
+    "gn:latitude":8.85917,
+    "gn:longitude":-79.85944,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Las Lajitas",
+    "gn:population":150,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajo Espino",
+        "Las Lajitas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764405
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"c9019a434113a2744c5b07df30670d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1343834561,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1343834561,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1343834561,
+    "wof:lastmodified":1537676494,
+    "wof:name":"Las Lajitas",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85944,
+    8.85917,
+    -79.85944,
+    8.85917
+],
+  "geometry": {"coordinates":[-79.85944000000001,8.85917],"type":"Point"}
+}

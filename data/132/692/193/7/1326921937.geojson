@@ -1,0 +1,73 @@
+{
+  "id": 1326921937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56678,7.76865,-80.56678,7.76865",
+    "geom:latitude":7.76865,
+    "geom:longitude":-80.56678,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chupaito",
+    "gn:country_code":"PA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712293,
+    "gn:latitude":7.76865,
+    "gn:longitude":-80.56678,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Chupa\u00edto",
+    "gn:population":105,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chupa\u00edto"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        1108693237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712293
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"8d4dd1268a2159ba845e243a72ce96f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693237,
+            "locality_id":1326921937,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1326921937,
+    "wof:lastmodified":1537676465,
+    "wof:name":"Chupaito",
+    "wof:parent_id":1108693237,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56678000000002,
+    7.76865,
+    -80.56678000000002,
+    7.76865
+],
+  "geometry": {"coordinates":[-80.56678000000002,7.76865],"type":"Point"}
+}

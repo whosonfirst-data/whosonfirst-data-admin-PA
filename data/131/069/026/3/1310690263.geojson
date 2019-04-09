@@ -1,0 +1,73 @@
+{
+  "id": 1310690263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.04909,8.44999,-81.04909,8.44999",
+    "geom:latitude":8.44999,
+    "geom:longitude":-81.04909,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Fria",
+    "gn:country_code":"PA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348579,
+    "gn:latitude":8.44999,
+    "gn:longitude":-81.04909,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Fr\u00eda",
+    "gn:population":114,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Fr\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348579
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"65e323443303a78b7c9fb2e9ae532d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1310690263,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1310690263,
+    "wof:lastmodified":1537676520,
+    "wof:name":"La Fria",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.04909,
+    8.44999,
+    -81.04909,
+    8.44999
+],
+  "geometry": {"coordinates":[-81.04909000000001,8.44999],"type":"Point"}
+}

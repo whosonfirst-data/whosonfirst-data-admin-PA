@@ -1,0 +1,76 @@
+{
+  "id": 1293476911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.60555,8.36218,-81.60555,8.36218",
+    "geom:latitude":8.36218,
+    "geom:longitude":-81.60555,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Llano Pita",
+    "gn:country_code":"PA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714443,
+    "gn:latitude":8.36218,
+    "gn:longitude":-81.60555,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Llano Pita",
+    "gn:population":85,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano Pita"
+    ],
+    "name:und_x_variant":[
+        "Bajo Pita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714443
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4489272190ef96202880c534752b392b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1293476911,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1293476911,
+    "wof:lastmodified":1537676486,
+    "wof:name":"Llano Pita",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.60555,
+    8.36218,
+    -81.60555,
+    8.36218
+],
+  "geometry": {"coordinates":[-81.60554999999999,8.36218],"type":"Point"}
+}

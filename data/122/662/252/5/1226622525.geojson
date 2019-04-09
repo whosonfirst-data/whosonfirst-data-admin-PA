@@ -1,0 +1,78 @@
+{
+  "id": 1226622525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08338,8.87407,-80.08338,8.87407",
+    "geom:latitude":8.87407,
+    "geom:longitude":-80.08338,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Ahogado",
+    "gn:country_code":"PA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711530,
+    "gn:latitude":8.87407,
+    "gn:longitude":-80.08338,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"El Ahogado",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Ahogado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711530
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eeddefecdd14bc1aaeca1197625ef428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1226622525,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1226622525,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1226622525,
+    "wof:lastmodified":1537676459,
+    "wof:name":"El Ahogado",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08338,
+    8.87407,
+    -80.08338,
+    8.87407
+],
+  "geometry": {"coordinates":[-80.08338000000001,8.87407],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225832073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.80675,8.68853,-81.80675,8.68853",
+    "geom:latitude":8.68853,
+    "geom:longitude":-81.80675,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Quebrada Frijoles",
+    "gn:country_code":"PA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348078,
+    "gn:latitude":8.68853,
+    "gn:longitude":-81.80675,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Quebrada Frijoles",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Frijoles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348078
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"4d679c65a48766273096e06aeae71b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693221,
+            "locality_id":1225832073,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1225832073,
+    "wof:lastmodified":1537676517,
+    "wof:name":"Quebrada Frijoles",
+    "wof:parent_id":1108693221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.80675,
+    8.68853,
+    -81.80675,
+    8.68853
+],
+  "geometry": {"coordinates":[-81.80674999999999,8.68853],"type":"Point"}
+}

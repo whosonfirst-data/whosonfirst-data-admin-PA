@@ -1,0 +1,71 @@
+{
+  "id": 1226426923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.95525,9.55061,-78.95525,9.55061",
+    "geom:latitude":9.55061,
+    "geom:longitude":-78.95525,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nalunega",
+    "gn:country_code":"PA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704005,
+    "gn:latitude":9.55061,
+    "gn:longitude":-78.95525,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Nalunega",
+    "gn:population":421,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nalunaga",
+        "Nalunega"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704005
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"a03e1c4d6d8a4640a2059eb658ba2883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "locality_id":1226426923,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226426923,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Nalunega",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":421,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.95525,
+    9.55061,
+    -78.95525,
+    9.55061
+],
+  "geometry": {"coordinates":[-78.95525000000001,9.55061],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344140763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.5,8.13333,-81.5,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":-81.5,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cerro Loro",
+    "gn:country_code":"PA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712687,
+    "gn:latitude":8.13333,
+    "gn:longitude":-81.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cerro Loro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712687
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"47dae35d932e0270c5192c46be51cd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1344140763,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1344140763,
+    "wof:lastmodified":1536759956,
+    "wof:name":"Cerro Loro",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.5,
+    8.13333,
+    -81.5,
+    8.13333
+],
+  "geometry": {"coordinates":[-81.5,8.13333],"type":"Point"}
+}

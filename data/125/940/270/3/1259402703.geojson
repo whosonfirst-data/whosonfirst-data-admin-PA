@@ -1,0 +1,72 @@
+{
+  "id": 1259402703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93333,8.31667,-78.93333,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":-78.93333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Chucunate",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711117,
+    "gn:latitude":8.31667,
+    "gn:longitude":-78.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Chucunate",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chucunate",
+        "El Chucunate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421175369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711117
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0c4abeba88183ed334ad23029f2c940f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421175369,
+            "locality_id":1259402703,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1259402703,
+    "wof:lastmodified":1537676453,
+    "wof:name":"El Chucunate",
+    "wof:parent_id":421175369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93333,
+    8.31667,
+    -78.93333,
+    8.31667
+],
+  "geometry": {"coordinates":[-78.93333,8.31667],"type":"Point"}
+}

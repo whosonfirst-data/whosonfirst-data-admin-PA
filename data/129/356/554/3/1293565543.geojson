@@ -1,0 +1,81 @@
+{
+  "id": 1293565543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.15314,8.90274,-80.15314,8.90274",
+    "geom:latitude":8.90274,
+    "geom:longitude":-80.15314,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Riecito Abajo",
+    "gn:country_code":"PA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398400,
+    "gn:latitude":8.90274,
+    "gn:longitude":-80.15314,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Riecito Abajo",
+    "gn:population":181,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Riecito Abajo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398400
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"19f05d0ac3deba1f1a13b8af08cbe021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1293565543,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1293565543,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1293565543,
+    "wof:lastmodified":1537676524,
+    "wof:name":"Riecito Abajo",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.15314000000002,
+    8.90274,
+    -80.15314000000002,
+    8.90274
+],
+  "geometry": {"coordinates":[-80.15314000000002,8.90274],"type":"Point"}
+}

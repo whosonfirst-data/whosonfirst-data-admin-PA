@@ -1,0 +1,67 @@
+{
+  "id": 1260298319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.71667,8.28333,-81.71667,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":-81.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cerro Vaca",
+    "gn:country_code":"PA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3712621,
+    "gn:latitude":8.28333,
+    "gn:longitude":-81.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cerro Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712621
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"0e787536d2770210176a43a769281e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693243,
+            "locality_id":1260298319,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1260298319,
+    "wof:lastmodified":1536692138,
+    "wof:name":"Cerro Vaca",
+    "wof:parent_id":1108693243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.71667,
+    8.28333,
+    -81.71667,
+    8.28333
+],
+  "geometry": {"coordinates":[-81.71666999999999,8.28333],"type":"Point"}
+}

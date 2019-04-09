@@ -1,0 +1,106 @@
+{
+  "id": 421198763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63333,8.16667,-80.63333,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":-80.63333,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "La Loma"
+    ],
+    "name:dut_x_preferred":[
+        "La Loma"
+    ],
+    "name:eng_x_preferred":[
+        "La Loma"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10da\u10dd\u10db\u10d0"
+    ],
+    "name:glg_x_preferred":[
+        "La Loma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10da\u10dd\u10db\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "La Loma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0644\u0648\u0645\u0627"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3707311,
+    "qs:gn_pop":1654,
+    "qs:name":"La Loma",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Cocl\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1204628,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":157657,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        1108693183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707311,
+        "gp:id":157657,
+        "qs:id":1204628,
+        "wd:id":"Q6463469",
+        "wk:page":"La Loma, Cocl\u00e9"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009959,
+    "wof:geomhash":"e5420e51513978c041c085495c2974bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693183,
+            "locality_id":421198763,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":421198763,
+    "wof:lastmodified":1527716347,
+    "wof:name":"La Loma",
+    "wof:parent_id":1108693183,
+    "wof:placetype":"locality",
+    "wof:population":1654,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63333,
+    8.16667,
+    -80.63333,
+    8.16667
+],
+  "geometry": {"coordinates":[-80.63333,8.16667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243063019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29423,8.03339,-81.29423,8.03339",
+    "geom:latitude":8.03339,
+    "geom:longitude":-81.29423,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Congal",
+    "gn:country_code":"PA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711029,
+    "gn:latitude":8.03339,
+    "gn:longitude":-81.29423,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Congal",
+    "gn:population":19,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711029
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"eb7195b160fea105a5af964f8dfbfc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1243063019,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1243063019,
+    "wof:lastmodified":1536859921,
+    "wof:name":"El Congal",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29423,
+    8.03339,
+    -81.29423,
+    8.03339
+],
+  "geometry": {"coordinates":[-81.29423,8.03339],"type":"Point"}
+}

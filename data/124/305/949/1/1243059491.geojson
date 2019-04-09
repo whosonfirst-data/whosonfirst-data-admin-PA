@@ -1,0 +1,75 @@
+{
+  "id": 1243059491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.33927,7.57368,-80.33927,7.57368",
+    "geom:latitude":7.57368,
+    "geom:longitude":-80.33927,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Asomadero",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711486,
+    "gn:latitude":7.57368,
+    "gn:longitude":-80.33927,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Asomadero",
+    "gn:population":24,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asomadero",
+        "El Asomadero"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421172507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711486
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b9034a996a005f7b26319828040f792e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421172507,
+            "locality_id":1243059491,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":1243059491,
+    "wof:lastmodified":1537676459,
+    "wof:name":"El Asomadero",
+    "wof:parent_id":421172507,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.33927,
+    7.57368,
+    -80.33927,
+    7.57368
+],
+  "geometry": {"coordinates":[-80.33927,7.57368],"type":"Point"}
+}

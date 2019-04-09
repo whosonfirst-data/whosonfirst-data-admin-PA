@@ -1,0 +1,100 @@
+{
+  "id": 421180185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.45,7.4,-80.45,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":-80.45,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10dc\u10dd\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Tonos\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Tonos\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Tonos\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u8bfa\u897f"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3700538,
+    "qs:gn_pop":1643,
+    "qs:name":"Tonosi",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Los Santos",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1197856,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793481,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675785,
+        421203469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3700538,
+        "gp:id":26793481,
+        "qs:id":1197856,
+        "qs_pg:id":1197856,
+        "wd:id":"Q2132852",
+        "wk:page":"Tonos\u00ed"
+    },
+    "wof:country":"PA",
+    "wof:created":1459009247,
+    "wof:geomhash":"24679b8b7ba85240593dc4837fac4d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203469,
+            "localadmin_id":421180185,
+            "region_id":85675785
+        }
+    ],
+    "wof:id":421180185,
+    "wof:lastmodified":1505340646,
+    "wof:name":"Tonosi",
+    "wof:parent_id":421203469,
+    "wof:placetype":"localadmin",
+    "wof:population":1643,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.45,
+    7.4,
+    -80.45,
+    7.4
+],
+  "geometry": {"coordinates":[-80.45,7.4],"type":"Point"}
+}

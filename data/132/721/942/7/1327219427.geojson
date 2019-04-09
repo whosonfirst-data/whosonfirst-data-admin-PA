@@ -1,0 +1,71 @@
+{
+  "id": 1327219427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.60046,9.12226,-79.60046,9.12226",
+    "geom:latitude":9.12226,
+    "geom:longitude":-79.60046,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Agua Buena",
+    "gn:country_code":"PA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715005,
+    "gn:latitude":9.12226,
+    "gn:longitude":-79.60046,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Agua Buena",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auga Buena",
+        "Aguas Buenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715005
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"980cd5c71dc51b6b69d11f840c690c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "locality_id":1327219427,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1327219427,
+    "wof:lastmodified":1537676492,
+    "wof:name":"Agua Buena",
+    "wof:parent_id":421196975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.60046,
+    9.12226,
+    -79.60046,
+    9.12226
+],
+  "geometry": {"coordinates":[-79.60046,9.12226],"type":"Point"}
+}

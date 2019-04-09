@@ -1,0 +1,73 @@
+{
+  "id": 1226044513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.30748,8.57368,-80.30748,8.57368",
+    "geom:latitude":8.57368,
+    "geom:longitude":-80.30748,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mosquitero",
+    "gn:country_code":"PA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704067,
+    "gn:latitude":8.57368,
+    "gn:longitude":-80.30748,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Mosquitero",
+    "gn:population":190,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mosquitero"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675771,
+        421202589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704067
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"49ca74c02ad32f0adf42920f1a1cd17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421202589,
+            "locality_id":1226044513,
+            "region_id":85675771
+        }
+    ],
+    "wof:id":1226044513,
+    "wof:lastmodified":1537676366,
+    "wof:name":"Mosquitero",
+    "wof:parent_id":421202589,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.30748,
+    8.57368,
+    -80.30748,
+    8.57368
+],
+  "geometry": {"coordinates":[-80.30748,8.57368],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1226228551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.10694,8.89361,-80.10694,8.89361",
+    "geom:latitude":8.89361,
+    "geom:longitude":-80.10694,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Alto del Naranjo",
+    "gn:country_code":"PA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3714815,
+    "gn:latitude":8.89361,
+    "gn:longitude":-80.10694,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Alto del Naranjo",
+    "gn:population":73,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naranjal",
+        "Alto del Naranjo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421181905,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3714815
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"b667e6c3dc4b78f40a0778ac5c62ea20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1226228551,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181905,
+            "locality_id":1226228551,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1226228551,
+    "wof:lastmodified":1537676490,
+    "wof:name":"Alto del Naranjo",
+    "wof:parent_id":421181905,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.10694000000002,
+    8.89361,
+    -80.10694000000002,
+    8.89361
+],
+  "geometry": {"coordinates":[-80.10694000000002,8.89361],"type":"Point"}
+}

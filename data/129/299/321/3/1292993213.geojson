@@ -1,0 +1,73 @@
+{
+  "id": 1292993213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.84515,7.7659,-80.84515,7.7659",
+    "geom:latitude":7.7659,
+    "geom:longitude":-80.84515,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Leones Arriba",
+    "gn:country_code":"PA",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3705906,
+    "gn:latitude":7.7659,
+    "gn:longitude":-80.84515,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Leones Arriba",
+    "gn:population":71,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Leones Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705906
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"994edbfeb9f834d9da008a3c1fe4bb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693227,
+            "locality_id":1292993213,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1292993213,
+    "wof:lastmodified":1537676387,
+    "wof:name":"Leones Arriba",
+    "wof:parent_id":1108693227,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.84515,
+    7.7659,
+    -80.84515,
+    7.7659
+],
+  "geometry": {"coordinates":[-80.84515,7.7659],"type":"Point"}
+}

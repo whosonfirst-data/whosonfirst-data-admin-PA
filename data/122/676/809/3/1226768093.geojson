@@ -1,0 +1,73 @@
+{
+  "id": 1226768093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.08205,8.1,-81.08205,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":-81.08205,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pacora",
+    "gn:country_code":"PA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3703649,
+    "gn:latitude":8.1,
+    "gn:longitude":-81.08205,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Pacora",
+    "gn:population":98,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421199909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3703649
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"70e070242c337840df469379ca8c489d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421199909,
+            "locality_id":1226768093,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1226768093,
+    "wof:lastmodified":1537676363,
+    "wof:name":"Pacora",
+    "wof:parent_id":421199909,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08205,
+    8.1,
+    -81.08205,
+    8.1
+],
+  "geometry": {"coordinates":[-81.08205,8.1],"type":"Point"}
+}

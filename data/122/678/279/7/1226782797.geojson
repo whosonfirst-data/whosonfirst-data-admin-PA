@@ -1,0 +1,74 @@
+{
+  "id": 1226782797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2,9.11667,-80.2,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-80.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Guasimo",
+    "gn:country_code":"PA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710758,
+    "gn:latitude":9.11667,
+    "gn:longitude":-80.2,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"El Gu\u00e1simo",
+    "gn:population":43,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gu\u00e1simo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710758,
+        "wk:page":"El_Gu%C3%A1simo%2C_Col%C3%B3n"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e33c48138d76b17de2b4e0623fcb8820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693217,
+            "locality_id":1226782797,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1226782797,
+    "wof:lastmodified":1537676446,
+    "wof:name":"El Guasimo",
+    "wof:parent_id":1108693217,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2,
+    9.11667,
+    -80.2,
+    9.11667
+],
+  "geometry": {"coordinates":[-80.2,9.11667],"type":"Point"}
+}

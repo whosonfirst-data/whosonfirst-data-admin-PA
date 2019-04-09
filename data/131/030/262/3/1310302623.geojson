@@ -1,0 +1,73 @@
+{
+  "id": 1310302623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56567,7.85353,-80.56567,7.85353",
+    "geom:latitude":7.85353,
+    "geom:longitude":-80.56567,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Ciruelito",
+    "gn:country_code":"PA",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3711096,
+    "gn:latitude":7.85353,
+    "gn:longitude":-80.56567,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Ciruelito",
+    "gn:population":91,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Ciruelito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3711096
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"df63a5d8c96130b5568bbe8f03c146fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693253,
+            "locality_id":1310302623,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1310302623,
+    "wof:lastmodified":1537676452,
+    "wof:name":"El Ciruelito",
+    "wof:parent_id":1108693253,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56567,
+    7.85353,
+    -80.56567,
+    7.85353
+],
+  "geometry": {"coordinates":[-80.56567,7.85353],"type":"Point"}
+}

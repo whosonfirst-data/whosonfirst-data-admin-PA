@@ -1,0 +1,70 @@
+{
+  "id": 1293119041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.18981,8.56061,-81.18981,8.56061",
+    "geom:latitude":8.56061,
+    "geom:longitude":-81.18981,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rio Piedra",
+    "gn:country_code":"PA",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348666,
+    "gn:latitude":8.56061,
+    "gn:longitude":-81.18981,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"R\u00edo Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Piedra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421181403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348666
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"679da51de0348f1eac867314a14441e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421181403,
+            "locality_id":1293119041,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1293119041,
+    "wof:lastmodified":1537676520,
+    "wof:name":"Rio Piedra",
+    "wof:parent_id":421181403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18981,
+    8.56061,
+    -81.18981,
+    8.56061
+],
+  "geometry": {"coordinates":[-81.18980999999999,8.56061],"type":"Point"}
+}

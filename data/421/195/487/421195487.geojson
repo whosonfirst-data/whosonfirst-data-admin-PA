@@ -1,0 +1,75 @@
+{
+  "id": 421195487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.779237,7.940491,-80.779237,7.940491",
+    "geom:latitude":7.940491,
+    "geom:longitude":-80.779237,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ocu",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Herrera",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":101,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":114348,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793381,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793381,
+        "qs:id":114348
+    },
+    "wof:country":"PA",
+    "wof:created":1459009850,
+    "wof:geomhash":"c2585d2c3311d7b4b49f0c74fc7675f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693247,
+            "localadmin_id":421195487,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":421195487,
+    "wof:lastmodified":1500018287,
+    "wof:name":"Ocu",
+    "wof:parent_id":1108693247,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.779237,
+    7.940491,
+    -80.779237,
+    7.940491
+],
+  "geometry": {"coordinates":[-80.77923699999999,7.940491],"type":"Point"}
+}

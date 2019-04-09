@@ -1,0 +1,70 @@
+{
+  "id": 1226165227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.42531,8.91477,-78.42531,8.91477",
+    "geom:latitude":8.91477,
+    "geom:longitude":-78.42531,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rio Sereno de Torti",
+    "gn:country_code":"PA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194184,
+    "gn:latitude":8.91477,
+    "gn:longitude":-78.42531,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"R\u00edo Sereno de Tort\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Sereno de Tort\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421176107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194184
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"6916cbbfd055d5013bb05a60341c92ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421176107,
+            "locality_id":1226165227,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":1226165227,
+    "wof:lastmodified":1537676499,
+    "wof:name":"Rio Sereno de Torti",
+    "wof:parent_id":421176107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.42531,
+    8.91477,
+    -78.42531,
+    8.91477
+],
+  "geometry": {"coordinates":[-78.42531,8.91477],"type":"Point"}
+}

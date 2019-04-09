@@ -1,0 +1,70 @@
+{
+  "id": 1209394311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.94276,8.94091,-79.94276,8.94091",
+    "geom:latitude":8.94091,
+    "geom:longitude":-79.94276,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Cruce de Arosemena",
+    "gn:country_code":"PA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764412,
+    "gn:latitude":8.94091,
+    "gn:longitude":-79.94276,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Cruce de Arosemena",
+    "gn:population":175,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cruce de Arosemena"
+    ],
+    "name:und_x_variant":[
+        "El Cruce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764412
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"01928d0b694915fa897b5cd6852d856a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209394311
+        }
+    ],
+    "wof:id":1209394311,
+    "wof:lastmodified":1537676494,
+    "wof:name":"El Cruce de Arosemena",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.94275999999998,
+    8.94091,
+    -79.94275999999998,
+    8.94091
+],
+  "geometry": {"coordinates":[-79.94275999999998,8.94091],"type":"Point"}
+}

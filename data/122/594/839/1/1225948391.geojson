@@ -1,0 +1,72 @@
+{
+  "id": 1225948391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.58326,9.49177,-82.58326,9.49177",
+    "geom:latitude":9.49177,
+    "geom:longitude":-82.58326,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Finca Cincuenta y Uno",
+    "gn:country_code":"PA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3709563,
+    "gn:latitude":9.49177,
+    "gn:longitude":-82.58326,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Finca Cincuenta y Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca 51",
+        "Finca Cincuenta y Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675805,
+        421170139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3709563,
+        "wk:page":"Finca_Cincuenta_y_Uno"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"dab56df30aa1106b0d55cef50d308cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170139,
+            "locality_id":1225948391,
+            "region_id":85675805
+        }
+    ],
+    "wof:id":1225948391,
+    "wof:lastmodified":1537676427,
+    "wof:name":"Finca Cincuenta y Uno",
+    "wof:parent_id":421170139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.58326,
+    9.49177,
+    -82.58326,
+    9.49177
+],
+  "geometry": {"coordinates":[-82.58326,9.49177],"type":"Point"}
+}

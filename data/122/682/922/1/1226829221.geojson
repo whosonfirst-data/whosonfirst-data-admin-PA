@@ -1,0 +1,70 @@
+{
+  "id": 1226829221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.85714,8.46847,-81.85714,8.46847",
+    "geom:latitude":8.46847,
+    "geom:longitude":-81.85714,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Hato Culantro",
+    "gn:country_code":"PA",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3708742,
+    "gn:latitude":8.46847,
+    "gn:longitude":-81.85714,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Hato Culantro",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hato Culantro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675807,
+        1108693241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3708742
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"e6e6929620cc3d5083e9d4948bb21e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693241,
+            "locality_id":1226829221,
+            "region_id":85675807
+        }
+    ],
+    "wof:id":1226829221,
+    "wof:lastmodified":1537676422,
+    "wof:name":"Hato Culantro",
+    "wof:parent_id":1108693241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.85714,
+    8.46847,
+    -81.85714,
+    8.46847
+],
+  "geometry": {"coordinates":[-81.85714,8.46847],"type":"Point"}
+}

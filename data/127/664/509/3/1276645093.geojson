@@ -1,0 +1,70 @@
+{
+  "id": 1276645093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.32926,8.37554,-81.32926,8.37554",
+    "geom:latitude":8.37554,
+    "geom:longitude":-81.32926,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Cortezo",
+    "gn:country_code":"PA",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710977,
+    "gn:latitude":8.37554,
+    "gn:longitude":-81.32926,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"El Cortezo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cortezo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710977
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"3ed4997eee796c80855e5a5060d9acdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693201,
+            "locality_id":1276645093,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1276645093,
+    "wof:lastmodified":1537676450,
+    "wof:name":"El Cortezo",
+    "wof:parent_id":1108693201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.32925999999998,
+    8.37554,
+    -81.32925999999998,
+    8.37554
+],
+  "geometry": {"coordinates":[-81.32925999999998,8.37554],"type":"Point"}
+}

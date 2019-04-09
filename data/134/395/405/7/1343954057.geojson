@@ -1,0 +1,67 @@
+{
+  "id": 1343954057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.48722,7.96556,-81.48722,7.96556",
+    "geom:latitude":7.96556,
+    "geom:longitude":-81.48722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Risacua",
+    "gn:country_code":"PA",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3706679,
+    "gn:latitude":7.96556,
+    "gn:longitude":-81.48722,
+    "gn:modification_date":"1995-08-22",
+    "gn:name":"La Risacua",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        1108693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3706679
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"be2b535e5426a16cc738e13f18672111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693229,
+            "locality_id":1343954057,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1343954057,
+    "wof:lastmodified":1537028099,
+    "wof:name":"La Risacua",
+    "wof:parent_id":1108693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.48722,
+    7.96556,
+    -81.48722,
+    7.96556
+],
+  "geometry": {"coordinates":[-81.48721999999999,7.96556],"type":"Point"}
+}

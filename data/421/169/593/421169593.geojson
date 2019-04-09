@@ -1,0 +1,98 @@
+{
+  "id": 421169593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9,8.56667,-79.9,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":-79.9,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Coloncito"
+    ],
+    "name:eng_x_preferred":[
+        "Coloncito"
+    ],
+    "name:nld_x_preferred":[
+        "Coloncito"
+    ],
+    "qs:gn_country":"PA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3712069,
+    "qs:gn_pop":918,
+    "qs:name":"Coloncito",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Panam\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":214546,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":155679,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421189053,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3712069,
+        "gp:id":155679,
+        "qs:id":214546,
+        "wd:id":"Q2320168"
+    },
+    "wof:country":"PA",
+    "wof:created":1459008816,
+    "wof:geomhash":"c7e9e206d4ef659419ca7f3f6390d604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":421169593,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421189053,
+            "locality_id":421169593,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":421169593,
+    "wof:lastmodified":1527716163,
+    "wof:name":"Coloncito",
+    "wof:parent_id":421189053,
+    "wof:placetype":"locality",
+    "wof:population":918,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9,
+    8.56667,
+    -79.9,
+    8.56667
+],
+  "geometry": {"coordinates":[-79.90000000000001,8.56667],"type":"Point"}
+}

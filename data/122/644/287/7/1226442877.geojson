@@ -1,0 +1,67 @@
+{
+  "id": 1226442877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.79583,9.36889,-79.79583,9.36889",
+    "geom:latitude":9.36889,
+    "geom:longitude":-79.79583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Llano Sucio",
+    "gn:country_code":"PA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3705680,
+    "gn:latitude":9.36889,
+    "gn:longitude":-79.79583,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Llano Sucio",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3705680
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"65087a58ced11a5f1d376c9343df63b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693211,
+            "locality_id":1226442877,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1226442877,
+    "wof:lastmodified":1536649360,
+    "wof:name":"Llano Sucio",
+    "wof:parent_id":1108693211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.79583000000002,
+    9.36889,
+    -79.79583000000002,
+    9.36889
+],
+  "geometry": {"coordinates":[-79.79583000000002,9.36889],"type":"Point"}
+}

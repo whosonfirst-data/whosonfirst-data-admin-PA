@@ -1,0 +1,77 @@
+{
+  "id": 1293906387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15339,8.24104,-78.15339,8.24104",
+    "geom:latitude":8.24104,
+    "geom:longitude":-78.15339,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mogue",
+    "gn:country_code":"PA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3704222,
+    "gn:latitude":8.24104,
+    "gn:longitude":-78.15339,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"Mogue",
+    "gn:population":397,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mogue"
+    ],
+    "name:und_x_variant":[
+        "Moque",
+        "Mogu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675795,
+        421170141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3704222
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"febdc3073db459dccade97834ba2c68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421170141,
+            "locality_id":1293906387,
+            "region_id":85675795
+        }
+    ],
+    "wof:id":1293906387,
+    "wof:lastmodified":1537676367,
+    "wof:name":"Mogue",
+    "wof:parent_id":421170141,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15339,
+    8.24104,
+    -78.15339,
+    8.24104
+],
+  "geometry": {"coordinates":[-78.15339,8.24104],"type":"Point"}
+}

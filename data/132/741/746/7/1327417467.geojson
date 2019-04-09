@@ -1,0 +1,70 @@
+{
+  "id": 1327417467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.27583,7.91944,-81.27583,7.91944",
+    "geom:latitude":7.91944,
+    "geom:longitude":-81.27583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Quebrada Honda",
+    "gn:country_code":"PA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702196,
+    "gn:latitude":7.91944,
+    "gn:longitude":-81.27583,
+    "gn:modification_date":"2017-08-15",
+    "gn:name":"Quebrada Honda",
+    "gn:population":51,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675791,
+        421171349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702196
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"595c87be2ace2bdc30fce0695c02cf16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171349,
+            "locality_id":1327417467,
+            "region_id":85675791
+        }
+    ],
+    "wof:id":1327417467,
+    "wof:lastmodified":1536702628,
+    "wof:name":"Quebrada Honda",
+    "wof:parent_id":421171349,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.27583,
+    7.91944,
+    -81.27583,
+    7.91944
+],
+  "geometry": {"coordinates":[-81.27583,7.91944],"type":"Point"}
+}

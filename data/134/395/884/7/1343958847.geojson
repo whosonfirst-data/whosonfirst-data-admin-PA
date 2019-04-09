@@ -1,0 +1,72 @@
+{
+  "id": 1343958847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.19158,9.08703,-80.19158,9.08703",
+    "geom:latitude":9.08703,
+    "geom:longitude":-80.19158,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Encantada",
+    "gn:country_code":"PA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3707794,
+    "gn:latitude":9.08703,
+    "gn:longitude":-80.19158,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"La Encantada",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alcarreto",
+        "La Encantada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675775,
+        1108693205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3707794,
+        "wk:page":"La_Encantada%2C_Col%C3%B3n"
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"fffd5cbf2d2759faae44e99f90768c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693205,
+            "locality_id":1343958847,
+            "region_id":85675775
+        }
+    ],
+    "wof:id":1343958847,
+    "wof:lastmodified":1537676412,
+    "wof:name":"La Encantada",
+    "wof:parent_id":1108693205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.19158,
+    9.08703,
+    -80.19158,
+    9.08703
+],
+  "geometry": {"coordinates":[-80.19158,9.08703],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326952213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7401,8.07088,-80.7401,8.07088",
+    "geom:latitude":8.07088,
+    "geom:longitude":-80.7401,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Olivo",
+    "gn:country_code":"PA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3710325,
+    "gn:latitude":8.07088,
+    "gn:longitude":-80.7401,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"El Olivo",
+    "gn:population":353,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Olivo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675781,
+        1108693273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3710325
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"11403b96b52972af9b67012b8fb2a128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693273,
+            "locality_id":1326952213,
+            "region_id":85675781
+        }
+    ],
+    "wof:id":1326952213,
+    "wof:lastmodified":1537676438,
+    "wof:name":"El Olivo",
+    "wof:parent_id":1108693273,
+    "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7401,
+    8.07088,
+    -80.7401,
+    8.07088
+],
+  "geometry": {"coordinates":[-80.7401,8.07088],"type":"Point"}
+}

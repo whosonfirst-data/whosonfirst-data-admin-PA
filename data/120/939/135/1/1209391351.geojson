@@ -1,0 +1,65 @@
+{
+  "id": 1209391351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98278,8.98083,-79.98278,8.98083",
+    "geom:latitude":8.98083,
+    "geom:longitude":-79.98278,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Puerto de Trinidad",
+    "gn:country_code":"PA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3702373,
+    "gn:latitude":8.98083,
+    "gn:longitude":-79.98278,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Puerto de Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Trinidad",
+        "Puerto de Trinidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3702373
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"470c5e95031fbd7d99dd3a64099890bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "locality_id":1209391351
+        }
+    ],
+    "wof:id":1209391351,
+    "wof:lastmodified":1537676353,
+    "wof:name":"Puerto de Trinidad",
+    "wof:parent_id":85632179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98278,
+    8.98083,
+    -79.98278,
+    8.98083
+],
+  "geometry": {"coordinates":[-79.98278000000001,8.98083],"type":"Point"}
+}

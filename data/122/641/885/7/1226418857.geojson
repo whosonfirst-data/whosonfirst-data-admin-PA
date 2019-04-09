@@ -1,0 +1,78 @@
+{
+  "id": 1226418857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81364,8.92383,-79.81364,8.92383",
+    "geom:latitude":8.92383,
+    "geom:longitude":-79.81364,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Cocobola",
+    "gn:country_code":"PA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764397,
+    "gn:latitude":8.92383,
+    "gn:longitude":-79.81364,
+    "gn:modification_date":"2017-08-16",
+    "gn:name":"La Cocobola",
+    "gn:population":27,
+    "gn:timezone":"America/Panama",
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421171337,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764397
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"5f36d5f103aab73bdde8ddbe41085013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1226418857,
+            "region_id":85675789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421171337,
+            "locality_id":1226418857,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":1226418857,
+    "wof:lastmodified":1536684256,
+    "wof:name":"La Cocobola",
+    "wof:parent_id":421171337,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81364,
+    8.92383,
+    -79.81364,
+    8.92383
+],
+  "geometry": {"coordinates":[-79.81364000000001,8.92383],"type":"Point"}
+}
