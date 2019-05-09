@@ -10,6 +10,12 @@
     "geom:latitude":8.617392,
     "geom:longitude":-82.573503,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Boquer\u00f3n District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.546949,
     "lbl:longitude":-82.568241,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108693193,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718240,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

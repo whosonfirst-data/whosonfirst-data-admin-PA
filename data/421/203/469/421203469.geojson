@@ -10,6 +10,12 @@
     "geom:latitude":7.413705,
     "geom:longitude":-80.505766,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Tonos\u00ed District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.406048,
     "lbl:longitude":-80.51077,
     "meso:admin_1":"Los Santos",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421203469,
-    "wof:lastmodified":1536616158,
+    "wof:lastmodified":1553717571,
     "wof:name":"Tonos\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

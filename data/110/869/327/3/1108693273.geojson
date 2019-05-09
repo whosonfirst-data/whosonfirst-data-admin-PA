@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013531,
-    "geom:area_square_m":165645923.8418,
+    "geom:area_square_m":165645923.841838,
     "geom:bbox":"-80.8191133575,8.04425174934,-80.5549133185,8.1445488488",
     "geom:latitude":8.101058,
     "geom:longitude":-80.691172,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Santa Mar\u00eda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.107249,
     "lbl:longitude":-80.726128,
     "meso:admin_1":"Herrera",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693273,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037575,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

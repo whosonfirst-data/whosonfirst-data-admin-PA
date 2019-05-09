@@ -10,6 +10,12 @@
     "geom:latitude":8.797556,
     "geom:longitude":-79.992388,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Capira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.793834,
     "lbl:longitude":-80.042679,
     "meso:admin_1":"Panama",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421181905,
-    "wof:lastmodified":1536615978,
+    "wof:lastmodified":1553717380,
     "wof:name":"Capira",
     "wof:parent_id":-1,
     "wof:placetype":"county",

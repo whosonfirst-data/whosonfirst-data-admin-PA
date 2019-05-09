@@ -10,6 +10,12 @@
     "geom:latitude":8.243325,
     "geom:longitude":-77.689673,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Pinogana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.86756,
     "lbl:longitude":-77.524622,
     "meso:admin_1":"Dari\u00e9n",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421196973,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1553717538,
     "wof:name":"Pinogana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

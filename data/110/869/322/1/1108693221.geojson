@@ -10,6 +10,12 @@
     "geom:latitude":8.792121,
     "geom:longitude":-81.980882,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Kankint\u00fa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.789531,
     "lbl:longitude":-81.974712,
     "meso:admin_1":"Ng\u00f6be Bugl\u00e9",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108693221,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718241,
     "wof:name":"Kankint\u00fa",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

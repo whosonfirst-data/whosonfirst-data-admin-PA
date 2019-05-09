@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027947,
-    "geom:area_square_m":341748032.515179,
+    "geom:area_square_m":341748032.515245,
     "geom:bbox":"-80.1159707384,8.40643720357,-79.9022931521,8.6522924021",
     "geom:latitude":8.529212,
     "geom:longitude":-80.028045,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "San Carlos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.511596,
     "lbl:longitude":-80.026428,
     "meso:admin_1":"Panama",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421171351,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1555037152,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"county",

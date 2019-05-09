@@ -10,6 +10,12 @@
     "geom:latitude":8.988116,
     "geom:longitude":-79.684514,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Arraijan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.973846,
     "lbl:longitude":-79.676468,
     "meso:admin_1":"Panama",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421203467,
-    "wof:lastmodified":1536616157,
+    "wof:lastmodified":1553717571,
     "wof:name":"Arraijan",
     "wof:parent_id":1108805611,
     "wof:placetype":"county",

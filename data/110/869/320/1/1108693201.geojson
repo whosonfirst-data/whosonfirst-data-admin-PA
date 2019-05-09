@@ -10,6 +10,12 @@
     "geom:latitude":8.358524,
     "geom:longitude":-81.285268,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Ca\u00f1azas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.357515,
     "lbl:longitude":-81.2254,
     "meso:admin_1":"Veraguas",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108693201,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718242,
     "wof:name":"Ca\u00f1azas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.418525,
     "geom:longitude":-82.388611,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "David District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.409169,
     "lbl:longitude":-82.380395,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -369,7 +375,7 @@
         }
     ],
     "wof:id":421171339,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1553717323,
     "wof:name":"David",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

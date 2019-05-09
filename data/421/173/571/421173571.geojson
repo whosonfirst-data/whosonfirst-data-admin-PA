@@ -10,6 +10,12 @@
     "geom:latitude":8.299077,
     "geom:longitude":-81.005017,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "San Francisco District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.298265,
     "lbl:longitude":-81.015438,
     "meso:admin_1":"Veraguas",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421173571,
-    "wof:lastmodified":1536615945,
+    "wof:lastmodified":1553717349,
     "wof:name":"San Francisco",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

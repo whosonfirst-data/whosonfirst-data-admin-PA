@@ -10,6 +10,12 @@
     "geom:latitude":8.446627,
     "geom:longitude":-80.203599,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Ant\u00f3n District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.443104,
     "lbl:longitude":-80.200969,
     "meso:admin_1":"Cocl\u00e9",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693185,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718239,
     "wof:name":"Ant\u00f3n",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

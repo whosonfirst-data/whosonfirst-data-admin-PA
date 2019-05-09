@@ -10,6 +10,12 @@
     "geom:latitude":8.224422,
     "geom:longitude":-81.794159,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Remedios District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.232264,
     "lbl:longitude":-81.795262,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693259,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718241,
     "wof:name":"Remedios",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

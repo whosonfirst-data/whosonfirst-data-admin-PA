@@ -10,6 +10,12 @@
     "geom:latitude":9.497231,
     "geom:longitude":-79.302951,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Santa Isabel District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.49739,
     "lbl:longitude":-79.302871,
     "meso:admin_1":"Col\u00f3n",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108693271,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718242,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

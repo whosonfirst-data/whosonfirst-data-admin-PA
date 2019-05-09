@@ -10,6 +10,12 @@
     "geom:latitude":7.824554,
     "geom:longitude":-78.128608,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Samb\u00fa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.809363,
     "lbl:longitude":-78.146816,
     "meso:admin_1":"Ember\u00e1",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108693265,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718241,
     "wof:name":"Samb\u00fa",
     "wof:parent_id":85675811,
     "wof:placetype":"county",

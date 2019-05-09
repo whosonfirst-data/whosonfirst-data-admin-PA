@@ -32,9 +32,10 @@
         "Montijo District"
     ],
     "name:eng_x_preferred":[
-        "Montijo District"
+        "Montijo"
     ],
     "name:eng_x_variant":[
+        "Montijo",
         "Montijo"
     ],
     "name:ita_x_preferred":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108693239,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1555220364,
     "wof:name":"Mariato",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

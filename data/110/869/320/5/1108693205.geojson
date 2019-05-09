@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037605,
-    "geom:area_square_m":459101148.234725,
+    "geom:area_square_m":459101148.234682,
     "geom:bbox":"-80.2013932689,8.9507672706,-79.9879836906,9.28690794209",
     "geom:latitude":9.132791,
     "geom:longitude":-80.106641,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Chagres District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.139441,
     "lbl:longitude":-80.117161,
     "meso:admin_1":"Col\u00f3n",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693205,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037576,
     "wof:name":"Chagres",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

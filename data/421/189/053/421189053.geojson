@@ -10,6 +10,12 @@
     "geom:latitude":8.620919,
     "geom:longitude":-79.914201,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Chame District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.608443,
     "lbl:longitude":-79.917015,
     "meso:admin_1":"Panama",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421189053,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1553717481,
     "wof:name":"Chame",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048914,
-    "geom:area_square_m":598456117.155499,
+    "geom:area_square_m":598456117.154037,
     "geom:bbox":"-83.052241,8.028139114,-82.7031984624,8.58220501539",
     "geom:latitude":8.321569,
     "geom:longitude":-82.881396,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Bar\u00fa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.350147,
     "lbl:longitude":-82.898541,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693189,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037577,
     "wof:name":"Bar\u00fa",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

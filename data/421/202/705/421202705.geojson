@@ -10,6 +10,12 @@
     "geom:latitude":8.381877,
     "geom:longitude":-82.623549,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Alanje District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.385154,
     "lbl:longitude":-82.62357,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421202705,
-    "wof:lastmodified":1536616149,
+    "wof:lastmodified":1553717564,
     "wof:name":"Alanje",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

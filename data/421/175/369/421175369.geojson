@@ -10,6 +10,12 @@
     "geom:latitude":8.360932,
     "geom:longitude":-78.948344,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Balboa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.372552,
     "lbl:longitude":-78.906903,
     "meso:admin_1":"Panama",
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":421175369,
-    "wof:lastmodified":1536615950,
+    "wof:lastmodified":1553717360,
     "wof:name":"Balboa",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

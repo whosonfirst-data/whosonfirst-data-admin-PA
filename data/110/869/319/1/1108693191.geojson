@@ -10,6 +10,12 @@
     "geom:latitude":9.221106,
     "geom:longitude":-82.251195,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Bocas Del Toro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.14367,
     "lbl:longitude":-82.380151,
     "meso:admin_1":"Bocas del Toro",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108693191,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718240,
     "wof:name":"Bocas Del Toro",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

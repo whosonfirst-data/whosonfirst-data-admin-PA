@@ -10,6 +10,12 @@
     "geom:latitude":8.034063,
     "geom:longitude":-80.579232,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Parita District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.033701,
     "lbl:longitude":-80.568488,
     "meso:admin_1":"Herrera",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421166923,
-    "wof:lastmodified":1536615894,
+    "wof:lastmodified":1553717299,
     "wof:name":"Parita",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

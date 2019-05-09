@@ -10,6 +10,12 @@
     "geom:latitude":8.699894,
     "geom:longitude":-80.534995,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "La Pintada District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.676713,
     "lbl:longitude":-80.537588,
     "meso:admin_1":"Cocl\u00e9",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421189057,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1553717481,
     "wof:name":"La Pintada",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

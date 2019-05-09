@@ -10,6 +10,12 @@
     "geom:latitude":7.692548,
     "geom:longitude":-80.669281,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Los Pozos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.739279,
     "lbl:longitude":-80.631832,
     "meso:admin_1":"Herrera",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108693231,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718242,
     "wof:name":"Los Pozos",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

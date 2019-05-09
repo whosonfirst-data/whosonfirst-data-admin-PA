@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032828,
-    "geom:area_square_m":400363709.585902,
+    "geom:area_square_m":400363709.585978,
     "geom:bbox":"-79.8043520038,9.36751199151,-79.5205883953,9.634694099",
     "geom:latitude":9.495271,
     "geom:longitude":-79.643702,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Portobelo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.495474,
     "lbl:longitude":-79.643818,
     "meso:admin_1":"Col\u00f3n",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693257,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037576,
     "wof:name":"Portobelo",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

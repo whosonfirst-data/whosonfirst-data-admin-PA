@@ -10,6 +10,12 @@
     "geom:latitude":7.951424,
     "geom:longitude":-81.153434,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "R\u00edo de Jes\u00fas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.951233,
     "lbl:longitude":-81.169213,
     "meso:admin_1":"Veraguas",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108693263,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718242,
     "wof:name":"R\u00edo de Jes\u00fas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

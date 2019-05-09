@@ -10,6 +10,12 @@
     "geom:latitude":7.777473,
     "geom:longitude":-80.35387,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Guarar\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.759938,
     "lbl:longitude":-80.392961,
     "meso:admin_1":"Los Santos",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693219,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718241,
     "wof:name":"Guarar\u00e9",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

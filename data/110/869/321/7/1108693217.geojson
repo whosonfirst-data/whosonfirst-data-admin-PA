@@ -10,6 +10,12 @@
     "geom:latitude":8.962355,
     "geom:longitude":-80.521524,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Donoso District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.013443,
     "lbl:longitude":-80.402627,
     "meso:admin_1":"Col\u00f3n",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693217,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718241,
     "wof:name":"Donoso",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

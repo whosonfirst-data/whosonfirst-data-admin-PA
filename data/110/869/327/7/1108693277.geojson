@@ -10,6 +10,12 @@
     "geom:latitude":8.194923,
     "geom:longitude":-81.647396,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Tol\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.201949,
     "lbl:longitude":-81.657047,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108693277,
-    "wof:lastmodified":1536615309,
+    "wof:lastmodified":1553718242,
     "wof:name":"Tol\u00e9",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

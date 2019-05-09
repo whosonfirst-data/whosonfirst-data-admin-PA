@@ -10,6 +10,12 @@
     "geom:latitude":8.529946,
     "geom:longitude":-82.031914,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Besiko District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.542748,
     "lbl:longitude":-82.018202,
     "meso:admin_1":"Ng\u00f6be Bugl\u00e9",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421184905,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1553717432,
     "wof:name":"Besiko",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

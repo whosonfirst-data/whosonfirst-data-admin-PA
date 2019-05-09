@@ -10,6 +10,12 @@
     "geom:latitude":7.925014,
     "geom:longitude":-80.811376,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Oc\u00fa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.916609,
     "lbl:longitude":-80.811369,
     "meso:admin_1":"Herrera",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693247,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718241,
     "wof:name":"Oc\u00fa",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

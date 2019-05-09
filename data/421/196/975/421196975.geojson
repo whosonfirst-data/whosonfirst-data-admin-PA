@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170695,
-    "geom:area_square_m":2083481362.517253,
+    "geom:area_square_m":2083481362.517619,
     "geom:bbox":"-79.6914800882,8.928972244,-79.1332383849,9.49828067827",
     "geom:latitude":9.207578,
     "geom:longitude":-79.42155,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Panam\u00e1 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.2325,
     "lbl:longitude":-79.419035,
     "meso:admin_1":"Panama",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421196975,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1555037065,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

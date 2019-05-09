@@ -10,6 +10,12 @@
     "geom:latitude":8.316263,
     "geom:longitude":-82.114018,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.311067,
     "lbl:longitude":-82.08426,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693267,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718242,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

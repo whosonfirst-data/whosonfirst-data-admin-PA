@@ -10,6 +10,12 @@
     "geom:latitude":8.168632,
     "geom:longitude":-81.225659,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "La Mesa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.162814,
     "lbl:longitude":-81.195488,
     "meso:admin_1":"Veraguas",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108693225,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718241,
     "wof:name":"La Mesa",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

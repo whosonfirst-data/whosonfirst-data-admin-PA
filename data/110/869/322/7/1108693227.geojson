@@ -10,6 +10,12 @@
     "geom:latitude":7.732415,
     "geom:longitude":-80.799673,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Las Minas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.73122,
     "lbl:longitude":-80.790451,
     "meso:admin_1":"Herrera",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108693227,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718241,
     "wof:name":"Las Minas",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

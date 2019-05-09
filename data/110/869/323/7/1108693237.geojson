@@ -10,6 +10,12 @@
     "geom:latitude":7.657935,
     "geom:longitude":-80.541537,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Macaracas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.668754,
     "lbl:longitude":-80.504125,
     "meso:admin_1":"Los Santos",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108693237,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718240,
     "wof:name":"Macaracas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

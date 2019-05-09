@@ -10,6 +10,12 @@
     "geom:latitude":9.06006,
     "geom:longitude":-79.489175,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "San Miguelito District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.059219,
     "lbl:longitude":-79.488153,
     "meso:admin_1":"Panama",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421175375,
-    "wof:lastmodified":1536615950,
+    "wof:lastmodified":1553717360,
     "wof:name":"San Miguelito",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

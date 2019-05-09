@@ -10,6 +10,12 @@
     "geom:latitude":7.641549,
     "geom:longitude":-80.308119,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Las Tablas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.632473,
     "lbl:longitude":-80.319897,
     "meso:admin_1":"Los Santos",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421172507,
-    "wof:lastmodified":1536615943,
+    "wof:lastmodified":1553717345,
     "wof:name":"Las Tablas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

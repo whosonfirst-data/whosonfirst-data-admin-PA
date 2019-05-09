@@ -10,6 +10,12 @@
     "geom:latitude":8.981524,
     "geom:longitude":-82.20287,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Chiriqu\u00ed Grande District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.933318,
     "lbl:longitude":-82.159237,
     "meso:admin_1":"Bocas del Toro",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693209,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718241,
     "wof:name":"Chiriqu\u00ed Grande",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

@@ -10,6 +10,9 @@
     "geom:latitude":7.569455,
     "geom:longitude":-81.549112,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Montijo County"
+    ],
     "lbl:latitude":7.490747,
     "lbl:longitude":-81.792909,
     "meso:admin_1":"Veraguas",
@@ -39,15 +42,19 @@
         "Montijo District"
     ],
     "name:eng_x_preferred":[
-        "Montijo District"
+        "Montijo"
     ],
     "name:eng_x_variant":[
+        "Montijo",
         "Montijo"
     ],
     "name:eus_x_preferred":[
         "Montijo"
     ],
     "name:fra_x_preferred":[
+        "Montijo"
+    ],
+    "name:fre_x_preferred":[
         "Montijo"
     ],
     "name:glg_x_preferred":[
@@ -128,7 +135,7 @@
         }
     ],
     "wof:id":421171341,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1555220345,
     "wof:name":"Montijo",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.895169,
     "geom:longitude":-80.615802,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Pes\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.893035,
     "lbl:longitude":-80.613512,
     "meso:admin_1":"Herrera",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693253,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718241,
     "wof:name":"Pes\u00e9",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

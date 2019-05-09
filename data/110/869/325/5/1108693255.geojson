@@ -10,6 +10,12 @@
     "geom:latitude":7.631895,
     "geom:longitude":-80.158695,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Pocr\u00ed District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.631552,
     "lbl:longitude":-80.157356,
     "meso:admin_1":"Los Santos",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108693255,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718241,
     "wof:name":"Pocr\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

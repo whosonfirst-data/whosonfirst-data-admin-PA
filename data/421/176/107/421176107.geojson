@@ -10,6 +10,12 @@
     "geom:latitude":9.116003,
     "geom:longitude":-78.6524,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Chepo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.14521,
     "lbl:longitude":-78.65226,
     "meso:admin_1":"Panama",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421176107,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1553717365,
     "wof:name":"Chepo",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

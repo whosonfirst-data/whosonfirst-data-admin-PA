@@ -10,6 +10,12 @@
     "geom:latitude":7.97579,
     "geom:longitude":-80.448952,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Chitr\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.975772,
     "lbl:longitude":-80.444241,
     "meso:admin_1":"Herrera",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421189055,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1553717481,
     "wof:name":"Chitr\u00e9",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

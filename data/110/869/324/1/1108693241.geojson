@@ -10,6 +10,12 @@
     "geom:latitude":8.459429,
     "geom:longitude":-81.877607,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Miron\u00f3 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.394941,
     "lbl:longitude":-81.862081,
     "meso:admin_1":"Ng\u00f6be Bugl\u00e9",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108693241,
-    "wof:lastmodified":1536615308,
+    "wof:lastmodified":1553718240,
     "wof:name":"Miron\u00f3",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.257536,
     "geom:longitude":-81.90191,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "San F\u00e9lix District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.257373,
     "lbl:longitude":-81.901961,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":421176641,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1553717365,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

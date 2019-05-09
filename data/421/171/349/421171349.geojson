@@ -10,6 +10,12 @@
     "geom:latitude":7.860303,
     "geom:longitude":-81.344365,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Son\u00e1 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.827857,
     "lbl:longitude":-81.358864,
     "meso:admin_1":"Veraguas",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421171349,
-    "wof:lastmodified":1536615925,
+    "wof:lastmodified":1553717325,
     "wof:name":"Son\u00e1",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

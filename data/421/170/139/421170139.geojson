@@ -10,6 +10,12 @@
     "geom:latitude":9.229236,
     "geom:longitude":-82.640005,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Changuinola District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.240442,
     "lbl:longitude":-82.666213,
     "meso:admin_1":"Bocas del Toro",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421170139,
-    "wof:lastmodified":1536615907,
+    "wof:lastmodified":1553717311,
     "wof:name":"Changuinola",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

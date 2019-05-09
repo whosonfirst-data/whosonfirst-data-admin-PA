@@ -10,6 +10,12 @@
     "geom:latitude":8.62047,
     "geom:longitude":-82.465462,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Dolega District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.614059,
     "lbl:longitude":-82.473571,
     "meso:admin_1":"Chiriqu\u00ed",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421171219,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1553717322,
     "wof:name":"Dolega",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

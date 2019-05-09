@@ -10,6 +10,12 @@
     "geom:latitude":8.209287,
     "geom:longitude":-80.604999,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Aguadulce District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.207694,
     "lbl:longitude":-80.591393,
     "meso:admin_1":"Cocl\u00e9",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108693183,
-    "wof:lastmodified":1536615306,
+    "wof:lastmodified":1553718239,
     "wof:name":"Aguadulce",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

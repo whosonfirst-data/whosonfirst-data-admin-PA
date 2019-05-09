@@ -10,6 +10,12 @@
     "geom:latitude":8.422846,
     "geom:longitude":-77.612906,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "C\u00e9maco District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.427478,
     "lbl:longitude":-77.617775,
     "meso:admin_1":"Ember\u00e1",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108693203,
-    "wof:lastmodified":1536615307,
+    "wof:lastmodified":1553718240,
     "wof:name":"C\u00e9maco",
     "wof:parent_id":85675811,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.036454,
     "geom:longitude":-80.967739,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Santiago District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.119833,
     "lbl:longitude":-81.00913,
     "meso:admin_1":"Veraguas",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421199909,
-    "wof:lastmodified":1536616132,
+    "wof:lastmodified":1553717548,
     "wof:name":"Santiago",
     "wof:parent_id":85675791,
     "wof:placetype":"county",
