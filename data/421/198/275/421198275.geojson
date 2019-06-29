@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5723\u8d39\u5229\u65af"
-    ],
     "name:eng_x_preferred":[
         "San F\u00e9lix"
     ],
@@ -24,6 +21,9 @@
     ],
     "name:spa_x_preferred":[
         "San F\u00e9lix"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u8d39\u5229\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":421198275,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561777246,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":421176641,
     "wof:placetype":"locality",

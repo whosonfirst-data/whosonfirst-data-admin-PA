@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0627\u0631\u064a\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Darien"
-    ],
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09b0\u09bf\u09af\u09bc\u09c7\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -44,20 +41,14 @@
     "name:ces_x_preferred":[
         "Dari\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u9023\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Dari\u00e9n"
-    ],
     "name:dan_x_preferred":[
         "Dari\u00e9n Province"
     ],
     "name:deu_x_preferred":[
         "Provinz Dari\u00e9n"
     ],
-    "name:dut_x_preferred":[
-        "Dari\u00e9n"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c1\u03b9\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dari\u00e9n"
@@ -73,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Dari\u00e9n"
-    ],
-    "name:fre_x_preferred":[
-        "Dari\u00e9n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e0\u10d8\u10d4\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Dari\u00e9n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03c1\u03b9\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0ab0\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cc7\u0cb0\u0cbf\u0caf\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10d8\u10d4\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub2e4\ub9ac\uc5d4 \uc8fc"
     ],
@@ -116,10 +98,13 @@
     "name:mar_x_preferred":[
         "\u0921\u0945\u0930\u093f\u090f\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Darien Province"
     ],
     "name:nah_x_preferred":[
+        "Dari\u00e9n"
+    ],
+    "name:nld_x_preferred":[
         "Dari\u00e9n"
     ],
     "name:nob_x_preferred":[
@@ -137,7 +122,7 @@
     "name:que_x_preferred":[
         "Dari\u00e9n pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Dari\u00e9n"
     ],
     "name:rus_x_preferred":[
@@ -182,6 +167,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Dari\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u9023\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PAN",
@@ -306,7 +294,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550495,
+    "wof:lastmodified":1561777206,
     "wof:name":"Dari\u00e9n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

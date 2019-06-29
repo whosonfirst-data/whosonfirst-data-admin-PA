@@ -16,20 +16,11 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u0431\u0438\u0442\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Guabito"
-    ],
     "name:eng_x_preferred":[
         "Guabito"
     ],
     "name:fra_x_preferred":[
         "Guabito"
-    ],
-    "name:fre_x_preferred":[
-        "Guabito"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10d1\u10d8\u10e2\u10dd"
     ],
     "name:ita_x_preferred":[
         "Guabito"
@@ -91,7 +82,7 @@
         }
     ],
     "wof:id":421179591,
-    "wof:lastmodified":1527717710,
+    "wof:lastmodified":1561777249,
     "wof:name":"Guabito",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

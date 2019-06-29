@@ -19,9 +19,6 @@
     "name:eng_x_preferred":[
         "Sortov\u00e1"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10e0\u10e2\u10dd\u10d5\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Sortov\u00e1"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421173349,
-    "wof:lastmodified":1527716257,
+    "wof:lastmodified":1561777244,
     "wof:name":"Sortov\u00e1",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

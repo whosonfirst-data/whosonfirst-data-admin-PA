@@ -19,16 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Valle del Risco"
-    ],
     "name:eng_x_preferred":[
         "Valle del Risco"
     ],
-    "name:geo_x_preferred":[
+    "name:ita_x_preferred":[
+        "Valle del Risco"
+    ],
+    "name:kat_x_preferred":[
         "\u10d5\u10d0\u10da\u10d8\u10d4-\u10d3\u10d4\u10da-\u10e0\u10d8\u10e1\u10d9\u10dd"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Valle del Risco"
     ],
     "name:spa_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1126028063,
-    "wof:lastmodified":1514494902,
+    "wof:lastmodified":1561777252,
     "wof:name":"Risco",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

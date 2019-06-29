@@ -31,12 +31,6 @@
     "mps:longitude":-80.157356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6ce2\u514b\u91cc\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Pocr\u00ed District"
-    ],
     "name:eng_x_preferred":[
         "Pocr\u00ed"
     ],
@@ -46,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Pocr\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Pocr\u00ed District"
     ],
     "name:por_x_preferred":[
         "Pocr\u00ed"
@@ -58,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Pocr\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u514b\u91cc\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108693255,
-    "wof:lastmodified":1553718241,
+    "wof:lastmodified":1561777231,
     "wof:name":"Pocr\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

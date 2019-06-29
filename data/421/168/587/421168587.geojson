@@ -16,9 +16,6 @@
     "name:eng_x_preferred":[
         "Los Anastacios"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e1-\u10d0\u10dc\u10d0\u10e1\u10e2\u10d0\u10e1\u10d8\u10dd\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Los Anastacios"
     ],
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":421168587,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1561777241,
     "wof:name":"Los Anastacios",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

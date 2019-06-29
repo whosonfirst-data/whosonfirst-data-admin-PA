@@ -16,17 +16,17 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0430\u0442\u0443\u043f\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Mulatupo"
-    ],
     "name:eng_x_preferred":[
         "Mulatupo"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10da\u10d0\u10e2\u10e3\u10de\u10dd"
-    ],
     "name:jpn_x_preferred":[
         "\u30e0\u30e9\u30c8\u30a5\u30dd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10da\u10d0\u10e2\u10e3\u10de\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Mulatupo"
     ],
     "name:spa_x_preferred":[
         "Mulatupu"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421169923,
-    "wof:lastmodified":1514494887,
+    "wof:lastmodified":1561777242,
     "wof:name":"Mulatupo Sasard\u00ed",
     "wof:parent_id":1108693213,
     "wof:placetype":"locality",

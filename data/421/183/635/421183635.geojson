@@ -16,14 +16,14 @@
     "name:cuk_x_preferred":[
         "Akuanasutupu"
     ],
-    "name:dut_x_preferred":[
-        "Corazon de Jesus"
-    ],
     "name:eng_x_preferred":[
         "Coraz\u00f3n de Jes\u00fas"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30e9\u30bd\u30f3\u30fb\u30c7\u30fb\u30d8\u30b9\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Corazon de Jesus"
     ],
     "name:pol_x_preferred":[
         "Coraz\u00f3n de Jes\u00fas"
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":421183635,
-    "wof:lastmodified":1514494859,
+    "wof:lastmodified":1561777249,
     "wof:name":"Coraz\u00f3n de Jes\u00fas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

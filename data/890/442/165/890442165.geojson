@@ -21,13 +21,13 @@
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0628\u0648\u0631\u0641\u064a\u0646\u064a\u0631"
     ],
+    "name:deu_x_preferred":[
+        "El Porvenir"
+    ],
     "name:eng_x_preferred":[
         "El Porvenir"
     ],
-    "name:fre_x_preferred":[
-        "El Porvenir"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "El Porvenir"
     ],
     "name:jpn_x_preferred":[
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":890442165,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561777251,
     "wof:name":"El Porvenir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

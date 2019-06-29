@@ -16,9 +16,6 @@
     "name:eng_x_preferred":[
         "Potrerillos Arriba"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e2\u10e0\u10d4\u10e0\u10d8\u10da\u10d8\u10dd\u10e1-\u10d0\u10e0\u10d8\u10d1\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10e2\u10e0\u10d4\u10e0\u10d8\u10da\u10d8\u10dd\u10e1-\u10d0\u10e0\u10d8\u10d1\u10d0"
     ],
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":421201783,
-    "wof:lastmodified":1527716436,
+    "wof:lastmodified":1561777248,
     "wof:name":"Potrerillos Arriba",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

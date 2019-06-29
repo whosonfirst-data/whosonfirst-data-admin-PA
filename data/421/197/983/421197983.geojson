@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "B\u00e1gala"
-    ],
     "name:eng_x_preferred":[
         "B\u00e1gala"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d2\u10d0\u10da\u10d0"
     ],
     "name:ita_x_preferred":[
         "B\u00e1gala"
@@ -82,7 +76,7 @@
         }
     ],
     "wof:id":421197983,
-    "wof:lastmodified":1527716402,
+    "wof:lastmodified":1561777247,
     "wof:name":"B\u00e1gala",
     "wof:parent_id":1108693193,
     "wof:placetype":"locality",

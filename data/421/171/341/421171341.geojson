@@ -32,14 +32,8 @@
     "name:ceb_x_preferred":[
         "Montijo"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u8482\u970d\u5340"
-    ],
     "name:deu_x_preferred":[
         "Montijo"
-    ],
-    "name:dut_x_preferred":[
-        "Montijo District"
     ],
     "name:eng_x_preferred":[
         "Montijo"
@@ -54,9 +48,6 @@
     "name:fra_x_preferred":[
         "Montijo"
     ],
-    "name:fre_x_preferred":[
-        "Montijo"
-    ],
     "name:glg_x_preferred":[
         "Montijo"
     ],
@@ -65,6 +56,9 @@
     ],
     "name:nld_x_preferred":[
         "Montijo"
+    ],
+    "name:nld_x_variant":[
+        "Montijo District"
     ],
     "name:por_x_preferred":[
         "Montijo"
@@ -86,6 +80,9 @@
     ],
     "name:vie_x_preferred":[
         "Montijo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u8482\u970d\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -135,7 +132,7 @@
         }
     ],
     "wof:id":421171341,
-    "wof:lastmodified":1555220345,
+    "wof:lastmodified":1561777250,
     "wof:name":"Montijo",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

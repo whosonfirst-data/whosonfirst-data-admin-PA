@@ -16,12 +16,6 @@
     "name:cat_x_preferred":[
         "Anc\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u8d21"
-    ],
-    "name:dut_x_preferred":[
-        "Anc\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "Anc\u00f3n"
     ],
@@ -29,9 +23,6 @@
         "\u0627\u0646\u06a9\u0648\u0646\u060c \u067e\u0627\u0646\u0627\u0645\u0627"
     ],
     "name:fra_x_preferred":[
-        "Anc\u00f3n"
-    ],
-    "name:fre_x_preferred":[
         "Anc\u00f3n"
     ],
     "name:heb_x_preferred":[
@@ -48,9 +39,6 @@
     ],
     "name:nob_x_preferred":[
         "Anc\u00f3n"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u06a9\u0648\u0646\u060c \u067e\u0627\u0646\u0627\u0645\u0627"
     ],
     "name:por_x_preferred":[
         "Anc\u00f3n"
@@ -109,7 +97,7 @@
         }
     ],
     "wof:id":421197963,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561777247,
     "wof:name":"Anc\u00f3n",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

@@ -19,28 +19,13 @@
     "name:cat_x_preferred":[
         "La Chorrera"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7956\u5229\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "La Chorrera"
-    ],
-    "name:dut_x_preferred":[
         "La Chorrera"
     ],
     "name:eng_x_preferred":[
         "La Chorrera"
     ],
     "name:fra_x_preferred":[
-        "La Chorrera"
-    ],
-    "name:fre_x_preferred":[
-        "La Chorrera"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10e9\u10dd\u10e0\u10d4\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "La Chorrera"
     ],
     "name:gla_x_preferred":[
@@ -87,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0634\u0648\u0631\u06cc\u0631\u0627\u060c \u067e\u0627\u0646\u0627\u0645\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7956\u5229\u62c9"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -146,7 +134,7 @@
         }
     ],
     "wof:id":421181941,
-    "wof:lastmodified":1553816371,
+    "wof:lastmodified":1561777245,
     "wof:name":"La Chorrera",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

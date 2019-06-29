@@ -32,12 +32,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4f69\u9054\u897f\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Pedas\u00ed District"
-    ],
     "name:eng_x_preferred":[
         "Pedas\u00ed"
     ],
@@ -47,6 +41,9 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Pedas\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Pedas\u00ed District"
     ],
     "name:pol_x_preferred":[
         "Pedas\u00ed"
@@ -65,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "Pedas\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u9054\u897f\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":421202587,
-    "wof:lastmodified":1553717563,
+    "wof:lastmodified":1561777243,
     "wof:name":"Pedas\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

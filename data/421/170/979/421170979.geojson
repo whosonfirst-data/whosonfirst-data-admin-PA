@@ -16,9 +16,6 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0438\u0440\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Bisira"
-    ],
     "name:eng_x_preferred":[
         "Bisira"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421170979,
-    "wof:lastmodified":1527716464,
+    "wof:lastmodified":1561777248,
     "wof:name":"Bisira",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

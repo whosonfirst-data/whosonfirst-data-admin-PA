@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u963f\u5c14\u6258\u535a\u514b\u7279"
-    ],
     "name:eng_x_preferred":[
         "Alto Boquete"
     ],
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":421183633,
-    "wof:lastmodified":1527716490,
+    "wof:lastmodified":1561777249,
     "wof:name":"Alto Boquete",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

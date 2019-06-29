@@ -35,12 +35,6 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62ff\u99ac\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Panam\u00e1 District"
-    ],
     "name:eng_x_preferred":[
         "Panam\u00e1"
     ],
@@ -50,6 +44,9 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Panama"
+    ],
+    "name:nld_x_preferred":[
+        "Panam\u00e1 District"
     ],
     "name:por_x_preferred":[
         "Panam\u00e1"
@@ -71,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Panam\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62ff\u99ac\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":421196975,
-    "wof:lastmodified":1555037065,
+    "wof:lastmodified":1561777246,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

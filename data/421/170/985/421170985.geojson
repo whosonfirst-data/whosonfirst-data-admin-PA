@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Chichica"
-    ],
     "name:eng_x_preferred":[
         "Chichica"
     ],
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":421170985,
-    "wof:lastmodified":1527716465,
+    "wof:lastmodified":1561777248,
     "wof:name":"Chichica",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

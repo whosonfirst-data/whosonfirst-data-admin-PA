@@ -16,20 +16,11 @@
     "name:bel_x_variant":[
         "\u0410\u0440\u0430\u0439\u0445\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Arraij\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Arraij\u00e1n"
     ],
     "name:fra_x_preferred":[
         "Arraij\u00e1n"
-    ],
-    "name:fre_x_preferred":[
-        "Arraij\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d0\u10d8\u10ee\u10d0\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Arraij\u00e1n"
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":421179603,
-    "wof:lastmodified":1514494829,
+    "wof:lastmodified":1561777249,
     "wof:name":"Arraij\u00e1n",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

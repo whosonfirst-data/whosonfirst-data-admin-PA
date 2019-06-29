@@ -16,16 +16,7 @@
     "name:deu_x_preferred":[
         "Ant\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Ant\u00f3n"
-    ],
     "name:eng_x_preferred":[
-        "Ant\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Ant\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -94,7 +85,7 @@
         }
     ],
     "wof:id":421176517,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561777250,
     "wof:name":"Ant\u00f3n",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

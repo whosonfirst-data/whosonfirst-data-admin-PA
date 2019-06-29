@@ -16,13 +16,13 @@
     "name:deu_x_preferred":[
         "Las ma\u00f1anitas"
     ],
-    "name:dut_x_preferred":[
-        "Las Ma\u00f1anitas"
-    ],
     "name:eng_x_preferred":[
         "Las Ma\u00f1anitas"
     ],
     "name:ita_x_preferred":[
+        "Las Ma\u00f1anitas"
+    ],
+    "name:nld_x_preferred":[
         "Las Ma\u00f1anitas"
     ],
     "name:por_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421184003,
-    "wof:lastmodified":1527716453,
+    "wof:lastmodified":1561777248,
     "wof:name":"Las Ma\u00f1anitas",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

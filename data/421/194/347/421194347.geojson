@@ -16,9 +16,6 @@
     "name:eng_x_preferred":[
         "Los Algarrobos"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e1-\u10d0\u10da\u10d2\u10d0\u10e0\u10dd\u10d1\u10dd\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Los Algarrobos"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421194347,
-    "wof:lastmodified":1527716132,
+    "wof:lastmodified":1561777241,
     "wof:name":"Los Algarrobos Arriba",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

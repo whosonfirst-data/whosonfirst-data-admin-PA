@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Coetupo"
-    ],
     "name:eng_x_preferred":[
         "Coetupo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10d4\u10e2\u10e3\u10de\u10dd"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10d4\u10e2\u10e3\u10de\u10dd"
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421204911,
-    "wof:lastmodified":1527716187,
+    "wof:lastmodified":1561777242,
     "wof:name":"Coetupo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

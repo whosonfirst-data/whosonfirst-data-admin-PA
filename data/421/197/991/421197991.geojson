@@ -13,12 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u57c3\u5c14\u7f57\u592b\u83b1"
-    ],
-    "name:dut_x_preferred":[
-        "El Roble"
-    ],
     "name:eng_x_preferred":[
         "El Roble"
     ],
@@ -82,7 +76,7 @@
         }
     ],
     "wof:id":421197991,
-    "wof:lastmodified":1527716399,
+    "wof:lastmodified":1561777247,
     "wof:name":"El Roble",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

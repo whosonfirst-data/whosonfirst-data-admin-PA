@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Boca de Parita"
-    ],
     "name:eng_x_preferred":[
         "Boca de Parita"
     ],
@@ -70,7 +67,7 @@
         }
     ],
     "wof:id":421185839,
-    "wof:lastmodified":1527726511,
+    "wof:lastmodified":1561777251,
     "wof:name":"Boca de Parita",
     "wof:parent_id":421189055,
     "wof:placetype":"locality",

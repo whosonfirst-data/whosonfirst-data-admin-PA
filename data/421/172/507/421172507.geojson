@@ -35,12 +35,6 @@
     "name:ceb_x_preferred":[
         "Las Tablas"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u5854\u5f17\u62c9\u65af\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Las Tablas District"
-    ],
     "name:eng_x_preferred":[
         "Las Tablas"
     ],
@@ -53,6 +47,9 @@
     ],
     "name:ita_x_preferred":[
         "Las Tablas"
+    ],
+    "name:nld_x_preferred":[
+        "Las Tablas District"
     ],
     "name:por_x_preferred":[
         "Las Tablas"
@@ -68,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Las Tablas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u5854\u5f17\u62c9\u65af\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":421172507,
-    "wof:lastmodified":1553717345,
+    "wof:lastmodified":1561777245,
     "wof:name":"Las Tablas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

@@ -137,9 +137,6 @@
     "name:cym_x_variant":[
         "Panam\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Panama"
-    ],
     "name:dan_x_preferred":[
         "Panama"
     ],
@@ -526,9 +523,6 @@
     "name:ron_x_preferred":[
         "Panama"
     ],
-    "name:rum_x_preferred":[
-        "Panama"
-    ],
     "name:run_x_preferred":[
         "Panama"
     ],
@@ -729,7 +723,6 @@
         "\u5df4\u62ff\u9a6c"
     ],
     "name:zho_x_variant":[
-        "\u5df4\u62ff\u9a6c",
         "\u5df4\u62ff\u99ac"
     ],
     "name:zho_yue_x_preferred":[
@@ -888,7 +881,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1544059194,
+    "wof:lastmodified":1561777208,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

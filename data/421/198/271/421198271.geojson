@@ -13,12 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u52a0\u62c9\u5947\u5185"
-    ],
-    "name:dut_x_preferred":[
-        "Garachin\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Garachin\u00e9"
     ],
@@ -85,7 +79,7 @@
         }
     ],
     "wof:id":421198271,
-    "wof:lastmodified":1527716356,
+    "wof:lastmodified":1561777246,
     "wof:name":"Garachin\u00e9",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",
