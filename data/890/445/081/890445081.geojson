@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020326,
-    "geom:area_square_m":248210621.469253,
+    "geom:area_square_m":248210621.46927,
     "geom:bbox":"-79.5958691278,8.928972244,-79.3319835658,9.13323754699",
     "geom:latitude":9.043435,
     "geom:longitude":-79.450614,
@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Panama-stad"
     ],
-    "name:alb_x_preferred":[
-        "Qyteti i Panamas\u00eb"
-    ],
     "name:amh_x_preferred":[
         "\u1353\u1293\u121b \u12a8\u1270\u121b"
     ],
@@ -36,9 +33,6 @@
     ],
     "name:arg_x_preferred":[
         "Ziud\u00e1 de Panam\u00e1"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u0576\u0561\u0574\u0561"
     ],
     "name:arz_x_preferred":[
         "\u067e\u0627\u0646\u0627\u0645\u0627 \u0633\u064a\u062a\u0649"
@@ -52,14 +46,14 @@
     "name:aze_x_preferred":[
         "Panama"
     ],
-    "name:baq_x_preferred":[
-        "Panama Hiria"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043d\u0430\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a8\u09be\u09ae\u09be \u09b8\u09bf\u099f\u09bf"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f54\u0f0b\u0f53\u0f0b\u0f58\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Panama City"
@@ -76,26 +70,23 @@
     "name:cdo_x_preferred":[
         "Panama Ch\u00ea"
     ],
+    "name:ces_x_preferred":[
+        "Ciudad de Panam\u00e1"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62ff\u99ac\u57ce"
     ],
     "name:cym_x_preferred":[
         "Panam\u00e1"
     ],
-    "name:cze_x_preferred":[
-        "Ciudad de Panam\u00e1"
+    "name:cym_x_variant":[
+        "Dinas Panama"
     ],
     "name:dan_x_preferred":[
         "Panama City"
     ],
     "name:deu_x_preferred":[
         "Panama-Stadt"
-    ],
-    "name:dut_x_preferred":[
-        "Panama-Stad"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03bd\u03b1\u03bc\u03ac"
@@ -115,23 +106,20 @@
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631 \u067e\u0627\u0646\u0627\u0645\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0646\u0627\u0645\u0627\u0633\u06cc\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Panam\u00e1"
     ],
     "name:fra_x_preferred":[
         "Panam\u00e1"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Panama"
     ],
     "name:fry_x_preferred":[
         "Panama-St\u00ead"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10dc\u10d0\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Panama-Stadt"
     ],
     "name:gla_x_preferred":[
         "Panama"
@@ -144,9 +132,6 @@
     ],
     "name:glv_x_preferred":[
         "Caayr ny Panamaa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03bd\u03b1\u03bc\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0aa8\u0abe\u0aae\u0abe \u0ab8\u0abf\u0a9f\u0ac0"
@@ -172,8 +157,8 @@
     "name:hun_x_preferred":[
         "Panamav\u00e1ros"
     ],
-    "name:ice_x_preferred":[
-        "Panamaborg"
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0576\u0561\u0574\u0561"
     ],
     "name:ido_x_preferred":[
         "Panama-Urbo"
@@ -184,6 +169,9 @@
     "name:ind_x_preferred":[
         "Kota Panama"
     ],
+    "name:isl_x_preferred":[
+        "Panamaborg"
+    ],
     "name:ita_x_preferred":[
         "Panam\u00e1"
     ],
@@ -192,6 +180,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ca8\u0cbe\u0cae \u0ca8\u0c97\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10d0\u10db\u10d0"
     ],
     "name:kik_x_preferred":[
         "Panama City"
@@ -229,20 +220,20 @@
     "name:ltz_x_preferred":[
         "Panama"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u043d\u0430\u043c\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d28\u0d3e\u0d2e \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0928\u093e\u092e\u093e \u0938\u093f\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Kota Panama"
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430 \u0425\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Kota Panama"
     ],
     "name:nah_x_preferred":[
         "\u0100ltep\u0113tl Panama"
@@ -252,6 +243,9 @@
     ],
     "name:nld_x_preferred":[
         "Panama-stad"
+    ],
+    "name:nld_x_variant":[
+        "Panama-Stad"
     ],
     "name:nno_x_preferred":[
         "Panama by"
@@ -274,9 +268,6 @@
     "name:pap_x_preferred":[
         "Siudad di Panama"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0646\u0627\u0645\u0627\u0633\u06cc\u062a\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Sit\u00e0 \u00ebd Panam\u00e0"
     ],
@@ -295,7 +286,7 @@
     "name:ron_x_preferred":[
         "Panama City"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Ciudad de Panam\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -311,9 +302,6 @@
         "\u0db4\u0dd0\u0db1\u0db8\u0dcf \u0db1\u0d9c\u0dbb\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Panama"
-    ],
-    "name:slo_x_preferred":[
         "Panama"
     ],
     "name:slv_x_preferred":[
@@ -333,6 +321,9 @@
     ],
     "name:spa_x_variant":[
         "Panam\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Qyteti i Panamas\u00eb"
     ],
     "name:srd_x_preferred":[
         "Panam\u00e1"
@@ -361,9 +352,6 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e19\u0e32\u0e21\u0e32\u0e0b\u0e34\u0e15\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f0b\u0f53\u0f0b\u0f58\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Panama"
     ],
@@ -391,9 +379,6 @@
     "name:war_x_preferred":[
         "Syudad han Panam\u00e1"
     ],
-    "name:wel_x_preferred":[
-        "Dinas Panama"
-    ],
     "name:yid_x_preferred":[
         "\u05e4\u05d0\u05e0\u05d0\u05de\u05d0\u05be\u05e9\u05d8\u05d0\u05d8"
     ],
@@ -401,6 +386,9 @@
         "\u00ccl\u00fa Panam\u00e1"
     ],
     "name:yue_x_preferred":[
+        "\u5df4\u62ff\u99ac\u57ce"
+    ],
+    "name:zho_x_preferred":[
         "\u5df4\u62ff\u99ac\u57ce"
     ],
     "ne:ADM0CAP":1.0,
@@ -535,7 +523,7 @@
         }
     ],
     "wof:id":890445081,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561777252,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

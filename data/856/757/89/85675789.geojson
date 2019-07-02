@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.72177,
-    "geom:area_square_m":8813200697.480265,
+    "geom:area_square_m":8813200697.480808,
     "geom:bbox":"-79.6914800882,8.205166817,-78.0625968961,9.49828067827",
     "geom:latitude":9.06861,
     "geom:longitude":-78.850315,
@@ -26,9 +26,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
-    "name:baq_x_preferred":[
-        "Panamako probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
@@ -41,17 +38,8 @@
     "name:ces_x_preferred":[
         "Panama"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62ff\u99ac\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Panama"
-    ],
     "name:deu_x_preferred":[
         "Provinz Panam\u00e1"
-    ],
-    "name:dut_x_preferred":[
-        "Panama"
     ],
     "name:eng_x_preferred":[
         "Panama"
@@ -61,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Panama"
-    ],
-    "name:fre_x_preferred":[
-        "Panama"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10dc\u10d0\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Panam\u00e1"
     ],
     "name:ind_x_preferred":[
         "Panam\u00e1"
@@ -81,6 +60,9 @@
         "\u30d1\u30ca\u30de",
         "\u30d1\u30ca\u30de\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10d0\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\ub098\ub9c8"
     ],
@@ -89,6 +71,9 @@
     ],
     "name:lit_x_preferred":[
         "Panamos provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Panama"
     ],
     "name:nob_x_preferred":[
         "Panam\u00e1"
@@ -105,7 +90,7 @@
     "name:que_x_preferred":[
         "Panama pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Panam\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +123,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u62ff\u9a6c"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u62ff\u99ac\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PAN",
@@ -263,7 +251,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814811,
+    "wof:lastmodified":1561777207,
     "wof:name":"Panama",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

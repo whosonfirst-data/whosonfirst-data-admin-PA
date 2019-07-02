@@ -31,12 +31,6 @@
     "mps:longitude":-80.402627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u591a\u8afe\u7d22\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Donoso District"
-    ],
     "name:eng_x_preferred":[
         "Donoso"
     ],
@@ -46,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Donoso"
+    ],
+    "name:nld_x_preferred":[
+        "Donoso District"
     ],
     "name:por_x_preferred":[
         "Donoso"
@@ -58,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Donoso"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u8afe\u7d22\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108693217,
-    "wof:lastmodified":1553718241,
+    "wof:lastmodified":1561777233,
     "wof:name":"Donoso",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

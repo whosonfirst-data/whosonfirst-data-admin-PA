@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Santa Rita Arriba"
-    ],
     "name:eng_x_preferred":[
         "Santa Rita Arriba"
     ],
@@ -70,7 +67,7 @@
         }
     ],
     "wof:id":421169393,
-    "wof:lastmodified":1527716171,
+    "wof:lastmodified":1561777242,
     "wof:name":"Santa Rita Arriba",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

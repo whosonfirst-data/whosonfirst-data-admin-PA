@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Dival\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Dival\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10d5\u10d0\u10da\u10d0"
     ],
     "name:ita_x_preferred":[
         "Dival\u00e1"
@@ -85,7 +79,7 @@
         }
     ],
     "wof:id":421193109,
-    "wof:lastmodified":1527716147,
+    "wof:lastmodified":1561777242,
     "wof:name":"Dival\u00e1",
     "wof:parent_id":421202705,
     "wof:placetype":"locality",

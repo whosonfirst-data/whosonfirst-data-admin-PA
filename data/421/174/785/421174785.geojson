@@ -13,13 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "San Carlos"
+    ],
     "name:eng_x_preferred":[
         "San Carlos"
     ],
-    "name:fre_x_preferred":[
-        "San Carlos"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Carlos"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421174785,
-    "wof:lastmodified":1514494903,
+    "wof:lastmodified":1561777243,
     "wof:name":"San Carlos",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

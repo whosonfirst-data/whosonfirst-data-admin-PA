@@ -16,23 +16,11 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043b\u0438\u0431\u0440\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u5229\u592b\u96f7"
-    ],
-    "name:dut_x_preferred":[
-        "Chilibre"
-    ],
     "name:eng_x_preferred":[
         "Chilibre"
     ],
     "name:fra_x_preferred":[
         "Chilibre"
-    ],
-    "name:fre_x_preferred":[
-        "Chilibre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10da\u10d8\u10d1\u10e0\u10d4"
     ],
     "name:ita_x_preferred":[
         "Chilibre"
@@ -100,7 +88,7 @@
         }
     ],
     "wof:id":421177319,
-    "wof:lastmodified":1527716486,
+    "wof:lastmodified":1561777249,
     "wof:name":"Chilibre",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

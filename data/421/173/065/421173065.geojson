@@ -13,16 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Gamboa"
-    ],
     "name:eng_x_preferred":[
         "Gamboa"
     ],
     "name:fra_x_preferred":[
         "Gamboa"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Gamboa"
     ],
     "name:spa_x_preferred":[
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":421173065,
-    "wof:lastmodified":1527716255,
+    "wof:lastmodified":1561777244,
     "wof:name":"Gamboa",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

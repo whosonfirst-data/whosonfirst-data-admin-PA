@@ -14,12 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u54c8\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Jaqu\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Jaqu\u00e9"
     ],
@@ -178,7 +172,7 @@
         }
     ],
     "wof:id":421198267,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561777246,
     "wof:name":"Jaqu\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

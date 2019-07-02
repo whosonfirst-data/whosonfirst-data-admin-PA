@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0648\u0633 \u0633\u0627\u0646\u062a\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Los Santosgo probintzia"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09b8 \u09b8\u09be\u09a8\u09cd\u099f\u09cb\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -41,17 +38,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Los Santos"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u6851\u6258\u65af\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Los Santos"
     ],
     "name:dan_x_preferred":[
         "Los Santos Province"
     ],
-    "name:dut_x_preferred":[
-        "Los Santos"
+    "name:deu_x_preferred":[
+        "Provinz Los Santos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c2 \u03a3\u03ac\u03bd\u03c4\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Los Santos"
@@ -59,20 +56,14 @@
     "name:epo_x_preferred":[
         "Los Santos"
     ],
+    "name:eus_x_preferred":[
+        "Los Santosgo probintzia"
+    ],
     "name:fin_x_preferred":[
         "Los Santosin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Los Santos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e1-\u10e1\u10d0\u10dc\u10e2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Los Santos"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c2 \u03a3\u03ac\u03bd\u03c4\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0ab8 \u0ab8\u0abe\u0aa8\u0acd\u0a9f\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -92,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe\u0cb8\u0ccd \u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0ccb\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10e1\u10d0\u10dc\u10e2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub85c\uc2a4\uc0b0\ud1a0\uc2a4 \uc8fc"
     ],
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u0932\u0949\u0938 \u0938\u093e\u0902\u0924\u094b\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Los Santos Province"
+    ],
+    "name:nld_x_preferred":[
+        "Los Santos"
     ],
     "name:nob_x_preferred":[
         "Los Santos Provins"
@@ -122,7 +119,7 @@
     "name:que_x_preferred":[
         "Los Santos pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Los Santos"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +157,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Los Santos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u6851\u6258\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PAN",
@@ -284,7 +284,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550484,
+    "wof:lastmodified":1561777208,
     "wof:name":"Los Santos",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

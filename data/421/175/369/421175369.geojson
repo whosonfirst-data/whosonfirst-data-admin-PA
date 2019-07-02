@@ -38,14 +38,8 @@
     "name:cat_x_preferred":[
         "Balboa"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u723e\u6c83\u963f\u5340"
-    ],
     "name:deu_x_preferred":[
         "Balboa"
-    ],
-    "name:dut_x_preferred":[
-        "Balboa District"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bb\u03bc\u03c0\u03cc\u03b1"
@@ -93,6 +87,9 @@
     "name:nld_x_preferred":[
         "Balboa"
     ],
+    "name:nld_x_variant":[
+        "Balboa District"
+    ],
     "name:nor_x_preferred":[
         "Balboa"
     ],
@@ -125,6 +122,9 @@
     ],
     "name:vie_x_preferred":[
         "Balboa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u6c83\u963f\u5340"
     ],
     "name:zho_yue_x_preferred":[
         "Balboa"
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":421175369,
-    "wof:lastmodified":1553717360,
+    "wof:lastmodified":1561777246,
     "wof:name":"Balboa",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

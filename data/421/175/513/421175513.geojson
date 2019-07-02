@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Ipet\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Ipet\u00ed"
     ],
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":421175513,
-    "wof:lastmodified":1527716345,
+    "wof:lastmodified":1561777246,
     "wof:name":"Ipeti",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

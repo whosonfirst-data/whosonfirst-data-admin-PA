@@ -35,11 +35,8 @@
     "name:bar_x_preferred":[
         "Penonom\u00e9 Distrikt"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u8afe\u8afe\u6885\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Penonom\u00e9"
+    "name:deu_x_preferred":[
+        "Penonom\u00e9 Distrikt"
     ],
     "name:eng_x_preferred":[
         "Penonom\u00e9"
@@ -48,14 +45,14 @@
         "Penonom\u00e9",
         "Penonom\u00e9 District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Penonom\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Penonom\u00e9 Distrikt"
     ],
     "name:ita_x_preferred":[
         "distretto di Penonom\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Penonom\u00e9"
     ],
     "name:por_x_preferred":[
         "Penonom\u00e9"
@@ -71,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Penonom\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u8afe\u8afe\u6885\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":421202589,
-    "wof:lastmodified":1553717563,
+    "wof:lastmodified":1561777243,
     "wof:name":"Penonom\u00e9",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

@@ -38,12 +38,6 @@
     "name:ceb_x_preferred":[
         "San F\u00e9lix"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8cbb\u5229\u65af\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "San F\u00e9lix District"
-    ],
     "name:eng_x_preferred":[
         "San F\u00e9lix"
     ],
@@ -60,6 +54,9 @@
     "name:ita_x_preferred":[
         "distretto di San F\u00e9lix"
     ],
+    "name:nld_x_preferred":[
+        "San F\u00e9lix District"
+    ],
     "name:por_x_preferred":[
         "San F\u00e9lix"
     ],
@@ -74,6 +71,9 @@
     ],
     "name:vie_x_preferred":[
         "San F\u00e9lix"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8cbb\u5229\u65af\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":421176641,
-    "wof:lastmodified":1553717365,
+    "wof:lastmodified":1561777250,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

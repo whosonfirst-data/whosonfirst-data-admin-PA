@@ -19,12 +19,6 @@
     "name:eng_x_preferred":[
         "Volc\u00e1n"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10da\u10d9\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Volc\u00e1n"
-    ],
     "name:ita_x_preferred":[
         "Volc\u00e1n"
     ],
@@ -85,7 +79,7 @@
         }
     ],
     "wof:id":421177321,
-    "wof:lastmodified":1527716486,
+    "wof:lastmodified":1561777249,
     "wof:name":"Volc\u00e1n",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

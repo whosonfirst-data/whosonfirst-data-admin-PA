@@ -16,9 +16,6 @@
     "name:eng_x_preferred":[
         "El Empalme"
     ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d4\u10db\u10de\u10d0\u10da\u10db\u10d4"
-    ],
     "name:ita_x_preferred":[
         "El Empalme"
     ],
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":421192109,
-    "wof:lastmodified":1527716113,
+    "wof:lastmodified":1561777241,
     "wof:name":"El Empalme",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

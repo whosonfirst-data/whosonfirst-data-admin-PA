@@ -16,20 +16,20 @@
     "name:cat_x_preferred":[
         "Para\u00edso"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u62c9\u4f0a\u7d22"
-    ],
-    "name:dut_x_preferred":[
-        "Para\u00edso"
-    ],
     "name:eng_x_preferred":[
         "Para\u00edso"
     ],
     "name:glg_x_preferred":[
         "Para\u00edso"
     ],
+    "name:nld_x_preferred":[
+        "Para\u00edso"
+    ],
     "name:spa_x_preferred":[
         "Para\u00edso"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u4f0a\u7d22"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421187279,
-    "wof:lastmodified":1514494898,
+    "wof:lastmodified":1561777244,
     "wof:name":"Para\u00edso",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

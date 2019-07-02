@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Yaviza"
     ],
-    "name:dut_x_preferred":[
-        "Yaviza"
-    ],
     "name:eng_x_preferred":[
         "Yaviza"
     ],
     "name:fra_x_preferred":[
-        "Yaviza"
-    ],
-    "name:fre_x_preferred":[
-        "Yaviza"
-    ],
-    "name:ger_x_preferred":[
         "Yaviza"
     ],
     "name:hun_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421174237,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1561777243,
     "wof:name":"Yaviza",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

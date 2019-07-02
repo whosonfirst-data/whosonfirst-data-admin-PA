@@ -32,9 +32,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5730\u7259\u54e5\u5340"
-    ],
     "name:eng_x_preferred":[
         "Santiago"
     ],
@@ -49,6 +46,9 @@
     ],
     "name:vie_x_preferred":[
         "Santiago"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5730\u7259\u54e5\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":421199909,
-    "wof:lastmodified":1553717548,
+    "wof:lastmodified":1561777247,
     "wof:name":"Santiago",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

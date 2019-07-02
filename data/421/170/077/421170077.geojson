@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u91cc\u7ea6\u585e\u96f7\u8bfa"
-    ],
     "name:eng_x_preferred":[
         "R\u00edo Sereno"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10dd-\u10e1\u10d4\u10e0\u10d4\u10dc\u10dd"
     ],
     "name:ita_x_preferred":[
         "R\u00edo Sereno"
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":421170077,
-    "wof:lastmodified":1527716459,
+    "wof:lastmodified":1561777248,
     "wof:name":"R\u00edo Sereno",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -13,12 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5965\u5e93"
-    ],
-    "name:dut_x_preferred":[
-        "Oc\u00fa"
-    ],
     "name:eng_x_preferred":[
         "Oc\u00fa"
     ],
@@ -81,7 +75,7 @@
         }
     ],
     "wof:id":421185823,
-    "wof:lastmodified":1514494892,
+    "wof:lastmodified":1561777251,
     "wof:name":"Oc\u00fa",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

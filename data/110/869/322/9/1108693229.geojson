@@ -31,12 +31,6 @@
     "mps:longitude":-81.512446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u5e15\u723e\u99ac\u65af\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Las Palmas District"
-    ],
     "name:eng_x_preferred":[
         "Las Palmas"
     ],
@@ -46,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Las Palmas"
+    ],
+    "name:nld_x_preferred":[
+        "Las Palmas District"
     ],
     "name:spa_x_preferred":[
         "Las Palmas"
@@ -58,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Las Palmas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u5e15\u723e\u99ac\u65af\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108693229,
-    "wof:lastmodified":1553718242,
+    "wof:lastmodified":1561777231,
     "wof:name":"Las Palmas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

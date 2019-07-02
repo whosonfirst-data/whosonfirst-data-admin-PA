@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0634\u064a\u0631\u064a\u0643\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Chiriqui"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09b0\u09bf\u0995\u09c1\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -44,20 +41,14 @@
     "name:ces_x_preferred":[
         "Chiriqu\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u91cc\u57fa\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Chiriqu\u00ed"
-    ],
     "name:dan_x_preferred":[
         "Chiriqu\u00ed Province"
     ],
     "name:deu_x_preferred":[
         "Provinz Chiriqu\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Chiriqu\u00ed"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c1\u03af\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Chiriqu\u00ed"
@@ -73,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Chiriqu\u00ed"
-    ],
-    "name:fre_x_preferred":[
-        "Chiriqu\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10e0\u10d8\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Chiriqu\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03c1\u03af\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0ab0\u0abf\u0a95\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0cbf\u0cb0\u0ccd\u0cb5\u0cbf\u0cb5\u0cbf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10e0\u10d8\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uce58\ub9ac\ud0a4 \uc8fc"
     ],
@@ -116,10 +98,13 @@
     "name:mar_x_preferred":[
         "\u091a\u093f\u0930\u093f\u0915\u093f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chiriqui Province"
     ],
     "name:nah_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "name:nld_x_preferred":[
         "Chiriqu\u00ed"
     ],
     "name:nob_x_preferred":[
@@ -137,7 +122,7 @@
     "name:que_x_preferred":[
         "Chiriqu\u00ed pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Chiriqu\u00ed"
     ],
     "name:rus_x_preferred":[
@@ -179,6 +164,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Chiriqu\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u91cc\u57fa\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PAN",
@@ -303,7 +291,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550497,
+    "wof:lastmodified":1561777207,
     "wof:name":"Chiriqu\u00ed",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

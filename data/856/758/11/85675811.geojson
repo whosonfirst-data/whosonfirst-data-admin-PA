@@ -41,20 +41,14 @@
     "name:ces_x_preferred":[
         "Ember\u00e1-Wounaan"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u8c9d\u62c9\u81ea\u6cbb\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Ember\u00e1-Wounaan"
-    ],
     "name:dan_x_preferred":[
         "Ember\u00e1-Wounaan Comarca"
     ],
     "name:deu_x_preferred":[
         "Ember\u00e1-Wounaan"
     ],
-    "name:dut_x_preferred":[
-        "Ember\u00e1-Wounaan"
+    "name:ell_x_preferred":[
+        "\u0395\u03bc\u03c0\u03b5\u03c1\u03ac-\u0393\u03bf\u03c5\u03bd\u03b1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ember\u00e1"
@@ -67,18 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "Comarca Ember\u00e1-Wounaan"
-    ],
-    "name:fre_x_preferred":[
-        "Comarca Ember\u00e1-Wounaan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10db\u10d1\u10d4\u10e0\u10d0-\u10d5\u10dd\u10e3\u10dc\u10d0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ember\u00e1-Wounaan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bc\u03c0\u03b5\u03c1\u03ac-\u0393\u03bf\u03c5\u03bd\u03b1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0acd\u0aac\u0ab0\u0abe-\u0ab5\u0acb\u0a89\u0aa8\u0abe\u0aa8 \u0a95\u0acb\u0aae\u0abe\u0ab0\u0acd\u0a95\u0abe"
@@ -113,8 +95,11 @@
     "name:mar_x_preferred":[
         "\u090f\u092e\u094d\u092c\u0930\u0945-\u0935\u094b\u0909\u0928\u093e\u0928 \u0915\u0949\u092e\u093e\u0930\u094d\u091a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Embera-Wounaan Comarca"
+    ],
+    "name:nld_x_preferred":[
+        "Ember\u00e1-Wounaan"
     ],
     "name:nob_x_preferred":[
         "Embera Wounaan Comarca"
@@ -125,7 +110,7 @@
     "name:por_x_preferred":[
         "Ember\u00e1"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ember\u00e1-Wounaan"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +155,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u8d1d\u62c9-\u6c83\u5185\u5b89\u7279\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u8c9d\u62c9\u81ea\u6cbb\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PAN",
@@ -296,7 +284,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1561777206,
     "wof:name":"Ember\u00e1",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

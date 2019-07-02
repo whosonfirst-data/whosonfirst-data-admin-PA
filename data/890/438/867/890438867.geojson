@@ -18,11 +18,11 @@
     "name:eng_x_preferred":[
         "Llano de Piedra"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d0\u10dc\u10dd-\u10d3\u10d4-\u10de\u10d8\u10d4\u10d3\u10e0\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Llano de Piedra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d0\u10dc\u10dd-\u10d3\u10d4-\u10de\u10d8\u10d4\u10d3\u10e0\u10d0"
     ],
     "name:spa_x_preferred":[
         "Llano de Piedras"
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890438867,
-    "wof:lastmodified":1527735422,
+    "wof:lastmodified":1561777251,
     "wof:name":"Llano de Piedra",
     "wof:parent_id":1108693237,
     "wof:placetype":"locality",
