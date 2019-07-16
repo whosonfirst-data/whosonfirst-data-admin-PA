@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Garich\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Garich\u00e9"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421189887,
-    "wof:lastmodified":1561777244,
+    "wof:lastmodified":1563306802,
     "wof:name":"Garich\u00e9",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

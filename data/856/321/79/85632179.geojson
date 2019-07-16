@@ -77,11 +77,11 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u041f\u0430\u043d\u0430\u043c\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a8\u09be\u09ae\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u092a\u0928\u093e\u092e\u093e"
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f0b\u0f53\u0f0b\u0f58\u0f0d"
@@ -97,6 +97,9 @@
     ],
     "name:bre_x_preferred":[
         "Panam\u00e1"
+    ],
+    "name:brh_x_preferred":[
+        "P\u00e1n\u00e1m\u00e1"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
@@ -154,6 +157,9 @@
     ],
     "name:dsb_x_preferred":[
         "Panama"
+    ],
+    "name:dty_x_preferred":[
+        "\u092a\u093e\u0928\u093e\u092e\u093e"
     ],
     "name:dzo_x_preferred":[
         "\u0f54\u0f0b\u0f53\u0f0b\u0f58\u0f71"
@@ -240,6 +246,9 @@
     "name:grn_x_preferred":[
         "Panama"
     ],
+    "name:gsw_x_preferred":[
+        "Panama"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0aa8\u0abe\u0aae\u0abe"
     ],
@@ -304,6 +313,9 @@
     "name:ita_x_preferred":[
         "Panam\u00e1"
     ],
+    "name:ita_x_variant":[
+        "Panama"
+    ],
     "name:jam_x_preferred":[
         "Panamaa"
     ],
@@ -336,6 +348,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
+    ],
+    "name:kbp_x_preferred":[
+        "Panama"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17c9\u17b6\u178e\u17b6\u1798\u17c9\u17b6"
@@ -373,6 +388,9 @@
     "name:lav_x_preferred":[
         "Panama"
     ],
+    "name:lfn_x_preferred":[
+        "Panama"
+    ],
     "name:lij_x_preferred":[
         "Panam\u00e1"
     ],
@@ -400,6 +418,9 @@
     "name:lug_x_preferred":[
         "Panama"
     ],
+    "name:lzh_x_preferred":[
+        "\u5df4\u62ff\u99ac"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d28\u0d3e\u0d2e"
     ],
@@ -408,6 +429,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0435"
+    ],
+    "name:mhr_x_variant":[
+        "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
@@ -432,6 +456,18 @@
     ],
     "name:mya_x_variant":[
         "\u1015\u1014\u102c\u1038\u1019\u102c\u1038"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u0430\u043d\u0430\u043c\u0430"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0627\u0646\u0627\u0645\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Panama"
+    ],
+    "name:nan_x_preferred":[
+        "Panama"
     ],
     "name:nde_x_preferred":[
         "Panama"
@@ -474,6 +510,9 @@
     ],
     "name:oci_x_variant":[
         "Panam\u00e0"
+    ],
+    "name:olo_x_preferred":[
+        "Panama"
     ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b3e\u0b28\u0b3e\u0b2e\u0b3e"
@@ -544,8 +583,14 @@
     "name:sco_x_preferred":[
         "Panama"
     ],
+    "name:sgs_x_preferred":[
+        "Panama"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd0\u0db1\u0db8\u0dcf"
+    ],
+    "name:sin_x_variant":[
+        "\u0db4\u0dd0\u0db1\u0db8\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Panama (\u0161t\u00e1t)"
@@ -686,6 +731,9 @@
     "name:vol_x_preferred":[
         "Panam\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Panama"
+    ],
     "name:war_x_preferred":[
         "Panam\u00e1"
     ],
@@ -709,6 +757,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Panama"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u62ff\u99ac"
     ],
     "name:zea_x_preferred":[
         "Panama"
@@ -881,7 +932,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561777208,
+    "wof:lastmodified":1563306085,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

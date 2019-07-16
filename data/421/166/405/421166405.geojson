@@ -71,6 +71,9 @@
     "name:spa_x_preferred":[
         "Santiago de Veraguas"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e40\u0e15\u0e35\u0e22\u0e42\u0e01\u0e40\u0e14\u0e40\u0e1a\u0e23\u0e32\u0e01\u0e27\u0e2a"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044f\u0491\u043e-\u0434\u0435-\u0412\u0435\u0440\u0430\u0491\u0443\u0430\u0441"
     ],
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421166405,
-    "wof:lastmodified":1561777241,
+    "wof:lastmodified":1563306742,
     "wof:name":"Santiago",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

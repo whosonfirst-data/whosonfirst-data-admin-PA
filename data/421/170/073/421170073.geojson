@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "La Pe\u00f1a"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u4f69\u5c3c\u4e9e"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3706974,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421170073,
-    "wof:lastmodified":1527716469,
+    "wof:lastmodified":1563306863,
     "wof:name":"La Pe\u00f1a",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

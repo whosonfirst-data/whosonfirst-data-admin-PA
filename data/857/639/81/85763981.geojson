@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16167308.674394,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.425421,7.971834,-80.425421,7.971834",
     "geom:latitude":7.971834,
     "geom:longitude":-80.425421,
@@ -28,11 +28,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Llano Bonito"
+    ],
+    "name:ita_x_preferred":[
+        "Llano Bonito"
+    ],
     "name:spa_x_preferred":[
         "Llano Bonito"
     ],
     "name:unk_x_variant":[
         "Llano Bonito"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4e9e\u8afe\u535a\u5c3c\u6258"
     ],
     "qs:gn_adm0_cc":"PA",
     "qs:gn_fcode":"PPLX",
@@ -114,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379393,
+    "wof:lastmodified":1563306070,
     "wof:name":"Llano Bonito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

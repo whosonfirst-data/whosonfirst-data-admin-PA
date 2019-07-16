@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "R\u00edo Grande"
+    ],
     "name:eng_x_preferred":[
         "R\u00edo Grande"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421193067,
-    "wof:lastmodified":1561777242,
+    "wof:lastmodified":1563306755,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

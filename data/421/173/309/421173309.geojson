@@ -25,6 +25,12 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648\u06cc\u0646\u0627 \u0648\u0633\u0679\u0627\u060c \u06a9\u0648\u0644\u0648\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u0648\u06cc\u0646\u0627 \u0648\u0633\u0679\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u57c3\u7d0d\u7dad\u65af\u5854"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3713715,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":421173309,
-    "wof:lastmodified":1514494839,
+    "wof:lastmodified":1563306788,
     "wof:name":"Buena Vista",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

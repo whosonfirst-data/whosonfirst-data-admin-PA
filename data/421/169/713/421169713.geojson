@@ -37,6 +37,9 @@
     "name:unk_x_variant":[
         "Pe\u00f1oncito"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u5361\u723e\u5fb7\u8fea\u4e9e\u65af"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3714932,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421169713,
-    "wof:lastmodified":1561777242,
+    "wof:lastmodified":1563306757,
     "wof:name":"Alcalded\u00edaz",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

@@ -16,6 +16,15 @@
     "name:ara_x_preferred":[
         "\u0648\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0634\u064a\u062a\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0634\u064a\u062a\u0631\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Chitr\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "Chitr\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Chitr\u00e9"
     ],
@@ -66,6 +75,9 @@
     ],
     "name:spa_x_preferred":[
         "Chitr\u00e9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e34\u0e40\u0e15\u0e23"
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u062a\u0631\u06d2"
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421180769,
-    "wof:lastmodified":1561777243,
+    "wof:lastmodified":1563306782,
     "wof:name":"Chitr\u00e9",
     "wof:parent_id":421189055,
     "wof:placetype":"locality",

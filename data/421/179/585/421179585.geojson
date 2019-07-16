@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Mitra"
+    ],
     "name:eng_x_preferred":[
         "La Mitra"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421179585,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306875,
     "wof:name":"La Mitra",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

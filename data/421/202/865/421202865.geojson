@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Pintada"
+    ],
     "name:eng_x_preferred":[
         "La Pintada"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u067e\u06cc\u0646\u0679\u0627\u0688\u0627\u060c \u067e\u0627\u0646\u0627\u0645\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u067e\u06cc\u0646\u0679\u0627\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e73\u5854\u9054"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":421202865,
-    "wof:lastmodified":1561777243,
+    "wof:lastmodified":1563306771,
     "wof:name":"La Pintada",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

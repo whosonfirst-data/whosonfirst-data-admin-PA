@@ -49,11 +49,17 @@
     "name:spa_x_preferred":[
         "\u00d1\u00fcr\u00fcm"
     ],
+    "name:spa_x_variant":[
+        "\u00d1\u00fcr\u00fcn"
+    ],
     "name:srd_x_preferred":[
         "distretto de \u00d1\u00fcr\u00fcm"
     ],
     "name:vie_x_preferred":[
         "\u00d1\u00fcr\u00fcm"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u9b6f\u59c6\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108693279,
-    "wof:lastmodified":1561777232,
+    "wof:lastmodified":1563306564,
     "wof:name":"\u00d1\u00fcr\u00fcm",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

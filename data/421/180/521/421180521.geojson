@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Calzada Larga"
+    ],
     "name:eng_x_preferred":[
         "Calzada Larga"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421180521,
-    "wof:lastmodified":1561777243,
+    "wof:lastmodified":1563306781,
     "wof:name":"Calzada Larga",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

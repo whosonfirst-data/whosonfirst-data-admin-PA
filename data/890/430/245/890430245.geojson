@@ -15,6 +15,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Icant\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Icant\u00ed"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890430245,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1563306899,
     "wof:name":"Icant\u00ed",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

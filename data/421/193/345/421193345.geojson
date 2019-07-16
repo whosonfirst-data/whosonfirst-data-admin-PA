@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "San Miguel"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u7c73\u683c\u723e"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3701345,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421193345,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1563306755,
     "wof:name":"San Miguel",
     "wof:parent_id":421175369,
     "wof:placetype":"locality",

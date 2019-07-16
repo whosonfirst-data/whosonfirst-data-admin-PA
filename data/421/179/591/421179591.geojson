@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u0431\u0438\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Guabito"
+    ],
     "name:eng_x_preferred":[
         "Guabito"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "Guabito"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u6bd4\u6258"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421179591,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306874,
     "wof:name":"Guabito",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

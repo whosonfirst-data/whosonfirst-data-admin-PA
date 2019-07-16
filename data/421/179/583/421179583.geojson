@@ -16,8 +16,20 @@
     "name:bel_x_variant":[
         "\u041b\u044f\u0441-\u041a\u0443\u043c\u0431\u0440\u044d\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Las Cumbres"
+    ],
+    "name:eng_x_preferred":[
+        "Las Cumbres"
+    ],
     "name:fra_x_preferred":[
         "Las Cumbres"
+    ],
+    "name:ita_x_preferred":[
+        "Las Cumbres"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30af\u30f3\u30d6\u30ec\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0\u10e1-\u10d9\u10e3\u10db\u10d1\u10e0\u10d4\u10e1\u10d8"
@@ -36,6 +48,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u06a9\u0648\u0645\u0628\u0631\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u6606\u5e03\u96f7\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -89,7 +104,7 @@
         }
     ],
     "wof:id":421179583,
-    "wof:lastmodified":1527717716,
+    "wof:lastmodified":1563306876,
     "wof:name":"Las Cumbres",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

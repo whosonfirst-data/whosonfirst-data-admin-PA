@@ -52,6 +52,9 @@
     "name:urd_x_preferred":[
         "\u06cc\u0648\u06cc\u0632\u0627"
     ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u7dad\u85a9"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3699980,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421174237,
-    "wof:lastmodified":1561777243,
+    "wof:lastmodified":1563306780,
     "wof:name":"Yaviza",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

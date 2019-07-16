@@ -34,6 +34,9 @@
     "name:spa_x_preferred":[
         "Valle del Risco"
     ],
+    "name:zho_x_preferred":[
+        "\u74e6\u840a\u5fb7\u91cc\u65af\u79d1"
+    ],
     "qs_pg:aaroncc":"PA",
     "qs_pg:gn_country":"PA",
     "qs_pg:gn_fcode":"PPL",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126028063,
-    "wof:lastmodified":1561777252,
+    "wof:lastmodified":1563306911,
     "wof:name":"Risco",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Macaracas"
+    ],
+    "name:cym_x_preferred":[
+        "Macaracas"
+    ],
+    "name:eng_x_preferred":[
+        "Macaracas"
+    ],
+    "name:ita_x_preferred":[
+        "Macaracas"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d9\u10d0\u10e0\u10d0\u10d9\u10d0\u10e1\u10d8"
     ],
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":421205227,
-    "wof:lastmodified":1527716215,
+    "wof:lastmodified":1563306774,
     "wof:name":"Macaracas",
     "wof:parent_id":1108693237,
     "wof:placetype":"localadmin",

@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "R\u00edo Sereno"
+    ],
     "name:eng_x_preferred":[
+        "R\u00edo Sereno"
+    ],
+    "name:fra_x_preferred":[
         "R\u00edo Sereno"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421170077,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1563306861,
     "wof:name":"R\u00edo Sereno",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

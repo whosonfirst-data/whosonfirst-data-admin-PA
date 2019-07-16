@@ -15,6 +15,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sal Creek"
+    ],
     "name:eng_x_preferred":[
         "Salt Creek"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890422931,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1563306897,
     "wof:name":"Sal Creek",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

@@ -31,11 +31,14 @@
     "mps:longitude":-81.43956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kusap\u00edn"
+    ],
     "name:eng_x_preferred":[
         "Kusap\u00edn"
     ],
     "name:eng_x_variant":[
-        "Kusap\u00edn"
+        "Kusap\u00edn District"
     ],
     "name:ita_x_preferred":[
         "distretto di Kusap\u00edn"
@@ -51,6 +54,9 @@
     ],
     "name:srd_x_preferred":[
         "distretto de Kusap\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u85a9\u5e73\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108693223,
-    "wof:lastmodified":1561777231,
+    "wof:lastmodified":1563306559,
     "wof:name":"Kusap\u00edn",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

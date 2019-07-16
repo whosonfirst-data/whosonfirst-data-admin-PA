@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Pocr\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Pocr\u00ed"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10d9\u10e0\u10d8"
     ],
@@ -21,6 +27,9 @@
     ],
     "name:spa_x_preferred":[
         "Pocr\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u514b\u91cc"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":421185817,
-    "wof:lastmodified":1527726502,
+    "wof:lastmodified":1563306892,
     "wof:name":"Pocr\u00ed",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

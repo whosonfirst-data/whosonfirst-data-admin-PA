@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ca\u00f1azas"
+    ],
+    "name:ita_x_preferred":[
+        "Ca\u00f1azas"
+    ],
     "name:spa_x_preferred":[
         "Ca\u00f1azas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c3c\u4e9e\u85a9\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":421185837,
-    "wof:lastmodified":1527726511,
+    "wof:lastmodified":1563306896,
     "wof:name":"Ca\u00f1azas",
     "wof:parent_id":1108693201,
     "wof:placetype":"localadmin",

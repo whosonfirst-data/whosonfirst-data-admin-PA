@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quebrada Bonita Adentro"
+    ],
     "name:eng_x_preferred":[
         "Quebrada Bonita Adentro"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421179577,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1563306875,
     "wof:name":"Quebrada Bonita Adentro",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:srd_x_preferred":[
         "distretto de Kankint\u00fa"
     ],
+    "name:zho_x_preferred":[
+        "\u574e\u91d1\u5716\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108693221,
-    "wof:lastmodified":1561777231,
+    "wof:lastmodified":1563306558,
     "wof:name":"Kankint\u00fa",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

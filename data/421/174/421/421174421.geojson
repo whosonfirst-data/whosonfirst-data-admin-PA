@@ -14,6 +14,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Penonom\u00e9"
+    ],
+    "name:cym_x_preferred":[
+        "Penonom\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Penonom\u00e9"
     ],
@@ -26,11 +32,17 @@
     "name:ita_x_preferred":[
         "Penonom\u00e9"
     ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ce\u30ce\u30e1"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10dc\u10dd\u10dc\u10dd\u10db\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ud398\ub178\ub178\uba54"
+    ],
+    "name:lad_x_preferred":[
+        "Penonom\u00e9"
     ],
     "name:lav_x_preferred":[
         "Penonome"
@@ -38,14 +50,38 @@
     "name:lit_x_preferred":[
         "Penonom\u0117"
     ],
+    "name:nah_x_preferred":[
+        "Penonom\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Penonom\u00e9"
+    ],
     "name:pol_x_preferred":[
         "Penonom\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Penonom\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Penonom\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u043e\u043d\u043e\u043c\u0435"
     ],
     "name:spa_x_preferred":[
         "Penonom\u00e9"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1b\u0e42\u0e19\u0e42\u0e19\u0e40\u0e21"
+    ],
     "name:unk_x_variant":[
         "Penonom\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u0648\u0646\u0648\u0645\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u8bfa\u8bfa\u6885"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Panama",
@@ -194,7 +230,7 @@
         }
     ],
     "wof:id":421174421,
-    "wof:lastmodified":1527716229,
+    "wof:lastmodified":1563306779,
     "wof:name":"Cocle",
     "wof:parent_id":421202589,
     "wof:placetype":"localadmin",

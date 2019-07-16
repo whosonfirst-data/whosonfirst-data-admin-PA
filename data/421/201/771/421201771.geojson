@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Cart\u00ed Sugdup"
     ],
+    "name:spa_x_variant":[
+        "Cart\u00ed Sugdupu"
+    ],
     "name:unk_x_variant":[
         "Suctupo"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421201771,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1563306852,
     "wof:name":"Cart\u00ed Suitupo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0447\u0443\u0442\u0443\u043f\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Achutupo"
+    ],
     "name:eng_x_preferred":[
         "Achutupo"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421176523,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1563306884,
     "wof:name":"Achutupo N\u00famero Dos",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

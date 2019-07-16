@@ -16,8 +16,20 @@
     "name:bel_x_variant":[
         "\u041f\u0430\u043a\u043e\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pacora"
+    ],
+    "name:eng_x_preferred":[
+        "Pacora"
+    ],
     "name:fra_x_preferred":[
         "Pacora"
+    ],
+    "name:ita_x_preferred":[
+        "Pacora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b3\u30e9"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10d9\u10dd\u10e0\u10d0"
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":421168263,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1563306740,
     "wof:name":"Pacora",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

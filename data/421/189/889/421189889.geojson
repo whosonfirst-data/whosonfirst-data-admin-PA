@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sajalices"
+    ],
     "name:eng_x_preferred":[
         "Sajalices"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:spa_x_preferred":[
         "Sajalices"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u54c8\u5229\u585e\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421189889,
-    "wof:lastmodified":1561777244,
+    "wof:lastmodified":1563306802,
     "wof:name":"Sajalices",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

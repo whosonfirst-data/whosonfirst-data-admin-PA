@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Isla Grande"
+    ],
     "name:eng_x_preferred":[
+        "Isla Grande"
+    ],
+    "name:fra_x_preferred":[
         "Isla Grande"
     ],
     "name:ita_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421187295,
-    "wof:lastmodified":1561777244,
+    "wof:lastmodified":1563306786,
     "wof:name":"Isla Grande",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

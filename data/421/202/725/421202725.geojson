@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Nat\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Nat\u00e1"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "Nat\u00e1 de los Caballeros"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5854\u5fb7\u6d1b\u65af\u5361\u5df4\u5217\u7f85\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421202725,
-    "wof:lastmodified":1561777243,
+    "wof:lastmodified":1563306769,
     "wof:name":"Nat\u00e1",
     "wof:parent_id":421191757,
     "wof:placetype":"locality",

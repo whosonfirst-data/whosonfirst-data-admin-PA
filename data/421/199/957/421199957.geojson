@@ -13,11 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Los Pozos"
+    ],
+    "name:eng_x_preferred":[
+        "Los Pozos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Pozos"
+    ],
     "name:spa_x_preferred":[
         "Los Pozos"
     ],
     "name:unk_x_variant":[
         "Los Pozo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u6ce2\u7d22\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":421199957,
-    "wof:lastmodified":1527716414,
+    "wof:lastmodified":1563306846,
     "wof:name":"Los Pozos",
     "wof:parent_id":1108693231,
     "wof:placetype":"localadmin",

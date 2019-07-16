@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Palmas Bellas"
+    ],
     "name:eng_x_preferred":[
         "Palmas Bellas"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421185821,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1563306893,
     "wof:name":"Palmas Bellas",
     "wof:parent_id":1108693205,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Kusap\u00edn"
     ],
+    "name:zho_x_preferred":[
+        "\u5eab\u85a9\u5e73"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3711694,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421177229,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306865,
     "wof:name":"Cusap\u00edn",
     "wof:parent_id":1108693223,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Ng\u00f6be-Bugl\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Ng\u00f6be-Bugl\u00e9"
+    ],
     "name:ces_x_preferred":[
         "Ng\u00f6be-Bugl\u00e9"
     ],
@@ -53,8 +56,14 @@
     "name:eng_x_preferred":[
         "Ng\u00e4be Bugl\u00e9"
     ],
+    "name:eng_x_variant":[
+        "Ng\u00f6be-Bugl\u00e9 Comarca"
+    ],
     "name:epo_x_preferred":[
         "Ngabe-Bugleo"
+    ],
+    "name:eus_x_preferred":[
+        "Ng\u00e4be-Bugl\u00e9"
     ],
     "name:fin_x_preferred":[
         "Ng\u00f6be-Bugl\u00e9 Comarca"
@@ -67,6 +76,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u092c-\u092c\u094d\u092f\u0942\u0917\u0932 \u0915\u094b\u092e\u093e\u0930\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0563\u0578\u0562\u0565 \u0532\u0578\u0582\u0563\u056c\u0565"
     ],
     "name:ind_x_preferred":[
         "Ng\u00f6be-Bugl\u00e9 Comarca"
@@ -127,6 +139,9 @@
         "Ng\u00f6be Bugl\u00e9",
         "Comarca Ng\u00e4be-Bugl\u00e9"
     ],
+    "name:spa_x_variant":[
+        "Ng\u00e4be-Bugl\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Ng\u00f6be-Bugl\u00e9"
     ],
@@ -138,6 +153,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e42\u0e01\u0e1a\u0e35-\u0e1a\u0e39\u0e40\u0e01\u0e34\u0e49\u0e25 \u0e42\u0e04\u0e21\u0e32\u0e0b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e07\u0e2d\u0e40\u0e1a-\u0e1a\u0e39\u0e40\u0e01\u0e25"
     ],
     "name:tur_x_preferred":[
         "Ng\u00f6be-Bugl\u00e9 County"
@@ -277,7 +295,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561777206,
+    "wof:lastmodified":1563306074,
     "wof:name":"Ng\u00f6be Bugl\u00e9",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

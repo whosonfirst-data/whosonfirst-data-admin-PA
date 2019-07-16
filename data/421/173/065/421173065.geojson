@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Gamboa"
     ],
+    "name:zho_x_preferred":[
+        "\u7518\u535a\u963f"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3709373,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421173065,
-    "wof:lastmodified":1561777244,
+    "wof:lastmodified":1563306790,
     "wof:name":"Gamboa",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

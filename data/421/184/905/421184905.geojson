@@ -56,6 +56,9 @@
     "name:vie_x_preferred":[
         "Besiko"
     ],
+    "name:zho_x_preferred":[
+        "\u97cb\u897f\u79d1\u5340"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421184905,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1563306858,
     "wof:name":"Besiko",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

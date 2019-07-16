@@ -14,6 +14,9 @@
     "lbl:longitude":-79.566653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Balboa"
+    ],
     "name:ces_x_preferred":[
         "Balboa"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0628\u0648\u0627\u060c \u067e\u0627\u0646\u0627\u0645\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0627\u0644\u0628\u0648\u0627"
     ],
     "name:yue_x_preferred":[
         "\u5df4\u6ce2\u4e9e"
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":1141908519,
-    "wof:lastmodified":1561777268,
+    "wof:lastmodified":1563307255,
     "wof:name":"Balboa",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

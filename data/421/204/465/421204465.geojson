@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "R\u00edo Hato"
+    ],
     "name:eng_x_preferred":[
         "R\u00edo Hato"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "R\u00edo Hato"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u963f\u6258"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421204465,
-    "wof:lastmodified":1561777242,
+    "wof:lastmodified":1563306762,
     "wof:name":"R\u00edo Hato",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

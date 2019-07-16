@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Giral"
+    ],
     "name:eng_x_preferred":[
         "El Giral"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421197789,
-    "wof:lastmodified":1561777247,
+    "wof:lastmodified":1563306839,
     "wof:name":"El Giral",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:srd_x_preferred":[
         "distretto de Samb\u00fa"
     ],
+    "name:zho_x_preferred":[
+        "\u6851\u5e03\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108693265,
-    "wof:lastmodified":1561777233,
+    "wof:lastmodified":1563306569,
     "wof:name":"Samb\u00fa",
     "wof:parent_id":85675811,
     "wof:placetype":"county",

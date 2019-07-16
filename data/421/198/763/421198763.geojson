@@ -16,10 +16,19 @@
     "name:cat_x_preferred":[
         "La Loma"
     ],
+    "name:ceb_x_preferred":[
+        "La Loma"
+    ],
     "name:eng_x_preferred":[
         "La Loma"
     ],
+    "name:fra_x_preferred":[
+        "La Loma"
+    ],
     "name:glg_x_preferred":[
+        "La Loma"
+    ],
+    "name:ita_x_preferred":[
         "La Loma"
     ],
     "name:kat_x_preferred":[
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":421198763,
-    "wof:lastmodified":1561777246,
+    "wof:lastmodified":1563306821,
     "wof:name":"La Loma",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

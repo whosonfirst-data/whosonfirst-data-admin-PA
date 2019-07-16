@@ -190,6 +190,9 @@
     "name:zho_x_preferred":[
         "\u7834\u706b\u5c71\u53e3"
     ],
+    "name:zho_x_variant":[
+        "\u5361\u723e\u5fb7\u62c9"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3713430,
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421202869,
-    "wof:lastmodified":1527716207,
+    "wof:lastmodified":1563306769,
     "wof:name":"Caldera",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

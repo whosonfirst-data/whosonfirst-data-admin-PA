@@ -52,6 +52,9 @@
     "name:ita_x_preferred":[
         "Garrota"
     ],
+    "name:ita_x_variant":[
+        "Garrote"
+    ],
     "name:jpn_x_preferred":[
         "\u9244\u74b0\u7d5e\u9996\u5211"
     ],
@@ -76,6 +79,9 @@
     "name:spa_x_preferred":[
         "Garrote vil"
     ],
+    "name:spa_x_variant":[
+        "Garrote"
+    ],
     "name:swe_x_preferred":[
         "Garrottering"
     ],
@@ -84,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0440\u043e\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u7f85\u7279"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421183637,
-    "wof:lastmodified":1527717697,
+    "wof:lastmodified":1563306871,
     "wof:name":"Garrote",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",
