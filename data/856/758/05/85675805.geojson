@@ -56,16 +56,25 @@
     "name:eng_x_preferred":[
         "Bocas del Toro"
     ],
+    "name:eng_x_variant":[
+        "Bocas del Toro Province"
+    ],
     "name:epo_x_preferred":[
         "Bokas-del-Toro"
     ],
     "name:eus_x_preferred":[
         "Bocas del Toroko probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u06a9\u0627\u0633 \u062f\u0644 \u062a\u0648\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Bocas del Toro"
     ],
     "name:fra_x_preferred":[
+        "Bocas del Toro"
+    ],
+    "name:frr_x_preferred":[
         "Bocas del Toro"
     ],
     "name:guj_x_preferred":[
@@ -76,6 +85,9 @@
     ],
     "name:ind_x_preferred":[
         "Bocas del Toro"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Bocas del Toro"
     ],
     "name:ita_x_preferred":[
         "Provincia di Bocas del Toro"
@@ -91,6 +103,12 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\uce74\uc2a4\ub378\ud1a0\ub85c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\uce74\uc2a4\ub378\ud1a0\ub85c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Bocas del Toro"
     ],
     "name:lav_x_preferred":[
         "Bokasa del Toro"
@@ -155,6 +173,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e04\u0e32\u0e2a \u0e40\u0e14\u0e25 \u0e42\u0e15\u0e42\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e01\u0e31\u0e2a\u0e40\u0e14\u0e25\u0e42\u0e15\u0e42\u0e23"
     ],
     "name:tur_x_preferred":[
         "Bocas del Toro"
@@ -301,7 +322,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561777206,
+    "wof:lastmodified":1563306072,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

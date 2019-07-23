@@ -25,6 +25,9 @@
     "name:unk_x_variant":[
         "La Planta"
     ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u67e5\u6885"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3702351,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421181567,
-    "wof:lastmodified":1527716320,
+    "wof:lastmodified":1563306815,
     "wof:name":"Punta Chame",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

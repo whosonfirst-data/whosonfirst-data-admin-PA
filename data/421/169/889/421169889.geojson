@@ -32,12 +32,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Gualaca"
+    ],
     "name:eng_x_preferred":[
         "Gualaca"
     ],
     "name:eng_x_variant":[
-        "Gualaca",
         "Gualaca District"
+    ],
+    "name:fra_x_preferred":[
+        "Gualaca"
     ],
     "name:ita_x_preferred":[
         "distretto di Gualaca"
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":421169889,
-    "wof:lastmodified":1561777242,
+    "wof:lastmodified":1563306757,
     "wof:name":"Gualaca",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

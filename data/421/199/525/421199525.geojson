@@ -37,6 +37,9 @@
     "name:spa_x_preferred":[
         "Chame"
     ],
+    "name:zho_x_preferred":[
+        "\u67e5\u6885"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3712579,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421199525,
-    "wof:lastmodified":1561777247,
+    "wof:lastmodified":1563306847,
     "wof:name":"Chame",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

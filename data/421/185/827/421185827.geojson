@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nuevo Arraij\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Nuevo Arraij\u00e1n"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421185827,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1563306892,
     "wof:name":"Nuevo Arraij\u00e1n",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

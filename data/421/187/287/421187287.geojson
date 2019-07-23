@@ -22,8 +22,14 @@
     "name:spa_x_preferred":[
         "Fuerte Amador"
     ],
+    "name:spa_x_variant":[
+        "Amador"
+    ],
     "name:unk_x_variant":[
         "Amador"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u99ac\u591a\u723e"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":421187287,
-    "wof:lastmodified":1527716245,
+    "wof:lastmodified":1563306784,
     "wof:name":"Fuerte Amador",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

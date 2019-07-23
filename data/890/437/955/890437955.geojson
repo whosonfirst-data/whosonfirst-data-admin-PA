@@ -15,6 +15,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cerro Cama"
+    ],
     "name:eng_x_preferred":[
         "Cerro Cama"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890437955,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1563306900,
     "wof:name":"Cerro Cama",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

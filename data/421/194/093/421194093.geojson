@@ -34,6 +34,9 @@
     "name:zho_min_nan_x_preferred":[
         "Betania"
     ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5854\u5c3c\u4e9e"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421194093,
-    "wof:lastmodified":1561777241,
+    "wof:lastmodified":1563306747,
     "wof:name":"Betania",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

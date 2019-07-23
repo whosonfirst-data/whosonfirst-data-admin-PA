@@ -31,6 +31,9 @@
     "name:spa_x_preferred":[
         "San Carlos"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3701527,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421174785,
-    "wof:lastmodified":1561777243,
+    "wof:lastmodified":1563306778,
     "wof:name":"San Carlos",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

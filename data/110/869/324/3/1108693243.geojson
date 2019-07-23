@@ -52,6 +52,9 @@
     "name:srd_x_preferred":[
         "distretto de M\u00fcna"
     ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7d0d\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108693243,
-    "wof:lastmodified":1561777230,
+    "wof:lastmodified":1563306554,
     "wof:name":"M\u00fcna",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

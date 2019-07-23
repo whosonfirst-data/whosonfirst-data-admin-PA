@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043b\u0438\u0431\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Chilibre"
+    ],
     "name:eng_x_preferred":[
         "Chilibre"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421177319,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306867,
     "wof:name":"Chilibre",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

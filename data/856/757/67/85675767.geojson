@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0634\u064a\u0631\u064a\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0634\u064a\u0631\u064a\u0643\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09b0\u09bf\u0995\u09c1\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -53,16 +56,25 @@
     "name:eng_x_preferred":[
         "Chiriqu\u00ed"
     ],
+    "name:eng_x_variant":[
+        "Chiriqu\u00ed Province"
+    ],
     "name:epo_x_preferred":[
         "\u0108irikio"
     ],
     "name:eus_x_preferred":[
         "Chiriqui"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0686\u06cc\u0631\u06cc\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Chiriqu\u00ed"
     ],
     "name:fra_x_preferred":[
+        "Chiriqu\u00ed"
+    ],
+    "name:frr_x_preferred":[
         "Chiriqu\u00ed"
     ],
     "name:guj_x_preferred":[
@@ -73,6 +85,9 @@
     ],
     "name:ind_x_preferred":[
         "Chiriqu\u00ed"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Chiriqu\u00ed"
     ],
     "name:ita_x_preferred":[
         "provincia di Chiriqu\u00ed"
@@ -88,6 +103,12 @@
     ],
     "name:kor_x_preferred":[
         "\uce58\ub9ac\ud0a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce58\ub9ac\ud0a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Chiriqu\u00ed"
     ],
     "name:lav_x_preferred":[
         "\u010ciriki"
@@ -109,6 +130,9 @@
     ],
     "name:nob_x_preferred":[
         "Chiriqui Prrvins"
+    ],
+    "name:nob_x_variant":[
+        "Chiriqui"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0686\u06cc\u0631\u06cc\u06a9\u0648\u0626\u06cc"
@@ -149,6 +173,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14 \u0e44\u0e04\u0e23\u0e34\u0e44\u0e04\u0e27\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e34\u0e23\u0e34\u0e01\u0e35"
     ],
     "name:tur_x_preferred":[
         "Chiriqui Province"
@@ -291,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561777207,
+    "wof:lastmodified":1563306077,
     "wof:name":"Chiriqu\u00ed",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

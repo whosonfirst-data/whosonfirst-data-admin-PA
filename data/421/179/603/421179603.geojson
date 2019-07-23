@@ -16,6 +16,9 @@
     "name:bel_x_variant":[
         "\u0410\u0440\u0430\u0439\u0445\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Arraij\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Arraij\u00e1n"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:spa_x_preferred":[
         "Arraij\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8cf4\u6f22"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421179603,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306873,
     "wof:name":"Arraij\u00e1n",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

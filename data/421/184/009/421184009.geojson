@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "Los Llanitos"
     ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u5229\u4e9e\u5c3c\u6258\u65af"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3705238,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421184009,
-    "wof:lastmodified":1527716446,
+    "wof:lastmodified":1563306857,
     "wof:name":"Los Llanitos",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

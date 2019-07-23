@@ -17,6 +17,9 @@
     "name:bel_x_variant":[
         "\u0414\u0430\u0432\u0456\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "David"
+    ],
     "name:deu_x_preferred":[
         "David"
     ],
@@ -35,6 +38,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d9\u05d3"
     ],
+    "name:heb_x_variant":[
+        "\u05d3\u05d5\u05d3"
+    ],
     "name:hun_x_preferred":[
         "David"
     ],
@@ -50,19 +56,37 @@
     "name:kor_x_preferred":[
         "\ub2e4\ube44\ub4dc"
     ],
+    "name:lad_x_preferred":[
+        "David"
+    ],
     "name:lav_x_preferred":[
         "Davida"
     ],
     "name:lit_x_preferred":[
         "Davidas"
     ],
+    "name:ltz_x_preferred":[
+        "David"
+    ],
+    "name:nah_x_preferred":[
+        "David"
+    ],
     "name:nld_x_preferred":[
+        "David"
+    ],
+    "name:nob_x_preferred":[
         "David"
     ],
     "name:nor_x_preferred":[
         "David"
     ],
     "name:pol_x_preferred":[
+        "David"
+    ],
+    "name:por_x_preferred":[
+        "David"
+    ],
+    "name:ron_x_preferred":[
         "David"
     ],
     "name:rus_x_preferred":[
@@ -74,6 +98,9 @@
     "name:spa_x_preferred":[
         "David"
     ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e32\u0e1a\u0e34\u0e14"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0432\u0438\u0434"
     ],
@@ -82,6 +109,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0648\u0688\u060c \u0686\u06cc\u0631\u06a9\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0688\u06cc\u0648\u0688"
+    ],
+    "name:vep_x_preferred":[
+        "David"
     ],
     "name:zho_x_preferred":[
         "\u6234\u7ef4"
@@ -232,7 +265,7 @@
         }
     ],
     "wof:id":421169151,
-    "wof:lastmodified":1527716164,
+    "wof:lastmodified":1563306757,
     "wof:name":"Chiriqui",
     "wof:parent_id":421171339,
     "wof:placetype":"localadmin",

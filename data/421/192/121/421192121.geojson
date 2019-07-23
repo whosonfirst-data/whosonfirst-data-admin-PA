@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.06667,8.63333,-79.06667,8.63333",
     "geom:latitude":8.63333,
     "geom:longitude":-79.06667,
@@ -12,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Saboga"
+    ],
+    "name:ita_x_preferred":[
+        "Saboga"
+    ],
     "name:spa_x_preferred":[
         "Isla de Saboga"
     ],
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":421192121,
-    "wof:lastmodified":1527716112,
+    "wof:lastmodified":1563306743,
     "wof:name":"Saboga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

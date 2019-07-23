@@ -14,10 +14,16 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u0629 \u0628\u0648\u0643\u0627\u0633"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u043e\u043a\u0430\u0441-\u0434\u044d\u043b\u044c-\u0422\u043e\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Bocas del Toro"
+    ],
+    "name:ceb_x_preferred":[
         "Bocas del Toro"
     ],
     "name:deu_x_preferred":[
@@ -74,11 +80,17 @@
     "name:spa_x_preferred":[
         "Bocas del Toro"
     ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e1a\u0e01\u0e31\u0e2a\u0e40\u0e14\u0e25\u0e42\u0e15\u0e42\u0e23"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043a\u0430\u0441-\u0434\u0435\u043b\u044c-\u0422\u043e\u0440\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06a9\u0627\u0633 \u0679\u0627\u0624\u0646\u060c \u0628\u0648\u06a9\u0627\u0633 \u062f\u06cc\u0644 \u062a\u0648\u0631\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0648\u06a9\u0627\u0633 \u0679\u0627\u0624\u0646"
     ],
     "name:zho_x_preferred":[
         "\u535a\u5361\u65af\u5fb7\u5c14\u6258\u7f57"
@@ -222,7 +234,7 @@
         }
     ],
     "wof:id":421185815,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1563306895,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

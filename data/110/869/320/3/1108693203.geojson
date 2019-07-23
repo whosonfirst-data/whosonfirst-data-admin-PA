@@ -35,7 +35,7 @@
         "C\u00e9maco"
     ],
     "name:eng_x_variant":[
-        "C\u00e9maco"
+        "C\u00e9maco District"
     ],
     "name:ita_x_preferred":[
         "distretto di C\u00e9maco"
@@ -51,6 +51,9 @@
     ],
     "name:srd_x_preferred":[
         "distretto de C\u00e9maco"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u99ac\u79d1\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108693203,
-    "wof:lastmodified":1561777232,
+    "wof:lastmodified":1563306562,
     "wof:name":"C\u00e9maco",
     "wof:parent_id":85675811,
     "wof:placetype":"county",

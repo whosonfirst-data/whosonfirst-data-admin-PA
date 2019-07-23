@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Agua Buena"
+    ],
     "name:eng_x_preferred":[
         "Agua Buena"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0648\u0627 \u0628\u06cc\u0648\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74dc\u5e03\u57c3\u7d0d"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421177693,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306865,
     "wof:name":"Agua Buena",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

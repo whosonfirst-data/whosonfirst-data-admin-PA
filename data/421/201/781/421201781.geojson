@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mata del Nance"
+    ],
     "name:eng_x_preferred":[
         "Mata del Nance"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421201781,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1563306855,
     "wof:name":"Mata del Nance",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

@@ -53,16 +53,25 @@
     "name:eng_x_preferred":[
         "Herrera"
     ],
+    "name:eng_x_variant":[
+        "Herrera Province"
+    ],
     "name:epo_x_preferred":[
         "Herrera"
     ],
     "name:eus_x_preferred":[
         "Herrerako probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Herreran l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
+        "Herrera"
+    ],
+    "name:frr_x_preferred":[
         "Herrera"
     ],
     "name:guj_x_preferred":[
@@ -88,6 +97,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d0\ub808\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d0\ub808\ub77c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Herrera"
     ],
     "name:lav_x_preferred":[
         "Errera"
@@ -142,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e40\u0e23\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e23\u0e4c\u0e40\u0e23\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Herrera Province"
@@ -284,7 +302,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561777208,
+    "wof:lastmodified":1563306079,
     "wof:name":"Herrera",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

@@ -27,6 +27,9 @@
     "name:spa_x_preferred":[
         "Llano de Piedras"
     ],
+    "name:zho_x_preferred":[
+        "\u5229\u4e9e\u8afe\u5fb7\u5f7c\u5fb7\u62c9\u65af"
+    ],
     "qs:name":"Llano de Piedra",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890438867,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1563306903,
     "wof:name":"Llano de Piedra",
     "wof:parent_id":1108693237,
     "wof:placetype":"locality",

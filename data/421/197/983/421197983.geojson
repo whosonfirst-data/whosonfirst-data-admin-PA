@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "B\u00e1gala"
+    ],
     "name:eng_x_preferred":[
         "B\u00e1gala"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:spa_x_preferred":[
         "B\u00e1gala"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u52a0\u62c9"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421197983,
-    "wof:lastmodified":1561777247,
+    "wof:lastmodified":1563306837,
     "wof:name":"B\u00e1gala",
     "wof:parent_id":1108693193,
     "wof:placetype":"locality",

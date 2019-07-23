@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Juan D\u00edaz"
     ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5b89\u8fea\u4e9e\u65af"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3708306,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421183639,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306871,
     "wof:name":"Juan D\u00edaz",
     "wof:parent_id":421175375,
     "wof:placetype":"locality",

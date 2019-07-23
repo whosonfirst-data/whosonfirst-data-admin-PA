@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "Caimito"
     ],
+    "name:zho_x_preferred":[
+        "\u51f1\u7c73\u6258"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3713490,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421170981,
-    "wof:lastmodified":1527716476,
+    "wof:lastmodified":1563306865,
     "wof:name":"Caimito",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

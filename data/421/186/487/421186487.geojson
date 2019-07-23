@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "Bejuco"
     ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u80e1\u79d1"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3714201,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421186487,
-    "wof:lastmodified":1527716317,
+    "wof:lastmodified":1563306814,
     "wof:name":"Bejuco",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

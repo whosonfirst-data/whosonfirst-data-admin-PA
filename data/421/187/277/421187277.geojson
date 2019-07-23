@@ -25,6 +25,9 @@
     "name:unk_x_variant":[
         "Curundu Army Reservation"
     ],
+    "name:zho_x_preferred":[
+        "\u5eab\u502b\u675c"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3711699,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421187277,
-    "wof:lastmodified":1527716249,
+    "wof:lastmodified":1563306786,
     "wof:name":"Curund\u00fa",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

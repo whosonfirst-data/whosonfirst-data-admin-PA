@@ -31,6 +31,9 @@
     "name:unk_x_variant":[
         "Horoncitos"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u5b54\u897f\u6258\u65af"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3708616,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421197995,
-    "wof:lastmodified":1561777247,
+    "wof:lastmodified":1563306837,
     "wof:name":"Horconcitos",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

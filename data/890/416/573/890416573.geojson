@@ -15,8 +15,17 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ca\u00f1azas"
+    ],
+    "name:ita_x_preferred":[
+        "Ca\u00f1azas"
+    ],
     "name:spa_x_preferred":[
         "Ca\u00f1azas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c3c\u4e9e\u85a9\u65af"
     ],
     "qs:name":"Ca\u00f1azas",
     "qs:photos_9r":0,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":890416573,
-    "wof:lastmodified":1527792802,
+    "wof:lastmodified":1563306905,
     "wof:name":"Ca\u00f1azas",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",

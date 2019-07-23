@@ -31,6 +31,9 @@
     "name:unk_x_variant":[
         "Aserria"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u585e\u91cc\u5967\u5fb7\u52a0\u91cc\u5207"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3714611,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421179601,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1563306875,
     "wof:name":"Aserr\u00edo de Garich\u00e9",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

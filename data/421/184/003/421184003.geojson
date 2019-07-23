@@ -31,8 +31,14 @@
     "name:spa_x_preferred":[
         "Las ma\u00f1anitas"
     ],
+    "name:spa_x_variant":[
+        "Las Ma\u00f1anitas"
+    ],
     "name:unk_x_variant":[
         "Ma\u00f1anitas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u99ac\u5c3c\u4e9e\u5c3c\u5854\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421184003,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1563306858,
     "wof:name":"Las Ma\u00f1anitas",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "Cacique"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u897f\u514b"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3713523,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421196277,
-    "wof:lastmodified":1527716366,
+    "wof:lastmodified":1563306829,
     "wof:name":"Cacique",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

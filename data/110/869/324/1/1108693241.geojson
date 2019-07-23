@@ -52,6 +52,9 @@
     "name:srd_x_preferred":[
         "distretto de Miron\u00f3"
     ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7f85\u8afe\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108693241,
-    "wof:lastmodified":1561777230,
+    "wof:lastmodified":1563306554,
     "wof:name":"Miron\u00f3",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

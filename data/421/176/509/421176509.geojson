@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Vista Alegre"
     ],
+    "name:zho_x_preferred":[
+        "\u7dad\u65af\u5854\u963f\u840a\u683c\u96f7"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3700038,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421176509,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1563306881,
     "wof:name":"Vista Alegre",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

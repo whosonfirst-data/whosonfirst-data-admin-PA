@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0438\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bisira"
+    ],
     "name:eng_x_preferred":[
         "Bisira"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:unk_x_variant":[
         "Bisiria"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u897f\u62c9"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421170979,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1563306861,
     "wof:name":"Bisira",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

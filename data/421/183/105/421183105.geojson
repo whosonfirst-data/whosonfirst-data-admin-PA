@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "El Espino"
     ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u57c3\u65af\u76ae\u8afe"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3710875,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421183105,
-    "wof:lastmodified":1527716488,
+    "wof:lastmodified":1563306868,
     "wof:name":"El Espino",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "Las Lomas"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u6d1b\u99ac\u65af"
+    ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3706409,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421193885,
-    "wof:lastmodified":1527716148,
+    "wof:lastmodified":1563306754,
     "wof:name":"Las Lomas",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

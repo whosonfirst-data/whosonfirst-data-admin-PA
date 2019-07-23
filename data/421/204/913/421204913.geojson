@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nuevo Vig\u00eda"
+    ],
     "name:eng_x_preferred":[
         "Nuevo Vig\u00eda"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421204913,
-    "wof:lastmodified":1561777242,
+    "wof:lastmodified":1563306763,
     "wof:name":"Nuevo Vig\u00eda",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

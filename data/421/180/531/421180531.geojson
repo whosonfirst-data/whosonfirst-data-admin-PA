@@ -22,8 +22,14 @@
     "name:spa_x_preferred":[
         "El Tijera"
     ],
+    "name:spa_x_variant":[
+        "Tijeras"
+    ],
     "name:unk_x_variant":[
         "Tijeras"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u8d6b\u62c9\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":421180531,
-    "wof:lastmodified":1527716239,
+    "wof:lastmodified":1563306783,
     "wof:name":"Tijera",
     "wof:parent_id":1108693193,
     "wof:placetype":"locality",

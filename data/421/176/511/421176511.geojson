@@ -22,11 +22,17 @@
     "name:ita_x_preferred":[
         "Distretto di Santa Mar\u00eda"
     ],
+    "name:ita_x_variant":[
+        "Santa Mar\u00eda"
+    ],
     "name:por_x_preferred":[
         "Santa Mar\u00eda"
     ],
     "name:spa_x_preferred":[
         "Distrito de Santa Mar\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Santa Mar\u00eda"
     ],
     "name:vie_x_preferred":[
         "Santa Mar\u00eda"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421176511,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1563306880,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",
