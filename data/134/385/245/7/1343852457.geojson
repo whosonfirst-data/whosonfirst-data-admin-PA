@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Miel"
+    ],
     "name:spa_x_preferred":[
         "La Miel"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7c73\u57c3\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343852457,
-    "wof:lastmodified":1537676404,
+    "wof:lastmodified":1564150467,
     "wof:name":"La Miel",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

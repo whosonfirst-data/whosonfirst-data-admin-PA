@@ -25,9 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cauchero"
+    ],
+    "name:ita_x_preferred":[
+        "Cauchero"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e3\u10e9\u10d4\u10e0\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Cauchero"
+    ],
     "name:und_x_variant":[
         "Punta de Bongo",
         "Cauchero"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u5207\u7f85"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1259497207,
-    "wof:lastmodified":1537676472,
+    "wof:lastmodified":1564151572,
     "wof:name":"Cauchero",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

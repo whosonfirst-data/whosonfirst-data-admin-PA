@@ -55,11 +55,17 @@
     "name:spa_x_preferred":[
         "Los Santos"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u0421\u0430\u043d\u0442\u043e\u0441"
+    ],
     "name:swe_x_preferred":[
         "Los Santos"
     ],
     "name:tur_x_preferred":[
         "Los Santos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u8056\u90fd"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421192119,
-    "wof:lastmodified":1527716112,
+    "wof:lastmodified":1564151314,
     "wof:name":"Los Santos",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

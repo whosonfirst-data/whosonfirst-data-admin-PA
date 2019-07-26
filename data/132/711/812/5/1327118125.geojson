@@ -25,7 +25,28 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Puente"
+    ],
+    "name:deu_x_preferred":[
+        "El Puente"
+    ],
+    "name:ita_x_preferred":[
+        "El Puente"
+    ],
+    "name:nld_x_preferred":[
+        "El Puente"
+    ],
+    "name:pol_x_preferred":[
+        "El Puente"
+    ],
     "name:spa_x_preferred":[
+        "El Puente"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041f\u0443\u0435\u043d\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
         "El Puente"
     ],
     "name:und_x_variant":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1327118125,
-    "wof:lastmodified":1537676399,
+    "wof:lastmodified":1564150398,
     "wof:name":"El Puente",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

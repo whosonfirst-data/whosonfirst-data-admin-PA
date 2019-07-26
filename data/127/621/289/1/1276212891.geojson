@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Espino"
+    ],
+    "name:spa_x_preferred":[
+        "El Espino"
+    ],
     "name:und_x_variant":[
         "Espino",
         "El Espino"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u57c3\u65af\u76ae\u8afe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1276212891,
-    "wof:lastmodified":1537676448,
+    "wof:lastmodified":1564150749,
     "wof:name":"El Espino",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

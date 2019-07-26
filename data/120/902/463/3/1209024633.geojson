@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:spa_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u514b\u9c81\u585e\u65af"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209024633,
-    "wof:lastmodified":1537570201,
+    "wof:lastmodified":1564150975,
     "wof:name":"Las Cruces",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

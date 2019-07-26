@@ -26,9 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Chorrillo"
+    ],
+    "name:spa_x_preferred":[
+        "El Chorrillo"
+    ],
     "name:und_x_variant":[
         "El Chorillo",
         "El Chorrillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u55ac\u91cc\u7565"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226742439,
-    "wof:lastmodified":1537676453,
+    "wof:lastmodified":1564151650,
     "wof:name":"El Chorrillo",
     "wof:parent_id":1108693231,
     "wof:placetype":"locality",

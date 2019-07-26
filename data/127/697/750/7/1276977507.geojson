@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Sesteadero"
+    ],
+    "name:spa_x_preferred":[
+        "El Sesteadero"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u585e\u65af\u7279\u963f\u5fb7\u7f85"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276977507,
-    "wof:lastmodified":1536910754,
+    "wof:lastmodified":1564150842,
     "wof:name":"El Sesteadero",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

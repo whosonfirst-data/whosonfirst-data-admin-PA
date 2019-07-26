@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Higo"
+    ],
     "name:spa_x_preferred":[
         "El Higo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u4f0a\u6208"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1309698569,
-    "wof:lastmodified":1537676444,
+    "wof:lastmodified":1564151298,
     "wof:name":"El Higo",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

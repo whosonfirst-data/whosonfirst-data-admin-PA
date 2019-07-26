@@ -25,6 +25,48 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "El Charco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0686\u0627\u0631\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Charco"
+    ],
+    "name:ita_x_preferred":[
+        "El Charco"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e9\u10d0\u10e0\u10d9\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "El Charco"
+    ],
+    "name:nld_x_preferred":[
+        "El Charco"
+    ],
+    "name:por_x_preferred":[
+        "El Charco"
+    ],
+    "name:sco_x_preferred":[
+        "El Charco"
+    ],
+    "name:spa_x_preferred":[
+        "El Charco"
+    ],
+    "name:tgl_x_preferred":[
+        "El Charco"
+    ],
+    "name:vie_x_preferred":[
+        "El Charco"
+    ],
+    "name:war_x_preferred":[
+        "El Charco"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u67e5\u723e\u79d1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575
@@ -44,7 +86,7 @@
         }
     ],
     "wof:id":1293086525,
-    "wof:lastmodified":1536866915,
+    "wof:lastmodified":1564150577,
     "wof:name":"El Charco",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

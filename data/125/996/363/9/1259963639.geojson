@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Yeguada"
+    ],
+    "name:spa_x_preferred":[
+        "La Yeguada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8036\u74dc\u9054"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1259963639,
-    "wof:lastmodified":1537570200,
+    "wof:lastmodified":1564151536,
     "wof:name":"La Yeguada",
     "wof:parent_id":1108693199,
     "wof:placetype":"locality",

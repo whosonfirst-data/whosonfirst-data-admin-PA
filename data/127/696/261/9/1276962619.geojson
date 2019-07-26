@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lol\u00e1"
+    ],
     "name:spa_x_preferred":[
         "Lol\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u62c9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276962619,
-    "wof:lastmodified":1537676384,
+    "wof:lastmodified":1564150847,
     "wof:name":"Lola",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

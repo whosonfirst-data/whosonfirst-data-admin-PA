@@ -25,6 +25,36 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ceb_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:fra_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:lit_x_preferred":[
+        "Las Lachasas"
+    ],
+    "name:nld_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:pol_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Lajas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1226464665,
-    "wof:lastmodified":1536615951,
+    "wof:lastmodified":1564151716,
     "wof:name":"Las Lajas",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

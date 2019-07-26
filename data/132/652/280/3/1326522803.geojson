@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Menchaca"
+    ],
     "name:spa_x_preferred":[
         "Menchaca"
+    ],
+    "name:zho_x_preferred":[
+        "\u95e8\u67e5\u5361"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326522803,
-    "wof:lastmodified":1537676368,
+    "wof:lastmodified":1564150363,
     "wof:name":"Menchaca",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

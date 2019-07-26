@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tierra Oscura"
+    ],
+    "name:ita_x_preferred":[
+        "Tierra Oscura"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10d4\u10e0\u10d0-\u10dd\u10e1\u10d9\u10e3\u10e0\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "Tierra Oscura"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u57c3\u62c9\u5967\u65af\u5eab\u62c9"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1276891511,
-    "wof:lastmodified":1537570191,
+    "wof:lastmodified":1564150760,
     "wof:name":"Tierra Oscura",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

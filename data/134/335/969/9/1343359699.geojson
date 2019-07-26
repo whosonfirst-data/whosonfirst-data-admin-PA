@@ -25,8 +25,32 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Villa del Carmen"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa del Carmen"
+    ],
+    "name:deu_x_preferred":[
+        "Carmen"
+    ],
+    "name:fra_x_preferred":[
+        "Villa del Carmen"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u0564\u0565\u056c \u053f\u0561\u0580\u0574\u0565\u0576"
+    ],
+    "name:nor_x_preferred":[
+        "Villa del Carmen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0434\u0435\u043b\u044c-\u041a\u0430\u0440\u043c\u0435\u043d"
+    ],
     "name:spa_x_preferred":[
         "Villa del Carmen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u9580\u93ae"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1343359699,
-    "wof:lastmodified":1537676506,
+    "wof:lastmodified":1564150494,
     "wof:name":"Villa del Carmen",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Juanito"
+    ],
+    "name:deu_x_preferred":[
+        "San Juanito"
+    ],
+    "name:msa_x_preferred":[
+        "San Juanito"
+    ],
+    "name:spa_x_preferred":[
+        "San Juanito"
+    ],
+    "name:swe_x_preferred":[
+        "San Juanito"
+    ],
+    "name:tgl_x_preferred":[
+        "San Juanito"
+    ],
     "name:und_x_variant":[
         "San Juan",
+        "San Juanito"
+    ],
+    "name:vie_x_preferred":[
         "San Juanito"
     ],
     "src:geom":"geonames",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1360173731,
-    "wof:lastmodified":1537676342,
+    "wof:lastmodified":1564151256,
     "wof:name":"San Juanito",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

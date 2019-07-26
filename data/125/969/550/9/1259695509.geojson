@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Picacho"
+    ],
+    "name:spa_x_preferred":[
+        "El Picacho"
+    ],
+    "name:swe_x_preferred":[
+        "El Picacho"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259695509,
-    "wof:lastmodified":1537047640,
+    "wof:lastmodified":1564151601,
     "wof:name":"El Picacho",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

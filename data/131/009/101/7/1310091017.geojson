@@ -25,6 +25,117 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u0633\u0628\u064a\u0631\u064a\u062a\u0648 \u0633\u0627\u0646\u062a\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0441\u043f\u0456\u0440\u044b\u0442\u0443-\u0421\u0430\u043d\u0442\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0441\u043f\u0438\u0440\u0438\u0442\u0443 \u0421\u0430\u043d\u0442\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Esp\u00edritu Santo"
+    ],
+    "name:ceb_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:ces_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:dan_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:deu_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:epo_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:est_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:eus_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u0631\u06cc\u062a\u0648 \u0633\u0627\u0646\u062a\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:fra_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Esp\u00edrito Santo"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0938\u094d\u092a\u093f\u0930\u093f\u0924\u0941 \u0938\u093e\u0928\u094d\u0924\u094b \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hrv_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:ilo_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:ind_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:ita_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b9\u30d4\u30ea\u30c8\u30a5\u30b5\u30f3\u30c8\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e1\u10de\u10d8\u10e0\u10d8\u10e2\u10e3-\u10e1\u10d0\u10dc\u10e2\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc2a4\ud53c\ub9ac\ud22c\uc0b0\ud1a0\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Espiritu Santas"
+    ],
+    "name:mrj_x_preferred":[
+        "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:pol_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:por_x_preferred":[
+        "Esp\u00edrito Santo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Esp\u00edritu Santo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0441\u043f\u0438\u0440\u0438\u0442\u0443 \u0421\u0430\u043d\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e2a\u0e1b\u0e35\u0e23\u0e35\u0e15\u0e39\u0e0b\u0e32\u0e19\u0e42\u0e15"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043f\u0456\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u76ae\u91cc\u56fe\u6851\u6258\u5c9b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +156,7 @@
         }
     ],
     "wof:id":1310091017,
-    "wof:lastmodified":1537016725,
+    "wof:lastmodified":1564151150,
     "wof:name":"Espiritu Santo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

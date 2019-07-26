@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "San Antonio"
+    ],
     "name:spa_x_preferred":[
         "San Antonio"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5b89\u4e1c\u5c3c\u5965"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343556839,
-    "wof:lastmodified":1537676343,
+    "wof:lastmodified":1564150419,
     "wof:name":"San Antonio",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",

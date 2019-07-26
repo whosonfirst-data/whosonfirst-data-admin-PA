@@ -25,7 +25,19 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zimba"
+    ],
+    "name:deu_x_preferred":[
+        "Zimba"
+    ],
+    "name:fra_x_preferred":[
+        "Zimba"
+    ],
     "name:spa_x_preferred":[
+        "Zimba"
+    ],
+    "name:swe_x_preferred":[
         "Zimba"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226147907,
-    "wof:lastmodified":1537676500,
+    "wof:lastmodified":1564151687,
     "wof:name":"Zimba",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

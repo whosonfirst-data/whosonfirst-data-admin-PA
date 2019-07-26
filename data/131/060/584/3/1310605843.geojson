@@ -25,11 +25,17 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Taimat\u00ed"
+    ],
     "name:spa_x_preferred":[
         "Pueblo Nuevo"
     ],
     "name:spa_x_variant":[
         "Taimat\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u99ac\u8482"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310605843,
-    "wof:lastmodified":1537676337,
+    "wof:lastmodified":1564151223,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

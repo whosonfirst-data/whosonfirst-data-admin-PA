@@ -25,6 +25,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Victoriano Lorenzo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
     "name:spa_x_preferred":[
         "Victoriano Lorenzo"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326750257,
-    "wof:lastmodified":1537676497,
+    "wof:lastmodified":1564150283,
     "wof:name":"Victoriano Lorenzo",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salitre"
+    ],
+    "name:por_x_preferred":[
+        "Salitre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u0442\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Salitre"
+    ],
     "name:und_x_variant":[
         "Desembocadura de Salitre",
         "Salitre"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344244057,
-    "wof:lastmodified":1537676344,
+    "wof:lastmodified":1564150442,
     "wof:name":"Salitre",
     "wof:parent_id":1108693245,
     "wof:placetype":"locality",

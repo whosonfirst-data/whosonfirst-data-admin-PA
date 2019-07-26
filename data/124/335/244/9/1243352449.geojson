@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Garceana"
+    ],
     "name:spa_x_preferred":[
         "La Garceana"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u52a0\u723e\u585e\u963f\u7d0d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243352449,
-    "wof:lastmodified":1537676410,
+    "wof:lastmodified":1564151459,
     "wof:name":"La Garceana",
     "wof:parent_id":421171341,
     "wof:placetype":"locality",

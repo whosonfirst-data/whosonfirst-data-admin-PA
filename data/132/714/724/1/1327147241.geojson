@@ -25,8 +25,17 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cordillera"
+    ],
+    "name:spa_x_preferred":[
+        "Cordillera"
+    ],
     "name:und_x_variant":[
         "Cordillera Abajo"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u8fea\u52d2\u62c9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327147241,
-    "wof:lastmodified":1537676462,
+    "wof:lastmodified":1564150315,
     "wof:name":"Cordillera",
     "wof:parent_id":1108693193,
     "wof:placetype":"locality",

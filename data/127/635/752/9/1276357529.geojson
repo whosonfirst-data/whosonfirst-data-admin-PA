@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Las Lomitas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Lomitas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0648\u0645\u06cc\u0679\u0627\u0633"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276357529,
-    "wof:lastmodified":1536745895,
+    "wof:lastmodified":1564150781,
     "wof:name":"Las Lomitas",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

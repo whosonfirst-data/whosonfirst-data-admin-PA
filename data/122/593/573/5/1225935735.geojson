@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Tablas Abajo"
+    ],
     "name:spa_x_preferred":[
         "Las Tablas Abajo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u62c9\u65af\u5854\u5e03\u62c9\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225935735,
-    "wof:lastmodified":1537676498,
+    "wof:lastmodified":1564151621,
     "wof:name":"Las Tablas Abajo",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

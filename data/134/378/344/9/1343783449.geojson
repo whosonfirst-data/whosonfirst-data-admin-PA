@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Pedregoso"
+    ],
+    "name:spa_x_preferred":[
+        "El Pedregoso"
+    ],
     "name:und_x_variant":[
         "Pedregoso",
         "El Pedregoso"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u4f69\u5fb7\u96f7\u6208\u7d22"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343783449,
-    "wof:lastmodified":1537676436,
+    "wof:lastmodified":1564150477,
     "wof:name":"El Pedregoso",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

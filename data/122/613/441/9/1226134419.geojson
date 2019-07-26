@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nuario"
+    ],
     "name:spa_x_preferred":[
         "Nuario"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u963f\u91cc\u5967"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226134419,
-    "wof:lastmodified":1537676365,
+    "wof:lastmodified":1564151692,
     "wof:name":"Nuario",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

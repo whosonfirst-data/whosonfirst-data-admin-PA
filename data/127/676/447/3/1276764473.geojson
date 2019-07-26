@@ -25,8 +25,95 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:ast_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:cat_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:ceb_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:diq_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:epo_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:eus_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:fin_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:fra_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:hat_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:hun_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0563\u0578\u0582\u0561\u0564\u0578\u0582\u056c\u057d\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:ita_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0433\u0432\u0430\u0434\u0443\u043b\u044c\u0441\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:nld_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:oci_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:pol_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:por_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:ron_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0443\u0430\u0434\u0443\u043b\u044c\u0441\u0435"
+    ],
     "name:spa_x_preferred":[
         "Aguadulce"
+    ],
+    "name:swe_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:tur_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0443\u0430\u0434\u0443\u043b\u044c\u0441\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:vie_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:war_x_preferred":[
+        "Aguadulce"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74dc\u675c\u5c14\u585e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +134,7 @@
         }
     ],
     "wof:id":1276764473,
-    "wof:lastmodified":1537676492,
+    "wof:lastmodified":1564150807,
     "wof:name":"Aguadulce",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

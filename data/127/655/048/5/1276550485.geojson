@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Cuesta de Piedra"
     ],
+    "name:zho_x_preferred":[
+        "\u594e\u65af\u5854\u5fb7\u5f7c\u5fb7\u62c9"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276550485,
-    "wof:lastmodified":1537676461,
+    "wof:lastmodified":1564150830,
     "wof:name":"Cuesta de Piedra",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:ceb_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:epo_x_preferred":[
+        "Los R\u00edos"
+    ],
     "name:hbs_x_preferred":[
         "Los R\u00edos"
     ],
@@ -32,6 +41,9 @@
         "Los R\u00edos"
     ],
     "name:spa_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:swe_x_preferred":[
         "Los R\u00edos"
     ],
     "qs:gn_country":"PA",
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":421182303,
-    "wof:lastmodified":1527726453,
+    "wof:lastmodified":1564151365,
     "wof:name":"Los R\u00edos",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

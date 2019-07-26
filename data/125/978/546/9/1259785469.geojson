@@ -26,9 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Barrero"
+    ],
+    "name:spa_x_preferred":[
+        "El Barrero"
+    ],
     "name:und_x_variant":[
         "Barrero",
         "El Barrero"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u5df4\u96f7\u7f57"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259785469,
-    "wof:lastmodified":1537676457,
+    "wof:lastmodified":1564151564,
     "wof:name":"El Barrero",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

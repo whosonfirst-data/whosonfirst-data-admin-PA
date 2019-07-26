@@ -26,6 +26,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Mina"
+    ],
     "name:und_x_variant":[
         "Mina",
         "La Mina"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293375475,
-    "wof:lastmodified":1537676403,
+    "wof:lastmodified":1564150573,
     "wof:name":"La Mina",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

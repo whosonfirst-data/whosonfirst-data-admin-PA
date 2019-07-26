@@ -26,9 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Hato"
+    ],
+    "name:spa_x_preferred":[
+        "El Hato"
+    ],
     "name:und_x_variant":[
         "Hato Nuevo",
         "El Hato"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u6258"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226551667,
-    "wof:lastmodified":1537676445,
+    "wof:lastmodified":1564151718,
     "wof:name":"El Hato",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

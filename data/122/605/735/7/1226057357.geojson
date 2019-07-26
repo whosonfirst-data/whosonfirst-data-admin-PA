@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "La Chunga"
+    ],
+    "name:cat_x_preferred":[
+        "La Chunga"
+    ],
+    "name:cym_x_preferred":[
+        "La Chunga"
+    ],
+    "name:fra_x_preferred":[
+        "La Chunga"
+    ],
     "name:spa_x_preferred":[
         "La Chunga"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226057357,
-    "wof:lastmodified":1537676499,
+    "wof:lastmodified":1564151668,
     "wof:name":"La Chunga",
     "wof:parent_id":1108693265,
     "wof:placetype":"locality",

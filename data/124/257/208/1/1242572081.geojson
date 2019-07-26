@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Naranjos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1242572081,
-    "wof:lastmodified":1537068646,
+    "wof:lastmodified":1564151418,
     "wof:name":"Los Naranjos",
     "wof:parent_id":421202587,
     "wof:placetype":"locality",

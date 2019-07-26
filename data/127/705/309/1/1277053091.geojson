@@ -25,7 +25,13 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guacamaya"
+    ],
     "name:spa_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:swe_x_preferred":[
         "Guacamaya"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1277053091,
-    "wof:lastmodified":1537676515,
+    "wof:lastmodified":1564150795,
     "wof:name":"Guacamaya",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

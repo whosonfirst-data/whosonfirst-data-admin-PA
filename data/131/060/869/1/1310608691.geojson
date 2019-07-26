@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "San Juan de Dios"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646 \u062f\u06d2 \u062f\u06cc\u0648\u0633"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310608691,
-    "wof:lastmodified":1537676518,
+    "wof:lastmodified":1564151220,
     "wof:name":"San Juan de Dios",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

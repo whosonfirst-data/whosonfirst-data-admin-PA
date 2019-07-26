@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Alto"
+    ],
     "name:spa_x_preferred":[
         "El Alto"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u963f\u6258"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310485427,
-    "wof:lastmodified":1537676459,
+    "wof:lastmodified":1564151125,
     "wof:name":"El Alto",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

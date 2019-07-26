@@ -13,6 +13,213 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Veracruz"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0641\u064a\u0631\u0627\u0643\u0631\u0648\u0632"
+    ],
+    "name:aym_x_preferred":[
+        "Veracruz Istadu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:ces_x_preferred":[
+        "Veracruz"
+    ],
+    "name:cor_x_preferred":[
+        "Veracruz"
+    ],
+    "name:cym_x_preferred":[
+        "Veracruz"
+    ],
+    "name:dan_x_preferred":[
+        "Veracruz"
+    ],
+    "name:deu_x_preferred":[
+        "Veracruz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03c1\u03b1\u03ba\u03c1\u03bf\u03cd\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Veracruz"
+    ],
+    "name:est_x_preferred":[
+        "Veracruzi osariik"
+    ],
+    "name:eus_x_preferred":[
+        "Veracruz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u06a9\u0631\u0648\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Veracruz"
+    ],
+    "name:fra_x_preferred":[
+        "Veracruz"
+    ],
+    "name:frr_x_preferred":[
+        "Veracruz"
+    ],
+    "name:gle_x_preferred":[
+        "Veracruz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d0\u05e7\u05e8\u05d5\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Veracruz"
+    ],
+    "name:hun_x_preferred":[
+        "Veracruz"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u0561\u056f\u0580\u0578\u0582\u057d"
+    ],
+    "name:ilo_x_preferred":[
+        "Veracruz"
+    ],
+    "name:ina_x_preferred":[
+        "Stato Veracruz"
+    ],
+    "name:ind_x_preferred":[
+        "Veracruz"
+    ],
+    "name:ita_x_preferred":[
+        "Veracruz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30e9\u30af\u30eb\u30b9\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e0\u10d0\u10d9\u10e0\u10e3\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub77c\ud06c\ub8e8\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Veracruz"
+    ],
+    "name:lat_x_preferred":[
+        "Vera Crux"
+    ],
+    "name:lit_x_preferred":[
+        "Verakrusas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0930\u093e\u0915\u094d\u0930\u0941\u0925"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0437"
+    ],
+    "name:mlg_x_preferred":[
+        "Veracruz"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Veracruz"
+    ],
+    "name:mya_x_preferred":[
+        "\u1017\u1031\u101b\u1000\u101b\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u0631\u0627\u06a9\u0631\u0648\u0633"
+    ],
+    "name:nno_x_preferred":[
+        "Veracruz"
+    ],
+    "name:nor_x_preferred":[
+        "Veracruz"
+    ],
+    "name:oci_x_preferred":[
+        "Veracruz"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:pam_x_preferred":[
+        "Veracruz"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a47\u0a30\u0a3e\u0a15\u0a30\u0a42\u0a38"
+    ],
+    "name:pms_x_preferred":[
+        "Veracruz"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u06cc\u0631\u0627\u06a9\u0631\u0648\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Veracruz"
+    ],
+    "name:por_x_preferred":[
+        "Veracruz"
+    ],
+    "name:que_x_preferred":[
+        "Veracruz suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Veracruz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Veracruz"
+    ],
+    "name:slk_x_preferred":[
+        "Veracruz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0437"
+    ],
+    "name:swa_x_preferred":[
+        "Veracruz"
+    ],
+    "name:swe_x_preferred":[
+        "Veracruz"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0451\u043b\u0430\u0442\u0438 \u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:tgl_x_preferred":[
+        "Veracruz"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e40\u0e1a\u0e23\u0e32\u0e01\u0e23\u0e38\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Veracruz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0631\u0627\u06a9\u0631\u0648\u0632"
+    ],
+    "name:uzb_x_preferred":[
+        "Verakrus"
+    ],
+    "name:vec_x_preferred":[
+        "Veracruz"
+    ],
+    "name:vie_x_preferred":[
+        "Veracruz"
+    ],
+    "name:war_x_preferred":[
+        "Veracruz"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u62c9\u514b\u9b6f\u65af\u5dde"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -64,7 +271,7 @@
         }
     ],
     "wof:id":421204567,
-    "wof:lastmodified":1500018207,
+    "wof:lastmodified":1564151321,
     "wof:name":"Veracruz",
     "wof:parent_id":421203467,
     "wof:placetype":"localadmin",

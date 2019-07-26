@@ -25,6 +25,48 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:ita_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10d2\u10d5\u10d0\u10d3\u10d0\u10da\u10e3\u10de\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "La Gvadalup\u0117"
+    ],
+    "name:msa_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:nld_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:por_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:sco_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:spa_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:tgl_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06af\u0648\u0627\u0688\u0627\u0644\u06cc\u0648\u067e\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:war_x_preferred":[
+        "La Guadalupe"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u74dc\u9054\u76e7\u666e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1242974095,
-    "wof:lastmodified":1536988683,
+    "wof:lastmodified":1564151499,
     "wof:name":"La Guadalupe",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

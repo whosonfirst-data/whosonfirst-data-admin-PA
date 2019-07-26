@@ -25,6 +25,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "El Peligro"
+    ],
+    "name:spa_x_preferred":[
+        "El Peligro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209833213,
-    "wof:lastmodified":1536396050,
+    "wof:lastmodified":1564150909,
     "wof:name":"El Peligro",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

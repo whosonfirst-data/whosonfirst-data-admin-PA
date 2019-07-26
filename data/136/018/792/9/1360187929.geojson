@@ -26,6 +26,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cabezones"
+    ],
+    "name:spa_x_preferred":[
+        "Cabezones"
+    ],
     "name:und_x_variant":[
         "Calabazal",
         "Cabezones"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1360187929,
-    "wof:lastmodified":1537676478,
+    "wof:lastmodified":1564151242,
     "wof:name":"Cabezones",
     "wof:parent_id":421202705,
     "wof:placetype":"locality",

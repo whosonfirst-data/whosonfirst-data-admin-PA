@@ -26,6 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Trapig"
+    ],
+    "name:fra_x_preferred":[
+        "Trapiche"
+    ],
+    "name:por_x_preferred":[
+        "Trapiche"
+    ],
+    "name:spa_x_preferred":[
+        "Trapiche"
+    ],
     "name:und_x_variant":[
         "Guachapli",
         "Guachapali",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226131667,
-    "wof:lastmodified":1537676335,
+    "wof:lastmodified":1564151691,
     "wof:name":"Trapiche",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

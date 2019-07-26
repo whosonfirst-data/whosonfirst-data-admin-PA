@@ -25,6 +25,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Ule"
+    ],
     "name:spa_x_preferred":[
         "Ul\u00e9"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343867159,
-    "wof:lastmodified":1537676333,
+    "wof:lastmodified":1564150541,
     "wof:name":"Ule",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Calabacito"
+    ],
+    "name:spa_x_preferred":[
+        "El Calabacito"
+    ],
     "name:und_x_variant":[
         "El Calabacitos",
         "El Calabacito"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5361\u62c9\u5df4\u897f\u6258"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1293278627,
-    "wof:lastmodified":1537676455,
+    "wof:lastmodified":1564150674,
     "wof:name":"El Calabacito",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

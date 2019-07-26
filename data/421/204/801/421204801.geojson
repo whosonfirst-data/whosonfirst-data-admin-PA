@@ -13,8 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sabanitas"
+    ],
+    "name:ita_x_preferred":[
+        "Sabanitas"
+    ],
+    "name:pol_x_preferred":[
+        "Sabanitas"
+    ],
+    "name:spa_x_preferred":[
+        "Sabanitas"
+    ],
     "name:unk_x_variant":[
         "Corregimiento Sabanita"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0646\u0679\u0627\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5df4\u5c3c\u5854\u65af"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"ADM3",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":421204801,
-    "wof:lastmodified":1501268747,
+    "wof:lastmodified":1564151323,
     "wof:name":"Sabanitas",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

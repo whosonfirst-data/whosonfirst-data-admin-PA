@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Loma"
+    ],
+    "name:deu_x_preferred":[
+        "La Loma"
+    ],
+    "name:spa_x_preferred":[
+        "La Loma"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041b\u043e\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Loma"
+    ],
     "name:und_x_variant":[
         "Palagov\u00eda",
         "Palogav\u00eda",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1343748119,
-    "wof:lastmodified":1537676406,
+    "wof:lastmodified":1564150530,
     "wof:name":"La Loma",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

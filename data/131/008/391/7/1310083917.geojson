@@ -25,7 +25,34 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:por_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Nueva"
+    ],
     "name:spa_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:swe_x_preferred":[
         "Villa Nueva"
     ],
     "src:geom":"geonames",
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1310083917,
-    "wof:lastmodified":1537676502,
+    "wof:lastmodified":1564151160,
     "wof:name":"Villa Nueva",
     "wof:parent_id":1108693203,
     "wof:placetype":"locality",

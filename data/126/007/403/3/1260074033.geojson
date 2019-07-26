@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Laguna El Junco"
+    ],
+    "name:fin_x_preferred":[
+        "El Junco"
+    ],
+    "name:fra_x_preferred":[
+        "El Junco"
+    ],
+    "name:spa_x_preferred":[
+        "Laguna El Junco"
+    ],
+    "name:swe_x_preferred":[
+        "Laguna El Junco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260074033,
-    "wof:lastmodified":1537000924,
+    "wof:lastmodified":1564151076,
     "wof:name":"El Junco",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Puerto Vidal"
+    ],
     "name:spa_x_preferred":[
         "Puerto Vidal"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u591a\u7ef4\u8fbe\u5c14"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1193262245,
-    "wof:lastmodified":1537676353,
+    "wof:lastmodified":1564151069,
     "wof:name":"Puerto Vidal",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

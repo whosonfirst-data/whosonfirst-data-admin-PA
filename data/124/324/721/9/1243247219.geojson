@@ -25,6 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Areeta"
+    ],
+    "name:eus_x_preferred":[
+        "Areeta"
+    ],
+    "name:fra_x_preferred":[
+        "Areeta"
+    ],
+    "name:glg_x_preferred":[
+        "Areeta"
+    ],
+    "name:ita_x_preferred":[
+        "Las Arenas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Arenas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243247219,
-    "wof:lastmodified":1537089507,
+    "wof:lastmodified":1564151448,
     "wof:name":"Las Arenas",
     "wof:parent_id":1108693225,
     "wof:placetype":"locality",

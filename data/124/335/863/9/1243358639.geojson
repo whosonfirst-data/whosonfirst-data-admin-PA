@@ -25,7 +25,46 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:deu_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:fra_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:ita_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:nld_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:pol_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:por_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u043e-\u0413\u043e\u0440\u0434\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0440\u043e \u0413\u043e\u0440\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Gordo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u043e-\u0413\u043e\u0440\u0434\u043e"
+    ],
+    "name:vol_x_preferred":[
         "Cerro Gordo"
     ],
     "src:geom":"geonames",
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1243358639,
-    "wof:lastmodified":1537676469,
+    "wof:lastmodified":1564151462,
     "wof:name":"Cerro Gordo",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sor\u00e1"
+    ],
     "name:spa_x_preferred":[
         "Sor\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u62c9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1327006357,
-    "wof:lastmodified":1537676338,
+    "wof:lastmodified":1564150277,
     "wof:name":"Sora",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

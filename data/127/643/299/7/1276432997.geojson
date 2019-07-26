@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cambutal"
+    ],
     "name:spa_x_preferred":[
         "Cambutal"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5e03\u5854\u5c14"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276432997,
-    "wof:lastmodified":1537676476,
+    "wof:lastmodified":1564150740,
     "wof:name":"Cambutal",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

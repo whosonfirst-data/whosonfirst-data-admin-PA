@@ -25,6 +25,30 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "El Brujo"
+    ],
+    "name:fra_x_preferred":[
+        "El Brujo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10e0\u10e3\u10ee\u10dd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u043b \u0411\u0440\u0443\u0445\u043e"
+    ],
+    "name:por_x_preferred":[
+        "El Brujo"
+    ],
+    "name:que_x_preferred":[
+        "El Brujo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0440\u0443\u0445\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "El Brujo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1343969749,
-    "wof:lastmodified":1537005820,
+    "wof:lastmodified":1564150410,
     "wof:name":"El Brujo",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

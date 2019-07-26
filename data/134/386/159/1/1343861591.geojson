@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cerro Viejo"
+    ],
     "name:spa_x_preferred":[
         "Cerro Viejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u7f85\u5225\u970d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343861591,
-    "wof:lastmodified":1537676467,
+    "wof:lastmodified":1564150540,
     "wof:name":"Cerro Viejo",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

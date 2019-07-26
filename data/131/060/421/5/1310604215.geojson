@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bre\u00f1\u00f3n"
+    ],
     "name:spa_x_preferred":[
         "Bre\u00f1\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u96f7\u519c"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310604215,
-    "wof:lastmodified":1537676480,
+    "wof:lastmodified":1564151222,
     "wof:name":"Brenon",
     "wof:parent_id":1108693261,
     "wof:placetype":"locality",

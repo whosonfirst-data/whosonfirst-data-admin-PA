@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Santa Rita"
+    ],
     "name:spa_x_preferred":[
         "Santa Rita"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u91cc\u5854"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360196207,
-    "wof:lastmodified":1537676340,
+    "wof:lastmodified":1564151269,
     "wof:name":"Santa Rita",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

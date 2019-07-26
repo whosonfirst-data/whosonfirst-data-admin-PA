@@ -25,9 +25,75 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0995\u09be\u09b0\u09be\u0995\u09cb\u09b2"
+    ],
+    "name:ceb_x_preferred":[
+        "Caracol"
+    ],
+    "name:deu_x_preferred":[
+        "Caracol"
+    ],
+    "name:epo_x_preferred":[
+        "Caracol"
+    ],
+    "name:fra_x_preferred":[
+        "Caracol"
+    ],
+    "name:glg_x_preferred":[
+        "El Caracol"
+    ],
+    "name:hrv_x_preferred":[
+        "Caracol"
+    ],
+    "name:ind_x_preferred":[
+        "Caracol"
+    ],
+    "name:ita_x_preferred":[
+        "El Caracol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30b3\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "Karakolis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Caracol"
+    ],
+    "name:nor_x_preferred":[
+        "Caracol"
+    ],
+    "name:pol_x_preferred":[
+        "Caracol"
+    ],
+    "name:por_x_preferred":[
+        "El Caracol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "El Caracol"
+    ],
+    "name:swa_x_preferred":[
+        "Caracol"
+    ],
+    "name:swe_x_preferred":[
+        "Caracol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Caraco",
         "Caracol"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u79d1\u5c14"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +119,7 @@
         }
     ],
     "wof:id":1226727015,
-    "wof:lastmodified":1537676473,
+    "wof:lastmodified":1564151629,
     "wof:name":"Caracol",
     "wof:parent_id":1108693245,
     "wof:placetype":"locality",

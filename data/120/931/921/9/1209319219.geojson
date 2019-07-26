@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "La Plaza"
+    ],
+    "name:ceb_x_preferred":[
+        "La Plaza"
+    ],
+    "name:spa_x_preferred":[
+        "La Plaza"
+    ],
+    "name:swe_x_preferred":[
+        "La Plaza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -34,7 +46,7 @@
         "gn:id":3706819
     },
     "wof:country":"PA",
-    "wof:geomhash":"d3ae2770f5aa31a0229a4a2c7fdb9a50",
+    "wof:geomhash":"47f14d957bfa8d761c90e00669c40146",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209319219,
-    "wof:lastmodified":1536290755,
+    "wof:lastmodified":1564150881,
     "wof:name":"La Plaza",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
@@ -53,9 +65,9 @@
 },
   "bbox": [
     -78.0225,
-    8.401110000000001,
+    8.40111,
     -78.0225,
-    8.401110000000001
+    8.40111
 ],
   "geometry": {"coordinates":[-78.02249999999999,8.40111],"type":"Point"}
 }

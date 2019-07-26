@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Samb\u00fa"
     ],
+    "name:ita_x_preferred":[
+        "Samb\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Samb\u00fa"
+    ],
     "name:und_x_variant":[
         "Samb\u00fa"
     ],
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1343684581,
-    "wof:lastmodified":1537676495,
+    "wof:lastmodified":1564150491,
     "wof:name":"Sambu",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

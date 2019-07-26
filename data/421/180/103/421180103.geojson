@@ -13,7 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:fra_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Olivos"
+    ],
     "name:spa_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u041e\u043b\u0438\u0432\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
         "Los Olivos"
     ],
     "qs:gn_country":"PA",
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":421180103,
-    "wof:lastmodified":1497043374,
+    "wof:lastmodified":1564151331,
     "wof:name":"Los Olivos",
     "wof:parent_id":1108693235,
     "wof:placetype":"localadmin",

@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Malena"
+    ],
+    "name:fra_x_preferred":[
+        "Malena"
+    ],
+    "name:ita_x_preferred":[
+        "Malena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
         "Malena"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1210010435,
-    "wof:lastmodified":1537676371,
+    "wof:lastmodified":1564151030,
     "wof:name":"Malena",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

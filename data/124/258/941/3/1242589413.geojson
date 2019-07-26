@@ -25,8 +25,152 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0627\u0631\u064a\u0627\u0644"
+    ],
+    "name:arg_x_preferred":[
+        "Villa-reyal"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0627\u0631\u0626\u0627\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f\u0440\u044d\u0430\u043b\u044c"
+    ],
+    "name:cat_x_preferred":[
+        "Vila-real"
+    ],
+    "name:ceb_x_preferred":[
+        "Vila-real"
+    ],
+    "name:ces_x_preferred":[
+        "Villarreal"
+    ],
+    "name:dan_x_preferred":[
+        "Villarreal"
+    ],
+    "name:deu_x_preferred":[
+        "Villarreal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03b3\u03b9\u03b1\u03c1\u03c1\u03b5\u03ac\u03bb"
+    ],
+    "name:eus_x_preferred":[
+        "Vila-real"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0627\u0631\u0626\u0627\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Vila-real"
+    ],
+    "name:fra_x_preferred":[
+        "Vila-Real"
+    ],
+    "name:glg_x_preferred":[
+        "Vila-real"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d0\u05e8\u05d9\u05d0\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "Villarreal"
+    ],
+    "name:hun_x_preferred":[
+        "Vila-real"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561\u057c\u0565\u0561\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Villarreal"
+    ],
+    "name:isl_x_preferred":[
+        "Villarreal"
+    ],
+    "name:ita_x_preferred":[
+        "Vila-real"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\uff1d\u30ec\u30a2\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc57c\ub808\uc54c"
+    ],
+    "name:lad_x_preferred":[
+        "Vila-real"
+    ],
+    "name:lit_x_preferred":[
+        "Viljarealis"
+    ],
+    "name:msa_x_preferred":[
+        "Villarreal"
+    ],
+    "name:nld_x_preferred":[
+        "Villarreal"
+    ],
+    "name:nno_x_preferred":[
+        "Villarreal"
+    ],
+    "name:nor_x_preferred":[
+        "Villarreal"
+    ],
+    "name:oci_x_preferred":[
+        "Vila-real"
+    ],
+    "name:pol_x_preferred":[
+        "Vila-real"
+    ],
+    "name:por_x_preferred":[
+        "Vila-real"
+    ],
+    "name:ron_x_preferred":[
+        "Villarreal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f\u0440\u0440\u0435\u0430\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Villarreal"
+    ],
     "name:spa_x_preferred":[
         "Villarreal"
+    ],
+    "name:sqi_x_preferred":[
+        "Villarreal"
+    ],
+    "name:srd_x_preferred":[
+        "Vila-real"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0459\u0430\u0440\u0435\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Vila-real"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f\u0440\u0440\u0435\u0430\u043b"
+    ],
+    "name:tpi_x_preferred":[
+        "Villarreal"
+    ],
+    "name:tur_x_preferred":[
+        "Villarreal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044f\u0440\u0440\u0435\u0430\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Villarreal"
+    ],
+    "name:vie_x_preferred":[
+        "Villarreal"
+    ],
+    "name:war_x_preferred":[
+        "Villarreal"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5229\u4e9e\u96f7\u963f\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +196,7 @@
         }
     ],
     "wof:id":1242589413,
-    "wof:lastmodified":1537676331,
+    "wof:lastmodified":1564151438,
     "wof:name":"Villarreal",
     "wof:parent_id":421191757,
     "wof:placetype":"locality",

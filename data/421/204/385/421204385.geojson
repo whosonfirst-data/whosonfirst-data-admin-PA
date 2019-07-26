@@ -13,6 +13,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Betania"
+    ],
+    "name:ceb_x_preferred":[
+        "Betania"
+    ],
+    "name:deu_x_preferred":[
+        "Betania"
+    ],
+    "name:ita_x_preferred":[
+        "Betania"
+    ],
+    "name:nld_x_preferred":[
+        "Betania"
+    ],
+    "name:nor_x_preferred":[
+        "Betania"
+    ],
+    "name:ron_x_preferred":[
+        "Betania"
+    ],
+    "name:sco_x_preferred":[
+        "Betania"
+    ],
+    "name:spa_x_preferred":[
+        "Betania"
+    ],
+    "name:swe_x_preferred":[
+        "Betania"
+    ],
+    "name:tgl_x_preferred":[
+        "Betania"
+    ],
+    "name:war_x_preferred":[
+        "Betania"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":421204385,
-    "wof:lastmodified":1500018302,
+    "wof:lastmodified":1564151322,
     "wof:name":"Betania",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

@@ -26,6 +26,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Llano"
+    ],
+    "name:spa_x_preferred":[
+        "El Llano"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u4e9a\u8bfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1242563131,
-    "wof:lastmodified":1537570207,
+    "wof:lastmodified":1564151440,
     "wof:name":"El Llano",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

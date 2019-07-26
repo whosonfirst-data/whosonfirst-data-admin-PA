@@ -25,7 +25,22 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palo Verde"
+    ],
+    "name:deu_x_preferred":[
+        "Palo Verde"
+    ],
+    "name:fra_x_preferred":[
+        "Palo Verde"
+    ],
     "name:spa_x_preferred":[
+        "Palo Verde"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u043e \u0412\u0435\u0440\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Palo Verde"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310099369,
-    "wof:lastmodified":1537676362,
+    "wof:lastmodified":1564151147,
     "wof:name":"Palo Verde",
     "wof:parent_id":1108693201,
     "wof:placetype":"locality",

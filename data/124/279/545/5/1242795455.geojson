@@ -26,11 +26,29 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "La Barra"
+    ],
+    "name:ceb_x_preferred":[
+        "La Barra"
+    ],
+    "name:deu_x_preferred":[
+        "La Barra"
+    ],
+    "name:fra_x_preferred":[
+        "La Barra"
+    ],
+    "name:spa_x_preferred":[
+        "La Barra"
+    ],
     "name:und_x_variant":[
         "Sixola",
         "La Boca del Sixaola",
         "Sixaola",
         "La Barra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0628\u0627\u0631\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1242795455,
-    "wof:lastmodified":1537676417,
+    "wof:lastmodified":1564151479,
     "wof:name":"La Barra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

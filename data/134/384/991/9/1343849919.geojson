@@ -25,6 +25,60 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Granja"
+    ],
+    "name:deu_x_preferred":[
+        "La Granja"
+    ],
+    "name:eus_x_preferred":[
+        "La Granja"
+    ],
+    "name:fra_x_preferred":[
+        "La Granja"
+    ],
+    "name:glg_x_preferred":[
+        "La Granja"
+    ],
+    "name:hun_x_preferred":[
+        "La Granja"
+    ],
+    "name:msa_x_preferred":[
+        "La Granja"
+    ],
+    "name:nld_x_preferred":[
+        "La Granja"
+    ],
+    "name:oci_x_preferred":[
+        "La Granja"
+    ],
+    "name:pol_x_preferred":[
+        "La Granja"
+    ],
+    "name:por_x_preferred":[
+        "La Granja"
+    ],
+    "name:ron_x_preferred":[
+        "La Granja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0413\u0440\u0430\u043d\u0445\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La granja"
+    ],
+    "name:swe_x_preferred":[
+        "La Granja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430 \u0413\u0440\u0430\u043d\u0445\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "La Granja"
+    ],
+    "name:war_x_preferred":[
+        "La Granja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +102,7 @@
         }
     ],
     "wof:id":1343849919,
-    "wof:lastmodified":1536681800,
+    "wof:lastmodified":1564150456,
     "wof:name":"La Granja",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

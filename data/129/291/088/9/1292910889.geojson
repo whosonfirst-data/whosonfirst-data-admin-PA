@@ -25,10 +25,19 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "R\u00edo Indio"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Indio"
+    ],
     "name:und_x_variant":[
         "R\u00edo Indio",
         "La Boca de Uracillo",
         "Boca de Uracillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u56e0\u8fea\u5967"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1292910889,
-    "wof:lastmodified":1537676482,
+    "wof:lastmodified":1564150657,
     "wof:name":"Boca de Uracillo",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

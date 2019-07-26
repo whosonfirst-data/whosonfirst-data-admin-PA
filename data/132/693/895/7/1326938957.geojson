@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Guayabal"
+    ],
     "name:spa_x_preferred":[
         "Guayabal"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4e9a\u74e6\u5c14"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326938957,
-    "wof:lastmodified":1537676423,
+    "wof:lastmodified":1564150298,
     "wof:name":"Guayabal",
     "wof:parent_id":1108693193,
     "wof:placetype":"locality",

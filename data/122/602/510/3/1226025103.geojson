@@ -25,7 +25,28 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "name:deu_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "name:ita_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "name:pol_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "name:por_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "name:sco_x_preferred":[
+        "Tierra Blanca"
+    ],
     "name:spa_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "name:swe_x_preferred":[
         "Tierra Blanca"
     ],
     "src:geom":"geonames",
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1226025103,
-    "wof:lastmodified":1537676521,
+    "wof:lastmodified":1564151665,
     "wof:name":"Tierra Blanca",
     "wof:parent_id":1108693279,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bijagual"
+    ],
     "name:spa_x_preferred":[
         "Bijagual"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310504587,
-    "wof:lastmodified":1537676484,
+    "wof:lastmodified":1564151202,
     "wof:name":"Bijagual",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

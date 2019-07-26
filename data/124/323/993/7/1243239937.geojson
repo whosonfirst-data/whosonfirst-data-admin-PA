@@ -25,6 +25,72 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u062b\u0644\u0633\u062a\u064a\u0646\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "La Celestina"
+    ],
+    "name:cat_x_preferred":[
+        "La Celestina"
+    ],
+    "name:deu_x_preferred":[
+        "La Celestina"
+    ],
+    "name:epo_x_preferred":[
+        "La Celestina"
+    ],
+    "name:eus_x_preferred":[
+        "Zelestina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0633\u0644\u0633\u062a\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "La C\u00e9lestine"
+    ],
+    "name:glg_x_preferred":[
+        "La Celestina"
+    ],
+    "name:hun_x_preferred":[
+        "Celestina"
+    ],
+    "name:ita_x_preferred":[
+        "La Celestina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30bb\u30ec\u30b9\u30c6\u30a3\u30fc\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c \uc140\ub808\uc2a4\ud2f0\ub098"
+    ],
+    "name:nor_x_preferred":[
+        "La Celestina"
+    ],
+    "name:oci_x_preferred":[
+        "La Celestina"
+    ],
+    "name:pol_x_preferred":[
+        "Celestyna"
+    ],
+    "name:por_x_preferred":[
+        "La Celestina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "La Celestina"
+    ],
+    "name:spa_x_preferred":[
+        "La Celestina"
+    ],
+    "name:srp_x_preferred":[
+        "Selestina"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u83b1\u65af\u8482\u5a1c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -57,7 +123,7 @@
         }
     ],
     "wof:id":1243239937,
-    "wof:lastmodified":1536603249,
+    "wof:lastmodified":1564151449,
     "wof:name":"La Celestina",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

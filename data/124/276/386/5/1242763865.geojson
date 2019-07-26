@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Burunga"
+    ],
     "name:spa_x_preferred":[
         "Burunga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u502b\u52a0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242763865,
-    "wof:lastmodified":1537676478,
+    "wof:lastmodified":1564151488,
     "wof:name":"Burunga",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

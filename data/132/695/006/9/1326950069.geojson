@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Brujas"
+    ],
+    "name:spa_x_preferred":[
+        "Brujas"
+    ],
     "name:und_x_variant":[
         "Punta Bruja",
         "Brujas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9b6f\u54c8\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326950069,
-    "wof:lastmodified":1537676480,
+    "wof:lastmodified":1564150306,
     "wof:name":"Brujas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

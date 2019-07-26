@@ -26,6 +26,66 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Navarro"
+    ],
+    "name:ast_x_preferred":[
+        "Navarro"
+    ],
+    "name:cat_x_preferred":[
+        "Navarro"
+    ],
+    "name:ceb_x_preferred":[
+        "Navarro"
+    ],
+    "name:ces_x_preferred":[
+        "Navarro"
+    ],
+    "name:deu_x_preferred":[
+        "Navarro"
+    ],
+    "name:fin_x_preferred":[
+        "Navarro"
+    ],
+    "name:fra_x_preferred":[
+        "Navarro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d0\u05e8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Navarro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30d0\u30fc\u30ed"
+    ],
+    "name:nds_x_preferred":[
+        "Navarro"
+    ],
+    "name:nld_x_preferred":[
+        "Navarro"
+    ],
+    "name:pol_x_preferred":[
+        "Navarro"
+    ],
+    "name:por_x_preferred":[
+        "Navarro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0440\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Navarro"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Navarro"
+    ],
+    "name:tur_x_preferred":[
+        "Navarro"
+    ],
     "name:und_x_variant":[
         "Chumical Abajo",
         "Navarro"
@@ -53,7 +113,7 @@
         }
     ],
     "wof:id":1310693901,
-    "wof:lastmodified":1537676365,
+    "wof:lastmodified":1564151208,
     "wof:name":"Navarro",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

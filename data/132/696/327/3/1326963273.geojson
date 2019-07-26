@@ -26,6 +26,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mri_x_preferred":[
+        "Guanches"
+    ],
+    "name:spa_x_preferred":[
+        "Guanche"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326963273,
-    "wof:lastmodified":1536858827,
+    "wof:lastmodified":1564150372,
     "wof:name":"Guanche",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

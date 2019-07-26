@@ -27,6 +27,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chepo"
+    ],
+    "name:spa_x_preferred":[
+        "Chepo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u6ce2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1327052289,
-    "wof:lastmodified":1537570212,
+    "wof:lastmodified":1564150332,
     "wof:name":"Chepo",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

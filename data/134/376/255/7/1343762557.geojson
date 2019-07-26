@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cuango"
+    ],
     "name:spa_x_preferred":[
         "Cuango"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bbd\u679c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343762557,
-    "wof:lastmodified":1537676461,
+    "wof:lastmodified":1564150473,
     "wof:name":"Cuango",
     "wof:parent_id":1108693271,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Marina"
+    ],
     "name:spa_x_preferred":[
+        "La Marina"
+    ],
+    "name:swe_x_preferred":[
         "La Marina"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310206973,
-    "wof:lastmodified":1537676405,
+    "wof:lastmodified":1564151171,
     "wof:name":"La Marina",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

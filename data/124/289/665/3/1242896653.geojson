@@ -25,6 +25,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Indio"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242896653,
-    "wof:lastmodified":1537570217,
+    "wof:lastmodified":1564151407,
     "wof:name":"Puerto Indio",
     "wof:parent_id":1108693265,
     "wof:placetype":"locality",

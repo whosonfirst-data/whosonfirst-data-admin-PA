@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pe\u00f1a Blanca"
+    ],
     "name:spa_x_preferred":[
         "Pe\u00f1a Blanca"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5c3c\u4e9a\u5e03\u5170\u5361"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1344151297,
-    "wof:lastmodified":1537676360,
+    "wof:lastmodified":1564150439,
     "wof:name":"Pena Blanca",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

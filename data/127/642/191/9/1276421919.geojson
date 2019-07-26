@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lajas Blancas"
+    ],
     "name:spa_x_preferred":[
         "Lajas Blancas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u54c8\u65af\u5e03\u862d\u5361\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276421919,
-    "wof:lastmodified":1537676495,
+    "wof:lastmodified":1564150759,
     "wof:name":"Lajas Blancas",
     "wof:parent_id":1108693203,
     "wof:placetype":"locality",

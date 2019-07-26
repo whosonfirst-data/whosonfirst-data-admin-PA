@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Lajas"
+    ],
     "name:und_x_variant":[
         "Lajas",
         "Las Lajas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u62c9\u54c8\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293695773,
-    "wof:lastmodified":1537676394,
+    "wof:lastmodified":1564150640,
     "wof:name":"Las Lajas",
     "wof:parent_id":421176641,
     "wof:placetype":"locality",

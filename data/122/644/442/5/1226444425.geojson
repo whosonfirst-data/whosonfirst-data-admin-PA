@@ -25,7 +25,25 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:ceb_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:deu_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:ita_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:nld_x_preferred":[
+        "Aguas Blancas"
+    ],
     "name:spa_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:swe_x_preferred":[
         "Aguas Blancas"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226444425,
-    "wof:lastmodified":1537676492,
+    "wof:lastmodified":1564151641,
     "wof:name":"Aguas Blancas",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

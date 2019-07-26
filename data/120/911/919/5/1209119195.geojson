@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Nancito"
+    ],
+    "name:spa_x_preferred":[
+        "El Nancito"
+    ],
     "name:und_x_variant":[
         "Nancito",
         "El Nancito"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5357\u897f\u6258"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209119195,
-    "wof:lastmodified":1537676439,
+    "wof:lastmodified":1564150984,
     "wof:name":"El Nancito",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

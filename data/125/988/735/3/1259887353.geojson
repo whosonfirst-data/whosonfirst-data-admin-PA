@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pajonal"
+    ],
+    "name:spa_x_preferred":[
+        "Pajonal"
+    ],
     "name:und_x_variant":[
         "Pajonal",
         "Pajonal Arriba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u970d\u7eb3\u5c14"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259887353,
-    "wof:lastmodified":1537676363,
+    "wof:lastmodified":1564151611,
     "wof:name":"Pajonal Arriba",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

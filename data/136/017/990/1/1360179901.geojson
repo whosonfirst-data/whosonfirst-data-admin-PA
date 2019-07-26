@@ -25,6 +25,81 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u062a\u0648\u0631\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "La Torre"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627 \u062a\u0631\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "La Torre"
+    ],
+    "name:deu_x_preferred":[
+        "La Torre"
+    ],
+    "name:eus_x_preferred":[
+        "La Torre"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u062a\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "La Torre"
+    ],
+    "name:hun_x_preferred":[
+        "La Torre"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u054f\u0578\u057c\u0565"
+    ],
+    "name:ina_x_preferred":[
+        "La Torre"
+    ],
+    "name:ita_x_preferred":[
+        "La Torre"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430 \u0422\u0443\u0440\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "La Torre"
+    ],
+    "name:nld_x_preferred":[
+        "La Torre"
+    ],
+    "name:oci_x_preferred":[
+        "La Torre"
+    ],
+    "name:pol_x_preferred":[
+        "La Torre"
+    ],
+    "name:por_x_preferred":[
+        "La Torre"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0422\u043e\u0440\u0440\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "La Torre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0422\u043e\u0440\u0440\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "La Torre"
+    ],
+    "name:vie_x_preferred":[
+        "La Torre"
+    ],
+    "name:war_x_preferred":[
+        "La Torre"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6258\u96f7"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +124,7 @@
         }
     ],
     "wof:id":1360179901,
-    "wof:lastmodified":1536808544,
+    "wof:lastmodified":1564151253,
     "wof:name":"La Torre",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

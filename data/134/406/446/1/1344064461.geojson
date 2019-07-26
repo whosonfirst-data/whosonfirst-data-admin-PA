@@ -25,7 +25,22 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Llano Grande"
+    ],
     "name:spa_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:swe_x_preferred":[
         "Llano Grande"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1344064461,
-    "wof:lastmodified":1537676385,
+    "wof:lastmodified":1564150445,
     "wof:name":"Llano Grande",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

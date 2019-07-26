@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gonzalo V\u00e1squez"
+    ],
     "name:spa_x_preferred":[
         "Gonzalo V\u00e1squez"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d21\u8428\u6d1b\u74e6\u65af\u594e\u5179"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209299969,
-    "wof:lastmodified":1537676424,
+    "wof:lastmodified":1564150984,
     "wof:name":"Gonzalo Vasquez",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09b2\u09be\u0997\u09be\u09b0\u09cd\u099f\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Lagarto"
+    ],
+    "name:deu_x_preferred":[
+        "Lagarto"
+    ],
+    "name:glg_x_preferred":[
+        "Lagarto"
+    ],
+    "name:ita_x_preferred":[
+        "Lagarto"
+    ],
+    "name:mlg_x_preferred":[
+        "Lagarto"
+    ],
+    "name:por_x_preferred":[
+        "Lagarto"
+    ],
+    "name:sco_x_preferred":[
+        "Lagarto"
+    ],
+    "name:spa_x_preferred":[
+        "Lagarto"
+    ],
+    "name:swe_x_preferred":[
+        "Lagarto"
+    ],
+    "name:vie_x_preferred":[
+        "Lagarto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -42,7 +75,7 @@
         }
     ],
     "wof:id":1209614255,
-    "wof:lastmodified":1536281744,
+    "wof:lastmodified":1564150947,
     "wof:name":"Lagarto",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Almirante"
+    ],
+    "name:deu_x_preferred":[
+        "Almirante"
+    ],
+    "name:fra_x_preferred":[
+        "Almirante"
+    ],
+    "name:glg_x_preferred":[
+        "Almirante"
+    ],
+    "name:ita_x_preferred":[
+        "Almirante"
+    ],
+    "name:por_x_preferred":[
+        "Almirante"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1242583529,
-    "wof:lastmodified":1537052791,
+    "wof:lastmodified":1564151436,
     "wof:name":"Almirante",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

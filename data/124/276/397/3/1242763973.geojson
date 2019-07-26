@@ -25,6 +25,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Agustina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0627\u06af\u0648\u0633\u0679\u06cc\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1242763973,
-    "wof:lastmodified":1536795509,
+    "wof:lastmodified":1564151487,
     "wof:name":"La Agustina",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

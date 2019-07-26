@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Ensenada"
+    ],
     "name:spa_x_preferred":[
         "La Ensenada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6069\u585e\u7d0d\u9054"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209800985,
-    "wof:lastmodified":1537676412,
+    "wof:lastmodified":1564150997,
     "wof:name":"La Ensenada",
     "wof:parent_id":421175369,
     "wof:placetype":"locality",

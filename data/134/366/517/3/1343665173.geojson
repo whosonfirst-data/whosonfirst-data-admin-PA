@@ -25,6 +25,27 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:deu_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:ita_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:sco_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:spa_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0415\u0441\u043c\u0435\u0440\u0430\u043b\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Esmeralda"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1343665173,
-    "wof:lastmodified":1536948554,
+    "wof:lastmodified":1564150487,
     "wof:name":"La Esmeralda",
     "wof:parent_id":421176641,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cabuya"
+    ],
+    "name:ita_x_preferred":[
+        "Cabuya"
+    ],
+    "name:spa_x_preferred":[
+        "Cabuya"
+    ],
     "name:und_x_variant":[
         "Cerro Cabuya",
         "Cabuya"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242590683,
-    "wof:lastmodified":1537676477,
+    "wof:lastmodified":1564151430,
     "wof:name":"Cabuya",
     "wof:parent_id":1108693193,
     "wof:placetype":"locality",

@@ -26,6 +26,33 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "La Florida"
+    ],
+    "name:ceb_x_preferred":[
+        "La Florida"
+    ],
+    "name:fra_x_preferred":[
+        "La Florida"
+    ],
+    "name:ita_x_preferred":[
+        "La Florida"
+    ],
+    "name:nld_x_preferred":[
+        "La Florida"
+    ],
+    "name:sco_x_preferred":[
+        "La Florida"
+    ],
+    "name:spa_x_preferred":[
+        "La Florida"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0424\u043b\u043e\u0440\u0438\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Florida"
+    ],
     "name:und_x_variant":[
         "Potrero Grande",
         "La Florida"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1242786395,
-    "wof:lastmodified":1537676410,
+    "wof:lastmodified":1564151485,
     "wof:name":"La Florida",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

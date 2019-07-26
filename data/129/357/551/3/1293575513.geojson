@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Uvas"
+    ],
     "name:spa_x_preferred":[
         "Las Uvas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u70cf\u74e6\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293575513,
-    "wof:lastmodified":1537676389,
+    "wof:lastmodified":1564150634,
     "wof:name":"Las Uvas",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

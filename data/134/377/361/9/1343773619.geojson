@@ -25,6 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Reyes"
+    ],
+    "name:deu_x_preferred":[
+        "Los Reyes"
+    ],
+    "name:epo_x_preferred":[
+        "Los Reyes"
+    ],
+    "name:nds_x_preferred":[
+        "Los Reyes"
+    ],
+    "name:spa_x_preferred":[
+        "Los Reyes"
+    ],
+    "name:swe_x_preferred":[
+        "Los Reyes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343773619,
-    "wof:lastmodified":1536792222,
+    "wof:lastmodified":1564150453,
     "wof:name":"Los Reyes",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

@@ -25,6 +25,90 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0633 \u0628\u0627\u0631\u064a\u0648\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:deu_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:epo_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:eus_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:fra_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:glg_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05d1\u05e8\u05d9\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057d \u0532\u0561\u057c\u056b\u0578\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:msa_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:nld_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:oci_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:pol_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:por_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:ron_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u0411\u0430\u0440\u0440\u0438\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:sqi_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u0411\u0430\u0440\u0438\u043e\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0411\u0430\u0440\u0440\u0456\u043e\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:vie_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:war_x_preferred":[
+        "Los Barrios"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u5df4\u91cc\u5965\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +132,7 @@
         }
     ],
     "wof:id":1226749467,
-    "wof:lastmodified":1536710461,
+    "wof:lastmodified":1564151651,
     "wof:name":"Los Barrios",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bernardino"
+    ],
+    "name:ita_x_preferred":[
+        "Bernardino"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30ca\u30eb\u30c7\u30a3\u30fc\u30ce"
+    ],
+    "name:por_x_preferred":[
+        "Bernardino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Bernardino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243430987,
-    "wof:lastmodified":1536826888,
+    "wof:lastmodified":1564151527,
     "wof:name":"Bernardino",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

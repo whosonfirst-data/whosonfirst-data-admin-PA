@@ -25,8 +25,32 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b1\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Sabanas"
+    ],
     "name:spa_x_preferred":[
         "Las Sabanas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0633\u0627\u0628\u0627\u0646\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u85a9\u74e6\u7d0d\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1243562075,
-    "wof:lastmodified":1537676390,
+    "wof:lastmodified":1564151463,
     "wof:name":"Las Sabanas",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

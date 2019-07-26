@@ -25,8 +25,35 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:eus_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:hun_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:ita_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0430-\u0411\u043e\u043d\u0438\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:spa_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u043e\u043c\u0430 \u0411\u043e\u043d\u0438\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Loma Mojica",
+        "Loma Bonita"
+    ],
+    "name:vie_x_preferred":[
         "Loma Bonita"
     ],
     "src:geom":"geonames",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1277156451,
-    "wof:lastmodified":1537676383,
+    "wof:lastmodified":1564150794,
     "wof:name":"Loma Bonita",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

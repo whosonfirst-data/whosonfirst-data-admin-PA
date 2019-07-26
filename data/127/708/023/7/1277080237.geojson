@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Vinagre"
+    ],
+    "name:fra_x_preferred":[
+        "Vinagre"
+    ],
+    "name:ita_x_preferred":[
+        "Vinagre"
+    ],
+    "name:por_x_preferred":[
+        "Vinagre"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1277080237,
-    "wof:lastmodified":1536771725,
+    "wof:lastmodified":1564150717,
     "wof:name":"Vinagre",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

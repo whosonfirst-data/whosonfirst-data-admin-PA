@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Barnizal"
+    ],
     "name:spa_x_preferred":[
         "Barnizal"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5c3c\u85a9\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326619221,
-    "wof:lastmodified":1537676485,
+    "wof:lastmodified":1564150304,
     "wof:name":"Barnizal",
     "wof:parent_id":1108693199,
     "wof:placetype":"locality",

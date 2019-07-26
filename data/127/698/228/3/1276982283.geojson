@@ -25,6 +25,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Guiri"
+    ],
+    "name:hun_x_preferred":[
+        "Guiri"
+    ],
     "name:spa_x_preferred":[
         "Guir\u00ed"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276982283,
-    "wof:lastmodified":1537676422,
+    "wof:lastmodified":1564150856,
     "wof:name":"Guiri",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

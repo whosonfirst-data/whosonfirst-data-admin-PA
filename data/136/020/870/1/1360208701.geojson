@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Viento Fr\u00edo"
+    ],
     "name:spa_x_preferred":[
         "Viento Fr\u00edo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u6069\u6258\u5f17\u91cc\u5967"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1360208701,
-    "wof:lastmodified":1537676331,
+    "wof:lastmodified":1564151239,
     "wof:name":"Viento Frio",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

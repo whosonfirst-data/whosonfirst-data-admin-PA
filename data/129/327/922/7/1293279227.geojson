@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Guayabito"
+    ],
     "name:spa_x_preferred":[
         "Guayabito"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4e9e\u6bd4\u6258"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293279227,
-    "wof:lastmodified":1537676521,
+    "wof:lastmodified":1564150674,
     "wof:name":"Guayabito",
     "wof:parent_id":1108693279,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cerro Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Cerro Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro Grande"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326451703,
-    "wof:lastmodified":1537096774,
+    "wof:lastmodified":1564150289,
     "wof:name":"Cerro Grande",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

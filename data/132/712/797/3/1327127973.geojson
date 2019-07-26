@@ -30,6 +30,9 @@
         "Palmilla",
         "La Palmilla"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0644\u0645\u06cc\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1327127973,
-    "wof:lastmodified":1537676402,
+    "wof:lastmodified":1564150319,
     "wof:name":"La Palmilla",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

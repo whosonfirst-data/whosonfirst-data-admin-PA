@@ -25,8 +25,20 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Rambala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10d1\u10d0\u10da\u10d0"
+    ],
     "name:spa_x_preferred":[
         "R\u00e1mbala"
+    ],
+    "name:spa_x_variant":[
+        "Rambala"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u5df4\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259797825,
-    "wof:lastmodified":1537676510,
+    "wof:lastmodified":1564151554,
     "wof:name":"Rambala",
     "wof:parent_id":1108693209,
     "wof:placetype":"locality",

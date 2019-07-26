@@ -25,12 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Lajitas"
+    ],
+    "name:por_x_preferred":[
+        "Las Lajitas"
+    ],
     "name:spa_x_preferred":[
         "Las Lajitas"
     ],
     "name:und_x_variant":[
         "Lajas",
         "Las Lajas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062c\u06cc\u0679\u0627\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293271427,
-    "wof:lastmodified":1537676394,
+    "wof:lastmodified":1564150673,
     "wof:name":"Las Lajitas",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

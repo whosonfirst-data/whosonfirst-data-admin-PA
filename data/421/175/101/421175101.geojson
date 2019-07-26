@@ -13,7 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Colorada"
+    ],
+    "name:deu_x_preferred":[
+        "La Colorada"
+    ],
+    "name:ita_x_preferred":[
+        "La Colorada"
+    ],
     "name:spa_x_preferred":[
+        "La Colorada"
+    ],
+    "name:swe_x_preferred":[
         "La Colorada"
     ],
     "qs:gn_country":"PA",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":421175101,
-    "wof:lastmodified":1505340623,
+    "wof:lastmodified":1564151346,
     "wof:name":"La Colorada",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

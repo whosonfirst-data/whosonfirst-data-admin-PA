@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Joselito"
+    ],
+    "name:fra_x_preferred":[
+        "Joselito"
+    ],
+    "name:por_x_preferred":[
+        "Joselito"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0441\u0435\u043b\u0438\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Joselito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344061803,
-    "wof:lastmodified":1536872576,
+    "wof:lastmodified":1564150445,
     "wof:name":"Joselito",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

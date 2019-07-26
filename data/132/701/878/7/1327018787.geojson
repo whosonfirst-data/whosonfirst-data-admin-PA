@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zapotillo"
+    ],
     "name:spa_x_preferred":[
         "Zapotillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u6ce2\u8482\u7565"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327018787,
-    "wof:lastmodified":1537676330,
+    "wof:lastmodified":1564150272,
     "wof:name":"Zapotillo",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",
