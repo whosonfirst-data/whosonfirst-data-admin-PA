@@ -26,9 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Campana"
+    ],
+    "name:spa_x_preferred":[
+        "Campana"
+    ],
     "name:und_x_variant":[
         "La Campana",
         "Campana"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5e15\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1226239291,
-    "wof:lastmodified":1537676476,
+    "wof:lastmodified":1564151707,
     "wof:name":"Campana",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

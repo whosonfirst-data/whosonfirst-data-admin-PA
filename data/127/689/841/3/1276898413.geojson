@@ -25,6 +25,36 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:deu_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:fra_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:glg_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:ita_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:nld_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:nor_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u044f-\u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:swe_x_preferred":[
+        "Playa Blanca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1276898413,
-    "wof:lastmodified":1537015630,
+    "wof:lastmodified":1564150762,
     "wof:name":"Playa Blanca",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

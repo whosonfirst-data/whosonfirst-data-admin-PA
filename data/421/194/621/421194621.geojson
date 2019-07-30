@@ -16,11 +16,17 @@
     "name:hbs_x_preferred":[
         "Rejnbou Siti"
     ],
+    "name:pol_x_preferred":[
+        "Rainbow City"
+    ],
     "name:spa_x_preferred":[
         "Arco Iris"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u0458\u043d\u0431\u043e\u0443 \u0421\u0438\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0439\u043d\u0431\u043e\u0443-\u0421\u0456\u0442\u0456"
     ],
     "name:unk_x_variant":[
         "Rambow City"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":421194621,
-    "wof:lastmodified":1527716129,
+    "wof:lastmodified":1564151316,
     "wof:name":"Rainbow City",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

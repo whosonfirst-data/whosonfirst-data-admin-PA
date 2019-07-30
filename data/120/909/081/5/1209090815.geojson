@@ -26,6 +26,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mandinga"
+    ],
+    "name:ita_x_preferred":[
+        "Mandinga"
+    ],
+    "name:por_x_preferred":[
+        "Mandinga"
+    ],
+    "name:spa_x_preferred":[
+        "Mandinga"
+    ],
+    "name:swe_x_preferred":[
+        "Mandinga"
+    ],
     "name:und_x_variant":[
         "Mandinga N\u00famero Uno",
         "Mandinga Civil",
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209090815,
-    "wof:lastmodified":1537676370,
+    "wof:lastmodified":1564150878,
     "wof:name":"Mandinga",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

@@ -25,7 +25,19 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Naranjal"
+    ],
+    "name:deu_x_preferred":[
+        "Naranjal"
+    ],
+    "name:pol_x_preferred":[
+        "Naranjal"
+    ],
     "name:spa_x_preferred":[
+        "Naranjal"
+    ],
+    "name:swe_x_preferred":[
         "Naranjal"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243087655,
-    "wof:lastmodified":1537676366,
+    "wof:lastmodified":1564151391,
     "wof:name":"Naranjal",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

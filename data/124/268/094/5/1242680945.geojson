@@ -29,6 +29,9 @@
         "Quebrada Piedra",
         "Quebrada de Piedra"
     ],
+    "name:zho_x_preferred":[
+        "\u5854\u592b\u62c9\u8fbe\u5fb7\u5f7c\u5fb7\u62c9"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242680945,
-    "wof:lastmodified":1537676351,
+    "wof:lastmodified":1564151423,
     "wof:name":"Quebrada de Piedra",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

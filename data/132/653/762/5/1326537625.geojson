@@ -25,7 +25,16 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loma Grande"
+    ],
     "name:spa_x_preferred":[
+        "Loma Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043c\u0430 \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Loma Grande"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326537625,
-    "wof:lastmodified":1537676383,
+    "wof:lastmodified":1564150377,
     "wof:name":"Loma Grande",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

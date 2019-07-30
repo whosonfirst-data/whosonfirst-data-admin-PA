@@ -30,6 +30,9 @@
         "Paso Hondo",
         "Quebrada de Oro"
     ],
+    "name:zho_x_preferred":[
+        "\u514b\u5e03\u62c9\u9054\u5fb7\u5967\u7f85"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209804307,
-    "wof:lastmodified":1537676351,
+    "wof:lastmodified":1564150997,
     "wof:name":"Quebrada de Oro",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

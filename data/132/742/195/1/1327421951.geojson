@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Puente"
+    ],
+    "name:fra_x_preferred":[
+        "Puente"
+    ],
+    "name:glg_x_preferred":[
+        "Puente"
+    ],
+    "name:por_x_preferred":[
+        "Puente"
+    ],
     "name:spa_x_preferred":[
         "Puente"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1327421951,
-    "wof:lastmodified":1537676502,
+    "wof:lastmodified":1564150392,
     "wof:name":"Puente",
     "wof:parent_id":1108693203,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Cascavillo"
+    ],
+    "name:ita_x_preferred":[
+        "Cascabel"
+    ],
+    "name:que_x_preferred":[
+        "Kaskawil"
+    ],
     "name:spa_x_preferred":[
         "Cascabel"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360161919,
-    "wof:lastmodified":1537676472,
+    "wof:lastmodified":1564151248,
     "wof:name":"Cascabel",
     "wof:parent_id":1108693241,
     "wof:placetype":"locality",

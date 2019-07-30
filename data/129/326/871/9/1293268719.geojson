@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mendoza"
+    ],
     "name:spa_x_preferred":[
         "Mendoza"
+    ],
+    "name:zho_x_preferred":[
+        "\u9580\u591a\u85a9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293268719,
-    "wof:lastmodified":1537676368,
+    "wof:lastmodified":1564150700,
     "wof:name":"Mendoza",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

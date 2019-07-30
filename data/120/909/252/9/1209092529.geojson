@@ -26,6 +26,42 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Miraflores"
+    ],
+    "name:ceb_x_preferred":[
+        "Miraflores"
+    ],
+    "name:deu_x_preferred":[
+        "Miraflores"
+    ],
+    "name:fra_x_preferred":[
+        "Miraflores"
+    ],
+    "name:glg_x_preferred":[
+        "Miraflores"
+    ],
+    "name:ita_x_preferred":[
+        "Miraflores"
+    ],
+    "name:nld_x_preferred":[
+        "Miraflores"
+    ],
+    "name:pol_x_preferred":[
+        "Miraflores"
+    ],
+    "name:por_x_preferred":[
+        "Miraflores"
+    ],
+    "name:spa_x_preferred":[
+        "Miraflores"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u0444\u043b\u043e\u0440\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Miraflores"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -35,7 +71,7 @@
         "gn:id":3704263
     },
     "wof:country":"PA",
-    "wof:geomhash":"bc1774f529731eedf49764ee6e852c4e",
+    "wof:geomhash":"45f044376344ef3e7dc8b4214757a513",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -43,7 +79,7 @@
         }
     ],
     "wof:id":1209092529,
-    "wof:lastmodified":1536297992,
+    "wof:lastmodified":1564150880,
     "wof:name":"Miraflores",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
@@ -54,9 +90,9 @@
 },
   "bbox": [
     -79.59978000000002,
-    9.000010000000003,
+    9.00001,
     -79.59978000000002,
-    9.000010000000003
+    9.00001
 ],
   "geometry": {"coordinates":[-79.59978000000002,9.00001],"type":"Point"}
 }

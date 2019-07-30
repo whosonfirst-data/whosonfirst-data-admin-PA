@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llano Largo"
+    ],
+    "name:ita_x_preferred":[
+        "Llano Largo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d0\u10dc\u10dd-\u10da\u10d0\u10e0\u10d2\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Llano Largo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4e9e\u8afe\u62c9\u723e\u6208"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1293755135,
-    "wof:lastmodified":1536898364,
+    "wof:lastmodified":1564150701,
     "wof:name":"Llano Largo",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

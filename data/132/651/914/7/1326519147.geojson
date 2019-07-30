@@ -25,6 +25,36 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "La Mata"
+    ],
+    "name:ast_x_preferred":[
+        "La Mata"
+    ],
+    "name:cat_x_preferred":[
+        "La Mata"
+    ],
+    "name:ceb_x_preferred":[
+        "La Mata"
+    ],
+    "name:eus_x_preferred":[
+        "La Mata"
+    ],
+    "name:fra_x_preferred":[
+        "La Mata"
+    ],
+    "name:por_x_preferred":[
+        "La Mata"
+    ],
+    "name:spa_x_preferred":[
+        "La Mata"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041c\u0430\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Mata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1326519147,
-    "wof:lastmodified":1537002161,
+    "wof:lastmodified":1564150294,
     "wof:name":"La Mata",
     "wof:parent_id":1108693201,
     "wof:placetype":"locality",

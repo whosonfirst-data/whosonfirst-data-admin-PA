@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Oria Arriba"
+    ],
     "name:spa_x_preferred":[
         "Oria Arriba"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5967\u91cc\u4e9e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225965493,
-    "wof:lastmodified":1537676496,
+    "wof:lastmodified":1564151687,
     "wof:name":"Oria Arriba",
     "wof:parent_id":421202587,
     "wof:placetype":"locality",

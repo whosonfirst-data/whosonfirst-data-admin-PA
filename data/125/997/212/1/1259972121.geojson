@@ -25,7 +25,19 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mandinga"
+    ],
+    "name:ita_x_preferred":[
+        "Mandinga"
+    ],
+    "name:por_x_preferred":[
+        "Mandinga"
+    ],
     "name:spa_x_preferred":[
+        "Mandinga"
+    ],
+    "name:swe_x_preferred":[
         "Mandinga"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259972121,
-    "wof:lastmodified":1537676370,
+    "wof:lastmodified":1564151543,
     "wof:name":"Mandinga",
     "wof:parent_id":1108693253,
     "wof:placetype":"locality",

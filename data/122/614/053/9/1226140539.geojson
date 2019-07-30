@@ -25,7 +25,13 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Huacas"
+    ],
     "name:spa_x_preferred":[
+        "Las Huacas"
+    ],
+    "name:swe_x_preferred":[
         "Las Huacas"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226140539,
-    "wof:lastmodified":1537676395,
+    "wof:lastmodified":1564151688,
     "wof:name":"Las Huacas",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

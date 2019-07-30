@@ -26,6 +26,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Palmitas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Palmitas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Palmitas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441 \u041f\u0430\u043b\u043c\u0438\u0442\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Las Palmitas"
+    ],
     "name:und_x_variant":[
         "El Romp\u00edo",
         "Las Palmitas"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1260101595,
-    "wof:lastmodified":1537676392,
+    "wof:lastmodified":1564151105,
     "wof:name":"Las Palmitas",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

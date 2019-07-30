@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Mara\u00f1\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "El Mara\u00f1\u00f3n"
+    ],
     "name:und_x_variant":[
         "Mara\u00f1on",
         "El Mara\u00f1\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u99ac\u62c9\u5c3c\u7fc1"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209799225,
-    "wof:lastmodified":1537676440,
+    "wof:lastmodified":1564150914,
     "wof:name":"El Maranon",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

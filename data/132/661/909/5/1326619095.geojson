@@ -26,9 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Corozal"
+    ],
+    "name:spa_x_preferred":[
+        "Corozal"
+    ],
     "name:und_x_variant":[
         "Laguna",
         "Corozal"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f57\u8428\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326619095,
-    "wof:lastmodified":1537676462,
+    "wof:lastmodified":1564150303,
     "wof:name":"Corozal",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

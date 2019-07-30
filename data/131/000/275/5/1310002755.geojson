@@ -25,7 +25,16 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tres Quebradas"
+    ],
+    "name:ita_x_preferred":[
+        "Tres Quebradas"
+    ],
     "name:spa_x_preferred":[
+        "Tres Quebradas"
+    ],
+    "name:swe_x_preferred":[
         "Tres Quebradas"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310002755,
-    "wof:lastmodified":1537676499,
+    "wof:lastmodified":1564151144,
     "wof:name":"Tres Quebradas",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Palo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Palo Grande"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u6d1b\u683c\u5170\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259676249,
-    "wof:lastmodified":1537074380,
+    "wof:lastmodified":1564151595,
     "wof:name":"Palo Grande",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

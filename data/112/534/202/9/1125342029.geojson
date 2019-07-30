@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Barrio Norte"
+    ],
     "qs_pg:aaroncc":"PA",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Barrio Norte",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125342029,
-    "wof:lastmodified":1534379393,
+    "wof:lastmodified":1564151372,
     "wof:name":"Barrio Norte",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

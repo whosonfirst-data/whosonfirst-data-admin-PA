@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bajo Corral"
+    ],
     "name:spa_x_preferred":[
         "Bajo Corral"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u79d1\u62c9\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259577775,
-    "wof:lastmodified":1537676487,
+    "wof:lastmodified":1564151581,
     "wof:name":"Bajo Corral",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

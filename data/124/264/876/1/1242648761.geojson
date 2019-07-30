@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Rodeo Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "Rodeo Viejo"
+    ],
     "name:und_x_variant":[
         "Rodeo Viego",
         "Rodeo Viejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u96f7\u5fb7\u5967"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1242648761,
-    "wof:lastmodified":1537676345,
+    "wof:lastmodified":1564151497,
     "wof:name":"Rodeo Viejo",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

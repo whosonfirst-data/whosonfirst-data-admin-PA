@@ -25,7 +25,19 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Filipinas"
+    ],
     "name:spa_x_preferred":[
+        "Filipinas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0438\u043d\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Filipinas"
+    ],
+    "name:tgl_x_preferred":[
         "Filipinas"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343938007,
-    "wof:lastmodified":1537676515,
+    "wof:lastmodified":1564150503,
     "wof:name":"Filipinas",
     "wof:parent_id":1108693279,
     "wof:placetype":"locality",

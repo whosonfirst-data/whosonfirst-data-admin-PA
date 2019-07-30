@@ -31,6 +31,9 @@
     "name:und_x_variant":[
         "Cerro Plata"
     ],
+    "name:zho_x_preferred":[
+        "\u585e\u7f57\u5fb7\u62c9\u666e\u62c9\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209090203,
-    "wof:lastmodified":1537676468,
+    "wof:lastmodified":1564150878,
     "wof:name":"Cerro de Plata",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

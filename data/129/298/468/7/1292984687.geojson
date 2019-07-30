@@ -25,8 +25,20 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Los Remedios"
+    ],
+    "name:glg_x_preferred":[
+        "Distrito Los Remedios"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u0420\u0435\u043c\u0435\u0434\u0438\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Los Remedios"
+    ],
+    "name:spa_x_variant":[
+        "Distrito Los Remedios"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1292984687,
-    "wof:lastmodified":1537676374,
+    "wof:lastmodified":1564150654,
     "wof:name":"Los Remedios",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

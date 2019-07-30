@@ -25,11 +25,17 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lajas Adentro"
+    ],
     "name:spa_x_preferred":[
         "Lajas Adentro"
     ],
     "name:und_x_variant":[
         "Las Adentro"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u54c8\u65af\u963f\u767b\u7279\u7f85"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276451637,
-    "wof:lastmodified":1537676407,
+    "wof:lastmodified":1564150757,
     "wof:name":"Lajas Adentro",
     "wof:parent_id":421176641,
     "wof:placetype":"locality",

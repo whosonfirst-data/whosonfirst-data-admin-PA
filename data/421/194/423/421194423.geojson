@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nueva Gorgona"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Gorgona"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Gorgona"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6208\u723e\u6208\u7d0d"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":421194423,
-    "wof:lastmodified":1500018208,
+    "wof:lastmodified":1564151316,
     "wof:name":"Nueva Gorgona",
     "wof:parent_id":421189053,
     "wof:placetype":"localadmin",

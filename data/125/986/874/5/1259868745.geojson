@@ -25,7 +25,25 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Pintada"
+    ],
+    "name:deu_x_preferred":[
+        "La Pintada"
+    ],
+    "name:fra_x_preferred":[
+        "La Pintada"
+    ],
+    "name:ita_x_preferred":[
+        "La Pintada"
+    ],
     "name:spa_x_preferred":[
+        "La Pintada"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041f\u0438\u043d\u0442\u0430\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
         "La Pintada"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259868745,
-    "wof:lastmodified":1537676520,
+    "wof:lastmodified":1564151613,
     "wof:name":"La Pintada",
     "wof:parent_id":421173571,
     "wof:placetype":"locality",

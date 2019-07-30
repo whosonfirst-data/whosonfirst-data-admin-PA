@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Calidonia"
+    ],
     "name:spa_x_preferred":[
         "Calidonia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5229\u591a\u5c3c\u4e9e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293772853,
-    "wof:lastmodified":1537676476,
+    "wof:lastmodified":1564150602,
     "wof:name":"Calidonia",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

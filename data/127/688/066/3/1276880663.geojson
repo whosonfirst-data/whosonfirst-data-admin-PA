@@ -25,6 +25,39 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bermejo"
+    ],
+    "name:ceb_x_preferred":[
+        "Bermejo"
+    ],
+    "name:deu_x_preferred":[
+        "Bermejo"
+    ],
+    "name:fra_x_preferred":[
+        "Bermejo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bermejo"
+    ],
+    "name:ita_x_preferred":[
+        "Bermejo"
+    ],
+    "name:nld_x_preferred":[
+        "Bermejo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043c\u0435\u0445\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Bermejo"
+    ],
+    "name:spa_x_preferred":[
+        "Bermejo"
+    ],
+    "name:swe_x_preferred":[
+        "Bermejo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1276880663,
-    "wof:lastmodified":1537038362,
+    "wof:lastmodified":1564150745,
     "wof:name":"Bermejo",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

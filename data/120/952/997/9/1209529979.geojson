@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Delicias"
+    ],
     "name:spa_x_preferred":[
         "Las Delicias"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u5fb7\u5229\u897f\u4e9e\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209529979,
-    "wof:lastmodified":1537676397,
+    "wof:lastmodified":1564150904,
     "wof:name":"Las Delicias",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

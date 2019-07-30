@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chepillo"
+    ],
     "name:spa_x_preferred":[
         "Chepillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u76ae\u7565"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209412293,
-    "wof:lastmodified":1537676467,
+    "wof:lastmodified":1564150919,
     "wof:name":"Chepillo",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

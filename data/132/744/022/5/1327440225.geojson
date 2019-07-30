@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Los \u00c1ngeles"
     ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u6749\u77f6"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1327440225,
-    "wof:lastmodified":1537676382,
+    "wof:lastmodified":1564150383,
     "wof:name":"Los Angeles",
     "wof:parent_id":421169889,
     "wof:placetype":"locality",

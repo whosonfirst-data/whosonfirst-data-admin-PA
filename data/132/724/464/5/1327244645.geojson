@@ -26,8 +26,32 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Castillo"
+    ],
+    "name:deu_x_preferred":[
+        "El Castillo"
+    ],
+    "name:ita_x_preferred":[
+        "El Castillo"
+    ],
+    "name:nld_x_preferred":[
+        "El Castillo"
+    ],
+    "name:pol_x_preferred":[
+        "El Castillo"
+    ],
+    "name:spa_x_preferred":[
+        "El Castillo"
+    ],
+    "name:swe_x_preferred":[
+        "El Castillo"
+    ],
     "name:und_x_variant":[
         "Castillo",
+        "El Castillo"
+    ],
+    "name:vie_x_preferred":[
         "El Castillo"
     ],
     "src:geom":"geonames",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1327244645,
-    "wof:lastmodified":1537676454,
+    "wof:lastmodified":1564150326,
     "wof:name":"El Castillo",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

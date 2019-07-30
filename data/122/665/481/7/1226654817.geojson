@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Volant"
+    ],
+    "name:ita_x_preferred":[
+        "Volante"
+    ],
+    "name:por_x_preferred":[
+        "Volante"
+    ],
     "name:spa_x_preferred":[
         "Volante"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226654817,
-    "wof:lastmodified":1537676331,
+    "wof:lastmodified":1564151738,
     "wof:name":"Volante",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

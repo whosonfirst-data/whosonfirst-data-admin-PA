@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Calov\u00e9bora"
+    ],
     "name:spa_x_preferred":[
         "Calov\u00e9bora"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6d1b\u97cb\u535a\u62c9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327023815,
-    "wof:lastmodified":1537676476,
+    "wof:lastmodified":1564150336,
     "wof:name":"Calovebora",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

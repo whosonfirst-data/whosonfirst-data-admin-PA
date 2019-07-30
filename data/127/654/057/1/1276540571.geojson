@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Pasera"
+    ],
+    "name:spa_x_preferred":[
+        "La Pasera"
+    ],
     "name:und_x_variant":[
         "Llano del Hato",
         "La Pasera"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e15\u585e\u62c9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276540571,
-    "wof:lastmodified":1537676402,
+    "wof:lastmodified":1564150870,
     "wof:name":"La Pasera",
     "wof:parent_id":1108693219,
     "wof:placetype":"locality",

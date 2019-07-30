@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Paso Ancho"
     ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u5e15\u7d22\u5b89\u4e54"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242586473,
-    "wof:lastmodified":1537676361,
+    "wof:lastmodified":1564151438,
     "wof:name":"Paso Ancho",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

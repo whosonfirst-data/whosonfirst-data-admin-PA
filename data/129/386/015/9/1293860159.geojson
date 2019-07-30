@@ -25,9 +25,48 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:fra_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:ita_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d2\u10e3\u10d0\u10d9\u10d0\u10db\u10d0\u10d8\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:nld_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:sco_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:spa_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:swe_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:tgl_x_preferred":[
+        "El Guacamayo"
+    ],
     "name:und_x_variant":[
         "Guacamaya",
         "El Guacamayo"
+    ],
+    "name:vie_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:war_x_preferred":[
+        "El Guacamayo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u74dc\u5361\u99ac\u7d04"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +99,7 @@
         }
     ],
     "wof:id":1293860159,
-    "wof:lastmodified":1537676446,
+    "wof:lastmodified":1564150702,
     "wof:name":"El Guacamayo",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

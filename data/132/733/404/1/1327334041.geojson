@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Playa Chiquita"
+    ],
     "name:spa_x_preferred":[
         "Playa Chiquita"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u4e9e\u5947\u57fa\u5854"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327334041,
-    "wof:lastmodified":1537676357,
+    "wof:lastmodified":1564150343,
     "wof:name":"Playa Chiquita",
     "wof:parent_id":1108693271,
     "wof:placetype":"locality",

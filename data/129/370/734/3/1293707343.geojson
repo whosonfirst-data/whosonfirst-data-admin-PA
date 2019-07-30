@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Pantano"
+    ],
     "name:spa_x_preferred":[
         "El Pantano"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u6f58\u5854\u8bfa"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293707343,
-    "wof:lastmodified":1537676437,
+    "wof:lastmodified":1564150606,
     "wof:name":"El Pantano",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

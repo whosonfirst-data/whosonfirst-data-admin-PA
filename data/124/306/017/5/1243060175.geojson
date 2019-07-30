@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Los Castillos"
+    ],
     "name:spa_x_preferred":[
         "Los Castillos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u5361\u65af\u8482\u7565\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243060175,
-    "wof:lastmodified":1537676380,
+    "wof:lastmodified":1564151397,
     "wof:name":"Los Castillos",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

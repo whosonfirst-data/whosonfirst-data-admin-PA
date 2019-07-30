@@ -25,6 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chica"
+    ],
+    "name:deu_x_preferred":[
+        "Chica"
+    ],
+    "name:fra_x_preferred":[
+        "Chica"
+    ],
+    "name:por_x_preferred":[
+        "Chica"
+    ],
+    "name:spa_x_preferred":[
+        "Chica"
+    ],
+    "name:swe_x_preferred":[
+        "Chica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243374959,
-    "wof:lastmodified":1536908943,
+    "wof:lastmodified":1564151391,
     "wof:name":"Chica",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

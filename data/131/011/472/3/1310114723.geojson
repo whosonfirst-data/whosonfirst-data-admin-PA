@@ -26,6 +26,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Cedro"
+    ],
+    "name:fra_x_preferred":[
+        "El Cedro"
+    ],
+    "name:ita_x_preferred":[
+        "El Cedro"
+    ],
+    "name:spa_x_preferred":[
+        "El Cedro"
+    ],
+    "name:swe_x_preferred":[
+        "El Cedro"
+    ],
     "name:und_x_variant":[
         "Isla de Cedro",
         "El Cedro"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310114723,
-    "wof:lastmodified":1537676453,
+    "wof:lastmodified":1564151178,
     "wof:name":"El Cedro",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

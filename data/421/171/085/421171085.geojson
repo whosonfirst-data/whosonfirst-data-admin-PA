@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "El Harino"
+    ],
+    "name:spa_x_preferred":[
+        "El Harino"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u91cc\u8afe"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":421171085,
-    "wof:lastmodified":1500018274,
+    "wof:lastmodified":1564151367,
     "wof:name":"El Harino",
     "wof:parent_id":421189057,
     "wof:placetype":"localadmin",

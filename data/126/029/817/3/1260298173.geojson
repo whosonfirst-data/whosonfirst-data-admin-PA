@@ -25,6 +25,33 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mosca"
+    ],
+    "name:deu_x_preferred":[
+        "Mosca"
+    ],
+    "name:fra_x_preferred":[
+        "Mosca"
+    ],
+    "name:glg_x_preferred":[
+        "Mosca"
+    ],
+    "name:ita_x_preferred":[
+        "Mosca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30b9\u30ab"
+    ],
+    "name:por_x_preferred":[
+        "Mosca"
+    ],
+    "name:spa_x_preferred":[
+        "Mosca"
+    ],
+    "name:swe_x_preferred":[
+        "Mosca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1260298173,
-    "wof:lastmodified":1536692349,
+    "wof:lastmodified":1564151099,
     "wof:name":"Mosca",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

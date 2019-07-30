@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Los Asientos"
+    ],
     "name:spa_x_preferred":[
         "Los Asientos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u963f\u5148\u6258\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260174077,
-    "wof:lastmodified":1537676382,
+    "wof:lastmodified":1564151101,
     "wof:name":"Los Asientos",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

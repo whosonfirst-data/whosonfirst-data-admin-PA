@@ -25,7 +25,49 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Lucas"
+    ],
+    "name:deu_x_preferred":[
+        "San Lucas"
+    ],
+    "name:epo_x_preferred":[
+        "San Lucas"
+    ],
+    "name:fra_x_preferred":[
+        "San Lucas"
+    ],
+    "name:glg_x_preferred":[
+        "San Lucas"
+    ],
+    "name:ita_x_preferred":[
+        "San Lucas"
+    ],
+    "name:nds_x_preferred":[
+        "San Lucas"
+    ],
+    "name:nld_x_preferred":[
+        "San Lucas"
+    ],
+    "name:pol_x_preferred":[
+        "San Lucas"
+    ],
+    "name:por_x_preferred":[
+        "San Lucas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u043a\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "San Lucas"
+    ],
     "name:spa_x_preferred":[
+        "San Lucas"
+    ],
+    "name:swe_x_preferred":[
+        "San Lucas"
+    ],
+    "name:vie_x_preferred":[
         "San Lucas"
     ],
     "src:geom":"geonames",
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":1293206441,
-    "wof:lastmodified":1537676506,
+    "wof:lastmodified":1564150667,
     "wof:name":"San Lucas",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

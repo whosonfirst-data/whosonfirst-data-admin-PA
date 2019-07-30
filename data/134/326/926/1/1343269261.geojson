@@ -25,6 +25,30 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Perico"
+    ],
+    "name:deu_x_preferred":[
+        "Perico"
+    ],
+    "name:fra_x_preferred":[
+        "Perico"
+    ],
+    "name:pol_x_preferred":[
+        "Perico"
+    ],
+    "name:por_x_preferred":[
+        "Perico"
+    ],
+    "name:sco_x_preferred":[
+        "Perico"
+    ],
+    "name:spa_x_preferred":[
+        "Perico"
+    ],
+    "name:swe_x_preferred":[
+        "Perico"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1343269261,
-    "wof:lastmodified":1537021208,
+    "wof:lastmodified":1564150535,
     "wof:name":"Perico",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

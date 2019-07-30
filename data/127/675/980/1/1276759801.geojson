@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Monagrillo"
+    ],
     "name:spa_x_preferred":[
         "Monagrillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u7d0d\u683c\u91cc\u7565"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276759801,
-    "wof:lastmodified":1537676367,
+    "wof:lastmodified":1564150735,
     "wof:name":"Monagrillo",
     "wof:parent_id":421189055,
     "wof:placetype":"locality",

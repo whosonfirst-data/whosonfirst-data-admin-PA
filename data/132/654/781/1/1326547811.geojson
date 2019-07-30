@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tiger Hill"
+    ],
+    "name:deu_x_preferred":[
+        "Tiger Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Tiger Hill"
+    ],
     "name:und_x_variant":[
         "Loma de Tigre",
         "Tiger Hill"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326547811,
-    "wof:lastmodified":1537676336,
+    "wof:lastmodified":1564150381,
     "wof:name":"Tiger Hill",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

@@ -13,6 +13,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Limon"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043c\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Limon"
+    ],
+    "name:fra_x_preferred":[
+        "Limon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05de\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Limon"
+    ],
+    "name:lmo_x_preferred":[
+        "Limon"
+    ],
+    "name:nld_x_preferred":[
+        "Limon"
+    ],
+    "name:oci_x_preferred":[
+        "Limon"
+    ],
+    "name:pms_x_preferred":[
+        "Limon"
+    ],
+    "name:pol_x_preferred":[
+        "Limon"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043c\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Limon"
+    ],
+    "name:tur_x_preferred":[
+        "Limon"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +98,7 @@
         }
     ],
     "wof:id":421182663,
-    "wof:lastmodified":1500018280,
+    "wof:lastmodified":1564151365,
     "wof:name":"Limon",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

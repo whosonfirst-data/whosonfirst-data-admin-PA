@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "El Chorrillo"
+    ],
+    "name:spa_x_preferred":[
+        "El Chorrillo"
+    ],
     "name:unk_x_variant":[
         "Chorrillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u55ac\u91cc\u7565"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPLX",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":421172951,
-    "wof:lastmodified":1501268795,
+    "wof:lastmodified":1564151343,
     "wof:name":"El Chorrillo",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

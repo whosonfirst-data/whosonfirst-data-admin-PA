@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aguacate"
+    ],
+    "name:nds_x_preferred":[
+        "Aguacate"
+    ],
+    "name:spa_x_preferred":[
+        "Aguacate"
+    ],
+    "name:swe_x_preferred":[
+        "Aguacate"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1260299647,
-    "wof:lastmodified":1536690291,
+    "wof:lastmodified":1564151098,
     "wof:name":"Aguacate",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

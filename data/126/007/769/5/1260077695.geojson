@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cabuya"
+    ],
+    "name:spa_x_preferred":[
+        "Cabuya"
+    ],
     "name:und_x_variant":[
         "Cabuyao",
         "Cabuya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6b66\u4e9a"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1260077695,
-    "wof:lastmodified":1537676477,
+    "wof:lastmodified":1564151076,
     "wof:name":"Cabuya",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

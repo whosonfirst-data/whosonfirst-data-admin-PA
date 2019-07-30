@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:sco_x_preferred":[
+        "Nueva Italia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430 \u0418\u0442\u0430\u043b\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Italia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327339423,
-    "wof:lastmodified":1536814320,
+    "wof:lastmodified":1564150343,
     "wof:name":"Nueva Italia",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

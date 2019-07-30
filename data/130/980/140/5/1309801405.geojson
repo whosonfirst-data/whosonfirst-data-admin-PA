@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Guabas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Guabas"
+    ],
     "name:und_x_variant":[
         "Las Guaba",
         "Las Guabas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u74dc\u5df4\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1309801405,
-    "wof:lastmodified":1537676396,
+    "wof:lastmodified":1564151304,
     "wof:name":"Las Guabas",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

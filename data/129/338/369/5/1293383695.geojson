@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Algarrobos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Algarrobos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Algarrobos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Algarrobos"
+    ],
     "name:und_x_variant":[
         "Los Algarrobas",
         "Los Algarrobos"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293383695,
-    "wof:lastmodified":1537676382,
+    "wof:lastmodified":1564150557,
     "wof:name":"Los Algarrobos",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

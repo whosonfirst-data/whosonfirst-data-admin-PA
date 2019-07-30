@@ -25,6 +25,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Cortezo"
+    ],
     "name:und_x_variant":[
         "Cortezo",
         "Corteza",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343849955,
-    "wof:lastmodified":1537676450,
+    "wof:lastmodified":1564150460,
     "wof:name":"El Cortezo",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0643\u0648\u0633\u062a\u0627"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293867721,
-    "wof:lastmodified":1536736157,
+    "wof:lastmodified":1564150705,
     "wof:name":"La Costa",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

@@ -26,8 +26,32 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:deu_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:fra_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:nds_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:sco_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:swe_x_preferred":[
+        "Pueblo Viejo"
+    ],
     "name:und_x_variant":[
         "Pueblo Viego",
+        "Pueblo Viejo"
+    ],
+    "name:vie_x_preferred":[
         "Pueblo Viejo"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1226326213,
-    "wof:lastmodified":1537676355,
+    "wof:lastmodified":1564151681,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":421171341,
     "wof:placetype":"locality",

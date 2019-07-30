@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:spa_x_preferred":[
         "Buenos Aires"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u57c3\u8afe\u65af\u827e\u96f7\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293770085,
-    "wof:lastmodified":1537676479,
+    "wof:lastmodified":1564150600,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

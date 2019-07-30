@@ -27,9 +27,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bah\u00eda Honda"
+    ],
+    "name:spa_x_preferred":[
+        "Bah\u00eda Honda"
+    ],
     "name:und_x_variant":[
         "La Punta",
         "Bah\u00eda Honda"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u9054\u7063"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310188805,
-    "wof:lastmodified":1537676487,
+    "wof:lastmodified":1564151173,
     "wof:name":"Bahia Honda",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

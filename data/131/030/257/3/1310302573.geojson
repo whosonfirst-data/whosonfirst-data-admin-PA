@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Divisa"
+    ],
+    "name:ceb_x_preferred":[
+        "Divisa"
+    ],
+    "name:ita_x_preferred":[
+        "Divisa"
+    ],
+    "name:por_x_preferred":[
+        "Divisa"
+    ],
     "name:spa_x_preferred":[
         "Divisa"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310302573,
-    "wof:lastmodified":1537676460,
+    "wof:lastmodified":1564151156,
     "wof:name":"Divisa",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",

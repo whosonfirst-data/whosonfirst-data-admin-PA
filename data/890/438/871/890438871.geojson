@@ -15,6 +15,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:spa_x_preferred":[
+        "Las Colinas"
+    ],
     "qs:name":"Las Colinas",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890438871,
-    "wof:lastmodified":1527735424,
+    "wof:lastmodified":1564151371,
     "wof:name":"Las Colinas",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

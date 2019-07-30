@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Pandura"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03b4\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:hun_x_preferred":[
+        "Pandura"
+    ],
+    "name:lat_x_preferred":[
+        "Pandura"
+    ],
+    "name:por_x_preferred":[
+        "Pandura"
+    ],
     "name:spa_x_preferred":[
         "Pandura"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1260266703,
-    "wof:lastmodified":1537676361,
+    "wof:lastmodified":1564151110,
     "wof:name":"Pandura",
     "wof:parent_id":1108693199,
     "wof:placetype":"locality",

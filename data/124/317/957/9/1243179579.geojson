@@ -25,9 +25,30 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sabana Larga"
+    ],
+    "name:ita_x_preferred":[
+        "Sabana Larga"
+    ],
+    "name:por_x_preferred":[
+        "Sabana Larga"
+    ],
+    "name:spa_x_preferred":[
+        "Sabana Larga"
+    ],
+    "name:swe_x_preferred":[
+        "Sabana Larga"
+    ],
     "name:und_x_variant":[
         "Sabaneta",
         "Sabana Larga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0627\u0646\u06c1 \u0644\u0627\u0631\u06af\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u74e6\u7d0d\u62c9\u723e\u52a0"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1243179579,
-    "wof:lastmodified":1537676344,
+    "wof:lastmodified":1564151517,
     "wof:name":"Sabana Larga",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

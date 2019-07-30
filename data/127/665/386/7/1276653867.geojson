@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Valle Rico"
+    ],
     "name:spa_x_preferred":[
         "Valle Rico"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8036\u91cc\u79d1"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276653867,
-    "wof:lastmodified":1537676332,
+    "wof:lastmodified":1564150855,
     "wof:name":"Valle Rico",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

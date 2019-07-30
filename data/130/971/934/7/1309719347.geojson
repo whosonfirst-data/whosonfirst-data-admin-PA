@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sardina"
+    ],
+    "name:deu_x_preferred":[
+        "Sardina"
+    ],
+    "name:swe_x_preferred":[
+        "Sardina"
+    ],
     "name:und_x_variant":[
         "Sardinas"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1309719347,
-    "wof:lastmodified":1537676339,
+    "wof:lastmodified":1564151293,
     "wof:name":"Sardina",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "P\u00facuro"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00facuro"
+    ],
     "name:und_x_variant":[
         "Pucro",
         "P\u00facuro"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5eab\u7f85"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360290425,
-    "wof:lastmodified":1537676356,
+    "wof:lastmodified":1564151251,
     "wof:name":"Pucuro",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

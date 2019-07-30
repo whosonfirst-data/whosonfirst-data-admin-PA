@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cucunat\u00ed"
+    ],
     "name:spa_x_preferred":[
         "Cucunat\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5eab\u7d0d\u8482"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343392699,
-    "wof:lastmodified":1537676461,
+    "wof:lastmodified":1564150417,
     "wof:name":"Cucunati",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

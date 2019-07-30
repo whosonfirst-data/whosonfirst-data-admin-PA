@@ -25,6 +25,39 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u042d\u0441\u043a\u043e\u043d\u0434\u0438\u0434\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Escondido"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Escondido"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +75,7 @@
         }
     ],
     "wof:id":1292900555,
-    "wof:lastmodified":1536638044,
+    "wof:lastmodified":1564150659,
     "wof:name":"Puerto Escondido",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

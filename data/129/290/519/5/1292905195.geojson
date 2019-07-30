@@ -25,7 +25,67 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "San-\u0130sidro"
+    ],
+    "name:cat_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ceb_x_preferred":[
+        "San Isidro"
+    ],
+    "name:deu_x_preferred":[
+        "San Isidro"
+    ],
+    "name:eus_x_preferred":[
+        "San Isidro"
+    ],
+    "name:fra_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ilo_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ita_x_preferred":[
+        "San Isidro"
+    ],
+    "name:lit_x_preferred":[
+        "San Isidras"
+    ],
+    "name:mlg_x_preferred":[
+        "San Isidro"
+    ],
+    "name:nds_x_preferred":[
+        "San Isidro"
+    ],
+    "name:nld_x_preferred":[
+        "San Isidro"
+    ],
+    "name:pol_x_preferred":[
+        "San Isidro"
+    ],
+    "name:por_x_preferred":[
+        "San Isidro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0441\u0438\u0434\u0440\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "San Isidro"
+    ],
     "name:spa_x_preferred":[
+        "San Isidro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0418\u0441\u0438\u0434\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "San Isidro"
+    ],
+    "name:vie_x_preferred":[
+        "San Isidro"
+    ],
+    "name:war_x_preferred":[
         "San Isidro"
     ],
     "src:geom":"geonames",
@@ -52,7 +112,7 @@
         }
     ],
     "wof:id":1292905195,
-    "wof:lastmodified":1537676518,
+    "wof:lastmodified":1564150660,
     "wof:name":"San Isidro",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

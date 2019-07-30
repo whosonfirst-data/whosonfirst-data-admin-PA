@@ -25,8 +25,17 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Agua Fria"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Fria"
+    ],
     "name:spa_x_preferred":[
         "Agua Fr\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Agua Fria"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327335269,
-    "wof:lastmodified":1537676492,
+    "wof:lastmodified":1564150341,
     "wof:name":"Agua Fria",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

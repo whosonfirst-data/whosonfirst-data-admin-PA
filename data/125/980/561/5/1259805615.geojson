@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Horqueta"
+    ],
+    "name:fra_x_preferred":[
+        "La Horqueta"
+    ],
+    "name:spa_x_preferred":[
+        "La Horqueta"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06c1\u0648\u0631\u06a9\u0648\u06cc\u062a\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259805615,
-    "wof:lastmodified":1536891038,
+    "wof:lastmodified":1564151606,
     "wof:name":"La Horqueta",
     "wof:parent_id":1108693231,
     "wof:placetype":"locality",

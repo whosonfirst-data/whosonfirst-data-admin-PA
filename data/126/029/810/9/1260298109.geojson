@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sabalo"
+    ],
     "name:spa_x_preferred":[
         "S\u00e1balo"
+    ],
+    "name:swe_x_preferred":[
+        "Sabalo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260298109,
-    "wof:lastmodified":1537676345,
+    "wof:lastmodified":1564151099,
     "wof:name":"Sabalo",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

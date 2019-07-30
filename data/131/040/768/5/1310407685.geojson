@@ -25,6 +25,33 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Islote Bermeja"
+    ],
+    "name:deu_x_preferred":[
+        "Bermeja"
+    ],
+    "name:epo_x_preferred":[
+        "Berme\u0125o"
+    ],
+    "name:ind_x_preferred":[
+        "Bermeja"
+    ],
+    "name:ita_x_preferred":[
+        "Bermeja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30e1\u30cf\u5cf6"
+    ],
+    "name:pol_x_preferred":[
+        "Bermeja"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Bermeja"
+    ],
+    "name:swe_x_preferred":[
+        "Bermeja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310407685,
-    "wof:lastmodified":1537055706,
+    "wof:lastmodified":1564151139,
     "wof:name":"Bermeja",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

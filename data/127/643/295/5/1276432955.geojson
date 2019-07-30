@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bayano"
+    ],
+    "name:spa_x_preferred":[
+        "Bayano"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4e9e\u8afe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276432955,
-    "wof:lastmodified":1537570215,
+    "wof:lastmodified":1564150737,
     "wof:name":"Bayano",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

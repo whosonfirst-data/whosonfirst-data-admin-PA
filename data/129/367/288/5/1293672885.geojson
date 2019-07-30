@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mamey"
+    ],
+    "name:ceb_x_preferred":[
+        "Mamey"
+    ],
+    "name:spa_x_preferred":[
+        "Mamey"
+    ],
+    "name:swe_x_preferred":[
+        "Mamey"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293672885,
-    "wof:lastmodified":1537016330,
+    "wof:lastmodified":1564150648,
     "wof:name":"Mamey",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Piria"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u0430"
+    ],
     "name:und_x_variant":[
         "Pirrea",
         "Piri\u00e1"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1292896713,
-    "wof:lastmodified":1537676358,
+    "wof:lastmodified":1564150587,
     "wof:name":"Piria",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

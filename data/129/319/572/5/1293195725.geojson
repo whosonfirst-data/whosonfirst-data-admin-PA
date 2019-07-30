@@ -25,8 +25,65 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Tigre"
+    ],
+    "name:dan_x_preferred":[
+        "El Tigre"
+    ],
+    "name:deu_x_preferred":[
+        "El Tigre"
+    ],
+    "name:epo_x_preferred":[
+        "El Tigre"
+    ],
+    "name:fra_x_preferred":[
+        "El Tigre"
+    ],
+    "name:glg_x_preferred":[
+        "El Tigre"
+    ],
+    "name:ita_x_preferred":[
+        "El Tigre"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e2\u10d8\u10d2\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ud2f0\uadf8\ub808"
+    ],
+    "name:lit_x_preferred":[
+        "El Tigr\u0117"
+    ],
+    "name:nor_x_preferred":[
+        "El Tigre"
+    ],
+    "name:pol_x_preferred":[
+        "El Tigre"
+    ],
+    "name:por_x_preferred":[
+        "El Tigre"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0438\u0433\u0440\u0435"
+    ],
     "name:spa_x_preferred":[
         "El Tigre"
+    ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b-\u0422\u0438\u0433\u0440\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e25\u0e15\u0e34\u0e40\u0e01\u0e23"
+    ],
+    "name:vol_x_preferred":[
+        "El Tigre"
+    ],
+    "name:war_x_preferred":[
+        "El Tigre"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u8482\u683c\u96f7"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +109,7 @@
         }
     ],
     "wof:id":1293195725,
-    "wof:lastmodified":1537676431,
+    "wof:lastmodified":1564150698,
     "wof:name":"El Tigre",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",

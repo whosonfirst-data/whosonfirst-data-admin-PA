@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "La Gloria"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u683c\u6d1b\u91cc\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209008325,
-    "wof:lastmodified":1537676505,
+    "wof:lastmodified":1564150882,
     "wof:name":"La Gloria",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

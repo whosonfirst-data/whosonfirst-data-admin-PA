@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Piedras Gordas"
+    ],
+    "name:spa_x_preferred":[
+        "Piedras Gordas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7c\u5fb7\u62c9\u65af\u6208\u723e\u9054\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226547321,
-    "wof:lastmodified":1536994910,
+    "wof:lastmodified":1564151745,
     "wof:name":"Piedras Gordas",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

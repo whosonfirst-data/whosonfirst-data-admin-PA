@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Boca de Cup\u00e9"
     ],
+    "name:zho_x_preferred":[
+        "\u535a\u5361\u5fb7\u5eab\u4f69"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1259381893,
-    "wof:lastmodified":1537676483,
+    "wof:lastmodified":1564151531,
     "wof:name":"Boca de Cupe",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

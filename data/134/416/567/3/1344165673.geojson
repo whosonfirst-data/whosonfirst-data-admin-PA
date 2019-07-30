@@ -25,9 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Limones"
+    ],
+    "name:por_x_preferred":[
+        "Limones"
+    ],
+    "name:spa_x_preferred":[
+        "Limones"
+    ],
     "name:und_x_variant":[
         "Puerto Lim\u00f3nes",
         "Limones"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u83ab\u5167\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1344165673,
-    "wof:lastmodified":1537676387,
+    "wof:lastmodified":1564150513,
     "wof:name":"Limones",
     "wof:parent_id":1108693189,
     "wof:placetype":"locality",

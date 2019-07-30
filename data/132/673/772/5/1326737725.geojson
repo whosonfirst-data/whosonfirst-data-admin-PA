@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Membrillo"
     ],
+    "name:swe_x_preferred":[
+        "Membrillo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326737725,
-    "wof:lastmodified":1537676368,
+    "wof:lastmodified":1564150292,
     "wof:name":"Membrillo",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

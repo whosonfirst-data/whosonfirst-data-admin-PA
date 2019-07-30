@@ -25,8 +25,20 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Raton"
+    ],
+    "name:fra_x_preferred":[
+        "Raton"
+    ],
+    "name:por_x_preferred":[
+        "Raton"
+    ],
     "name:spa_x_preferred":[
         "Rat\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Raton"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1309699393,
-    "wof:lastmodified":1537676513,
+    "wof:lastmodified":1564151298,
     "wof:name":"Raton",
     "wof:parent_id":1108693245,
     "wof:placetype":"locality",

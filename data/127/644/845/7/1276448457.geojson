@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Miramar"
+    ],
     "name:spa_x_preferred":[
         "Miramar"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u62c9\u99ac\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276448457,
-    "wof:lastmodified":1537676367,
+    "wof:lastmodified":1564150745,
     "wof:name":"Miramar",
     "wof:parent_id":1108693271,
     "wof:placetype":"locality",

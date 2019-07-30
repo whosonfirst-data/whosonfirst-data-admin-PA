@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Potuga"
+    ],
     "name:spa_x_preferred":[
         "Potuga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5716\u52a0"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326952283,
-    "wof:lastmodified":1537676356,
+    "wof:lastmodified":1564150306,
     "wof:name":"Potuga",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

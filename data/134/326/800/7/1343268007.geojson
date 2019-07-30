@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gavilan"
+    ],
+    "name:ita_x_preferred":[
+        "Gavilan"
+    ],
+    "name:swe_x_preferred":[
+        "Gavilan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343268007,
-    "wof:lastmodified":1537022944,
+    "wof:lastmodified":1564150534,
     "wof:name":"Gavilan",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

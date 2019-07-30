@@ -25,7 +25,22 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "El Puertu"
+    ],
+    "name:ceb_x_preferred":[
+        "El Puerto"
+    ],
+    "name:deu_x_preferred":[
+        "El Puerto"
+    ],
     "name:spa_x_preferred":[
+        "El Puerto"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041f\u0443\u0435\u0440\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
         "El Puerto"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1242790503,
-    "wof:lastmodified":1537676514,
+    "wof:lastmodified":1564151482,
     "wof:name":"El Puerto",
     "wof:parent_id":1108693259,
     "wof:placetype":"locality",

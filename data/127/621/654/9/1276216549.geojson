@@ -26,6 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pit\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Pito"
+    ],
+    "name:spa_x_preferred":[
+        "Pito"
+    ],
+    "name:tgl_x_preferred":[
+        "Pito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276216549,
-    "wof:lastmodified":1536936281,
+    "wof:lastmodified":1564150751,
     "wof:name":"Pito",
     "wof:parent_id":1108693213,
     "wof:placetype":"locality",

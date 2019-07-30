@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31294073.11663,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.55308,8.958296,-79.55308,8.958296",
     "geom:latitude":8.958296,
     "geom:longitude":-79.55308,
@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
+        "Calidonia"
+    ],
+    "name:ita_x_preferred":[
         "Calidonia"
     ],
     "name:spa_x_preferred":[
@@ -69,10 +72,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":10,
     "wof:belongsto":[
+        85675789,
         102191575,
         85632179,
-        421196975,
-        85675789
+        421196975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858863,
+    "wof:lastmodified":1564150553,
     "wof:name":"Calidonia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

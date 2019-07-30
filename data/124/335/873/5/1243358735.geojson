@@ -25,6 +25,36 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0430-\u0415\u0433\u0443\u0430\u0434\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "La Yeguada"
+    ],
+    "name:deu_x_preferred":[
+        "La Yeguada"
+    ],
+    "name:fra_x_preferred":[
+        "La Yeguada"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30a4\u30a7\u30b0\u30a2\u30c0\u5c71"
+    ],
+    "name:lit_x_preferred":[
+        "La Jeguada"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0415\u0433\u0443\u0430\u0434\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "La Yeguada"
+    ],
+    "name:spa_x_preferred":[
+        "Volc\u00e1n La Yeguada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8036\u74dc\u8fbe\u706b\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1243358735,
-    "wof:lastmodified":1536932815,
+    "wof:lastmodified":1564151459,
     "wof:name":"La Yeguada",
     "wof:parent_id":1108693199,
     "wof:placetype":"locality",

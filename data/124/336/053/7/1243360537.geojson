@@ -25,6 +25,33 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:ceb_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:fra_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:nld_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:por_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:sco_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:spa_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:swe_x_preferred":[
+        "Agua Blanca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1243360537,
-    "wof:lastmodified":1536930199,
+    "wof:lastmodified":1564151384,
     "wof:name":"Agua Blanca",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

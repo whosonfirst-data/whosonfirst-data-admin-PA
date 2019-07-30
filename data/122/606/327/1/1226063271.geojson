@@ -26,6 +26,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Rusia"
+    ],
     "name:und_x_variant":[
         "Mata Oscura",
         "Rusia"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226063271,
-    "wof:lastmodified":1537676345,
+    "wof:lastmodified":1564151733,
     "wof:name":"Rusia",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

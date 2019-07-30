@@ -25,8 +25,20 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Trancas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Trancas"
+    ],
     "name:spa_x_preferred":[
         "Las Trancas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0679\u0631\u0627\u0646\u06a9\u0627\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u7279\u862d\u5361\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343470389,
-    "wof:lastmodified":1537676390,
+    "wof:lastmodified":1564150475,
     "wof:name":"Las Trancas",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Palmitas"
+    ],
     "name:spa_x_preferred":[
         "Las Palmitas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u5e15\u723e\u7c73\u5854\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259504965,
-    "wof:lastmodified":1537676392,
+    "wof:lastmodified":1564151578,
     "wof:name":"Las Palmitas",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

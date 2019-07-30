@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Palmar"
+    ],
+    "name:spa_x_preferred":[
+        "El Palmar"
+    ],
     "name:und_x_variant":[
         "Palmas",
         "El Palmar"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5e15\u723e\u99ac\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343470609,
-    "wof:lastmodified":1537676438,
+    "wof:lastmodified":1564150476,
     "wof:name":"El Palmar",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

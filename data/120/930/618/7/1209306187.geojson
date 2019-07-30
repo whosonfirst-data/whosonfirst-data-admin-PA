@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:spa_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u8377\u897f"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209306187,
-    "wof:lastmodified":1537676343,
+    "wof:lastmodified":1564150895,
     "wof:name":"San Jose",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

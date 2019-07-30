@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Raizals"
+    ],
+    "name:epo_x_preferred":[
+        "Raizal-oj"
+    ],
+    "name:por_x_preferred":[
+        "Raizal"
+    ],
     "name:spa_x_preferred":[
         "Raizal"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327417563,
-    "wof:lastmodified":1537676348,
+    "wof:lastmodified":1564150330,
     "wof:name":"Raizal",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

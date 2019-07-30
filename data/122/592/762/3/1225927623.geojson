@@ -25,6 +25,12 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30a2\u30c9\u30d5\u30f3\u30bf\u30b9\u99c5"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Las Adjuntas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225927623,
-    "wof:lastmodified":1536895429,
+    "wof:lastmodified":1564151623,
     "wof:name":"Las Adjuntas",
     "wof:parent_id":421173571,
     "wof:placetype":"locality",

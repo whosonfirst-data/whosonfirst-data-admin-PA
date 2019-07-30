@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pe\u00f1as Chatas"
+    ],
     "name:spa_x_preferred":[
         "Pe\u00f1as Chatas"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5c3c\u4e9e\u65af\u67e5\u5854\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226440225,
-    "wof:lastmodified":1537676359,
+    "wof:lastmodified":1564151639,
     "wof:name":"Penas Chatas",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

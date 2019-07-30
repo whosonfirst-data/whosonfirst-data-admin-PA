@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Harino"
+    ],
     "name:spa_x_preferred":[
         "El Harino"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u91cc\u8afe"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225852291,
-    "wof:lastmodified":1537676445,
+    "wof:lastmodified":1564151751,
     "wof:name":"El Harino",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u043c\u0431\u0440\u0435 \u0434\u0435 \u0414\u0438\u043e\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209108135,
-    "wof:lastmodified":1536297498,
+    "wof:lastmodified":1564151013,
     "wof:name":"Nombre de Dios",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

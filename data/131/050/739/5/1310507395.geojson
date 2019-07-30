@@ -25,6 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:deu_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:spa_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:swe_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:vie_x_preferred":[
+        "Vista Hermosa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310507395,
-    "wof:lastmodified":1536914596,
+    "wof:lastmodified":1564151201,
     "wof:name":"Vista Hermosa",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

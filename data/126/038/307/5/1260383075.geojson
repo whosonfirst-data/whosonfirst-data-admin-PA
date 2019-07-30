@@ -25,6 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cariaco"
+    ],
+    "name:fra_x_preferred":[
+        "Cariaco"
+    ],
+    "name:pol_x_preferred":[
+        "Cariaco"
+    ],
+    "name:por_x_preferred":[
+        "Cariaco"
+    ],
+    "name:spa_x_preferred":[
+        "Cariaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u91cc\u4e9e\u79d1"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1260383075,
-    "wof:lastmodified":1537072484,
+    "wof:lastmodified":1564151071,
     "wof:name":"Cariaco",
     "wof:parent_id":1108693237,
     "wof:placetype":"locality",

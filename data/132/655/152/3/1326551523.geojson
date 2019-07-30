@@ -30,6 +30,9 @@
         "Alto de G\u00fcera",
         "Altos de G\u00fcera"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u6258\u65af\u5fb7\u53e4\u57c3\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326551523,
-    "wof:lastmodified":1537676489,
+    "wof:lastmodified":1564150362,
     "wof:name":"Altos de Guera",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

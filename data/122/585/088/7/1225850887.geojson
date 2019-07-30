@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Guabo"
+    ],
     "name:spa_x_preferred":[
         "El Guabo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u74dc\u535a"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1225850887,
-    "wof:lastmodified":1537676447,
+    "wof:lastmodified":1564151753,
     "wof:name":"El Guabo",
     "wof:parent_id":1108693205,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Cedro"
+    ],
     "name:spa_x_preferred":[
         "El Cedro"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u585e\u5fb7\u7f57"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242770233,
-    "wof:lastmodified":1537676453,
+    "wof:lastmodified":1564151473,
     "wof:name":"El Cedro",
     "wof:parent_id":1108693231,
     "wof:placetype":"locality",

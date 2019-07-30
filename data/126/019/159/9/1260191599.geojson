@@ -25,11 +25,20 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Bongo"
+    ],
     "name:spa_x_preferred":[
         "Bongo Arriba"
     ],
+    "name:spa_x_variant":[
+        "El Bongo"
+    ],
     "name:und_x_variant":[
         "El Bongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u90a6\u6208"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260191599,
-    "wof:lastmodified":1537676456,
+    "wof:lastmodified":1564151111,
     "wof:name":"Bongo Arriba",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

@@ -26,9 +26,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chumical"
+    ],
+    "name:spa_x_preferred":[
+        "Chumical"
+    ],
     "name:und_x_variant":[
         "R\u00edo Chico",
         "Chumical"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u7c73\u5361\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1360288603,
-    "wof:lastmodified":1537676466,
+    "wof:lastmodified":1564151258,
     "wof:name":"Chumical",
     "wof:parent_id":421202705,
     "wof:placetype":"locality",

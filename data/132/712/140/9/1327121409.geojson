@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Pigeon Key"
     ],
+    "name:fra_x_preferred":[
+        "Pigeon Key"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d2'\u05df \u05e7\u05d9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327121409,
-    "wof:lastmodified":1537676504,
+    "wof:lastmodified":1564150326,
     "wof:name":"Pigeon Key",
     "wof:parent_id":1108693223,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Caballero"
+    ],
     "name:spa_x_preferred":[
         "Caballero"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5df4\u5217\u96f7"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243183931,
-    "wof:lastmodified":1537676478,
+    "wof:lastmodified":1564151504,
     "wof:name":"Caballero",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pixvae"
+    ],
+    "name:spa_x_preferred":[
+        "Pixvae"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u65af\u74e6\u4f0a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1226028425,
-    "wof:lastmodified":1537570195,
+    "wof:lastmodified":1564151665,
     "wof:name":"Pixvae",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mogoll\u00f3n"
+    ],
     "name:spa_x_preferred":[
         "Mogoll\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u6208\u5229\u7fc1"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1260071727,
-    "wof:lastmodified":1537676367,
+    "wof:lastmodified":1564151075,
     "wof:name":"Mogollon",
     "wof:parent_id":1108693237,
     "wof:placetype":"locality",

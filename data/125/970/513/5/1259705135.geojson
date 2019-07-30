@@ -25,6 +25,15 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Vibora"
+    ],
+    "name:fra_x_preferred":[
+        "La Vibora"
+    ],
+    "name:nld_x_preferred":[
+        "La Vibora"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259705135,
-    "wof:lastmodified":1537034443,
+    "wof:lastmodified":1564151553,
     "wof:name":"La Vibora",
     "wof:parent_id":1108693255,
     "wof:placetype":"locality",

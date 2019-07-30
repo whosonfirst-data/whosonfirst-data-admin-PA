@@ -25,6 +25,24 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:swe_x_preferred":[
+        "Llano Grande"
+    ],
     "name:und_x_variant":[
         "Llano Grade",
         "Llano Grande"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1259863151,
-    "wof:lastmodified":1537676385,
+    "wof:lastmodified":1564151614,
     "wof:name":"Llano Grande",
     "wof:parent_id":1108693225,
     "wof:placetype":"locality",

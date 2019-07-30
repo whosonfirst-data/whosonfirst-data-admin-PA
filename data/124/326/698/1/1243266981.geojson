@@ -25,9 +25,21 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Macano"
+    ],
+    "name:por_x_preferred":[
+        "El Macano"
+    ],
+    "name:spa_x_preferred":[
+        "El Macano"
+    ],
     "name:und_x_variant":[
         "Macano",
         "Macano Arriba"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u99ac\u5361\u8afe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243266981,
-    "wof:lastmodified":1537676372,
+    "wof:lastmodified":1564151521,
     "wof:name":"El Macano",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

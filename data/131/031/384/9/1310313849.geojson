@@ -30,6 +30,9 @@
         "Laja de Tole",
         "Las Lajas de Tol\u00e9"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u54c8\u65af\u5fb7\u6258\u52d2"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310313849,
-    "wof:lastmodified":1537676394,
+    "wof:lastmodified":1564151153,
     "wof:name":"Lajas de Tole",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

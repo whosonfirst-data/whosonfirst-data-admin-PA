@@ -25,7 +25,13 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Santa Clarita"
+    ],
     "name:spa_x_preferred":[
+        "Santa Clarita"
+    ],
+    "name:swe_x_preferred":[
         "Santa Clarita"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276983371,
-    "wof:lastmodified":1537676509,
+    "wof:lastmodified":1564150855,
     "wof:name":"Santa Clarita",
     "wof:parent_id":1108693261,
     "wof:placetype":"locality",

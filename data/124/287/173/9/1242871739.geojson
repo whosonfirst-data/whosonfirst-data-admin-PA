@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Capur\u00ed"
+    ],
     "name:spa_x_preferred":[
         "El Capur\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5361\u666e\u91cc"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242871739,
-    "wof:lastmodified":1537676454,
+    "wof:lastmodified":1564151403,
     "wof:name":"El Capuri",
     "wof:parent_id":1108693231,
     "wof:placetype":"locality",

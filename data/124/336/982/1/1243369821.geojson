@@ -25,8 +25,14 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cocl\u00e9 del Norte"
+    ],
     "name:spa_x_preferred":[
         "Cocl\u00e9 del Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u79d1\u514b\u840a"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243369821,
-    "wof:lastmodified":1537676464,
+    "wof:lastmodified":1564151384,
     "wof:name":"Cocle del Norte",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

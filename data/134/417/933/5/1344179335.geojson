@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Portobelillo"
+    ],
+    "name:spa_x_preferred":[
+        "Portobelillo"
+    ],
     "name:und_x_variant":[
         "Porto Bello",
         "Portobelillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u6258\u8c9d\u5229\u7565"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1344179335,
-    "wof:lastmodified":1537676356,
+    "wof:lastmodified":1564150513,
     "wof:name":"Portobelillo",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

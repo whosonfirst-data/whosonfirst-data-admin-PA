@@ -25,6 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nuno"
+    ],
+    "name:ita_x_preferred":[
+        "Nuno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043d\u044c\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Nuno"
+    ],
     "name:und_x_variant":[
         "Los Nunos N\u00famero Uno",
         "Los Nunos N\u00famero Dos",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276226623,
-    "wof:lastmodified":1537676365,
+    "wof:lastmodified":1564150805,
     "wof:name":"Nuno",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

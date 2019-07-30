@@ -25,9 +25,18 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
     "name:und_x_variant":[
         "El Tullido",
         "Santo Tom\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u6258\u9a6c\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326743099,
-    "wof:lastmodified":1537676339,
+    "wof:lastmodified":1564150290,
     "wof:name":"Santo Tomas",
     "wof:parent_id":421202705,
     "wof:placetype":"locality",
