@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "comarca"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NB"
+    ],
     "lbl:latitude":8.642875,
     "lbl:longitude":-81.780609,
     "meso:name_local":"Ng\u00f6be Bugl\u00e9",
@@ -286,16 +289,13 @@
         }
     ],
     "wof:id":85675807,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306074,
+    "wof:lastmodified":1565732210,
     "wof:name":"Ng\u00f6be Bugl\u00e9",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

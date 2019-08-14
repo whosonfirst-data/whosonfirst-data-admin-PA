@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LS"
+    ],
     "lbl:latitude":7.636422,
     "lbl:longitude":-80.355402,
     "meso:name_local":"Los Santos",
@@ -293,16 +296,13 @@
         }
     ],
     "wof:id":85675785,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306081,
+    "wof:lastmodified":1565732212,
     "wof:name":"Los Santos",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

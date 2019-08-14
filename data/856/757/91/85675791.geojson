@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VR"
+    ],
     "lbl:latitude":8.155585,
     "lbl:longitude":-81.140481,
     "meso:name_local":"Veraguas",
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85675791,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306080,
+    "wof:lastmodified":1565732212,
     "wof:name":"Veraguas",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

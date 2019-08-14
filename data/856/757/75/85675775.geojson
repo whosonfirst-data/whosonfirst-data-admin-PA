@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":9.121292,
     "lbl:longitude":-80.078579,
     "meso:name_local":"Col\u00f3n",
@@ -312,16 +315,13 @@
         }
     ],
     "wof:id":85675775,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306078,
+    "wof:lastmodified":1565732212,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

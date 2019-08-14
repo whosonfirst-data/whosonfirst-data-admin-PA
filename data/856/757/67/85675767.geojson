@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":8.589134,
     "lbl:longitude":-82.545615,
     "meso:name_local":"Chiriqu\u00ed",
@@ -309,16 +312,13 @@
         }
     ],
     "wof:id":85675767,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306077,
+    "wof:lastmodified":1565732211,
     "wof:name":"Chiriqu\u00ed",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

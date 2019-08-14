@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "comarca"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SB"
+    ],
     "lbl:latitude":9.16176,
     "lbl:longitude":-78.03269,
     "meso:name_local":"Kuna Yala",
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85675801,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306074,
+    "wof:lastmodified":1565732211,
     "wof:name":"Kuna Yala",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

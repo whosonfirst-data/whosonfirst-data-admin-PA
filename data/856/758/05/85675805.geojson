@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BC"
+    ],
     "lbl:latitude":9.239401,
     "lbl:longitude":-82.647725,
     "meso:name_local":"Bocas del Toro",
@@ -313,16 +316,13 @@
         }
     ],
     "wof:id":85675805,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306072,
+    "wof:lastmodified":1565732210,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

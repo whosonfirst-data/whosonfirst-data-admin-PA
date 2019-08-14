@@ -15,6 +15,9 @@
     "itu:country_code":[
         "507"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":8.72491,
     "lbl:longitude":-80.338454,
     "mps:latitude":8.72491,
@@ -923,16 +926,13 @@
         }
     ],
     "wof:id":85632179,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306085,
+    "wof:lastmodified":1565732212,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PM"
+    ],
     "lbl:latitude":9.110687,
     "lbl:longitude":-78.72272,
     "meso:name_local":"Panama",
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85675789,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306078,
+    "wof:lastmodified":1565732211,
     "wof:name":"Panama",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

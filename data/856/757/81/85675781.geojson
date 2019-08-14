@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HE"
+    ],
     "lbl:latitude":7.863467,
     "lbl:longitude":-80.748099,
     "meso:name_local":"Herrera",
@@ -293,16 +296,13 @@
         }
     ],
     "wof:id":85675781,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306079,
+    "wof:lastmodified":1565732212,
     "wof:name":"Herrera",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

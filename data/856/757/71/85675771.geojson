@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CC"
+    ],
     "lbl:latitude":8.586998,
     "lbl:longitude":-80.397287,
     "meso:name_local":"Cocl\u00e9",
@@ -309,16 +312,13 @@
         }
     ],
     "wof:id":85675771,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306082,
+    "wof:lastmodified":1565732212,
     "wof:name":"Cocl\u00e9",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

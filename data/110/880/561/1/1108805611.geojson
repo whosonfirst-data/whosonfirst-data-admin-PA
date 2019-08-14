@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PO"
+    ],
     "lbl:latitude":8.812555,
     "lbl:longitude":-79.934532,
     "meso:name_local":"Panama Oeste",
@@ -69,7 +72,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553551420,
+    "wof:lastmodified":1565732224,
     "wof:name":"Panama Oeste",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

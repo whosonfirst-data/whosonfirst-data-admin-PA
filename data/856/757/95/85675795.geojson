@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":8.056184,
     "lbl:longitude":-77.836288,
     "meso:name_local":"Dari\u00e9n",
@@ -309,16 +312,13 @@
         }
     ],
     "wof:id":85675795,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306075,
+    "wof:lastmodified":1565732211,
     "wof:name":"Dari\u00e9n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "comarca"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EM"
+    ],
     "lbl:latitude":8.427478,
     "lbl:longitude":-77.617775,
     "meso:name_local":"Ember\u00e1",
@@ -296,16 +299,13 @@
         }
     ],
     "wof:id":85675811,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563306073,
+    "wof:lastmodified":1565732210,
     "wof:name":"Ember\u00e1",
     "wof:parent_id":85632179,
     "wof:placetype":"region",
