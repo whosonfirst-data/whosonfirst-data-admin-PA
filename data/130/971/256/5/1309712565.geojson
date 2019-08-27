@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.21972,9.1725,-80.17972,9.2125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Ensenada"
     ],
@@ -33,8 +37,7 @@
         "La Ensenada"
     ],
     "name:und_x_variant":[
-        "La Monta\u00f1uela",
-        "La Ensenada"
+        "La Monta\u00f1uela"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u6069\u585e\u7d0d\u9054"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1309712565,
-    "wof:lastmodified":1564151292,
+    "wof:lastmodified":1566673415,
     "wof:name":"La Ensenada",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

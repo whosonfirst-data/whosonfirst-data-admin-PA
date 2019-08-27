@@ -23,8 +23,12 @@
     "gn:population":34,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.42309,7.66489,-80.38309,7.70489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Macano"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276438577,
-    "wof:lastmodified":1564150737,
+    "wof:lastmodified":1566673164,
     "wof:name":"El Macano",
     "wof:parent_id":1108693219,
     "wof:placetype":"locality",

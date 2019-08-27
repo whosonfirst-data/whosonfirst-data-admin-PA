@@ -23,8 +23,12 @@
     "gn:population":59,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.00226,7.81982,-80.96226,7.85982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326913969,
-    "wof:lastmodified":1536931868,
+    "wof:lastmodified":1566672987,
     "wof:name":"La Laguna",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

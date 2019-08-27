@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.409169,
     "lbl:longitude":-82.380395,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiriqu\u00ed",
     "meso:gadm_admin":"David",
     "meso:gadm_hasc2":"PA.CH.DA",
@@ -31,6 +33,7 @@
     "mps:longitude":-82.380395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Nabi Daud"
@@ -337,9 +340,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"870.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"David",
@@ -360,7 +363,7 @@
     "wof:concordances":{
         "gp:id":26793107,
         "hasc:id":"PA.CH.DA",
-        "qs:id":1263656,
+        "qs_pg:id":1263656,
         "wd:id":"Q2215578"
     },
     "wof:country":"PA",
@@ -375,7 +378,7 @@
         }
     ],
     "wof:id":421171339,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1566673464,
     "wof:name":"David",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

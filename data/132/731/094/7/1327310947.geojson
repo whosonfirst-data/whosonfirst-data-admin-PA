@@ -23,8 +23,12 @@
     "gn:population":98,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.81184,8.89238,-81.77184,8.93238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "R\u00edo Catavela",
         "Catavela"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327310947,
-    "wof:lastmodified":1537676472,
+    "wof:lastmodified":1566672939,
     "wof:name":"Catavela",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

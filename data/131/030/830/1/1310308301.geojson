@@ -23,8 +23,12 @@
     "gn:population":656,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.65691,8.57037,-82.61691,8.61037",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044d"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1310308301,
-    "wof:lastmodified":1564151159,
+    "wof:lastmodified":1566673352,
     "wof:name":"San Vicente",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

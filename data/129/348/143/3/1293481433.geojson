@@ -23,15 +23,16 @@
     "gn:population":771,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.26854,7.71885,-80.22854,7.75885",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Sesteadero"
     ],
     "name:spa_x_preferred":[
-        "El Sesteadero"
-    ],
-    "name:und_x_variant":[
         "El Sesteadero"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1293481433,
-    "wof:lastmodified":1564150605,
+    "wof:lastmodified":1566673103,
     "wof:name":"Sesteadero",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

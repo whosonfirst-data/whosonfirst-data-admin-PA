@@ -23,8 +23,12 @@
     "gn:population":304,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.4306,7.76598,-80.3906,7.80598",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Llano Abajo"
     ],
@@ -32,8 +36,7 @@
         "Llano Abajo"
     ],
     "name:und_x_variant":[
-        "Llano Bajo",
-        "Llano Abajo"
+        "Llano Bajo"
     ],
     "name:zho_x_preferred":[
         "\u4e0b\u5229\u4e9e\u8afe"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1193131707,
-    "wof:lastmodified":1564151050,
+    "wof:lastmodified":1566673297,
     "wof:name":"Llano Abajo",
     "wof:parent_id":1108693219,
     "wof:placetype":"locality",

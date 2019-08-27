@@ -23,8 +23,12 @@
     "gn:population":127,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.64064,7.94678,-80.60064,7.98678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Los Cantos"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326627615,
-    "wof:lastmodified":1537676380,
+    "wof:lastmodified":1566672986,
     "wof:name":"Los Cantos",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

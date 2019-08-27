@@ -23,8 +23,12 @@
     "gn:population":234,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.49554,8.4541,-81.45554,8.4941",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tierra Blanca"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226025103,
-    "wof:lastmodified":1564151665,
+    "wof:lastmodified":1566673605,
     "wof:name":"Tierra Blanca",
     "wof:parent_id":1108693279,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.20333,7.46333,-80.16333,7.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Oria"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1276759119,
-    "wof:lastmodified":1564150734,
+    "wof:lastmodified":1566673163,
     "wof:name":"Oria",
     "wof:parent_id":421202587,
     "wof:placetype":"locality",

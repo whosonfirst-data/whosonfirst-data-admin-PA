@@ -23,8 +23,12 @@
     "gn:population":151,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.98303,7.55352,-80.94303,7.59352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Malena"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1210010435,
-    "wof:lastmodified":1564151030,
+    "wof:lastmodified":1566673288,
     "wof:name":"Malena",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

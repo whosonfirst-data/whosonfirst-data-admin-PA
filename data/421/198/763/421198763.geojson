@@ -10,8 +10,12 @@
     "geom:latitude":8.16667,
     "geom:longitude":-80.63333,
     "iso:country":"PA",
+    "lbl:bbox":"-80.65333,8.14667,-80.61333,8.18667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "La Loma"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3707311,
         "gp:id":157657,
-        "qs:id":1204628,
+        "qs_pg:id":1204628,
         "wd:id":"Q6463469",
         "wk:page":"La Loma, Cocl\u00e9"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421198763,
-    "wof:lastmodified":1563306821,
+    "wof:lastmodified":1566673447,
     "wof:name":"La Loma",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.68302,8.40487,-81.64302,8.44487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cerro Miel"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226129565,
-    "wof:lastmodified":1537676469,
+    "wof:lastmodified":1566673630,
     "wof:name":"Cerro Miel",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

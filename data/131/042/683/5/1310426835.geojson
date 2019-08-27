@@ -23,8 +23,12 @@
     "gn:population":141,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.25322,7.59768,-80.21322,7.63768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Ca\u00f1af\u00edstulo"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310426835,
-    "wof:lastmodified":1564151169,
+    "wof:lastmodified":1566673357,
     "wof:name":"El Canafistulo",
     "wof:parent_id":1108693255,
     "wof:placetype":"locality",

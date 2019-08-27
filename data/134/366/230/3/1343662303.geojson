@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.37017,9.07997,-80.33017,9.11997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Nuevo Veraguas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343662303,
-    "wof:lastmodified":1537676506,
+    "wof:lastmodified":1566673044,
     "wof:name":"Nuevo Veraguas",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

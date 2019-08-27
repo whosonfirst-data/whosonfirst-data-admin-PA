@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.23939,7.9621,-78.19939,8.0021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u00edo S\u00e1balo N\u00famero Uno",
         "R\u00edo S\u00e1balo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326753299,
-    "wof:lastmodified":1537676346,
+    "wof:lastmodified":1566672943,
     "wof:name":"Rio Sabalo",
     "wof:parent_id":1108693265,
     "wof:placetype":"locality",

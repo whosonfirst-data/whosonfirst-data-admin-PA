@@ -23,8 +23,12 @@
     "gn:population":2,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.27009,8.8146,-78.23009,8.8546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Quebrada Lim\u00f3n Abajo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243171219,
-    "wof:lastmodified":1537676500,
+    "wof:lastmodified":1566673534,
     "wof:name":"Quebrada Limon Abajo",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

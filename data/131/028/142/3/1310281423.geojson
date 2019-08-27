@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.73667,8.84667,-79.69667,8.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Corral Falso"
     ],
@@ -32,8 +36,7 @@
         "Corral Falso"
     ],
     "name:und_x_variant":[
-        "Cop\u00e9",
-        "Corral Falso"
+        "Cop\u00e9"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u62c9\u723e\u6cd5\u723e\u7d22"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1310281423,
-    "wof:lastmodified":1564151183,
+    "wof:lastmodified":1566673364,
     "wof:name":"Corral Falso",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.52,9.01333,-79.48,9.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Samarien"
     ],
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":1343546623,
-    "wof:lastmodified":1564150413,
+    "wof:lastmodified":1566673009,
     "wof:name":"Samaria",
     "wof:parent_id":421175375,
     "wof:placetype":"locality",

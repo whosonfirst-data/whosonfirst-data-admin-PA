@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.72007,7.82717,-80.68007,7.86717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -35,7 +39,7 @@
         "gn:id":3714529
     },
     "wof:country":"PA",
-    "wof:geomhash":"83127c2a8c682d931c45b324530b76fb",
+    "wof:geomhash":"91763eaf33e8735af95bb2f35068263a",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209236635,
-    "wof:lastmodified":1536293457,
+    "wof:lastmodified":1566673247,
     "wof:name":"Bahia Honda Arriba",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -80.70007,
-    7.847169999999998,
+    7.84717,
     -80.70007,
-    7.847169999999998
+    7.84717
 ],
   "geometry": {"coordinates":[-80.70007,7.84717],"type":"Point"}
 }

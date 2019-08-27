@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.013443,
     "lbl:longitude":-80.402627,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Col\u00f3n",
     "meso:gadm_admin":"Donoso",
     "meso:gadm_hasc2":"PA.CL.DN",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.402627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Donoso"
     ],
@@ -60,9 +63,9 @@
         "\u591a\u8afe\u7d22\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"1,817.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Miguel de la Borda",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108693217,
-    "wof:lastmodified":1561777233,
+    "wof:lastmodified":1566673333,
     "wof:name":"Donoso",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

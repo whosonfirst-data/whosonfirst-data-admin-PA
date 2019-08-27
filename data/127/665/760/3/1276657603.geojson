@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.21063,9.16293,-80.17063,9.20293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "R\u00edo Indio"
     ],
@@ -38,7 +42,6 @@
         "Chila",
         "La Boca de R\u00edo Indio",
         "Chilar",
-        "R\u00edo Indio",
         "Boca del R\u00edo Indio"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276657603,
-    "wof:lastmodified":1564150851,
+    "wof:lastmodified":1566673215,
     "wof:name":"Boca de Rio Indio",
     "wof:parent_id":1108693205,
     "wof:placetype":"locality",

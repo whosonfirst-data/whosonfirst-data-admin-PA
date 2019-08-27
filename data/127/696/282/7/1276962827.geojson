@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.47,8.18,-81.43,8.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Mesita",
         "Las Mesitas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276962827,
-    "wof:lastmodified":1537676393,
+    "wof:lastmodified":1566673214,
     "wof:name":"Las Mesitas",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.78358,7.74336,-80.74358,7.78336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327255935,
-    "wof:lastmodified":1536936416,
+    "wof:lastmodified":1566672955,
     "wof:name":"El Entradero",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

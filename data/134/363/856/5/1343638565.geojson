@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.93667,8.96333,-81.89667,9.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cricamola",
         "Boca del R\u00edo Cricamola",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343638565,
-    "wof:lastmodified":1537676483,
+    "wof:lastmodified":1566673014,
     "wof:name":"Boca de Cricamola",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

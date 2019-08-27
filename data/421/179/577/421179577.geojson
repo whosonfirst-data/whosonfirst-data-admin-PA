@@ -10,8 +10,12 @@
     "geom:latitude":9.3,
     "geom:longitude":-79.7,
     "iso:country":"PA",
+    "lbl:bbox":"-79.72,9.28,-79.68,9.32",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Quebrada Bonita Adentro"
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":3702276,
         "gp:id":159766,
-        "qs:id":150228,
+        "qs_pg:id":150228,
         "wd:id":"Q7269875",
         "wk:page":"Quebrada Bonita Adentro"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421179577,
-    "wof:lastmodified":1563306875,
+    "wof:lastmodified":1566673461,
     "wof:name":"Quebrada Bonita Adentro",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

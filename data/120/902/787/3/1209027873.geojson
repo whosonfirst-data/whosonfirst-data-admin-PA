@@ -23,8 +23,12 @@
     "gn:population":145,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.57634,7.81548,-80.53634,7.85548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Rode\u00edto N\u00famero Uno"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209027873,
-    "wof:lastmodified":1537676345,
+    "wof:lastmodified":1566673266,
     "wof:name":"Rodeito",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

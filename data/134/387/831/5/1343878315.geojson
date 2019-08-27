@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.85139,8.32472,-78.81139,8.36472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Punta Gorda"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1343878315,
-    "wof:lastmodified":1564150529,
+    "wof:lastmodified":1566673065,
     "wof:name":"Punta Gorda",
     "wof:parent_id":421175369,
     "wof:placetype":"locality",

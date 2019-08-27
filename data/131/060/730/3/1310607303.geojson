@@ -24,8 +24,12 @@
     "gn:population":188,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.70333,9.49667,-79.66333,9.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Mar\u00eda Sota",
         "Mar\u00eda Soto"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310607303,
-    "wof:lastmodified":1537676370,
+    "wof:lastmodified":1566673381,
     "wof:name":"Maria Soto",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

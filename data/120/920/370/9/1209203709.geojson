@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.40694,7.92167,-81.36694,7.96167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -34,7 +38,7 @@
         "gn:id":3711457
     },
     "wof:country":"PA",
-    "wof:geomhash":"17837d10e2e71854c292cf6c0ad92951",
+    "wof:geomhash":"0e82e13a216cb9ca0b8f181c04ea100e",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209203709,
-    "wof:lastmodified":1536294524,
+    "wof:lastmodified":1566673271,
     "wof:name":"El Bal",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -81.38694,
-    7.9416699999999985,
+    7.94167,
     -81.38694,
-    7.9416699999999985
+    7.94167
 ],
   "geometry": {"coordinates":[-81.38694,7.94167],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.82,7.46333,-80.78,7.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Las Bocas"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226437759,
-    "wof:lastmodified":1564151637,
+    "wof:lastmodified":1566673592,
     "wof:name":"Las Bocas",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-79.81333,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":8408,
+    "gn:population":8408,
     "iso:country":"PA",
+    "lbl:bbox":"-79.83333,8.83583,-79.79333,8.87583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u062f\u0627\u0644\u0648\u0628\u064a"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0430\u0434\u0430\u043b\u0443\u043f\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Laguna"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":3708954,
         "gp:id":157060,
-        "qs:id":150243,
+        "qs_pg:id":150243,
         "wd:id":"Q998796",
         "wk:page":"Guadalupe"
     },
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":890430967,
-    "wof:lastmodified":1563306900,
+    "wof:lastmodified":1566673467,
     "wof:name":"Guadalupe",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

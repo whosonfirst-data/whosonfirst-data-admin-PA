@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.69375,8.20885,-81.65375,8.24885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0430"
     ],
@@ -789,7 +793,7 @@
         }
     ],
     "wof:id":1225857819,
-    "wof:lastmodified":1564151757,
+    "wof:lastmodified":1566673660,
     "wof:name":"Portugal",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

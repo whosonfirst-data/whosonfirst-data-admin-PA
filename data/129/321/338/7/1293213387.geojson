@@ -23,8 +23,12 @@
     "gn:population":1019,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.58523,8.84482,-82.54523,8.88482",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Barrio Guadalupe"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293213387,
-    "wof:lastmodified":1537676466,
+    "wof:lastmodified":1566673149,
     "wof:name":"Barrio Guadalupe",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3013456.658592,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.488831,8.97461,-79.488831,8.97461",
     "geom:latitude":8.97461,
     "geom:longitude":-79.488831,
     "gn:latitude":8.98333,
     "gn:longitude":-79.5,
     "iso:country":"PA",
+    "lbl:bbox":"-79.493831,8.96961,-79.483831,8.97961",
     "lbl:latitude":8.97461,
     "lbl:longitude":-79.488831,
+    "lbl:max_zoom":18.0,
     "mps:latitude":8.973421,
     "mps:longitude":-79.487499,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Boca la Caja"
-    ],
-    "name:unk_x_variant":[
         "Boca la Caja"
     ],
     "qs:gn_adm0_cc":"PA",
@@ -60,14 +59,12 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3713974,
         "gp:id":154986,
-        "qs:id":1341375,
         "qs_pg:id":1341375
     },
     "wof:country":"PA",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858862,
+    "wof:lastmodified":1566673075,
     "wof:name":"Boca la Caja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.40333,7.54667,-80.36333,7.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276971281,
-    "wof:lastmodified":1536919364,
+    "wof:lastmodified":1566673210,
     "wof:name":"Chamarra Vieja",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

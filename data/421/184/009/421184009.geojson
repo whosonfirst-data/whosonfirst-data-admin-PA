@@ -10,8 +10,12 @@
     "geom:latitude":8.6,
     "geom:longitude":-80.1,
     "iso:country":"PA",
+    "lbl:bbox":"-80.12,8.58,-80.08,8.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Los Llanitos"
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3705238,
         "gp:id":158729,
-        "qs:id":988311,
+        "qs_pg:id":988311,
         "wd:id":"Q21042844"
     },
     "wof:country":"PA",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421184009,
-    "wof:lastmodified":1563306857,
+    "wof:lastmodified":1566673455,
     "wof:name":"Los Llanitos",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

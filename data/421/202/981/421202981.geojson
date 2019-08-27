@@ -10,8 +10,12 @@
     "geom:latitude":9.53333,
     "geom:longitude":-82.6,
     "iso:country":"PA",
+    "lbl:bbox":"-82.62,9.51333,-82.58,9.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Kaliforni\u00eb"
@@ -612,7 +616,7 @@
     "wof:concordances":{
         "gn:id":3713409,
         "gp:id":155171,
-        "qs:id":53652
+        "qs_pg:id":53652
     },
     "wof:country":"PA",
     "wof:created":1459010136,
@@ -627,7 +631,7 @@
         }
     ],
     "wof:id":421202981,
-    "wof:lastmodified":1564151329,
+    "wof:lastmodified":1566673435,
     "wof:name":"California",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

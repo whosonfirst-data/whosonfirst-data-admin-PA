@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.47641,7.38972,-80.43641,7.42972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "El Bebedero"
     ],
@@ -32,8 +36,7 @@
         "El Bebedero"
     ],
     "name:und_x_variant":[
-        "Bebedero",
-        "El Bebedero"
+        "Bebedero"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u8c9d\u8c9d\u5fb7\u7f85"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326722311,
-    "wof:lastmodified":1564150282,
+    "wof:lastmodified":1566672942,
     "wof:name":"El Bebedero",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

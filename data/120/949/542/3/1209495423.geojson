@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.76795,8.64835,-81.72795,8.68835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Corarigote"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209495423,
-    "wof:lastmodified":1537676513,
+    "wof:lastmodified":1566673251,
     "wof:name":"Corarigote",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

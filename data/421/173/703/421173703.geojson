@@ -10,8 +10,12 @@
     "geom:latitude":8.0,
     "geom:longitude":-80.51667,
     "iso:country":"PA",
+    "lbl:bbox":"-80.61667,7.9,-80.41667,8.1",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0442\u0430"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3703354,
         "gp:id":26793375,
-        "qs:id":532126,
+        "qs_pg:id":532126,
         "wd:id":"Q7137516",
         "wk:page":"Parita"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421173703,
-    "wof:lastmodified":1563306796,
+    "wof:lastmodified":1566673441,
     "wof:name":"Parita",
     "wof:parent_id":421166923,
     "wof:placetype":"localadmin",

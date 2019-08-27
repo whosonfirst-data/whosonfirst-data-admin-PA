@@ -23,8 +23,12 @@
     "gn:population":743,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.43934,8.45285,-82.39934,8.49285",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Portachuelo"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1226659037,
-    "wof:lastmodified":1564151738,
+    "wof:lastmodified":1566673651,
     "wof:name":"Portachuelo",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":256,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.04323,8.44178,-80.00323,8.48178",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Palo Diferente"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242850835,
-    "wof:lastmodified":1537676362,
+    "wof:lastmodified":1566673521,
     "wof:name":"Palo Diferente",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

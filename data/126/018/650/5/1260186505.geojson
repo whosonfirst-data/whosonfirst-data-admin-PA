@@ -23,8 +23,12 @@
     "gn:population":181,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.20807,9.16339,-82.16807,9.20339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Cerro Brujo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260186505,
-    "wof:lastmodified":1537676504,
+    "wof:lastmodified":1566673318,
     "wof:name":"Cerro Brujo",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

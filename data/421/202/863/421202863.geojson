@@ -10,6 +10,9 @@
     "geom:latitude":9.3,
     "geom:longitude":-82.4,
     "iso:country":"PA",
+    "lbl:bbox":"-82.42,9.28,-82.38,9.32",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":3714896,
         "gp:id":154588,
-        "qs:id":228601,
+        "qs_pg:id":228601,
         "wd:id":"Q2074220",
         "wk:page":"Almirante"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421202863,
-    "wof:lastmodified":1563306771,
+    "wof:lastmodified":1566673435,
     "wof:name":"Almirante",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

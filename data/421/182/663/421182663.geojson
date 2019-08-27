@@ -10,8 +10,12 @@
     "geom:latitude":9.204908,
     "geom:longitude":-79.835243,
     "iso:country":"PA",
+    "lbl:bbox":"-79.9352425,9.104908,-79.7352425,9.304908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Limon"
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793326,
-        "qs:id":950219
+        "qs_pg:id":950219
     },
     "wof:country":"PA",
     "wof:created":1459009337,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421182663,
-    "wof:lastmodified":1564151365,
+    "wof:lastmodified":1566673461,
     "wof:name":"Limon",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

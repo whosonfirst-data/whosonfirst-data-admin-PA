@@ -12,8 +12,10 @@
     "gn:latitude":9.01667,
     "gn:longitude":-79.55,
     "iso:country":"PA",
+    "lbl:bbox":"-79.574733,9.006731,-79.564733,9.016731",
     "lbl:latitude":9.011731,
     "lbl:longitude":-79.569733,
+    "lbl:max_zoom":18.0,
     "mps:latitude":8.999758,
     "mps:longitude":-79.58235,
     "mz:hierarchy_label":0,
@@ -166,9 +168,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e"
     ],
-    "name:unk_x_variant":[
-        "El Dorado"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
     ],
@@ -206,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675789,
         102191575,
@@ -217,7 +216,7 @@
     "wof:concordances":{
         "gn:id":3710935,
         "gp:id":156183,
-        "qs:id":211121
+        "qs_pg:id":211121
     },
     "wof:country":"PA",
     "wof:geomhash":"8abe71bec0d32a1e22fd198d611065d8",
@@ -235,7 +234,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564150551,
+    "wof:lastmodified":1566673074,
     "wof:name":"El Dorado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

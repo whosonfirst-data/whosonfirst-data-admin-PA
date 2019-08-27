@@ -11,10 +11,14 @@
     "geom:longitude":-79.80722,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":3347,
+    "gn:population":3347,
     "iso:country":"PA",
+    "lbl:bbox":"-79.82722,8.83222,-79.78722,8.87222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Herradura"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":3707568,
         "gp:id":157060,
-        "qs:id":1046606
+        "qs_pg:id":1046606
     },
     "wof:country":"PA",
     "wof:created":1469051534,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890424205,
-    "wof:lastmodified":1505343480,
+    "wof:lastmodified":1566673467,
     "wof:name":"La Herradura",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

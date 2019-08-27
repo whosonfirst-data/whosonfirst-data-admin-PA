@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.2845,9.13226,-82.2445,9.17226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cauchero"
     ],
@@ -38,8 +42,7 @@
         "Cauchero"
     ],
     "name:und_x_variant":[
-        "Punta de Bongo",
-        "Cauchero"
+        "Punta de Bongo"
     ],
     "name:zho_x_preferred":[
         "\u8003\u5207\u7f85"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1259497207,
-    "wof:lastmodified":1564151572,
+    "wof:lastmodified":1566673562,
     "wof:name":"Cauchero",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

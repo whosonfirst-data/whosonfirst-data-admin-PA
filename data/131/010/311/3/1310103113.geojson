@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.77,8.06333,-80.73,8.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ca\u00f1a Cillas",
         "Ca\u00f1acilla"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310103113,
-    "wof:lastmodified":1537676475,
+    "wof:lastmodified":1566673366,
     "wof:name":"Canacilla",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",

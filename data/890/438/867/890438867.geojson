@@ -11,10 +11,14 @@
     "geom:longitude":-80.56667,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":1105,
+    "gn:population":1105,
     "iso:country":"PA",
+    "lbl:bbox":"-80.58667,7.64667,-80.54667,7.68667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Llano de Piedra"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3705743,
         "gp:id":158399,
-        "qs:id":1046602,
+        "qs_pg:id":1046602,
         "wd:id":"Q9023205",
         "wk:page":"Llano de Piedra"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890438867,
-    "wof:lastmodified":1563306903,
+    "wof:lastmodified":1566673468,
     "wof:name":"Llano de Piedra",
     "wof:parent_id":1108693237,
     "wof:placetype":"locality",

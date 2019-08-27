@@ -10,8 +10,12 @@
     "geom:latitude":8.95,
     "geom:longitude":-82.11667,
     "iso:country":"PA",
+    "lbl:bbox":"-82.21667,8.85,-82.01667,9.05",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chiriqu\u00ed Grande"
@@ -62,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28358301,
-        "qs:id":1203955,
         "qs_pg:id":1203955
     },
     "wof:country":"PA",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421170973,
-    "wof:lastmodified":1564151361,
+    "wof:lastmodified":1566673457,
     "wof:name":"Chiriqu\u00ed Grande",
     "wof:parent_id":1108693209,
     "wof:placetype":"localadmin",

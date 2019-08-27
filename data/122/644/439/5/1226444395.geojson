@@ -23,8 +23,12 @@
     "gn:population":531,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.20721,8.37876,-80.16721,8.41876",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Chir\u00fa"
     ],
@@ -32,8 +36,7 @@
         "El Chir\u00fa"
     ],
     "name:und_x_variant":[
-        "Chir\u00fa",
-        "El Chir\u00fa"
+        "Chir\u00fa"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u5947\u9b6f"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1226444395,
-    "wof:lastmodified":1564151639,
+    "wof:lastmodified":1566673593,
     "wof:name":"El Chiru",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

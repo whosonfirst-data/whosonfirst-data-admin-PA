@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.05834,9.4828,-79.01834,9.5228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mandinga Ubigantupo"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343557477,
-    "wof:lastmodified":1537676333,
+    "wof:lastmodified":1566673012,
     "wof:name":"Mandinga Ubigantupo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

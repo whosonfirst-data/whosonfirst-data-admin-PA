@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.240442,
     "lbl:longitude":-82.666213,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bocas del Toro",
     "meso:gadm_admin":"Changuinola",
     "meso:gadm_hasc2":"PA.BC.CH",
@@ -31,6 +33,7 @@
     "mps:longitude":-82.666213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Changuinola"
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"3,995.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Changuinola",
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":26793099,
         "hasc:id":"PA.BC.CH",
-        "qs:id":220301,
+        "qs_pg:id":220301,
         "wd:id":"Q2216073"
     },
     "wof:country":"PA",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421170139,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1566673456,
     "wof:name":"Changuinola",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

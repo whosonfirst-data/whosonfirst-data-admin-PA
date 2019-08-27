@@ -23,8 +23,12 @@
     "gn:population":370,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.01683,8.06046,-80.97683,8.10046",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Cantera"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293507997,
-    "wof:lastmodified":1537676522,
+    "wof:lastmodified":1566673115,
     "wof:name":"La Cantera",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

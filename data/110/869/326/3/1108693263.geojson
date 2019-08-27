@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.951233,
     "lbl:longitude":-81.169213,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Veraguas",
     "meso:gadm_admin":"R\u00edo de Jes\u00fas",
     "meso:gadm_hasc2":"PA.VR.RJ",
@@ -31,6 +33,7 @@
     "mps:longitude":-81.169213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "R\u00edo de Jes\u00fas"
     ],
@@ -57,9 +60,9 @@
         "\u91cc\u5967\u5fb7\u8d6b\u8607\u65af\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"317.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"R\u00edo de Jes\u00fas",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108693263,
-    "wof:lastmodified":1561777233,
+    "wof:lastmodified":1566673333,
     "wof:name":"R\u00edo de Jes\u00fas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

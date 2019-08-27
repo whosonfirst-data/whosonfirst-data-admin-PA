@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.03667,8.58,-79.99667,8.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "El Calabacito"
     ],
@@ -32,8 +36,7 @@
         "El Calabacito"
     ],
     "name:und_x_variant":[
-        "El Calabacitos",
-        "El Calabacito"
+        "El Calabacitos"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u5361\u62c9\u5df4\u897f\u6258"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293278627,
-    "wof:lastmodified":1564150674,
+    "wof:lastmodified":1566673137,
     "wof:name":"El Calabacito",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

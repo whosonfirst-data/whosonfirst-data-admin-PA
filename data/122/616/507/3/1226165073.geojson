@@ -23,8 +23,12 @@
     "gn:population":433,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.74627,7.82482,-80.70627,7.86482",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Chumical"
     ],
@@ -32,8 +36,7 @@
         "Chumical"
     ],
     "name:und_x_variant":[
-        "Chumical Arriba",
-        "Chumical"
+        "Chumical Arriba"
     ],
     "name:zho_x_preferred":[
         "\u4e18\u7c73\u5361\u723e"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1226165073,
-    "wof:lastmodified":1564151655,
+    "wof:lastmodified":1566673601,
     "wof:name":"Chumical",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

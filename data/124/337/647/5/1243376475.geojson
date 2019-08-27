@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.77,8.58,-82.73,8.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0644\u0645\u0627 \u0631\u06cc\u0644"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243376475,
-    "wof:lastmodified":1564151390,
+    "wof:lastmodified":1566673479,
     "wof:name":"Palma Real",
     "wof:parent_id":1108693261,
     "wof:placetype":"locality",

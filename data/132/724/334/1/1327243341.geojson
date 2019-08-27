@@ -23,8 +23,12 @@
     "gn:population":199,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.53397,8.55644,-80.49397,8.59644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Potrellano"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327243341,
-    "wof:lastmodified":1537676356,
+    "wof:lastmodified":1566672962,
     "wof:name":"Potrellano",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

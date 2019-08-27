@@ -23,8 +23,12 @@
     "gn:population":138,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.67018,8.04139,-81.63018,8.08139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Camar\u00f3n"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210019827,
-    "wof:lastmodified":1537676476,
+    "wof:lastmodified":1566673288,
     "wof:name":"Camaron",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

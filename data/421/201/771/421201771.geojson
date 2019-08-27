@@ -10,8 +10,12 @@
     "geom:latitude":9.47417,
     "geom:longitude":-78.96667,
     "iso:country":"PA",
+    "lbl:bbox":"-78.98667,9.45417,-78.94667,9.49417",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Cart\u00ed Sugtupu"
@@ -31,7 +35,7 @@
     "name:spa_x_variant":[
         "Cart\u00ed Sugdupu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suctupo"
     ],
     "qs:gn_country":"PA",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3712951,
         "gp:id":155326,
-        "qs:id":214529,
+        "qs_pg:id":214529,
         "wd:id":"Q636822"
     },
     "wof:country":"PA",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421201771,
-    "wof:lastmodified":1563306852,
+    "wof:lastmodified":1566673454,
     "wof:name":"Cart\u00ed Suitupo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

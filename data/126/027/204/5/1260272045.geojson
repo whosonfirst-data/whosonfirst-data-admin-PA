@@ -23,8 +23,12 @@
     "gn:population":105,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.10472,7.94833,-81.06472,7.98833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260272045,
-    "wof:lastmodified":1536727654,
+    "wof:lastmodified":1566673317,
     "wof:name":"Mojarras",
     "wof:parent_id":421171341,
     "wof:placetype":"locality",

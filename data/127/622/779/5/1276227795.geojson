@@ -23,8 +23,12 @@
     "gn:population":16,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.24417,9.16639,-80.20417,9.20639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276227795,
-    "wof:lastmodified":1536920877,
+    "wof:lastmodified":1566673194,
     "wof:name":"Piloncito",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

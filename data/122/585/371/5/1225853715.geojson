@@ -24,8 +24,12 @@
     "gn:population":22,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.26397,8.59665,-82.22397,8.63665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Dos Brazos del Est\u00ed",
         "Dos Brazos de Est\u00ed"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225853715,
-    "wof:lastmodified":1537676460,
+    "wof:lastmodified":1566673660,
     "wof:name":"Dos Brazos de Esti",
     "wof:parent_id":421169889,
     "wof:placetype":"locality",

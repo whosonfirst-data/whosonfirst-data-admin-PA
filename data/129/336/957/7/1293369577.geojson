@@ -23,8 +23,12 @@
     "gn:population":157,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.95314,8.88864,-79.91314,8.92864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
@@ -57,8 +61,7 @@
     ],
     "name:und_x_variant":[
         "Las Lajas N\u00famero Uno",
-        "Las Lajas N\u00famero Dos",
-        "Las Lajas"
+        "Las Lajas N\u00famero Dos"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1293369577,
-    "wof:lastmodified":1564150563,
+    "wof:lastmodified":1566673085,
     "wof:name":"Las Lajas",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

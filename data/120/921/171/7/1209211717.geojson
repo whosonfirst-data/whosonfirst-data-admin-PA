@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.32,7.54667,-80.28,7.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632179
@@ -34,7 +38,7 @@
         "gn:id":3712238
     },
     "wof:country":"PA",
-    "wof:geomhash":"76927ec77233d9fadb4fcbf7ca1f82e8",
+    "wof:geomhash":"3ffe16df5bf4217e9dd8b14a46fa87c3",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209211717,
-    "wof:lastmodified":1536294269,
+    "wof:lastmodified":1566673278,
     "wof:name":"Cirguelera",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -80.3,
-    7.5666699999999985,
+    7.56667,
     -80.3,
-    7.5666699999999985
+    7.56667
 ],
   "geometry": {"coordinates":[-80.3,7.56667],"type":"Point"}
 }

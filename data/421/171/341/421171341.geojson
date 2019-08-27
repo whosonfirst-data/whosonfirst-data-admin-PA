@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":7.490747,
     "lbl:longitude":-81.792909,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Veraguas",
     "meso:gadm_admin":"Montijo",
     "meso:gadm_hasc2":"PA.VR.MT",
@@ -28,6 +30,7 @@
     "mps:longitude":-81.792909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Montijo"
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191575,
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":26793121,
         "hasc:id":"PA.VR.MT",
-        "qs:id":1263657,
+        "qs_pg:id":1263657,
         "wd:id":"Q1650967"
     },
     "wof:country":"PA",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421171341,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1566673464,
     "wof:name":"Montijo",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

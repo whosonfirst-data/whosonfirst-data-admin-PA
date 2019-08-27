@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.983,8.87635,-79.943,8.91635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
     ],
@@ -70,8 +74,7 @@
         "Pueblo Nuevo"
     ],
     "name:und_x_variant":[
-        "Huesital",
-        "Pueblo Nuevo"
+        "Huesital"
     ],
     "name:vie_x_preferred":[
         "Pueblo Nuevo"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1309785293,
-    "wof:lastmodified":1564151290,
+    "wof:lastmodified":1566673414,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

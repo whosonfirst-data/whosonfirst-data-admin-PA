@@ -23,8 +23,12 @@
     "gn:population":550,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.53681,8.50146,-80.49681,8.54146",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Potrero"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243466129,
-    "wof:lastmodified":1564151445,
+    "wof:lastmodified":1566673502,
     "wof:name":"El Potrero",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.668754,
     "lbl:longitude":-80.504125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Los Santos",
     "meso:gadm_admin":"Macaracas",
     "meso:gadm_hasc2":"PA.LS.MC",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.504125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Macaracas"
     ],
@@ -63,9 +66,9 @@
         "\u99ac\u5361\u62c9\u5361\u65af\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"504.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Macaracas",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108693237,
-    "wof:lastmodified":1561777231,
+    "wof:lastmodified":1566673328,
     "wof:name":"Macaracas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

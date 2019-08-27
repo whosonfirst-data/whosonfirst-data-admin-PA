@@ -10,8 +10,12 @@
     "geom:latitude":7.73333,
     "geom:longitude":-80.55,
     "iso:country":"PA",
+    "lbl:bbox":"-80.65,7.63333,-80.45,7.83333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Macaracas"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3704874,
         "gp:id":26793436,
-        "qs:id":259773,
+        "qs_pg:id":259773,
         "wd:id":"Q524709",
         "wk:page":"Macaracas"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421205227,
-    "wof:lastmodified":1563306774,
+    "wof:lastmodified":1566673436,
     "wof:name":"Macaracas",
     "wof:parent_id":1108693237,
     "wof:placetype":"localadmin",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.53667,9.04667,-79.49667,9.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "San-\u0130sidro"
     ],
@@ -84,8 +88,7 @@
         "San Isidro"
     ],
     "name:und_x_variant":[
-        "Ojo de Agua",
-        "San Isidro"
+        "Ojo de Agua"
     ],
     "name:vie_x_preferred":[
         "San Isidro"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1293121021,
-    "wof:lastmodified":1564150607,
+    "wof:lastmodified":1566673105,
     "wof:name":"San Isidro",
     "wof:parent_id":421175375,
     "wof:placetype":"locality",

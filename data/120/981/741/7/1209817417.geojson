@@ -23,8 +23,12 @@
     "gn:population":133,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.54199,8.61864,-80.50199,8.65864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Guabo"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209817417,
-    "wof:lastmodified":1564151020,
+    "wof:lastmodified":1566673283,
     "wof:name":"El Guabo",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

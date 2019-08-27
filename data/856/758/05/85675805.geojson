@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.239401,
     "lbl:longitude":-82.647725,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bocas del Toro",
     "mps:latitude":9.214929,
     "mps:longitude":-82.646968,
@@ -169,7 +170,7 @@
         "Bocas del Toro"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0b95\u0bb8\u0bcd  \u0b9f\u0bc6\u0bb2\u0bcd  \u0b9f\u0bcb\u0bb0\u0bcb  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0b95\u0bb8\u0bcd \u0b9f\u0bc6\u0bb2\u0bcd \u0b9f\u0bcb\u0bb0\u0bcb \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c15\u0c3e\u0c38\u0c4d \u0c21\u0c46\u0c32\u0c4d \u0c1f\u0c4b\u0c30\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -185,9 +186,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043a\u0430\u0441-\u0434\u0435\u043b\u044c-\u0422\u043e\u0440\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Provincia de Bocas del Toro"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06a9\u0627\u0633 \u062f\u06cc\u0644 \u062a\u0648\u0631\u0648 \u0635\u0648\u0628\u06c1"
@@ -270,9 +268,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"4,601",
     "statoids:area_mi":"1,777",
     "statoids:as_of_date":"2010-05-16",
@@ -301,7 +299,7 @@
         "hasc:id":"PA.BC",
         "iso:id":"PA-1",
         "nyt:id":"N6546044179490659521",
-        "qs:id":423869,
+        "qs_pg:id":423869,
         "unlc:id":"PA-1",
         "wd:id":"Q217138",
         "wk:page":"Bocas del Toro Province"
@@ -322,11 +320,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565732210,
+    "wof:lastmodified":1566673075,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":85632179,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":125461,
     "wof:population_rank":9,

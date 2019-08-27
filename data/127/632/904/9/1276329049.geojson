@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-77.56716,8.71748,-77.52716,8.75748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esnasucun",
         "Anachucuna",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276329049,
-    "wof:lastmodified":1537676489,
+    "wof:lastmodified":1566673186,
     "wof:name":"Anachukuna",
     "wof:parent_id":1108693213,
     "wof:placetype":"locality",

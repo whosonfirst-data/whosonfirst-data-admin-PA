@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.96899,9.53243,-78.92899,9.57243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Wichubhual\u00e1"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276855559,
-    "wof:lastmodified":1537676331,
+    "wof:lastmodified":1566673197,
     "wof:name":"Wichubhuala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

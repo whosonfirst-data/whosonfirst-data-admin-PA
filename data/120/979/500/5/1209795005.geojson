@@ -23,8 +23,12 @@
     "gn:population":253,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.0747,8.48464,-80.0347,8.52464",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Cop\u00e9"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209795005,
-    "wof:lastmodified":1537676450,
+    "wof:lastmodified":1566673243,
     "wof:name":"El Cope",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

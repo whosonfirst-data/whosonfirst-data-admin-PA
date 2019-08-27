@@ -23,8 +23,12 @@
     "gn:population":7773,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.84374,8.83073,-79.80374,8.87073",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Pesa"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293476097,
-    "wof:lastmodified":1537676523,
+    "wof:lastmodified":1566673109,
     "wof:name":"La Pesa",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

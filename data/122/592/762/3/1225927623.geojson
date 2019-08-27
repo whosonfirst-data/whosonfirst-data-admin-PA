@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.03667,8.21333,-80.99667,8.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30e9\u30b9\u30fb\u30a2\u30c9\u30d5\u30f3\u30bf\u30b9\u99c5"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225927623,
-    "wof:lastmodified":1564151623,
+    "wof:lastmodified":1566673585,
     "wof:name":"Las Adjuntas",
     "wof:parent_id":421173571,
     "wof:placetype":"locality",

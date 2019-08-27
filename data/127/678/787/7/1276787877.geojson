@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.52379,7.75838,-80.48379,7.79838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cedro Abajo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276787877,
-    "wof:lastmodified":1537676496,
+    "wof:lastmodified":1566673199,
     "wof:name":"Cedro Abajo",
     "wof:parent_id":1108693237,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.947458,
     "geom:longitude":-79.579467,
     "iso:country":"PA",
+    "lbl:bbox":"-79.599467,8.927458,-79.559467,8.967458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Arraij\u00e1n"
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":154722,
-        "qs:id":1074628,
+        "qs_pg:id":1074628,
         "wd:id":"Q1841186"
     },
     "wof:country":"PA",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421186621,
-    "wof:lastmodified":1563306813,
+    "wof:lastmodified":1566673444,
     "wof:name":"Arrajan",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

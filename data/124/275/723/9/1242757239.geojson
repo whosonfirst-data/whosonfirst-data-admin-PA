@@ -23,8 +23,12 @@
     "gn:population":178,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.95053,8.82064,-79.91053,8.86064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Cigual"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242757239,
-    "wof:lastmodified":1537676452,
+    "wof:lastmodified":1566673489,
     "wof:name":"El Cigual",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

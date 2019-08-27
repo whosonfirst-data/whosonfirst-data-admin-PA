@@ -10,8 +10,12 @@
     "geom:latitude":7.91667,
     "geom:longitude":-80.48333,
     "iso:country":"PA",
+    "lbl:bbox":"-80.58333,7.81667,-80.38333,8.01667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Los Olivos"
@@ -66,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3705131,
         "gp:id":26793413,
-        "qs:id":401516,
         "qs_pg:id":401516
     },
     "wof:country":"PA",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421180103,
-    "wof:lastmodified":1564151331,
+    "wof:lastmodified":1566673437,
     "wof:name":"Los Olivos",
     "wof:parent_id":1108693235,
     "wof:placetype":"localadmin",

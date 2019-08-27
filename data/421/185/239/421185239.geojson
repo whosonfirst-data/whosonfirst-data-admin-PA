@@ -10,10 +10,14 @@
     "geom:latitude":8.98333,
     "geom:longitude":-79.58333,
     "iso:country":"PA",
+    "lbl:bbox":"-79.60333,8.96333,-79.56333,9.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cocli"
     ],
     "qs:gn_country":"PA",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3712135,
         "gp:id":155662,
-        "qs:id":887572
+        "qs_pg:id":887572
     },
     "wof:country":"PA",
     "wof:created":1459009436,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421185239,
-    "wof:lastmodified":1501268796,
+    "wof:lastmodified":1566673466,
     "wof:name":"Cocol\u00ed",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

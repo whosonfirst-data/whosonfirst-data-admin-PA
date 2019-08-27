@@ -23,8 +23,12 @@
     "gn:population":161,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.3413,7.65582,-80.3013,7.69582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Mu\u00f1oz"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259774985,
-    "wof:lastmodified":1564151549,
+    "wof:lastmodified":1566673551,
     "wof:name":"El Munoz",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

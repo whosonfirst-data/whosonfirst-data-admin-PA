@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.42944,7.75889,-81.38944,7.79889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Juanito"
     ],
@@ -45,8 +49,7 @@
         "San Juanito"
     ],
     "name:und_x_variant":[
-        "San Juan",
-        "San Juanito"
+        "San Juan"
     ],
     "name:vie_x_preferred":[
         "San Juanito"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360173731,
-    "wof:lastmodified":1564151256,
+    "wof:lastmodified":1566673398,
     "wof:name":"San Juanito",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

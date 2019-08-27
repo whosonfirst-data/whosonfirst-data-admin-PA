@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.50333,8.16333,-81.46333,8.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pavon",
         "El Pav\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310099419,
-    "wof:lastmodified":1537676437,
+    "wof:lastmodified":1566673348,
     "wof:name":"El Pavon",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

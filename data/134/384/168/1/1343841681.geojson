@@ -24,8 +24,12 @@
     "gn:population":25,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.33667,7.96333,-81.29667,8.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441 \u041f\u0438\u0435\u0434\u0440\u0430\u0441"
     ],
@@ -69,8 +73,7 @@
         "Las Piedras"
     ],
     "name:und_x_variant":[
-        "Las Piedraa",
-        "Las Piedras"
+        "Las Piedraa"
     ],
     "name:vep_x_preferred":[
         "Las Pjedras"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1343841681,
-    "wof:lastmodified":1564150455,
+    "wof:lastmodified":1566673029,
     "wof:name":"Las Piedras",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

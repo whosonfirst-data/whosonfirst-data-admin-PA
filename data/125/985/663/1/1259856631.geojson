@@ -23,8 +23,12 @@
     "gn:population":17,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.42492,8.69817,-81.38492,8.73817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Loma Yuca"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259856631,
-    "wof:lastmodified":1564151569,
+    "wof:lastmodified":1566673561,
     "wof:name":"Loma Yuca",
     "wof:parent_id":1108693223,
     "wof:placetype":"locality",

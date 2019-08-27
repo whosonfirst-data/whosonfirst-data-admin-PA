@@ -23,8 +23,12 @@
     "gn:population":149,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.68904,8.6862,-82.64904,8.7262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Brazo de Garich\u00e9",
         "Brazos de Garich\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243181003,
-    "wof:lastmodified":1537676480,
+    "wof:lastmodified":1566673528,
     "wof:name":"Brazos de Gariche",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

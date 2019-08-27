@@ -23,8 +23,12 @@
     "gn:population":482,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.02075,8.43937,-79.98075,8.47937",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Las Uvas"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1293575513,
-    "wof:lastmodified":1564150634,
+    "wof:lastmodified":1566673117,
     "wof:name":"Las Uvas",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.25333,8.21333,-82.21333,8.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Cedro"
     ],
@@ -42,8 +46,7 @@
         "El Cedro"
     ],
     "name:und_x_variant":[
-        "Isla de Cedro",
-        "El Cedro"
+        "Isla de Cedro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310114723,
-    "wof:lastmodified":1564151178,
+    "wof:lastmodified":1566673361,
     "wof:name":"El Cedro",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

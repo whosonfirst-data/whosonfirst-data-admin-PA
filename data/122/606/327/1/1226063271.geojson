@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.93667,7.43,-80.89667,7.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Rusia"
     ],
     "name:und_x_variant":[
-        "Mata Oscura",
-        "Rusia"
+        "Mata Oscura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226063271,
-    "wof:lastmodified":1564151733,
+    "wof:lastmodified":1566673648,
     "wof:name":"Rusia",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

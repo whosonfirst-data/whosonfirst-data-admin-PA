@@ -10,8 +10,12 @@
     "geom:latitude":8.36667,
     "geom:longitude":-82.43333,
     "iso:country":"PA",
+    "lbl:bbox":"-82.45333,8.34667,-82.41333,8.38667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pedregal"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Pedregal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Pedregal"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3703229,
         "gp:id":159442,
-        "qs:id":1204701,
+        "qs_pg:id":1204701,
         "wd:id":"Q4899055",
         "wk:page":"Pedregal, Boquer\u00f3n"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421198765,
-    "wof:lastmodified":1563306821,
+    "wof:lastmodified":1566673447,
     "wof:name":"Pedregal",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

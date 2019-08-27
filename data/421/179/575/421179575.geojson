@@ -10,8 +10,12 @@
     "geom:latitude":9.29167,
     "geom:longitude":-79.76889,
     "iso:country":"PA",
+    "lbl:bbox":"-79.78889,9.27167,-79.74889,9.31167",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Gat\u00fan"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3701870,
         "gp:id":160004,
-        "qs:id":150227,
+        "qs_pg:id":150227,
         "wd:id":"Q5527571"
     },
     "wof:country":"PA",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421179575,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1566673460,
     "wof:name":"R\u00edo Gat\u00fan",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

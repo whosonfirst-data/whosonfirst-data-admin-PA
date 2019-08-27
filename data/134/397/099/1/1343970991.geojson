@@ -23,8 +23,12 @@
     "gn:population":175,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.81663,8.43877,-82.77663,8.47877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Los Azules"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343970991,
-    "wof:lastmodified":1537676508,
+    "wof:lastmodified":1566673013,
     "wof:name":"Los Azules",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

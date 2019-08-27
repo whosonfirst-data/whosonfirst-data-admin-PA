@@ -23,8 +23,12 @@
     "gn:population":13,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.86074,7.75587,-80.82074,7.79587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Ciruelo"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310327105,
-    "wof:lastmodified":1564151196,
+    "wof:lastmodified":1566673370,
     "wof:name":"El Ciruelo",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

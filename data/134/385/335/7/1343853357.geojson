@@ -23,8 +23,12 @@
     "gn:population":509,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.9988,7.86245,-80.9588,7.90245",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Ponuga"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343853357,
-    "wof:lastmodified":1564150468,
+    "wof:lastmodified":1566673034,
     "wof:name":"Ponuga",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

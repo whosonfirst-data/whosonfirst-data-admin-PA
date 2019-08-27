@@ -24,8 +24,12 @@
     "gn:population":61,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.70454,8.40257,-80.66454,8.44257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Baron",
         "El Bar\u00f3n"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226547389,
-    "wof:lastmodified":1537676458,
+    "wof:lastmodified":1566673653,
     "wof:name":"El Baron",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

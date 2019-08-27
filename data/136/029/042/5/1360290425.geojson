@@ -23,8 +23,12 @@
     "gn:population":355,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-77.50758,7.95876,-77.46758,7.99876",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "P\u00facuro"
     ],
@@ -32,8 +36,7 @@
         "P\u00facuro"
     ],
     "name:und_x_variant":[
-        "Pucro",
-        "P\u00facuro"
+        "Pucro"
     ],
     "name:zho_x_preferred":[
         "\u666e\u5eab\u7f85"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1360290425,
-    "wof:lastmodified":1564151251,
+    "wof:lastmodified":1566673395,
     "wof:name":"Pucuro",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

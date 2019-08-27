@@ -24,8 +24,12 @@
     "gn:population":205,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.16069,8.61146,-80.12069,8.65146",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Quebrada Amarillo",
         "Quebrada Amarilla"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343366369,
-    "wof:lastmodified":1537676352,
+    "wof:lastmodified":1566673003,
     "wof:name":"Quebrada Amarilla",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

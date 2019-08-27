@@ -23,8 +23,12 @@
     "gn:population":362,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.01636,8.45374,-79.97636,8.49374",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "La Palma"
     ],
@@ -204,7 +208,7 @@
         }
     ],
     "wof:id":1293177345,
-    "wof:lastmodified":1564150694,
+    "wof:lastmodified":1566673146,
     "wof:name":"La Palma",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

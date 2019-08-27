@@ -23,8 +23,12 @@
     "gn:population":692,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.29951,8.44374,-82.25951,8.48374",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Rinc\u00f3n"
     ],
@@ -32,8 +36,7 @@
         "Rinc\u00f3n"
     ],
     "name:und_x_variant":[
-        "Rinc\u00f3n de Gualaca",
-        "Rinc\u00f3n"
+        "Rinc\u00f3n de Gualaca"
     ],
     "name:zho_x_preferred":[
         "\u6797\u5b54"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243457557,
-    "wof:lastmodified":1564151511,
+    "wof:lastmodified":1566673532,
     "wof:name":"Rincon",
     "wof:parent_id":421169889,
     "wof:placetype":"locality",

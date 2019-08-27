@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.24362,8.7653,-78.20362,8.8053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sabanas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310209867,
-    "wof:lastmodified":1537676500,
+    "wof:lastmodified":1566673359,
     "wof:name":"Sabanas",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

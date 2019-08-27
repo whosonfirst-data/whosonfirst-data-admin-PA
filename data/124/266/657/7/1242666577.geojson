@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.21109,7.53702,-81.17109,7.57702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Punta"
     ],
@@ -47,8 +51,7 @@
         "La Punta"
     ],
     "name:und_x_variant":[
-        "Gobernadora",
-        "La Punta"
+        "Gobernadora"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1242666577,
-    "wof:lastmodified":1564151424,
+    "wof:lastmodified":1566673494,
     "wof:name":"La Punta",
     "wof:parent_id":421171341,
     "wof:placetype":"locality",

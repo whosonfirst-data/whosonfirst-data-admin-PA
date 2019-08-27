@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.96944,9.00028,-79.92944,9.04028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Mesa"
     ],
@@ -59,8 +63,7 @@
         "La Mesa"
     ],
     "name:und_x_variant":[
-        "Punta de la Mesa",
-        "La Mesa"
+        "Punta de la Mesa"
     ],
     "name:vie_x_preferred":[
         "La Mesa"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1293760029,
-    "wof:lastmodified":1564150610,
+    "wof:lastmodified":1566673106,
     "wof:name":"La Mesa",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

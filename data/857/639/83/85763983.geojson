@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1194655.639323,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.508609,8.99546,-79.508609,8.99546",
     "geom:latitude":8.99546,
     "geom:longitude":-79.508609,
-    "gn:gn_country":"PA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PA",
+    "gn:fcode":"PPLX",
     "gn:latitude":9.0,
     "gn:longitude":-79.5,
+    "gn:population":0,
     "iso:country":"PA",
+    "lbl:bbox":"-79.513609,8.99046,-79.503609,9.00046",
     "lbl:latitude":8.99546,
     "lbl:longitude":-79.508609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":8.994894,
     "mps:longitude":-79.509339,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Loma Alegre"
-    ],
-    "name:unk_x_variant":[
         "Loma Alegre"
     ],
     "qs:gn_adm0_cc":"PA",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675789,
         102191575,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3705662,
         "gp:id":158469,
-        "qs:id":474978,
         "qs_pg:id":474978
     },
     "wof:country":"PA",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379393,
+    "wof:lastmodified":1566673075,
     "wof:name":"Loma Alegre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.85271,9.43195,-78.81271,9.47195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "R\u00edo Sidra"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Ciedras Village",
         "R\u00edo Cidra-Urgandi",
-        "R\u00edo Cidra",
-        "R\u00edo Sidra"
+        "R\u00edo Cidra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293707883,
-    "wof:lastmodified":1537676347,
+    "wof:lastmodified":1566673104,
     "wof:name":"Rio Sidra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

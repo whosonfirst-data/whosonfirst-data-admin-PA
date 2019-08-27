@@ -23,8 +23,12 @@
     "gn:population":353,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.7601,8.05088,-80.7201,8.09088",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Olivo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326952213,
-    "wof:lastmodified":1537676438,
+    "wof:lastmodified":1566672953,
     "wof:name":"El Olivo",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",

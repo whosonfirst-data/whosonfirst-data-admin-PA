@@ -23,8 +23,12 @@
     "gn:population":82,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.98667,7.64667,-80.94667,7.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243438143,
-    "wof:lastmodified":1536816690,
+    "wof:lastmodified":1566673540,
     "wof:name":"Angulito",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":7.9,
     "geom:longitude":-80.43333,
     "iso:country":"PA",
+    "lbl:bbox":"-80.53333,7.8,-80.33333,8.0",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Llano Largo"
@@ -65,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3705710,
         "gp:id":26793414,
-        "qs:id":61323,
         "qs_pg:id":61323,
         "wd:id":"Q11689349",
         "wk:page":"Llano Largo"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421191257,
-    "wof:lastmodified":1563306830,
+    "wof:lastmodified":1566673449,
     "wof:name":"Llano Largo",
     "wof:parent_id":1108693235,
     "wof:placetype":"localadmin",

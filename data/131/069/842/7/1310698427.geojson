@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.36305,7.43276,-80.32305,7.47276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Agua Buena"
     ],
@@ -44,8 +48,7 @@
         "Agua Buena"
     ],
     "name:und_x_variant":[
-        "Aguas Buenas",
-        "Agua Buena"
+        "Aguas Buenas"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0648\u0627 \u0628\u06cc\u0648\u0646\u0627"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1310698427,
-    "wof:lastmodified":1564151208,
+    "wof:lastmodified":1566673376,
     "wof:name":"Agua Buena",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

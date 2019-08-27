@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.73667,8.58,-80.69667,8.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Honduras"
     ],
@@ -549,8 +553,7 @@
         "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
     ],
     "name:und_x_variant":[
-        "Hondura",
-        "Honduras"
+        "Hondura"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"
@@ -626,7 +629,7 @@
         }
     ],
     "wof:id":1209426429,
-    "wof:lastmodified":1564151005,
+    "wof:lastmodified":1566673276,
     "wof:name":"Honduras",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

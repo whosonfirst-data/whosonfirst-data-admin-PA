@@ -10,8 +10,12 @@
     "geom:latitude":8.45,
     "geom:longitude":-82.4,
     "iso:country":"PA",
+    "lbl:bbox":"-82.42,8.43,-82.38,8.47",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mata del Nance"
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3704460,
         "gp:id":159062,
-        "qs:id":214573,
+        "qs_pg:id":214573,
         "wd:id":"Q6785905",
         "wk:page":"Mata del Nance"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421201781,
-    "wof:lastmodified":1563306855,
+    "wof:lastmodified":1566673455,
     "wof:name":"Mata del Nance",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

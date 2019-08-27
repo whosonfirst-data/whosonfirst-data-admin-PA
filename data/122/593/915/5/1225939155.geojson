@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.75884,7.79749,-80.71884,7.83749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Arenitas",
         "Las Arenitas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225939155,
-    "wof:lastmodified":1537676397,
+    "wof:lastmodified":1566673584,
     "wof:name":"Las Arenitas",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

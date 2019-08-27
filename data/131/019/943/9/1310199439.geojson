@@ -23,8 +23,12 @@
     "gn:population":165,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.54265,7.33145,-80.50265,7.37145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Jobero"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310199439,
-    "wof:lastmodified":1537676419,
+    "wof:lastmodified":1566673368,
     "wof:name":"Jobero",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

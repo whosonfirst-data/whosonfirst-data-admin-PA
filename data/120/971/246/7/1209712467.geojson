@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.53667,7.83,-80.49667,7.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cerro Sapo",
         "Cerro El Sapo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209712467,
-    "wof:lastmodified":1537676470,
+    "wof:lastmodified":1566673250,
     "wof:name":"Cerro El Sapo",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

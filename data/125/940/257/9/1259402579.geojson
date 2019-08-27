@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.08667,9.13,-79.04667,9.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Capitana",
         "La Capitana"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259402579,
-    "wof:lastmodified":1537676415,
+    "wof:lastmodified":1566673557,
     "wof:name":"La Capitana",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

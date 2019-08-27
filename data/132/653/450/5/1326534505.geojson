@@ -23,8 +23,12 @@
     "gn:population":353,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.1667,8.59359,-78.1267,8.63359",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Puerto Lara"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326534505,
-    "wof:lastmodified":1537676501,
+    "wof:lastmodified":1566672991,
     "wof:name":"Puerto Lara",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

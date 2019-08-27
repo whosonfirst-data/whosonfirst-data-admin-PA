@@ -23,8 +23,12 @@
     "gn:population":438,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.45848,8.61817,-80.41848,8.65817",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Llano Grande"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242689555,
-    "wof:lastmodified":1564151419,
+    "wof:lastmodified":1566673492,
     "wof:name":"Llano Grande",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

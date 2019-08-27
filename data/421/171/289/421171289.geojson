@@ -10,8 +10,12 @@
     "geom:latitude":8.88333,
     "geom:longitude":-79.63333,
     "iso:country":"PA",
+    "lbl:bbox":"-79.65333,8.86333,-79.61333,8.90333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Veracruz"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Veracruz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Camer\u00f3n"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3700164,
         "gp:id":160576,
-        "qs:id":297806,
+        "qs_pg:id":297806,
         "wd:id":"Q16303011"
     },
     "wof:country":"PA",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421171289,
-    "wof:lastmodified":1563306888,
+    "wof:lastmodified":1566673464,
     "wof:name":"Veracruz",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

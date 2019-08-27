@@ -11,10 +11,14 @@
     "geom:longitude":-79.87917,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":987,
+    "gn:population":987,
     "iso:country":"PA",
+    "lbl:bbox":"-79.89917,8.84056,-79.85917,8.88056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b0\u09bf\u099f\u09be"
     ],
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3701148,
         "gp:id":160281,
-        "qs:id":584769,
+        "qs_pg:id":584769,
         "wd:id":"Q185868",
         "wk:page":"Santa Rita"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":890429533,
-    "wof:lastmodified":1563306904,
+    "wof:lastmodified":1566673468,
     "wof:name":"Santa Rita",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

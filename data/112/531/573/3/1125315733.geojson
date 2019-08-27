@@ -9,12 +9,16 @@
     "geom:bbox":"-79.561786,9.633076,-79.561786,9.633076",
     "geom:latitude":9.633076,
     "geom:longitude":-79.561786,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"PA",
+    "lbl:bbox":"-79.661786,9.533076,-79.461786,9.733076",
     "lbl:latitude":9.633076,
     "lbl:longitude":-79.561786,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Isla Grande"
@@ -55,7 +59,7 @@
     "qs_pg:woe_adm0":23424924,
     "qs_pg:woe_id":26793344,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424924,
     "woe:name_adm0":"Panam\u00e1",
     "woe:name_adm1":"Col\u00f3n",
@@ -67,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793344,
-        "qs:id":903042,
         "qs_pg:id":903042
     },
     "wof:country":"PA",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125315733,
-    "wof:lastmodified":1564151374,
+    "wof:lastmodified":1566673471,
     "wof:name":"Isla Grande",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

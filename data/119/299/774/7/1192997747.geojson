@@ -23,8 +23,12 @@
     "gn:population":197,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.02312,8.86407,-79.98312,8.90407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Pita"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1192997747,
-    "wof:lastmodified":1537676523,
+    "wof:lastmodified":1566673302,
     "wof:name":"La Pita",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

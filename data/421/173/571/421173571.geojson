@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.298265,
     "lbl:longitude":-81.015438,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Veraguas",
     "meso:gadm_admin":"San Francisco",
     "meso:gadm_hasc2":"PA.VR.SF",
@@ -31,6 +33,7 @@
     "mps:longitude":-81.015438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Francisco"
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"434.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"San Francisco",
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":26793139,
         "hasc:id":"PA.VR.SF",
-        "qs:id":510441,
+        "qs_pg:id":510441,
         "wd:id":"Q2073037"
     },
     "wof:country":"PA",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421173571,
-    "wof:lastmodified":1561777244,
+    "wof:lastmodified":1566673441,
     "wof:name":"San Francisco",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

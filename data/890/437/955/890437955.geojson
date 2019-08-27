@@ -11,10 +11,14 @@
     "geom:longitude":-79.905,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":1274,
+    "gn:population":1274,
     "iso:country":"PA",
+    "lbl:bbox":"-79.925,9.01,-79.885,9.05",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cerro Cama"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":3712765,
         "gp:id":155391,
-        "qs:id":1046611,
+        "qs_pg:id":1046611,
         "wd:id":"Q5064869",
         "wk:page":"Cerro Cama"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890437955,
-    "wof:lastmodified":1563306900,
+    "wof:lastmodified":1566673467,
     "wof:name":"Cerro Cama",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

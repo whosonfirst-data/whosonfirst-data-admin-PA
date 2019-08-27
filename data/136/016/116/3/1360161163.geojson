@@ -23,8 +23,12 @@
     "gn:population":213,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.91606,8.78842,-79.87606,8.82842",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Vaca de Monte Abajo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360161163,
-    "wof:lastmodified":1537676332,
+    "wof:lastmodified":1566673394,
     "wof:name":"Vaca de Monte Abajo",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

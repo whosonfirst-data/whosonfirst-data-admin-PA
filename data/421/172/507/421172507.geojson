@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.632473,
     "lbl:longitude":-80.319897,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Los Santos",
     "meso:gadm_admin":"Las Tablas",
     "meso:gadm_hasc2":"PA.LS.LT",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.319897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Tablas"
@@ -91,9 +94,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"698.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Las Tablas",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":26793117,
         "hasc:id":"PA.LS.LT",
-        "qs:id":1313004,
+        "qs_pg:id":1313004,
         "wd:id":"Q2217049"
     },
     "wof:country":"PA",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421172507,
-    "wof:lastmodified":1561777245,
+    "wof:lastmodified":1566673444,
     "wof:name":"Las Tablas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

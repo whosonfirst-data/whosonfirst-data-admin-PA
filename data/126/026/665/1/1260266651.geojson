@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.17195,7.88395,-81.13195,7.92395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bejucal"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1260266651,
-    "wof:lastmodified":1564151111,
+    "wof:lastmodified":1566673325,
     "wof:name":"Bejucal",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.77,8.83,-79.73,8.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guabito"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1276309083,
-    "wof:lastmodified":1564150845,
+    "wof:lastmodified":1566673212,
     "wof:name":"Guabito",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

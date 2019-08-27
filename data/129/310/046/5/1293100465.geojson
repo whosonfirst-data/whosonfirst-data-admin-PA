@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.58667,8.74667,-80.54667,8.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293100465,
-    "wof:lastmodified":1536846915,
+    "wof:lastmodified":1566673146,
     "wof:name":"Machoncito",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

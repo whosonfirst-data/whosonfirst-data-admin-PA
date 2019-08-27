@@ -23,8 +23,12 @@
     "gn:population":78,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.19562,8.94676,-80.15562,8.98676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "R\u00edo Indio"
     ],
@@ -32,7 +36,6 @@
         "R\u00edo Indio"
     ],
     "name:und_x_variant":[
-        "R\u00edo Indio",
         "La Boca de Uracillo",
         "Boca de Uracillo"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1292910889,
-    "wof:lastmodified":1564150657,
+    "wof:lastmodified":1566673127,
     "wof:name":"Boca de Uracillo",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

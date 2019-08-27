@@ -23,8 +23,12 @@
     "gn:population":217,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.85614,8.35076,-81.81614,8.39076",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Cianca"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209083505,
-    "wof:lastmodified":1537676465,
+    "wof:lastmodified":1566673235,
     "wof:name":"Cianca",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

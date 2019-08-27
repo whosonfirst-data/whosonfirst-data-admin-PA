@@ -10,8 +10,12 @@
     "geom:latitude":8.51667,
     "geom:longitude":-82.61667,
     "iso:country":"PA",
+    "lbl:bbox":"-82.63667,8.49667,-82.59667,8.53667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Concepci\u00f3n"
@@ -22,7 +26,7 @@
     "name:spa_x_preferred":[
         "La Concepci\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concepci\u00f3n"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3707899,
         "gp:id":157404,
-        "qs:id":898813,
+        "qs_pg:id":898813,
         "wd:id":"Q5962971"
     },
     "wof:country":"PA",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421174777,
-    "wof:lastmodified":1561777243,
+    "wof:lastmodified":1566673436,
     "wof:name":"La Concepci\u00f3n",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

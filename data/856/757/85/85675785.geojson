@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.636422,
     "lbl:longitude":-80.355402,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Los Santos",
     "mps:latitude":7.600448,
     "mps:longitude":-80.391613,
@@ -153,7 +154,7 @@
         "Los Santos"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe\u0bb8\u0bcd  \u0b9a\u0ba8\u0bcd\u0ba4\u0bcb\u0bb7\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb2\u0bbe\u0bb8\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bcb\u0bb7\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c38\u0c4d \u0c38\u0c3e\u0c02\u0c1f\u0c4b\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -170,7 +171,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u0421\u0430\u043d\u0442\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Los Santos"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"3,805",
     "statoids:area_mi":"1,469",
     "statoids:as_of_date":"2010-05-16",
@@ -281,7 +282,7 @@
         "gp:id":2346557,
         "hasc:id":"PA.LS",
         "iso:id":"PA-7",
-        "qs:id":894956,
+        "qs_pg:id":894956,
         "unlc:id":"PA-7",
         "wd:id":"Q911278",
         "wk:page":"Los Santos Province"
@@ -302,11 +303,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565732212,
+    "wof:lastmodified":1566673078,
     "wof:name":"Los Santos",
     "wof:parent_id":85632179,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":89592,
     "wof:population_rank":8,

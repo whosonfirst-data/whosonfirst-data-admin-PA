@@ -9,16 +9,19 @@
     "geom:bbox":"-79.51667,9.0,-79.51667,9.0",
     "geom:latitude":9.0,
     "geom:longitude":-79.51667,
-    "gn:gn_country":"PA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PA",
+    "gn:fcode":"PPLX",
     "gn:latitude":9.0,
     "gn:longitude":-79.51667,
+    "gn:population":0,
     "iso:country":"PA",
+    "lbl:bbox":"-79.52167,8.995,-79.51167,9.005",
     "lbl:latitude":9.0,
     "lbl:longitude":-79.51667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Tom\u00e1s Carrasquilla"
@@ -51,10 +54,6 @@
     "name:tur_x_preferred":[
         "Tom\u00e1s Carrasquilla"
     ],
-    "name:unk_x_variant":[
-        "Carrasquilla",
-        "La Carrasquilla"
-    ],
     "qs_pg:aaroncc":"PA",
     "qs_pg:gn_country":"PA",
     "qs_pg:gn_fcode":"PPLX",
@@ -76,7 +75,7 @@
     "qs_pg:woe_adm0":23424924,
     "qs_pg:woe_id":157349,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424924,
     "woe:name_adm0":"Panam\u00e1",
     "woe:name_adm1":"Panam\u00e1",
@@ -91,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3708002,
         "gp:id":157349,
-        "qs:id":1165202,
         "qs_pg:id":1165202,
         "wd:id":"Q3071317"
     },
@@ -109,7 +107,7 @@
         }
     ],
     "wof:id":1126064315,
-    "wof:lastmodified":1563306914,
+    "wof:lastmodified":1566673472,
     "wof:name":"La Carrasquilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

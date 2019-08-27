@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.81327,8.29751,-81.77327,8.33751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Diuma"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360272553,
-    "wof:lastmodified":1564151240,
+    "wof:lastmodified":1566673391,
     "wof:name":"Diuma",
     "wof:parent_id":1108693245,
     "wof:placetype":"locality",

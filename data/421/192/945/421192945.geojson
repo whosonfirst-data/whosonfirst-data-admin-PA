@@ -10,8 +10,12 @@
     "geom:latitude":8.630751,
     "geom:longitude":-80.120716,
     "iso:country":"PA",
+    "lbl:bbox":"-80.220716,8.530751,-80.020716,8.730751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "Pajonal"
@@ -53,7 +57,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793273,
-        "qs:id":1184591,
         "qs_pg:id":1184591
     },
     "wof:country":"PA",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421192945,
-    "wof:lastmodified":1564151315,
+    "wof:lastmodified":1566673428,
     "wof:name":"Pajonal",
     "wof:parent_id":1108693185,
     "wof:placetype":"localadmin",

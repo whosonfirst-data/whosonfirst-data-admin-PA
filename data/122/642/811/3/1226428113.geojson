@@ -23,8 +23,12 @@
     "gn:population":129,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.24805,9.26176,-79.20805,9.30176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Mamon\u00ed Arriba"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226428113,
-    "wof:lastmodified":1537676498,
+    "wof:lastmodified":1566673596,
     "wof:name":"Mamoni Arriba",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

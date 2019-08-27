@@ -23,8 +23,12 @@
     "gn:population":30,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.85795,7.84517,-80.81795,7.88517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344054721,
-    "wof:lastmodified":1536883293,
+    "wof:lastmodified":1566673058,
     "wof:name":"Los Canafistulos",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

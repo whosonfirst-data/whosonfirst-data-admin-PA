@@ -23,8 +23,12 @@
     "gn:population":1,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.9064,7.35049,-80.8664,7.39049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243538459,
-    "wof:lastmodified":1536672904,
+    "wof:lastmodified":1566673478,
     "wof:name":"El Pavo Abajo",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.13667,9.28,-82.09667,9.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jim Creek"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209110197,
-    "wof:lastmodified":1564150983,
+    "wof:lastmodified":1566673268,
     "wof:name":"Jim Creek",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

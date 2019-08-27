@@ -10,8 +10,12 @@
     "geom:latitude":8.78333,
     "geom:longitude":-82.83333,
     "iso:country":"PA",
+    "lbl:bbox":"-82.85333,8.76333,-82.81333,8.80333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Monte Lirio"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3704138,
         "gp:id":159158,
-        "qs:id":287155,
+        "qs_pg:id":287155,
         "wd:id":"Q6904812",
         "wk:page":"Monte Lirio"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421197999,
-    "wof:lastmodified":1563306836,
+    "wof:lastmodified":1566673450,
     "wof:name":"Monte Lirio",
     "wof:parent_id":1108693261,
     "wof:placetype":"locality",

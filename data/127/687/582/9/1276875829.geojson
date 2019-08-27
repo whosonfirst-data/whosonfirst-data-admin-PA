@@ -23,8 +23,12 @@
     "gn:population":666,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.79423,8.48488,-82.75423,8.52488",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Roble"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276875829,
-    "wof:lastmodified":1564150769,
+    "wof:lastmodified":1566673179,
     "wof:name":"El Roble",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

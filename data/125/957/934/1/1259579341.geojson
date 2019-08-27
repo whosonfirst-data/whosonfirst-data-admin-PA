@@ -23,8 +23,12 @@
     "gn:population":59,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.29348,8.09598,-81.25348,8.13598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Paraguay"
     ],
@@ -673,7 +677,7 @@
         }
     ],
     "wof:id":1259579341,
-    "wof:lastmodified":1564151584,
+    "wof:lastmodified":1566673565,
     "wof:name":"Paraguay",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

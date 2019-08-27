@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.65333,8.74667,-82.61333,8.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Los Naranjos"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Bajo Frio",
-        "Los Naranjos N\u00famero Uno",
-        "Los Naranjos"
+        "Los Naranjos N\u00famero Uno"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1344165703,
-    "wof:lastmodified":1564150514,
+    "wof:lastmodified":1566673057,
     "wof:name":"Los Naranjos",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

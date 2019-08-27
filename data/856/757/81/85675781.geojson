@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.863467,
     "lbl:longitude":-80.748099,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Herrera",
     "mps:latitude":7.88534,
     "mps:longitude":-80.723749,
@@ -153,7 +154,7 @@
         "Herrera"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc6\u0bb1\u0bc0\u0bb0\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb9\u0bc6\u0bb1\u0bc0\u0bb0\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c46\u0c30\u0c4d\u0c30\u0c46\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -170,7 +171,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0440\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Herrera"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"2,341",
     "statoids:area_mi":"904",
     "statoids:as_of_date":"2010-05-16",
@@ -281,7 +282,7 @@
         "gp:id":2346556,
         "hasc:id":"PA.HE",
         "iso:id":"PA-6",
-        "qs:id":894955,
+        "qs_pg:id":894955,
         "unlc:id":"PA-6",
         "wd:id":"Q842886",
         "wk:page":"Herrera Province"
@@ -302,11 +303,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565732212,
+    "wof:lastmodified":1566673078,
     "wof:name":"Herrera",
     "wof:parent_id":85632179,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":109955,
     "wof:population_rank":9,

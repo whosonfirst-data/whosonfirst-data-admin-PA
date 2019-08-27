@@ -23,8 +23,12 @@
     "gn:population":42,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.35385,7.52656,-80.31385,7.56656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Loma"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1344078341,
-    "wof:lastmodified":1564150449,
+    "wof:lastmodified":1566673026,
     "wof:name":"La Loma",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

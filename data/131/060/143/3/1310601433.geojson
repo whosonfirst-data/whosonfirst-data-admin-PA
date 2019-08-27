@@ -24,8 +24,12 @@
     "gn:population":14,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.01174,9.09843,-79.97174,9.13843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Los Negros"
     ],
@@ -39,8 +43,7 @@
         "Los Negros"
     ],
     "name:und_x_variant":[
-        "Los Negros de Escobal",
-        "Los Negros"
+        "Los Negros de Escobal"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310601433,
-    "wof:lastmodified":1564151220,
+    "wof:lastmodified":1566673382,
     "wof:name":"Los Negros",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

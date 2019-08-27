@@ -23,8 +23,12 @@
     "gn:population":222,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.48982,9.0851,-80.44982,9.1251",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Platanal"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293807755,
-    "wof:lastmodified":1537676358,
+    "wof:lastmodified":1566673143,
     "wof:name":"Platanal",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

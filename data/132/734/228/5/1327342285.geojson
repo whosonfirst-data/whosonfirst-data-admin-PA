@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.80482,8.55265,-82.76482,8.59265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Alto de Chiriqu\u00ed Viejo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327342285,
-    "wof:lastmodified":1537676507,
+    "wof:lastmodified":1566672968,
     "wof:name":"Alto de Chiriqui Viejo",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

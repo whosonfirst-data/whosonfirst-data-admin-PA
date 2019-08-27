@@ -23,8 +23,12 @@
     "gn:population":391,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.95603,8.34255,-82.91603,8.38255",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Blanco Arriba"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242586453,
-    "wof:lastmodified":1537676509,
+    "wof:lastmodified":1566673498,
     "wof:name":"Blanco Arriba",
     "wof:parent_id":1108693189,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.64339,8.42893,-80.60339,8.46893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Guiri"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276982283,
-    "wof:lastmodified":1564150856,
+    "wof:lastmodified":1566673217,
     "wof:name":"Guiri",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

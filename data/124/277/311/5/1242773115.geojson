@@ -23,8 +23,12 @@
     "gn:population":94,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.96615,8.50491,-80.92615,8.54491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Honduras"
     ],
@@ -628,7 +632,7 @@
         }
     ],
     "wof:id":1242773115,
-    "wof:lastmodified":1564151478,
+    "wof:lastmodified":1566673516,
     "wof:name":"Honduras",
     "wof:parent_id":1108693199,
     "wof:placetype":"locality",

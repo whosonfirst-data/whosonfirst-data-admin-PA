@@ -23,8 +23,12 @@
     "gn:population":77,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.92917,8.91647,-78.88917,8.95647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "P\u00e1siga"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344052693,
-    "wof:lastmodified":1537676493,
+    "wof:lastmodified":1566673058,
     "wof:name":"Pasiga",
     "wof:parent_id":1108693207,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":110,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.24075,8.01227,-81.20075,8.05227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Piedras Negras"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1277060071,
-    "wof:lastmodified":1564150714,
+    "wof:lastmodified":1566673153,
     "wof:name":"Piedras Negras",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

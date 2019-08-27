@@ -23,8 +23,12 @@
     "gn:population":428,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.16723,8.66998,-80.12723,8.70998",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "San Miguel Arriba"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343869791,
-    "wof:lastmodified":1537676341,
+    "wof:lastmodified":1566673070,
     "wof:name":"San Miguel Arriba",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

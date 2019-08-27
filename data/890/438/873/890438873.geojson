@@ -11,10 +11,14 @@
     "geom:longitude":-80.38333,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":1283,
+    "gn:population":1283,
     "iso:country":"PA",
+    "lbl:bbox":"-80.40333,7.69667,-80.36333,7.73667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "La Palma"
     ],
@@ -46,10 +50,12 @@
     "wof:concordances":{
         "gn:id":3707058,
         "gp:id":157503,
-        "qs:id":1046605,
         "qs_pg:id":1046594,
         "wd:id":"Q6460509",
         "wk:page":"La Palma"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1046605
     },
     "wof:country":"PA",
     "wof:created":1469052212,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890438873,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1566673468,
     "wof:name":"La Palma",
     "wof:parent_id":1108693219,
     "wof:placetype":"locality",

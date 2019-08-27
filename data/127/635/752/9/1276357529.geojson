@@ -23,8 +23,12 @@
     "gn:population":60,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.38667,7.84667,-80.34667,7.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:pol_x_preferred":[
         "Las Lomitas"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276357529,
-    "wof:lastmodified":1564150781,
+    "wof:lastmodified":1566673185,
     "wof:name":"Las Lomitas",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

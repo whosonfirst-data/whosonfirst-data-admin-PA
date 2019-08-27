@@ -23,8 +23,12 @@
     "gn:population":15,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.37667,7.97139,-81.33667,8.01139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293578435,
-    "wof:lastmodified":1536656068,
+    "wof:lastmodified":1566673117,
     "wof:name":"Paso de Diego",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

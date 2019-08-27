@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.05333,8.94667,-79.01333,8.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Charco"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1293086525,
-    "wof:lastmodified":1564150577,
+    "wof:lastmodified":1566673091,
     "wof:name":"El Charco",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

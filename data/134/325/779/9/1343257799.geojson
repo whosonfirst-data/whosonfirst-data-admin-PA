@@ -23,8 +23,12 @@
     "gn:population":110,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.51823,8.31921,-81.47823,8.35921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Vigu\u00ed"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343257799,
-    "wof:lastmodified":1564150480,
+    "wof:lastmodified":1566673040,
     "wof:name":"Vigui",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

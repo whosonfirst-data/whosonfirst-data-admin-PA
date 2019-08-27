@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.16176,
     "lbl:longitude":-78.03269,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kuna Yala",
     "meso:gadm_admin":"Kuna Yala",
     "meso:gadm_hasc2":"PA.SB.KY",
@@ -31,6 +33,7 @@
     "mps:longitude":-78.03269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kuna Yala"
     ],
@@ -38,9 +41,9 @@
         "Kuna Yala"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"2,393.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Nargan\u00e1",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108693213,
-    "wof:lastmodified":1553718241,
+    "wof:lastmodified":1566673334,
     "wof:name":"Comarca Kuna Yala",
     "wof:parent_id":85675801,
     "wof:placetype":"county",

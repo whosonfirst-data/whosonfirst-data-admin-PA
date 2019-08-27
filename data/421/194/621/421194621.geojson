@@ -10,8 +10,12 @@
     "geom:latitude":9.35,
     "geom:longitude":-79.88333,
     "iso:country":"PA",
+    "lbl:bbox":"-79.90333,9.33,-79.86333,9.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:hbs_x_preferred":[
         "Rejnbou Siti"
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0439\u043d\u0431\u043e\u0443-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rambow City"
     ],
     "qs:gn_country":"PA",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3702057,
         "gp:id":159926,
-        "qs:id":887577
+        "qs_pg:id":887577
     },
     "wof:country":"PA",
     "wof:created":1459009814,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421194621,
-    "wof:lastmodified":1564151316,
+    "wof:lastmodified":1566673428,
     "wof:name":"Rainbow City",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

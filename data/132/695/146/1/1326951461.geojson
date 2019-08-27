@@ -23,8 +23,12 @@
     "gn:population":190,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.50745,7.80241,-80.46745,7.84241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Nancecillo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326951461,
-    "wof:lastmodified":1537676439,
+    "wof:lastmodified":1566672953,
     "wof:name":"El Nancecillo",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

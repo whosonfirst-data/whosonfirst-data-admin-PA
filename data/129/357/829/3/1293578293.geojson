@@ -23,8 +23,12 @@
     "gn:population":222,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.95352,8.00638,-80.91352,8.04638",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Ciruelito",
         "El Ciruelito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293578293,
-    "wof:lastmodified":1537676452,
+    "wof:lastmodified":1566673117,
     "wof:name":"El Ciruelito",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",

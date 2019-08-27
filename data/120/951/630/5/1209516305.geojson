@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.63139,9.36556,-79.59139,9.40556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Santo Domingo"
     ],
@@ -346,7 +350,7 @@
         }
     ],
     "wof:id":1209516305,
-    "wof:lastmodified":1564150974,
+    "wof:lastmodified":1566673265,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

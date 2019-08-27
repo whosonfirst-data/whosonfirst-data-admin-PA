@@ -23,8 +23,12 @@
     "gn:population":185,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.71152,7.84418,-80.67152,7.88418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Corralillos",
         "Los Corralillos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259505659,
-    "wof:lastmodified":1537676379,
+    "wof:lastmodified":1566673564,
     "wof:name":"Los Corralillos",
     "wof:parent_id":1108693253,
     "wof:placetype":"locality",

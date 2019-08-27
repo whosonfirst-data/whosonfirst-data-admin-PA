@@ -23,8 +23,12 @@
     "gn:population":267,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.59294,8.40973,-82.55294,8.44973",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Tejar"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343270893,
-    "wof:lastmodified":1564150523,
+    "wof:lastmodified":1566673061,
     "wof:name":"El Tejar",
     "wof:parent_id":421202705,
     "wof:placetype":"locality",

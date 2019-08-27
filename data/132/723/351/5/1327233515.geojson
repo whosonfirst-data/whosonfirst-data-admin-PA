@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.55333,8.68,-80.51333,8.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1327233515,
-    "wof:lastmodified":1564150328,
+    "wof:lastmodified":1566672963,
     "wof:name":"Las Lajas",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

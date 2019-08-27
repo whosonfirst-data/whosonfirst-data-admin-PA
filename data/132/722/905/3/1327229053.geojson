@@ -23,8 +23,12 @@
     "gn:population":138,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.63193,7.69711,-80.59193,7.73711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Canoa"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327229053,
-    "wof:lastmodified":1537676415,
+    "wof:lastmodified":1566672955,
     "wof:name":"La Canoa",
     "wof:parent_id":1108693231,
     "wof:placetype":"locality",

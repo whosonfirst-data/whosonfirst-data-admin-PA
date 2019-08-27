@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.809363,
     "lbl:longitude":-78.146816,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ember\u00e1",
     "meso:gadm_admin":"Samb\u00fa",
     "meso:gadm_hasc2":"PA.EM.SB",
@@ -31,6 +33,7 @@
     "mps:longitude":-78.146816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Samb\u00fa"
     ],
@@ -53,9 +56,9 @@
         "\u6851\u5e03\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"1,297.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"R\u00edo S\u00e1balo",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108693265,
-    "wof:lastmodified":1563306569,
+    "wof:lastmodified":1566673333,
     "wof:name":"Samb\u00fa",
     "wof:parent_id":85675811,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.86756,
     "lbl:longitude":-77.524622,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dari\u00e9n",
     "meso:gadm_admin":"Pinogana",
     "meso:gadm_hasc2":"PA.DR.PG",
@@ -31,6 +33,7 @@
     "mps:longitude":-77.524622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pinogana"
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"4,557.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"El Real de Santa Mar\u00eda",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":26793130,
         "hasc:id":"PA.DR.PG",
-        "qs:id":1263652,
+        "qs_pg:id":1263652,
         "wd:id":"Q2216562"
     },
     "wof:country":"PA",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421196973,
-    "wof:lastmodified":1561777246,
+    "wof:lastmodified":1566673449,
     "wof:name":"Pinogana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":255,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.14856,8.93396,-79.10856,8.97396",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Chepillo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209412293,
-    "wof:lastmodified":1564150919,
+    "wof:lastmodified":1566673244,
     "wof:name":"Chepillo",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

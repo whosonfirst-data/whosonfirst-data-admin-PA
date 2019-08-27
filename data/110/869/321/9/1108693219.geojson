@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.759938,
     "lbl:longitude":-80.392961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Los Santos",
     "meso:gadm_admin":"Guarar\u00e9",
     "meso:gadm_hasc2":"PA.LS.GR",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.392961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Guarar\u00e9"
     ],
@@ -65,9 +68,9 @@
         "\u74dc\u62c9\u96f7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"216.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Guarar\u00e9",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108693219,
-    "wof:lastmodified":1564151117,
+    "wof:lastmodified":1566673333,
     "wof:name":"Guarar\u00e9",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

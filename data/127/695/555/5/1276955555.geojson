@@ -23,8 +23,12 @@
     "gn:population":162,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.56585,8.45733,-81.52585,8.49733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Cerro Plata"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276955555,
-    "wof:lastmodified":1537676468,
+    "wof:lastmodified":1566673189,
     "wof:name":"Cerro Plata",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.33667,7.66333,-80.29667,7.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Agua Buena"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1360006959,
-    "wof:lastmodified":1564151227,
+    "wof:lastmodified":1566673385,
     "wof:name":"Agua Buena",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

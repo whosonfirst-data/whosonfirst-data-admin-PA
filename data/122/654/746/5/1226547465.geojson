@@ -23,8 +23,12 @@
     "gn:population":245,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.55721,8.55679,-80.51721,8.59679",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Piedrasblancas"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226547465,
-    "wof:lastmodified":1564151744,
+    "wof:lastmodified":1566673655,
     "wof:name":"Piedras Blancas",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":425,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.95169,8.03347,-80.91169,8.07347",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Las Margaritas"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226634963,
-    "wof:lastmodified":1564151728,
+    "wof:lastmodified":1566673644,
     "wof:name":"Las Margaritas",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",

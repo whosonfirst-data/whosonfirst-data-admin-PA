@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.20333,8.41333,-82.16333,8.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Corrales"
     ],
@@ -63,8 +67,7 @@
         "Corrales"
     ],
     "name:und_x_variant":[
-        "Corrales de Barro Blanco",
-        "Corrales"
+        "Corrales de Barro Blanco"
     ],
     "name:vie_x_preferred":[
         "Corrales"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1242580917,
-    "wof:lastmodified":1564151436,
+    "wof:lastmodified":1566673498,
     "wof:name":"Corrales",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

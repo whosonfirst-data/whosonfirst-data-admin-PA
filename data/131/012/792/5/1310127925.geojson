@@ -23,8 +23,12 @@
     "gn:population":83,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.82011,7.81951,-80.78011,7.85951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Bejucal",
         "El Bejucal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310127925,
-    "wof:lastmodified":1537676456,
+    "wof:lastmodified":1566673335,
     "wof:name":"El Bejucal",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

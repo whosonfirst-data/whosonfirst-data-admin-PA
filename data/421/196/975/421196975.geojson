@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.2325,
     "lbl:longitude":-79.419035,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Panama",
     "meso:gadm_admin":"Panam\u00e1",
     "meso:gadm_hasc2":"PA.PN.PA",
@@ -31,6 +33,7 @@
     "mps:longitude":-79.419035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"2,561.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Ciudad de Panam\u00e1",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":26793125,
         "hasc:id":"PA.PN.PA",
-        "qs:id":1263654,
+        "qs_pg:id":1263654,
         "wd:id":"Q2216411"
     },
     "wof:country":"PA",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421196975,
-    "wof:lastmodified":1561777246,
+    "wof:lastmodified":1566673449,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

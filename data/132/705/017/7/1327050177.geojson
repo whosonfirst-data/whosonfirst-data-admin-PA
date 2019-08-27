@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.60748,8.93388,-79.56748,8.97388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lacona"
     ],
@@ -51,8 +55,7 @@
         "\u041b\u0430\u043a\u043e\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Locona",
-        "Lacona"
+        "Locona"
     ],
     "name:vol_x_preferred":[
         "Lacona"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1327050177,
-    "wof:lastmodified":1564150333,
+    "wof:lastmodified":1566672966,
     "wof:name":"Lacona",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

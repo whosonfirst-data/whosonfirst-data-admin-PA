@@ -23,8 +23,12 @@
     "gn:population":122,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.87752,8.4106,-80.83752,8.4506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "La Yeguada"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259963639,
-    "wof:lastmodified":1564151536,
+    "wof:lastmodified":1566673544,
     "wof:name":"La Yeguada",
     "wof:parent_id":1108693199,
     "wof:placetype":"locality",

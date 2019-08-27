@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.05333,9.04667,-80.01333,9.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Papas",
         "Las Papas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276228153,
-    "wof:lastmodified":1537676392,
+    "wof:lastmodified":1566673194,
     "wof:name":"Las Papas",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":151,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.56133,8.00768,-80.52133,8.04768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Los Corosos",
         "El Corozo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225866977,
-    "wof:lastmodified":1537676450,
+    "wof:lastmodified":1566673616,
     "wof:name":"El Corozo",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

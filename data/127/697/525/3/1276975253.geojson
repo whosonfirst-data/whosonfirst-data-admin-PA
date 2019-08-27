@@ -23,8 +23,12 @@
     "gn:population":91,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.14924,7.93062,-81.10924,7.97062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Maguencal",
         "Maquencal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276975253,
-    "wof:lastmodified":1537676370,
+    "wof:lastmodified":1566673210,
     "wof:name":"Maquencal",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

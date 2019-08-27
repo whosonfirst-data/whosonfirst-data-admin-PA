@@ -10,10 +10,14 @@
     "geom:latitude":8.949982,
     "geom:longitude":-79.566653,
     "iso:country":"PA",
+    "lbl:bbox":"-79.586652671,8.92998211561,-79.546652671,8.96998211561",
     "lbl:latitude":8.949982,
     "lbl:longitude":-79.566653,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Balboa"
     ],
@@ -187,7 +191,7 @@
     "wof:concordances":{
         "gn:id":3714426,
         "gp:id":154826,
-        "qs:id":898771,
+        "qs_pg:id":898771,
         "wd:id":"Q2078026",
         "wk:page":"Balboa, Panama"
     },
@@ -204,7 +208,7 @@
         }
     ],
     "wof:id":1141908519,
-    "wof:lastmodified":1563307255,
+    "wof:lastmodified":1566673664,
     "wof:name":"Balboa",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

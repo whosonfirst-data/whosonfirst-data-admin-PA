@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.97917,8.35667,-78.93917,8.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mart\u00edn P\u00e9rez",
         "Mart\u00edn P\u00e9rez Adentro"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309896503,
-    "wof:lastmodified":1537676369,
+    "wof:lastmodified":1566673423,
     "wof:name":"Martin Perez Adentro",
     "wof:parent_id":421175369,
     "wof:placetype":"locality",

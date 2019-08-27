@@ -10,8 +10,12 @@
     "geom:latitude":7.95,
     "geom:longitude":-80.78333,
     "iso:country":"PA",
+    "lbl:bbox":"-80.80333,7.93,-80.76333,7.97",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Oc\u00fa"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3703786,
         "gp:id":159259,
-        "qs:id":1046592,
+        "qs_pg:id":1046592,
         "wd:id":"Q1954918",
         "wk:page":"Oc\u00fa"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421185823,
-    "wof:lastmodified":1563306894,
+    "wof:lastmodified":1566673466,
     "wof:name":"Oc\u00fa",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

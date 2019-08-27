@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.29345,9.07881,-82.25345,9.11881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276446435,
-    "wof:lastmodified":1536625064,
+    "wof:lastmodified":1566673168,
     "wof:name":"El Tapao",
     "wof:parent_id":1108693209,
     "wof:placetype":"locality",

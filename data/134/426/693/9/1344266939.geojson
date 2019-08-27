@@ -23,8 +23,12 @@
     "gn:population":231,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.18445,8.51896,-82.14445,8.55896",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Cabecera de Chorchita"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344266939,
-    "wof:lastmodified":1537676511,
+    "wof:lastmodified":1566673055,
     "wof:name":"Cabecera de Chorchita",
     "wof:parent_id":421169889,
     "wof:placetype":"locality",

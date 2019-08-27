@@ -23,8 +23,12 @@
     "gn:population":95,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.99911,7.88138,-80.95911,7.92138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259466817,
-    "wof:lastmodified":1536882066,
+    "wof:lastmodified":1566673554,
     "wof:name":"Los Sitios",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

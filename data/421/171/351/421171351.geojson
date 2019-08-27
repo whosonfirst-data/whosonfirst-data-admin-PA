@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.511596,
     "lbl:longitude":-80.026428,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Panama",
     "meso:gadm_admin":"San Carlos",
     "meso:gadm_hasc2":"PA.PN.SC",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.026428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Carlos"
@@ -85,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"337.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"San Carlos",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":26793137,
         "hasc:id":"PA.PN.SC",
-        "qs:id":1242681,
+        "qs_pg:id":1242681,
         "wd:id":"Q2072542"
     },
     "wof:country":"PA",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421171351,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1566673465,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"county",

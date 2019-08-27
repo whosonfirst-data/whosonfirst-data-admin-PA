@@ -10,6 +10,9 @@
     "geom:latitude":9.35917,
     "geom:longitude":-79.90139,
     "iso:country":"PA",
+    "lbl:bbox":"-79.92139,9.33917,-79.88139,9.37917",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aspinwall"
     ],
     "name:urd_x_preferred":[
@@ -310,7 +313,7 @@
     "wof:concordances":{
         "gn:id":3712076,
         "gp:id":155677,
-        "qs:id":489319,
+        "qs_pg:id":489319,
         "wd:id":"Q627852",
         "wk:page":"Col\u00f3n, Panama"
     },
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":421169153,
-    "wof:lastmodified":1563306759,
+    "wof:lastmodified":1566673431,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

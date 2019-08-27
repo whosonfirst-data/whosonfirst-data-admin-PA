@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.74741,8.35302,-81.70741,8.39302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Maracas"
     ],
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1226729917,
-    "wof:lastmodified":1564151630,
+    "wof:lastmodified":1566673587,
     "wof:name":"Maraca",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.119833,
     "lbl:longitude":-81.00913,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Veraguas",
     "meso:gadm_admin":"Santiago",
     "meso:gadm_hasc2":"PA.VR.SG",
@@ -31,6 +33,7 @@
     "mps:longitude":-81.00913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Santiago"
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"971.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Santiago de Veraguas",
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gp:id":26793145,
         "hasc:id":"PA.VR.SG",
-        "qs:id":510446,
+        "qs_pg:id":510446,
         "wd:id":"Q3711454"
     },
     "wof:country":"PA",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421199909,
-    "wof:lastmodified":1561777247,
+    "wof:lastmodified":1566673452,
     "wof:name":"Santiago",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

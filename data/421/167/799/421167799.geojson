@@ -10,8 +10,12 @@
     "geom:latitude":8.35,
     "geom:longitude":-82.53333,
     "iso:country":"PA",
+    "lbl:bbox":"-82.55333,8.33,-82.51333,8.37",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u0440\u0443\u043c\u0430\u043b"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3708892,
         "gp:id":157072,
-        "qs:id":150242,
+        "qs_pg:id":150242,
         "wd:id":"Q5614181",
         "wk:page":"Guarumal, Chiriqu\u00ed"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421167799,
-    "wof:lastmodified":1563306756,
+    "wof:lastmodified":1566673431,
     "wof:name":"Guarumal",
     "wof:parent_id":421202705,
     "wof:placetype":"locality",

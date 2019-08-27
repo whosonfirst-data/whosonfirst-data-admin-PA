@@ -25,8 +25,12 @@
     "gn:population":216,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.53704,7.73244,-81.49704,7.77244",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Bah\u00eda Honda"
     ],
@@ -34,8 +38,7 @@
         "Bah\u00eda Honda"
     ],
     "name:und_x_variant":[
-        "La Punta",
-        "Bah\u00eda Honda"
+        "La Punta"
     ],
     "name:zho_x_preferred":[
         "\u7fc1\u9054\u7063"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310188805,
-    "wof:lastmodified":1564151173,
+    "wof:lastmodified":1566673359,
     "wof:name":"Bahia Honda",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

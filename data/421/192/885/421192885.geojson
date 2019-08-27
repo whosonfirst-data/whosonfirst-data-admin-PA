@@ -10,8 +10,12 @@
     "geom:latitude":8.737483,
     "geom:longitude":-82.282651,
     "iso:country":"PA",
+    "lbl:bbox":"-82.302651,8.717483,-82.262651,8.757483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Soledad"
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793952,
-        "qs:id":1182456
+        "qs_pg:id":1182456
     },
     "wof:country":"PA",
     "wof:created":1459009752,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421192885,
-    "wof:lastmodified":1564151315,
+    "wof:lastmodified":1566673428,
     "wof:name":"Soledad",
     "wof:parent_id":421169889,
     "wof:placetype":"locality",

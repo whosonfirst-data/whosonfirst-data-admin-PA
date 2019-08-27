@@ -23,8 +23,12 @@
     "gn:population":25,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.16485,7.88443,-81.12485,7.92443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Palmar"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1293777833,
-    "wof:lastmodified":1564150601,
+    "wof:lastmodified":1566673101,
     "wof:name":"El Palmar",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

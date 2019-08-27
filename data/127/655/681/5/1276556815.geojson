@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.35333,8.43,-82.31333,8.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0440\u0430\u043d\u043e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276556815,
-    "wof:lastmodified":1564150830,
+    "wof:lastmodified":1566673205,
     "wof:name":"Zambrano",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

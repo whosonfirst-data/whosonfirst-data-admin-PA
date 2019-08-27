@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.43667,8.39667,-82.39667,8.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242886935,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1566673486,
     "wof:name":"Loma Colorada",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

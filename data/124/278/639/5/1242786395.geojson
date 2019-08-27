@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.40333,8.49667,-82.36333,8.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Florida"
     ],
@@ -54,8 +58,7 @@
         "La Florida"
     ],
     "name:und_x_variant":[
-        "Potrero Grande",
-        "La Florida"
+        "Potrero Grande"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1242786395,
-    "wof:lastmodified":1564151485,
+    "wof:lastmodified":1566673518,
     "wof:name":"La Florida",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":432,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.64271,8.24667,-80.60271,8.28667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Naranjal",
         "El Naranjal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260091803,
-    "wof:lastmodified":1537676439,
+    "wof:lastmodified":1566673310,
     "wof:name":"El Naranjal",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

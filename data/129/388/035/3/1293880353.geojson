@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.62,7.46333,-80.58,7.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guaniquita",
         "Guaniquito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293880353,
-    "wof:lastmodified":1537676423,
+    "wof:lastmodified":1566673152,
     "wof:name":"Guaniquito",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.36118,8.39516,-80.32118,8.43516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Agua Fria"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243075217,
-    "wof:lastmodified":1564151379,
+    "wof:lastmodified":1566673474,
     "wof:name":"Agua Fria",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

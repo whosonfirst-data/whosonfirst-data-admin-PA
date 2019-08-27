@@ -10,8 +10,12 @@
     "geom:latitude":7.81667,
     "geom:longitude":-80.28333,
     "iso:country":"PA",
+    "lbl:bbox":"-80.38333,7.71667,-80.18333,7.91667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Guarar\u00e9"
@@ -38,9 +42,6 @@
         "Guarar\u00e9"
     ],
     "name:spa_x_preferred":[
-        "Guarar\u00e9"
-    ],
-    "name:unk_x_variant":[
         "Guarar\u00e9"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3708911,
         "gp:id":26793425,
-        "qs:id":1168332,
+        "qs_pg:id":1168332,
         "wd:id":"Q14942933",
         "wk:page":"Guarar\u00e9"
     },
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":421192515,
-    "wof:lastmodified":1563306745,
+    "wof:lastmodified":1566673428,
     "wof:name":"Guarare",
     "wof:parent_id":1108693219,
     "wof:placetype":"localadmin",

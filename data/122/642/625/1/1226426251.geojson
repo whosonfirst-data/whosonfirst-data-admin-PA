@@ -23,8 +23,12 @@
     "gn:population":5,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.19722,7.74083,-81.15722,7.78083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226426251,
-    "wof:lastmodified":1536673555,
+    "wof:lastmodified":1566673597,
     "wof:name":"Las Moradas",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

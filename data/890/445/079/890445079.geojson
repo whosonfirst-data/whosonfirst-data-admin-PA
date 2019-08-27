@@ -11,10 +11,14 @@
     "geom:longitude":-82.86667,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":1360,
+    "gn:population":1360,
     "iso:country":"PA",
+    "lbl:bbox":"-82.88667,8.01333,-82.84667,8.05333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Burica"
     ],
@@ -22,9 +26,6 @@
         "\u10d1\u10e3\u10e0\u10d8\u10d9\u10d0"
     ],
     "name:nld_x_preferred":[
-        "Burica"
-    ],
-    "name:unk_x_variant":[
         "Burica"
     ],
     "name:zho_x_preferred":[
@@ -42,7 +43,7 @@
     "wof:concordances":{
         "gn:id":3702342,
         "gp:id":159805,
-        "qs:id":1046579,
+        "qs_pg:id":1046579,
         "wd:id":"Q1821447"
     },
     "wof:country":"PA",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":890445079,
-    "wof:lastmodified":1561777251,
+    "wof:lastmodified":1566673469,
     "wof:name":"Punta de Burica",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

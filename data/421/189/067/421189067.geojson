@@ -10,8 +10,12 @@
     "geom:latitude":8.58333,
     "geom:longitude":-79.88333,
     "iso:country":"PA",
+    "lbl:bbox":"-79.98333,8.48333,-79.78333,8.68333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chame"
@@ -57,7 +61,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793564,
-        "qs:id":1110029,
         "qs_pg:id":1110029
     },
     "wof:country":"PA",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421189067,
-    "wof:lastmodified":1564151340,
+    "wof:lastmodified":1566673443,
     "wof:name":"Chame",
     "wof:parent_id":421189053,
     "wof:placetype":"localadmin",

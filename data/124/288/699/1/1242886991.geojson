@@ -23,8 +23,12 @@
     "gn:population":154,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.72,8.78,-82.68,8.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242886991,
-    "wof:lastmodified":1537570215,
+    "wof:lastmodified":1566673487,
     "wof:name":"Barriles",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

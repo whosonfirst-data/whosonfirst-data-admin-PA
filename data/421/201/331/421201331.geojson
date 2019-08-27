@@ -10,8 +10,12 @@
     "geom:latitude":9.3,
     "geom:longitude":-78.23333,
     "iso:country":"PA",
+    "lbl:bbox":"-78.25333,9.28,-78.21333,9.32",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Play\u00f3n Chico"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3702647,
         "gp:id":159595,
-        "qs:id":211119
+        "qs_pg:id":211119
     },
     "wof:country":"PA",
     "wof:created":1459010069,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":421201331,
-    "wof:lastmodified":1505340772,
+    "wof:lastmodified":1566673453,
     "wof:name":"Play\u00f3n Chico",
     "wof:parent_id":85675801,
     "wof:placetype":"locality",

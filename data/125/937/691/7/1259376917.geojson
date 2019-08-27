@@ -23,8 +23,12 @@
     "gn:population":90,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.97361,7.97344,-80.93361,8.01344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u0430"
     ],
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1259376917,
-    "wof:lastmodified":1564151541,
+    "wof:lastmodified":1566673547,
     "wof:name":"Tara",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":35,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.56828,8.49447,-80.52828,8.53447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "El Valle"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1209326125,
-    "wof:lastmodified":1564150957,
+    "wof:lastmodified":1566673259,
     "wof:name":"El Valle",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

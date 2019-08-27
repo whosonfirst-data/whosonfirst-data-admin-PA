@@ -23,8 +23,12 @@
     "gn:population":181,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.8955,7.363,-80.8555,7.403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "El Cascajilloso"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360074217,
-    "wof:lastmodified":1537676454,
+    "wof:lastmodified":1566673384,
     "wof:name":"Cascajilloso",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

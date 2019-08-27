@@ -23,8 +23,12 @@
     "gn:population":187,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.60759,8.61786,-80.56759,8.65786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u0627 \u0641\u064a\u0633\u062a\u0627"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1209011819,
-    "wof:lastmodified":1564150891,
+    "wof:lastmodified":1566673231,
     "wof:name":"Buena Vista",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.14883,7.95554,-81.10883,7.99554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Leones"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343757855,
-    "wof:lastmodified":1537676376,
+    "wof:lastmodified":1566673069,
     "wof:name":"Los Leones",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

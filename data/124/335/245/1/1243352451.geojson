@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.25333,8.04667,-81.21333,8.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gavilan del Panamaito",
         "El Gavil\u00e1n del Panama\u00edto"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243352451,
-    "wof:lastmodified":1537676447,
+    "wof:lastmodified":1566673509,
     "wof:name":"El Gavilan del Panamaito",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

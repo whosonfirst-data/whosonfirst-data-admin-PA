@@ -10,10 +10,14 @@
     "geom:latitude":8.71667,
     "geom:longitude":-80.25,
     "iso:country":"PA",
+    "lbl:bbox":"-80.27,8.69667,-80.23,8.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chigur\u00ed Abajo"
     ],
     "qs:gn_country":"PA",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3712460,
         "gp:id":155563,
-        "qs:id":494921
+        "qs_pg:id":494921
     },
     "wof:country":"PA",
     "wof:created":1459010001,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421199817,
-    "wof:lastmodified":1501268797,
+    "wof:lastmodified":1566673452,
     "wof:name":"Chiguir\u00ed Abajo",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

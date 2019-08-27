@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.10609,8.19772,-78.06609,8.23772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kintin"
     ],
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1293806645,
-    "wof:lastmodified":1564150686,
+    "wof:lastmodified":1566673142,
     "wof:name":"Quintin",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

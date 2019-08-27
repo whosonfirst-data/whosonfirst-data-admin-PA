@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.745711,
     "lbl:longitude":-82.399799,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiriqu\u00ed",
     "meso:gadm_admin":"Boquete",
     "meso:gadm_hasc2":"PA.CH.BQ",
@@ -31,6 +33,7 @@
     "mps:longitude":-82.399799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Bajo Boquete"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"489.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Bajo Boquete",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":26793091,
         "hasc:id":"PA.CH.BQ",
-        "qs:id":368807,
+        "qs_pg:id":368807,
         "wd:id":"Q893253"
     },
     "wof:country":"PA",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421175373,
-    "wof:lastmodified":1561777246,
+    "wof:lastmodified":1566673447,
     "wof:name":"Boquete",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

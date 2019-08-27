@@ -24,8 +24,12 @@
     "gn:population":56,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.59073,7.48787,-80.55073,7.52787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Abajo Bonito",
         "Bajo Bonito"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209609471,
-    "wof:lastmodified":1537676487,
+    "wof:lastmodified":1566673262,
     "wof:name":"Bajo Bonito",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

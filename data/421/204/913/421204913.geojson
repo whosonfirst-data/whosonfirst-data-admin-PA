@@ -10,8 +10,12 @@
     "geom:latitude":9.24472,
     "geom:longitude":-79.60861,
     "iso:country":"PA",
+    "lbl:bbox":"-79.62861,9.22472,-79.58861,9.26472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nuevo Vig\u00eda"
@@ -22,7 +26,7 @@
     "name:nld_x_preferred":[
         "Nuevo Vig\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vigia"
     ],
     "qs:gn_country":"PA",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3703818,
         "gp:id":159247,
-        "qs:id":251606,
+        "qs_pg:id":251606,
         "wd:id":"Q7068695",
         "wk:page":"Nuevo Vig\u00eda"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421204913,
-    "wof:lastmodified":1563306763,
+    "wof:lastmodified":1566673433,
     "wof:name":"Nuevo Vig\u00eda",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

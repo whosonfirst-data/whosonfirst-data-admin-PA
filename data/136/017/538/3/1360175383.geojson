@@ -23,8 +23,12 @@
     "gn:population":1004,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.19005,9.13256,-79.15005,9.17256",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Uni\u00f3n de Azuero"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360175383,
-    "wof:lastmodified":1537676498,
+    "wof:lastmodified":1566673397,
     "wof:name":"Union de Azuero",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

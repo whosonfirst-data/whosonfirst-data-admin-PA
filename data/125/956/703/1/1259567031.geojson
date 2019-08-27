@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.60391,7.99267,-81.56391,8.03267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259567031,
-    "wof:lastmodified":1536738507,
+    "wof:lastmodified":1566673573,
     "wof:name":"El Chiquero",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

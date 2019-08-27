@@ -10,8 +10,12 @@
     "geom:latitude":9.2,
     "geom:longitude":-77.98333,
     "iso:country":"PA",
+    "lbl:bbox":"-78.00333,9.18,-77.96333,9.22",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0410\u0447\u0443\u0442\u0443\u043f\u043e"
@@ -40,9 +44,6 @@
     "name:spa_x_variant":[
         "Achutupo N\u00famero Dos",
         "Achutupu"
-    ],
-    "name:unk_x_variant":[
-        "Achutupo"
     ],
     "name:zho_x_preferred":[
         "\u963f\u901f\u5716\u6ce2"
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3715156,
         "gp:id":154517,
-        "qs:id":1046632,
+        "qs_pg:id":1046632,
         "wd:id":"Q1956983",
         "wk:page":"Achutupo"
     },
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":421176523,
-    "wof:lastmodified":1563306884,
+    "wof:lastmodified":1566673463,
     "wof:name":"Achutupo N\u00famero Dos",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

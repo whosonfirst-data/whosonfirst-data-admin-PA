@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.48667,9.04667,-79.44667,9.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0430\u043c\u0456\u0440\u0430"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1209711075,
-    "wof:lastmodified":1564150931,
+    "wof:lastmodified":1566673249,
     "wof:name":"Altamira",
     "wof:parent_id":421175375,
     "wof:placetype":"locality",

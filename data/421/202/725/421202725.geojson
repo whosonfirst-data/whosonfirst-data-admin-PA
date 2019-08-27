@@ -10,8 +10,12 @@
     "geom:latitude":8.33333,
     "geom:longitude":-80.51667,
     "iso:country":"PA",
+    "lbl:bbox":"-80.53667,8.31333,-80.49667,8.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Nat\u00e1"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3703938,
         "gp:id":159212,
-        "qs:id":35257,
+        "qs_pg:id":35257,
         "wd:id":"Q3544851",
         "wk:page":"Nat\u00e1, Cocl\u00e9"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421202725,
-    "wof:lastmodified":1563306769,
+    "wof:lastmodified":1566673434,
     "wof:name":"Nat\u00e1",
     "wof:parent_id":421191757,
     "wof:placetype":"locality",

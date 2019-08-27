@@ -23,8 +23,12 @@
     "gn:population":118,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.29441,8.28398,-81.25441,8.32398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Los Gonz\u00e1lez"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293373635,
-    "wof:lastmodified":1537676522,
+    "wof:lastmodified":1566673088,
     "wof:name":"Los Gonzalez",
     "wof:parent_id":1108693201,
     "wof:placetype":"locality",

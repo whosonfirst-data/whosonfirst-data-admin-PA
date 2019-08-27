@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.28667,8.53,-80.24667,8.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -84,8 +88,7 @@
         "Santa Elena"
     ],
     "name:und_x_variant":[
-        "Las Cabuyas",
-        "Santa Elena"
+        "Las Cabuyas"
     ],
     "name:vie_x_preferred":[
         "Santa Elena"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1327145963,
-    "wof:lastmodified":1564150316,
+    "wof:lastmodified":1566672958,
     "wof:name":"Santa Elena",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

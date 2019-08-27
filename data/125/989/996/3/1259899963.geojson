@@ -23,8 +23,12 @@
     "gn:population":254,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.76106,8.83041,-78.72106,8.87041",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rio Hondo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259899963,
-    "wof:lastmodified":1564151608,
+    "wof:lastmodified":1566673577,
     "wof:name":"Rio Hondo",
     "wof:parent_id":1108693207,
     "wof:placetype":"locality",

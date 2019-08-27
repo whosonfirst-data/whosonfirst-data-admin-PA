@@ -10,8 +10,12 @@
     "geom:latitude":9.36056,
     "geom:longitude":-79.84361,
     "iso:country":"PA",
+    "lbl:bbox":"-79.94361,9.26056,-79.74361,9.46056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cativ\u00e1"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Cativ\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Catival"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,6 @@
     "wof:concordances":{
         "gn:id":3712884,
         "gp:id":26793320,
-        "qs:id":1046613,
         "qs_pg:id":1046613,
         "wd:id":"Q4977479",
         "wk:page":"Cativ\u00e1"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421185833,
-    "wof:lastmodified":1563306894,
+    "wof:lastmodified":1566673466,
     "wof:name":"Cativa",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

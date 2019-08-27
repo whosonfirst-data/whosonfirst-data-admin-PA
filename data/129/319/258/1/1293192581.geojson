@@ -23,8 +23,12 @@
     "gn:population":312,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.33578,7.39214,-80.29578,7.43214",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Isla La Ca\u00f1as",
         "Isla de Ca\u00f1as"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293192581,
-    "wof:lastmodified":1537676420,
+    "wof:lastmodified":1566673147,
     "wof:name":"Isla de Canas",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":8.398181,
     "geom:longitude":-78.140228,
     "iso:country":"PA",
+    "lbl:bbox":"-78.1602281105,8.3781811716,-78.1202281105,8.4181811716",
     "lbl:latitude":8.398181,
     "lbl:longitude":-78.140228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0628\u0627\u0644\u0645\u0627"
     ],
@@ -199,7 +203,7 @@
         }
     ],
     "wof:id":1141907187,
-    "wof:lastmodified":1563307257,
+    "wof:lastmodified":1566673664,
     "wof:name":"La Palma",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

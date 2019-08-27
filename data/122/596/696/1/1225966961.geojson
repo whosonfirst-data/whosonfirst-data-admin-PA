@@ -23,8 +23,12 @@
     "gn:population":108,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.39165,8.38113,-78.35165,8.42113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "R\u00edo Congo"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225966961,
-    "wof:lastmodified":1564151687,
+    "wof:lastmodified":1566673617,
     "wof:name":"Rio Congo",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

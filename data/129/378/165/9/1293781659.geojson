@@ -23,8 +23,12 @@
     "gn:population":136,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.71911,7.77048,-80.67911,7.81048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Cerro Gordo"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1293781659,
-    "wof:lastmodified":1564150622,
+    "wof:lastmodified":1566673110,
     "wof:name":"Cerro Gordo",
     "wof:parent_id":1108693227,
     "wof:placetype":"locality",

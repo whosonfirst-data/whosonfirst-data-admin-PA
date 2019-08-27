@@ -23,8 +23,12 @@
     "gn:population":175,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.30244,8.66229,-80.26244,8.70229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sabana Larga"
     ],
@@ -41,8 +45,7 @@
         "Sabana Larga"
     ],
     "name:und_x_variant":[
-        "Sabaneta",
-        "Sabana Larga"
+        "Sabaneta"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0628\u0627\u0646\u06c1 \u0644\u0627\u0631\u06af\u0627"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1243179579,
-    "wof:lastmodified":1564151517,
+    "wof:lastmodified":1566673534,
     "wof:name":"Sabana Larga",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

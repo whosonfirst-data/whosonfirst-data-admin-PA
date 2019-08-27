@@ -10,8 +10,12 @@
     "geom:latitude":8.65,
     "geom:longitude":-82.48333,
     "iso:country":"PA",
+    "lbl:bbox":"-82.50333,8.63,-82.46333,8.67",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Potrerillos Abajo"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Potrerillos Abajo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potrerillos"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3702550,
         "gp:id":159625,
-        "qs:id":214581,
+        "qs_pg:id":214581,
         "wd:id":"Q7235132",
         "wk:page":"Potrerillos Abajo"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421201785,
-    "wof:lastmodified":1563306852,
+    "wof:lastmodified":1566673454,
     "wof:name":"Potrerillos Abajo",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

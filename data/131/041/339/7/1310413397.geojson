@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.44412,8.73817,-80.40412,8.77817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Tulua"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310413397,
-    "wof:lastmodified":1537676389,
+    "wof:lastmodified":1566673335,
     "wof:name":"La Tulua",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

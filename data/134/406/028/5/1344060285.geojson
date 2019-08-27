@@ -23,8 +23,12 @@
     "gn:population":172,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.89623,8.06301,-82.85623,8.10301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Baco"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1344060285,
-    "wof:lastmodified":1564150447,
+    "wof:lastmodified":1566673025,
     "wof:name":"Baco",
     "wof:parent_id":1108693189,
     "wof:placetype":"locality",

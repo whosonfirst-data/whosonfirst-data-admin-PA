@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.49739,
     "lbl:longitude":-79.302871,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Col\u00f3n",
     "meso:gadm_admin":"Santa Isabel",
     "meso:gadm_hasc2":"PA.CL.SI",
@@ -31,6 +33,7 @@
     "mps:longitude":-79.302871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Santa Isabel"
     ],
@@ -66,9 +69,9 @@
         "\u8056\u4f0a\u85a9\u8c9d\u723e\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"729.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Santa Isabel",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108693271,
-    "wof:lastmodified":1561777232,
+    "wof:lastmodified":1566673332,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

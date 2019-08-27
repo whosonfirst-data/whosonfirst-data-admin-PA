@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.60333,8.18,-81.56333,8.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Bajo Hondo"
     ],
@@ -33,8 +37,7 @@
         "Bajo Hondo"
     ],
     "name:und_x_variant":[
-        "La Corocita",
-        "Bajo Hondo"
+        "La Corocita"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1292916515,
-    "wof:lastmodified":1564150656,
+    "wof:lastmodified":1566673127,
     "wof:name":"Bajo Hondo",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

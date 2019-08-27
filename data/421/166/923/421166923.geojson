@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.033701,
     "lbl:longitude":-80.568488,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Herrera",
     "meso:gadm_admin":"Parita",
     "meso:gadm_hasc2":"PA.HE.PR",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.568488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Parita"
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"364.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Parita",
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":26793126,
         "hasc:id":"PA.HE.PR",
-        "qs:id":114261,
+        "qs_pg:id":114261,
         "wd:id":"Q2216637"
     },
     "wof:country":"PA",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421166923,
-    "wof:lastmodified":1561777241,
+    "wof:lastmodified":1566673426,
     "wof:name":"Parita",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":8.712037,
     "geom:longitude":-82.207228,
     "iso:country":"PA",
+    "lbl:bbox":"-82.3072285,8.612037,-82.1072285,8.812037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:zho_x_preferred":[
         "\u5e15\u54c8\u5fb7\u677e\u5e03\u96f7\u7f85"
@@ -47,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793188,
-        "qs:id":114280,
         "qs_pg:id":114280
     },
     "wof:country":"PA",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421197261,
-    "wof:lastmodified":1564151348,
+    "wof:lastmodified":1566673450,
     "wof:name":"Paja de Sombrero",
     "wof:parent_id":421169889,
     "wof:placetype":"localadmin",

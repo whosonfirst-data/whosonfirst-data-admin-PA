@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.02444,9.21706,-78.98444,9.25706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Unicito"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327015353,
-    "wof:lastmodified":1537676333,
+    "wof:lastmodified":1566672937,
     "wof:name":"Unicito",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

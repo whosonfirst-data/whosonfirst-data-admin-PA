@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.31163,8.19671,-81.27163,8.23671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344145907,
-    "wof:lastmodified":1536752267,
+    "wof:lastmodified":1566673019,
     "wof:name":"Agua Viva",
     "wof:parent_id":1108693225,
     "wof:placetype":"locality",
