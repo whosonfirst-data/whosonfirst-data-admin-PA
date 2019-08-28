@@ -10,8 +10,12 @@
     "geom:latitude":8.692354,
     "geom:longitude":-80.24414,
     "iso:country":"PA",
+    "lbl:bbox":"-80.34414,8.592354,-80.14414,8.792354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793270,
-        "qs:id":961133,
         "qs_pg:id":961133
     },
     "wof:country":"PA",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421183077,
-    "wof:lastmodified":1497047096,
+    "wof:lastmodified":1566673458,
     "wof:name":"Chiguiri Arriba",
     "wof:parent_id":421202589,
     "wof:placetype":"localadmin",

@@ -10,8 +10,12 @@
     "geom:latitude":8.31667,
     "geom:longitude":-80.85,
     "iso:country":"PA",
+    "lbl:bbox":"-80.95,8.21667,-80.75,8.41667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Calobre"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "Calobre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colobre"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3713396,
         "gp:id":26793608,
-        "qs:id":989477,
         "qs_pg:id":989477,
         "wd:id":"Q2792373",
         "wk:page":"Calobre"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421176639,
-    "wof:lastmodified":1563306882,
+    "wof:lastmodified":1566673463,
     "wof:name":"Calobre",
     "wof:parent_id":1108693199,
     "wof:placetype":"localadmin",

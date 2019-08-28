@@ -10,8 +10,12 @@
     "geom:latitude":8.88444,
     "geom:longitude":-79.82944,
     "iso:country":"PA",
+    "lbl:bbox":"-79.84944,8.86444,-79.80944,8.90444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Potrero Grande"
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3702538,
         "gp:id":159629,
-        "qs:id":1204712,
+        "qs_pg:id":1204712,
         "wd:id":"Q7235136",
         "wk:page":"Potrero Grande"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421177973,
-    "wof:lastmodified":1563306866,
+    "wof:lastmodified":1566673457,
     "wof:name":"Potrero Grande",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

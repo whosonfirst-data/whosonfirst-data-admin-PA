@@ -23,8 +23,12 @@
     "gn:population":145,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.97177,8.50442,-79.93177,8.54442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Los Llanitos"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1277156541,
-    "wof:lastmodified":1564150795,
+    "wof:lastmodified":1566673191,
     "wof:name":"Los Llanitos",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

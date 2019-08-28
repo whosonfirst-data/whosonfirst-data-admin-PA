@@ -11,10 +11,12 @@
     "geom:longitude":-79.450614,
     "gn:country":"PA",
     "gn:fcode":"PPLC",
-    "gn:pop":408168,
+    "gn:population":408168,
     "iso:country":"PA",
     "lbl:latitude":8.9936,
     "lbl:longitude":-79.51973,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -391,9 +393,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ciudad de Panam\u00e1"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0646\u0627\u0645\u0627 \u0634\u06c1\u0631"
     ],
@@ -539,7 +538,7 @@
     "wof:capital_of":85632179,
     "wof:concordances":{
         "gn:id":3703443,
-        "qs:id":1046581,
+        "qs_pg:id":1046581,
         "wd:id":"Q3306",
         "wk:page":"Panama"
     },
@@ -556,7 +555,7 @@
         }
     ],
     "wof:id":890445081,
-    "wof:lastmodified":1563306909,
+    "wof:lastmodified":1566673469,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

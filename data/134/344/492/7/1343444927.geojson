@@ -23,8 +23,12 @@
     "gn:population":17,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.55963,8.18065,-81.51963,8.22065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343444927,
-    "wof:lastmodified":1536769181,
+    "wof:lastmodified":1566673072,
     "wof:name":"El Penon",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

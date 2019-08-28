@@ -23,8 +23,12 @@
     "gn:population":25,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.23667,8.04667,-81.19667,8.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bella Vista"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1343750919,
-    "wof:lastmodified":1564150537,
+    "wof:lastmodified":1566673069,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108693225,
     "wof:placetype":"locality",

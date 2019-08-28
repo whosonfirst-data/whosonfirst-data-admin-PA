@@ -23,8 +23,12 @@
     "gn:population":143,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.485,8.39224,-81.445,8.43224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360069241,
-    "wof:lastmodified":1536968284,
+    "wof:lastmodified":1566673388,
     "wof:name":"El Jacinto",
     "wof:parent_id":1108693279,
     "wof:placetype":"locality",

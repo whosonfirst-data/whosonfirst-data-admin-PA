@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.94083,8.94778,-79.90083,8.98778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ca\u00f1o Quebrado Abajo",
         "Ca\u00f1o Quebrado Abajo N\u00famero Uno",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310091667,
-    "wof:lastmodified":1537676474,
+    "wof:lastmodified":1566673347,
     "wof:name":"Cano Quebrado",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

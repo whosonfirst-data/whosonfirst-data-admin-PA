@@ -23,8 +23,12 @@
     "gn:population":445,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.7671,8.33512,-82.7271,8.37512",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Baco"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Boca",
-        "Boca de Leones",
-        "Baco"
+        "Boca de Leones"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u514b"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1260293827,
-    "wof:lastmodified":1564151100,
+    "wof:lastmodified":1566673321,
     "wof:name":"Finca Baco",
     "wof:parent_id":1108693189,
     "wof:placetype":"locality",

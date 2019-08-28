@@ -23,8 +23,12 @@
     "gn:population":647,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.69981,8.54197,-82.65981,8.58197",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0633\u0627\u0646\u062a\u0648"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1293496631,
-    "wof:lastmodified":1564150616,
+    "wof:lastmodified":1566673107,
     "wof:name":"El Santo",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

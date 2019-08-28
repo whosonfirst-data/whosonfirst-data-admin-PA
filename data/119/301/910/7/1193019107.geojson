@@ -23,8 +23,12 @@
     "gn:population":756,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.6456,8.52614,-82.6056,8.56614",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "San Miguel del Yuco"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193019107,
-    "wof:lastmodified":1537676341,
+    "wof:lastmodified":1566673294,
     "wof:name":"San Miguel del Yuco",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

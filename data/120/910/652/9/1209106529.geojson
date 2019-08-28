@@ -23,8 +23,12 @@
     "gn:population":439,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.70271,9.28089,-79.66271,9.32089",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Pe\u00f1as Blancas"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209106529,
-    "wof:lastmodified":1537676360,
+    "wof:lastmodified":1566673280,
     "wof:name":"Penas Blancas",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

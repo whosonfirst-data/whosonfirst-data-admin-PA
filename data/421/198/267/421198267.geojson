@@ -10,6 +10,9 @@
     "geom:latitude":7.5175,
     "geom:longitude":-78.17028,
     "iso:country":"PA",
+    "lbl:bbox":"-78.19028,7.4975,-78.15028,7.5375",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -32,7 +35,7 @@
     "name:spa_x_preferred":[
         "Jaqu\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jagu\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gn:id":3708432,
         "gp:id":157190,
-        "qs:id":1117669,
+        "qs_pg:id":1117669,
         "wd:id":"Q5016176",
         "wk:page":"Jaqu\u00e9"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421198267,
-    "wof:lastmodified":1563306825,
+    "wof:lastmodified":1566673447,
     "wof:name":"Jaqu\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

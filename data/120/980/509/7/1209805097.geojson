@@ -23,8 +23,12 @@
     "gn:population":877,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-77.74394,8.90098,-77.70394,8.94098",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tubual\u00e1"
     ],
@@ -35,7 +39,6 @@
         "Tubual\u00e1 N\u00famero 1",
         "Tubual\u00e1 N\u00famero Dos",
         "Twala",
-        "Tubual\u00e1",
         "Tubual\u00e1 N\u00famero Uno"
     ],
     "src:geom":"geonames",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209805097,
-    "wof:lastmodified":1537676334,
+    "wof:lastmodified":1566673274,
     "wof:name":"Tubuala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

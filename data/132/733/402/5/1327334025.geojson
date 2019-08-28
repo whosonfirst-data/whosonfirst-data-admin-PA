@@ -23,8 +23,12 @@
     "gn:population":223,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.46156,8.88335,-80.42156,8.92335",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Sabanita Verde"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327334025,
-    "wof:lastmodified":1537676518,
+    "wof:lastmodified":1566672970,
     "wof:name":"Sabanita Verde",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":497,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.61538,7.99738,-80.57538,8.03738",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Portobelillo"
     ],
@@ -32,8 +36,7 @@
         "Portobelillo"
     ],
     "name:und_x_variant":[
-        "Porto Bello",
-        "Portobelillo"
+        "Porto Bello"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u723e\u6258\u8c9d\u5229\u7565"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1344179335,
-    "wof:lastmodified":1564150513,
+    "wof:lastmodified":1566673056,
     "wof:name":"Portobelillo",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

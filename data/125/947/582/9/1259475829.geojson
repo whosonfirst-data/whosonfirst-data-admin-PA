@@ -23,8 +23,12 @@
     "gn:population":104,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.88733,7.85064,-80.84733,7.89064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Entredero de Tijeras",
         "Entradero de Tijeras"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259475829,
-    "wof:lastmodified":1537676429,
+    "wof:lastmodified":1566673560,
     "wof:name":"Entradero de Tijeras",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

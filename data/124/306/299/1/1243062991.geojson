@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.31237,8.46688,-81.27237,8.50688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Piedra de Agua"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243062991,
-    "wof:lastmodified":1537676359,
+    "wof:lastmodified":1566673483,
     "wof:name":"Piedra de Agua",
     "wof:parent_id":1108693201,
     "wof:placetype":"locality",

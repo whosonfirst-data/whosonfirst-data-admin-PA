@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.90333,8.31333,-82.86333,8.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Bartolo"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "San Bartolom\u00e9",
-        "San Bartolo Abajo",
-        "San Bartolo"
+        "San Bartolo Abajo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1243372209,
-    "wof:lastmodified":1564151390,
+    "wof:lastmodified":1566673479,
     "wof:name":"San Bartolo",
     "wof:parent_id":1108693189,
     "wof:placetype":"locality",

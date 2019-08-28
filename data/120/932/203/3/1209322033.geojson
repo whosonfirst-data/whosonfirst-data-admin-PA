@@ -23,8 +23,12 @@
     "gn:population":315,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.24765,8.47094,-80.20765,8.51094",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Tranquilla"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209322033,
-    "wof:lastmodified":1537676335,
+    "wof:lastmodified":1566673259,
     "wof:name":"Tranquilla",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

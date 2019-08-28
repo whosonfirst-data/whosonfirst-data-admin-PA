@@ -23,8 +23,12 @@
     "gn:population":63,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.17302,8.50925,-80.13302,8.54925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "La Loma Larga",
         "Loma Larga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259490921,
-    "wof:lastmodified":1537676383,
+    "wof:lastmodified":1566673561,
     "wof:name":"Loma Larga",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

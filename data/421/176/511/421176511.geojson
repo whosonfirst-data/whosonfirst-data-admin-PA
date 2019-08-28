@@ -10,8 +10,12 @@
     "geom:latitude":8.11667,
     "geom:longitude":-80.66667,
     "iso:country":"PA",
+    "lbl:bbox":"-80.68667,8.09667,-80.64667,8.13667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Santa Mar\u00eda"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3701174,
         "gp:id":160272,
-        "qs:id":1046573,
+        "qs_pg:id":1046573,
         "wd:id":"Q18403144",
         "wk:page":"Santa Mar\u00eda District, Panama"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421176511,
-    "wof:lastmodified":1563306880,
+    "wof:lastmodified":1566673462,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",

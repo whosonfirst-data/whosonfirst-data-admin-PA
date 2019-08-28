@@ -10,6 +10,9 @@
     "geom:latitude":9.33333,
     "geom:longitude":-82.25,
     "iso:country":"PA",
+    "lbl:bbox":"-82.27,9.31333,-82.23,9.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -217,7 +220,7 @@
     "wof:concordances":{
         "gn:id":3713959,
         "gp:id":154999,
-        "qs:id":1046608,
+        "qs_pg:id":1046608,
         "wd:id":"Q888971",
         "wk:page":"Bocas Town, Bocas del Toro"
     },
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421185815,
-    "wof:lastmodified":1563306895,
+    "wof:lastmodified":1566673466,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

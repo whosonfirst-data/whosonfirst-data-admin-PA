@@ -23,8 +23,12 @@
     "gn:population":120,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.05788,7.48684,-80.01788,7.52684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Limon"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1225836775,
-    "wof:lastmodified":1564151765,
+    "wof:lastmodified":1566673663,
     "wof:name":"Limon",
     "wof:parent_id":421202587,
     "wof:placetype":"locality",

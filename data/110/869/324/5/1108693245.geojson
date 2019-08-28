@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.426948,
     "lbl:longitude":-81.772539,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ng\u00f6be Bugl\u00e9",
     "meso:gadm_admin":"Nole Duima",
     "meso:gadm_hasc2":"PA.NB.ND",
@@ -31,6 +33,7 @@
     "mps:longitude":-81.772539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nole Duima"
     ],
@@ -56,9 +59,9 @@
         "\u8afe\u840a\u675c\u4f0a\u99ac\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"172.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Cerro Iglesias",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108693245,
-    "wof:lastmodified":1563306555,
+    "wof:lastmodified":1566673328,
     "wof:name":"Nole Duima",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

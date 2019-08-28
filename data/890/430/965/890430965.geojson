@@ -11,10 +11,14 @@
     "geom:longitude":-82.8,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":1952,
+    "gn:population":1952,
     "iso:country":"PA",
+    "lbl:bbox":"-82.82,8.38,-82.78,8.42",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3707758,
         "gp:id":157482,
-        "qs:id":150240,
+        "qs_pg:id":150240,
         "wk:page":"La Esperanza"
     },
     "wof:country":"PA",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890430965,
-    "wof:lastmodified":1564151370,
+    "wof:lastmodified":1566673467,
     "wof:name":"La Esperanza",
     "wof:parent_id":1108693189,
     "wof:placetype":"locality",

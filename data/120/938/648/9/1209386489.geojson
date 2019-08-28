@@ -23,8 +23,12 @@
     "gn:population":176,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.07387,8.80866,-80.03387,8.84866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Gaita Arriba"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209386489,
-    "wof:lastmodified":1537676410,
+    "wof:lastmodified":1566673227,
     "wof:name":"La Gaita Arriba",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

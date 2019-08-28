@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10098201.744616,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.429901,8.435278,-82.429901,8.435278",
     "geom:latitude":8.435278,
     "geom:longitude":-82.429901,
-    "gn:gn_country":"PA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PA",
+    "gn:fcode":"PPLX",
     "gn:latitude":8.43333,
     "gn:longitude":-82.41667,
+    "gn:population":0,
     "iso:country":"PA",
+    "lbl:bbox":"-82.434901,8.430278,-82.424901,8.440278",
     "lbl:latitude":8.435278,
     "lbl:longitude":-82.429901,
+    "lbl:max_zoom":18.0,
     "mps:latitude":8.43618,
     "mps:longitude":-82.425665,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Varital"
-    ],
-    "name:unk_x_variant":[
         "El Varital"
     ],
     "qs:gn_adm0_cc":"PA",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675767,
         102191575,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3709822,
         "gp:id":156861,
-        "qs:id":982666,
         "qs_pg:id":982666
     },
     "wof:country":"PA",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379393,
+    "wof:lastmodified":1566673074,
     "wof:name":"El Varital",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":821,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.3135,7.74523,-80.2735,7.78523",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Las Palmitas"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259504965,
-    "wof:lastmodified":1564151578,
+    "wof:lastmodified":1566673563,
     "wof:name":"Las Palmitas",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

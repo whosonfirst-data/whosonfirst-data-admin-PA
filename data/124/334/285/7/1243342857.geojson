@@ -23,8 +23,12 @@
     "gn:population":175,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.00589,8.70527,-79.96589,8.74527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Trinidad Arriba"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243342857,
-    "wof:lastmodified":1537676335,
+    "wof:lastmodified":1566673513,
     "wof:name":"Trinidad Arriba",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

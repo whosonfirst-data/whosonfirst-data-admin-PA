@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.15361,9.18389,-80.11361,9.22389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Porvenir"
     ],
@@ -63,8 +67,7 @@
         "El Porvenir"
     ],
     "name:und_x_variant":[
-        "Porvenir",
-        "El Porvenir"
+        "Porvenir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1309906243,
-    "wof:lastmodified":1564151278,
+    "wof:lastmodified":1566673408,
     "wof:name":"El Porvenir",
     "wof:parent_id":1108693205,
     "wof:placetype":"locality",

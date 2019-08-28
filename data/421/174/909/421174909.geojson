@@ -10,8 +10,12 @@
     "geom:latitude":8.438413,
     "geom:longitude":-82.437286,
     "iso:country":"PA",
+    "lbl:bbox":"-82.537286,8.338413,-82.337286,8.538413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "San Carlos"
@@ -137,7 +141,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793198,
-        "qs:id":908587,
         "qs_pg:id":908587
     },
     "wof:country":"PA",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421174909,
-    "wof:lastmodified":1564151330,
+    "wof:lastmodified":1566673436,
     "wof:name":"San Carlos",
     "wof:parent_id":421171339,
     "wof:placetype":"localadmin",

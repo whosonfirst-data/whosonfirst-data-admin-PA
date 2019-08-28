@@ -11,10 +11,14 @@
     "geom:longitude":-79.11667,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":4292,
+    "gn:population":4292,
     "iso:country":"PA",
+    "lbl:bbox":"-79.13667,9.24667,-79.09667,9.28667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
     ],
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3710087,
         "gp:id":158969,
-        "qs:id":150247,
+        "qs_pg:id":150247,
         "wk:page":"El Progreso"
     },
     "wof:country":"PA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890441965,
-    "wof:lastmodified":1564151369,
+    "wof:lastmodified":1566673467,
     "wof:name":"El Progreso",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

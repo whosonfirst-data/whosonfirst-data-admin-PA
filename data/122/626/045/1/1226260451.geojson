@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.52264,9.37948,-82.48264,9.41948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Finca 4",
         "Finca N\u00famero Cuatro",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226260451,
-    "wof:lastmodified":1537676427,
+    "wof:lastmodified":1566673595,
     "wof:name":"Finca Cuatro",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

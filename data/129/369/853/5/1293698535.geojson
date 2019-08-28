@@ -23,8 +23,12 @@
     "gn:population":337,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.3185,8.55234,-80.2785,8.59234",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Negrita"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293698535,
-    "wof:lastmodified":1537676403,
+    "wof:lastmodified":1566673120,
     "wof:name":"La Negrita",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

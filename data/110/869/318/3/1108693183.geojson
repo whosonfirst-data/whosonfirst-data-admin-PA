@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.207694,
     "lbl:longitude":-80.591393,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cocl\u00e9",
     "meso:gadm_admin":"Aguadulce",
     "meso:gadm_hasc2":"PA.CC.AG",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.591393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Aguadulce"
     ],
@@ -69,9 +72,9 @@
         "\u963f\u74dc\u675c\u723e\u585e\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"466.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Aguadulce",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108693183,
-    "wof:lastmodified":1561777232,
+    "wof:lastmodified":1566673331,
     "wof:name":"Aguadulce",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

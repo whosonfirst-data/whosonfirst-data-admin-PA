@@ -23,8 +23,12 @@
     "gn:population":46,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.68667,7.54667,-80.64667,7.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -35,7 +39,7 @@
         "gn:id":3709916
     },
     "wof:country":"PA",
-    "wof:geomhash":"0e9e3807209d55f24658d97b16ea4b08",
+    "wof:geomhash":"0de94e4060ca875c3f8823b6ca53b506",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209097873,
-    "wof:lastmodified":1536297829,
+    "wof:lastmodified":1566673226,
     "wof:name":"El Tallo",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     -80.66667,
-    7.5666699999999985,
+    7.56667,
     -80.66667,
-    7.5666699999999985
+    7.56667
 ],
   "geometry": {"coordinates":[-80.66667,7.56667],"type":"Point"}
 }

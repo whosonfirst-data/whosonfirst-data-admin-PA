@@ -11,11 +11,15 @@
     "geom:longitude":-78.05833,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":532,
+    "gn:population":532,
     "iso:country":"PA",
+    "lbl:bbox":"-78.07833,8.96194,-78.03833,9.00194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Gual\u00e1"
     ],
     "qs:name":"Ual\u00e1",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3700317,
         "gp:id":160527,
-        "qs:id":584731
+        "qs_pg:id":584731
     },
     "wof:country":"PA",
     "wof:created":1469051816,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429473,
-    "wof:lastmodified":1505343513,
+    "wof:lastmodified":1566673468,
     "wof:name":"Ual\u00e1",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

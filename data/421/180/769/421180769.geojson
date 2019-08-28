@@ -10,8 +10,12 @@
     "geom:latitude":7.961147,
     "geom:longitude":-80.428993,
     "iso:country":"PA",
+    "lbl:bbox":"-80.448993,7.941147,-80.408993,7.981147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0634\u064a\u062a\u0631\u064a"
@@ -117,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":155582,
-        "qs:id":457531,
+        "qs_pg:id":457531,
         "wd:id":"Q657763"
     },
     "wof:country":"PA",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421180769,
-    "wof:lastmodified":1563306782,
+    "wof:lastmodified":1566673438,
     "wof:name":"Chitr\u00e9",
     "wof:parent_id":421189055,
     "wof:placetype":"locality",

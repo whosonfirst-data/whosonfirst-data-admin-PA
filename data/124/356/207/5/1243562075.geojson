@@ -23,8 +23,12 @@
     "gn:population":88,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.69978,8.56141,-80.65978,8.60141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Las Sabanas"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1243562075,
-    "wof:lastmodified":1564151463,
+    "wof:lastmodified":1566673511,
     "wof:name":"Las Sabanas",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

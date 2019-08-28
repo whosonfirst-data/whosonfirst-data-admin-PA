@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.7263,8.4946,-81.6863,8.5346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cerro Caballo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242854575,
-    "wof:lastmodified":1537676515,
+    "wof:lastmodified":1566673522,
     "wof:name":"Cerro Caballo",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

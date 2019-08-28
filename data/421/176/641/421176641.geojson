@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.257373,
     "lbl:longitude":-81.901961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiriqu\u00ed",
     "meso:gadm_admin":"San F\u00e9lix",
     "meso:gadm_hasc2":"PA.CH.SX",
@@ -31,6 +33,7 @@
     "mps:longitude":-81.901961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San F\u00e9lix"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"220.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Las Lajas",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26793138,
         "hasc:id":"PA.CH.SX",
-        "qs:id":990179,
+        "qs_pg:id":990179,
         "wd:id":"Q2217004"
     },
     "wof:country":"PA",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421176641,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1566673462,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

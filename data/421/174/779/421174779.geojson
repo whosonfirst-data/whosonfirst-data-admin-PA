@@ -10,8 +10,12 @@
     "geom:latitude":9.44306,
     "geom:longitude":-79.75583,
     "iso:country":"PA",
+    "lbl:bbox":"-79.77583,9.42306,-79.73583,9.46306",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mar\u00eda Chiquita"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3704547,
         "gp:id":159029,
-        "qs:id":898830,
+        "qs_pg:id":898830,
         "wd:id":"Q6781939",
         "wk:page":"Mar\u00eda Chiquita"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421174779,
-    "wof:lastmodified":1563306779,
+    "wof:lastmodified":1566673437,
     "wof:name":"Mar\u00eda Chiquita",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

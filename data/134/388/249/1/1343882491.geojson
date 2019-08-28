@@ -23,8 +23,12 @@
     "gn:population":132,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.32178,8.99528,-80.28178,9.03528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Boca del Congal"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343882491,
-    "wof:lastmodified":1537676506,
+    "wof:lastmodified":1566673073,
     "wof:name":"Boca del Congal",
     "wof:parent_id":1108693217,
     "wof:placetype":"locality",

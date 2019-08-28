@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.12,8.36333,-82.08,8.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Castillo"
     ],
@@ -48,8 +52,7 @@
         "El Castillo"
     ],
     "name:und_x_variant":[
-        "Castillo",
-        "El Castillo"
+        "Castillo"
     ],
     "name:vie_x_preferred":[
         "El Castillo"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1327244645,
-    "wof:lastmodified":1564150326,
+    "wof:lastmodified":1566672962,
     "wof:name":"El Castillo",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

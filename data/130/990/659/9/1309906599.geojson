@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.65333,9.58,-79.61333,9.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309906599,
-    "wof:lastmodified":1536786281,
+    "wof:lastmodified":1566673407,
     "wof:name":"Jose Pobre",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

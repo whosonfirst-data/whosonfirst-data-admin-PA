@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.12,9.14667,-82.08,9.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Mina"
     ],
     "name:und_x_variant":[
-        "Mina de Carb\u00f3n",
-        "La Mina"
+        "Mina de Carb\u00f3n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293797683,
-    "wof:lastmodified":1564150592,
+    "wof:lastmodified":1566673099,
     "wof:name":"La Mina",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

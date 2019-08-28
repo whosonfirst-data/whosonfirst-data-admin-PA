@@ -10,8 +10,12 @@
     "geom:latitude":8.76667,
     "geom:longitude":-82.63333,
     "iso:country":"PA",
+    "lbl:bbox":"-82.65333,8.74667,-82.61333,8.78667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Volc\u00e1n"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Volc\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Hato"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3700017,
         "gp:id":160612,
-        "qs:id":1174581,
+        "qs_pg:id":1174581,
         "wd:id":"Q1699400",
         "wk:page":"Volc\u00e1n, Panama"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421177321,
-    "wof:lastmodified":1563306867,
+    "wof:lastmodified":1566673458,
     "wof:name":"Volc\u00e1n",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

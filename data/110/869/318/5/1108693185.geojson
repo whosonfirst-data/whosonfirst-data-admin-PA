@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.443104,
     "lbl:longitude":-80.200969,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cocl\u00e9",
     "meso:gadm_admin":"Ant\u00f3n",
     "meso:gadm_hasc2":"PA.CC.AN",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.200969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ant\u00f3n"
     ],
@@ -60,9 +63,9 @@
         "\u5b89\u901a\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"749.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Ant\u00f3n",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108693185,
-    "wof:lastmodified":1561777232,
+    "wof:lastmodified":1566673331,
     "wof:name":"Ant\u00f3n",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

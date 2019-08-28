@@ -10,8 +10,12 @@
     "geom:latitude":8.9,
     "geom:longitude":-81.86667,
     "iso:country":"PA",
+    "lbl:bbox":"-81.88667,8.88,-81.84667,8.92",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0438\u0440\u0430"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Bisira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bisiria"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3714101,
         "gp:id":154919,
-        "qs:id":1204514,
+        "qs_pg:id":1204514,
         "wd:id":"Q2397111",
         "wk:page":"Bisira"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421170979,
-    "wof:lastmodified":1563306861,
+    "wof:lastmodified":1566673456,
     "wof:name":"Bisira",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":329,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.97,8.51333,-79.93,8.55333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Rodeo Viejo"
     ],
@@ -32,8 +36,7 @@
         "Rodeo Viejo"
     ],
     "name:und_x_variant":[
-        "Rodeo Viego",
-        "Rodeo Viejo"
+        "Rodeo Viego"
     ],
     "name:zho_x_preferred":[
         "\u820a\u96f7\u5fb7\u5967"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1242648761,
-    "wof:lastmodified":1564151497,
+    "wof:lastmodified":1566673526,
     "wof:name":"Rodeo Viejo",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

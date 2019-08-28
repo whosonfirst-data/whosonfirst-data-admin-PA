@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.82113,7.84587,-80.78113,7.88587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Bajos del Cusco"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276573683,
-    "wof:lastmodified":1537676381,
+    "wof:lastmodified":1566673190,
     "wof:name":"Los Bajos del Cusco",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

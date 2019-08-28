@@ -23,8 +23,12 @@
     "gn:population":440,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.42695,7.46157,-80.38695,7.50157",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0641\u0644\u0648\u0631\u064a\u0633"
     ],
@@ -211,7 +215,7 @@
         }
     ],
     "wof:id":1209406443,
-    "wof:lastmodified":1564150926,
+    "wof:lastmodified":1566673247,
     "wof:name":"Flores",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

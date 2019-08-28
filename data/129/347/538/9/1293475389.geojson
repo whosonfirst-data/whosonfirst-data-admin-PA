@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.6383,9.13874,-79.5983,9.17874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Agua Bendita"
     ],
@@ -32,8 +36,7 @@
         "Agua Bendita"
     ],
     "name:und_x_variant":[
-        "Auga Bendita",
-        "Agua Bendita"
+        "Auga Bendita"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293475389,
-    "wof:lastmodified":1564150620,
+    "wof:lastmodified":1566673109,
     "wof:name":"Agua Bendita",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

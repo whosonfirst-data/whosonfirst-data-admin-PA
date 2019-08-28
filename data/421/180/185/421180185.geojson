@@ -10,8 +10,12 @@
     "geom:latitude":7.4,
     "geom:longitude":-80.45,
     "iso:country":"PA",
+    "lbl:bbox":"-80.55,7.3,-80.35,7.5",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tonos\u00ed"
@@ -29,9 +33,6 @@
         "Tonos\u00ed"
     ],
     "name:spa_x_preferred":[
-        "Tonos\u00ed"
-    ],
-    "name:unk_x_variant":[
         "Tonos\u00ed"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3700538,
         "gp:id":26793481,
-        "qs:id":1197856,
         "qs_pg:id":1197856,
         "wd:id":"Q2132852",
         "wk:page":"Tonos\u00ed"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":421180185,
-    "wof:lastmodified":1563306784,
+    "wof:lastmodified":1566673438,
     "wof:name":"Tonosi",
     "wof:parent_id":421203469,
     "wof:placetype":"localadmin",

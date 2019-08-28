@@ -23,8 +23,12 @@
     "gn:population":16,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.49583,7.715,-81.45583,7.755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Managua"
     ],
@@ -379,7 +383,7 @@
         }
     ],
     "wof:id":1343251109,
-    "wof:lastmodified":1564150482,
+    "wof:lastmodified":1566673040,
     "wof:name":"Managua",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

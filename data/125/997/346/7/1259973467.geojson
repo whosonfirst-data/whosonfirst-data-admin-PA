@@ -23,8 +23,12 @@
     "gn:population":81,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.46295,8.4879,-81.42295,8.5279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fra_x_preferred":[
         "Batata"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259973467,
-    "wof:lastmodified":1564151542,
+    "wof:lastmodified":1566673547,
     "wof:name":"Batata",
     "wof:parent_id":1108693279,
     "wof:placetype":"locality",

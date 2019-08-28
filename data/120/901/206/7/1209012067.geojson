@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.225,8.90028,-80.185,8.94028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209012067,
-    "wof:lastmodified":1536300414,
+    "wof:lastmodified":1566673231,
     "wof:name":"Tierra Buena",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

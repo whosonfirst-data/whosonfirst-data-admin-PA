@@ -10,8 +10,12 @@
     "geom:latitude":8.54878,
     "geom:longitude":-79.8725,
     "iso:country":"PA",
+    "lbl:bbox":"-79.9725,8.44878,-79.7725,8.64878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nueva Gorgona"
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793567,
-        "qs:id":1014806
+        "qs_pg:id":1014806
     },
     "wof:country":"PA",
     "wof:created":1459009805,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421194423,
-    "wof:lastmodified":1564151316,
+    "wof:lastmodified":1566673429,
     "wof:name":"Nueva Gorgona",
     "wof:parent_id":421189053,
     "wof:placetype":"localadmin",

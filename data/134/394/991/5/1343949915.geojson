@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.12,7.41333,-80.08,7.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343949915,
-    "wof:lastmodified":1537033820,
+    "wof:lastmodified":1566673051,
     "wof:name":"El Chumico",
     "wof:parent_id":421202587,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":91,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.58667,7.81333,-80.54667,7.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243575539,
-    "wof:lastmodified":1536617378,
+    "wof:lastmodified":1566673508,
     "wof:name":"La Corneta",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

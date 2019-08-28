@@ -24,8 +24,12 @@
     "gn:population":29,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.38564,7.61956,-80.34564,7.65956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Picacho"
     ],
@@ -36,8 +40,7 @@
         "El Picacho"
     ],
     "name:und_x_variant":[
-        "Picacho",
-        "El Picacho"
+        "Picacho"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259475013,
-    "wof:lastmodified":1564151565,
+    "wof:lastmodified":1566673559,
     "wof:name":"El Picacho",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

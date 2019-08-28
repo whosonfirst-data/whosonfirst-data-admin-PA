@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.6097,8.93979,-79.5697,8.97979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rousseu",
         "Rousseau"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226239391,
-    "wof:lastmodified":1537676345,
+    "wof:lastmodified":1566673626,
     "wof:name":"Rousseau",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

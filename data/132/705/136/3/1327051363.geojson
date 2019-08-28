@@ -23,8 +23,12 @@
     "gn:population":2,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.65302,7.51023,-80.61302,7.55023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327051363,
-    "wof:lastmodified":1536733324,
+    "wof:lastmodified":1566672966,
     "wof:name":"Salamin",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

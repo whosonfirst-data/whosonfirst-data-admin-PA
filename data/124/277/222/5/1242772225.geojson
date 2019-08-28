@@ -23,8 +23,12 @@
     "gn:population":234,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.18082,7.6651,-80.14082,7.7051",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Para\u00edso"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242772225,
-    "wof:lastmodified":1564151474,
+    "wof:lastmodified":1566673516,
     "wof:name":"Paraiso",
     "wof:parent_id":1108693255,
     "wof:placetype":"locality",

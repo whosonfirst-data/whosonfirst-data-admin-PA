@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-77.83161,8.39482,-77.79161,8.43482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Lajas Blancas"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276421919,
-    "wof:lastmodified":1564150759,
+    "wof:lastmodified":1566673174,
     "wof:name":"Lajas Blancas",
     "wof:parent_id":1108693203,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.81748,8.28352,-81.77748,8.32352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cerro Iglesias N\u00famero Dos"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310481845,
-    "wof:lastmodified":1537676514,
+    "wof:lastmodified":1566673337,
     "wof:name":"Cerro Iglesias Numero Dos",
     "wof:parent_id":1108693245,
     "wof:placetype":"locality",

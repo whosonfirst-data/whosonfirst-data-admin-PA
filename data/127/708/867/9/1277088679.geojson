@@ -23,8 +23,12 @@
     "gn:population":358,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.50371,9.34359,-82.46371,9.38359",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Valle Junquito"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277088679,
-    "wof:lastmodified":1537676506,
+    "wof:lastmodified":1566673155,
     "wof:name":"Valle Junquito",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":184,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.77402,8.9621,-79.73402,9.0021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Entrada Bernardino",
         "Bernardino Arriba"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243342897,
-    "wof:lastmodified":1537676484,
+    "wof:lastmodified":1566673512,
     "wof:name":"Bernardino Arriba",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

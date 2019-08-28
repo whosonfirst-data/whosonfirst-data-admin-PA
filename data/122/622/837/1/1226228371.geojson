@@ -23,8 +23,12 @@
     "gn:population":1295,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.82765,8.81463,-79.78765,8.85463",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Llano Largo"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226228371,
-    "wof:lastmodified":1564151698,
+    "wof:lastmodified":1566673623,
     "wof:name":"Llano Largo",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

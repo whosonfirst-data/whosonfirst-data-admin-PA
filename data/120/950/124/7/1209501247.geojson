@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.92112,8.57981,-79.88112,8.61981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0631\u064a\u0648"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1209501247,
-    "wof:lastmodified":1564150946,
+    "wof:lastmodified":1566673254,
     "wof:name":"Lirio",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

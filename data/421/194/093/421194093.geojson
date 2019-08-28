@@ -10,8 +10,12 @@
     "geom:latitude":9.001738,
     "geom:longitude":-79.530029,
     "iso:country":"PA",
+    "lbl:bbox":"-79.550029,8.981738,-79.510029,9.021738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Betania"
@@ -66,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793697,
-        "qs:id":358893,
+        "qs_pg:id":358893,
         "wd:id":"Q5727309"
     },
     "wof:country":"PA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421194093,
-    "wof:lastmodified":1563306747,
+    "wof:lastmodified":1566673429,
     "wof:name":"Betania",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

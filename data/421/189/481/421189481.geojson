@@ -10,8 +10,12 @@
     "geom:latitude":8.65356,
     "geom:longitude":-79.966056,
     "iso:country":"PA",
+    "lbl:bbox":"-80.066056,8.55356,-79.866056,8.75356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
@@ -630,7 +634,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793554,
-        "qs:id":1113786,
         "qs_pg:id":1113786
     },
     "wof:country":"PA",
@@ -653,7 +656,7 @@
         }
     ],
     "wof:id":421189481,
-    "wof:lastmodified":1564151339,
+    "wof:lastmodified":1566673442,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421189053,
     "wof:placetype":"localadmin",

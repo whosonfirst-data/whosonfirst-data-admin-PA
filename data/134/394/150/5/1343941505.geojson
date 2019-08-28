@@ -23,8 +23,12 @@
     "gn:population":275,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.10956,8.04044,-81.06956,8.08044",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Los Balsas"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343941505,
-    "wof:lastmodified":1537676397,
+    "wof:lastmodified":1566673051,
     "wof:name":"Los Balsas",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

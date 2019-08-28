@@ -10,8 +10,12 @@
     "geom:latitude":8.16667,
     "geom:longitude":-80.81667,
     "iso:country":"PA",
+    "lbl:bbox":"-80.83667,8.14667,-80.79667,8.18667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Raya de Santa Mar\u00eda"
@@ -22,7 +26,7 @@
     "name:spa_x_preferred":[
         "La Raya de Santa Mar\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Victoria N\u00famero Uno"
     ],
     "name:urd_x_preferred":[
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3706724,
         "gp:id":157928,
-        "qs:id":1204648,
+        "qs_pg:id":1204648,
         "wd:id":"Q6464770",
         "wk:page":"La Raya de Santa Mar\u00eda"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421169327,
-    "wof:lastmodified":1527716175,
+    "wof:lastmodified":1566673432,
     "wof:name":"La Raya de Santa Mar\u00eda",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

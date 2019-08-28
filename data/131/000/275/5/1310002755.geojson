@@ -23,8 +23,12 @@
     "gn:population":124,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.91825,9.08172,-78.87825,9.12172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tres Quebradas"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310002755,
-    "wof:lastmodified":1564151144,
+    "wof:lastmodified":1566673346,
     "wof:name":"Tres Quebradas",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

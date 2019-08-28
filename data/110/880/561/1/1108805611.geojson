@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":8.812555,
     "lbl:longitude":-79.934532,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Panama Oeste",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,9 +31,9 @@
         "Panam\u00e1 Oeste"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"2,786",
     "statoids:area_mi":"1,076",
     "statoids:as_of_date":"2010-05-16",
@@ -72,11 +73,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565732224,
+    "wof:lastmodified":1566673328,
     "wof:name":"Panama Oeste",
     "wof:parent_id":85632179,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":464038,
     "wof:population_rank":10,

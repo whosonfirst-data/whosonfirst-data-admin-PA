@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.32,8.16333,-81.28,8.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Palma"
     ],
@@ -165,8 +169,7 @@
         "\u041b\u0430-\u041f\u0430\u043b\u044c\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "Cerro Gil",
-        "La Palma"
+        "Cerro Gil"
     ],
     "name:vie_x_preferred":[
         "La Palma"
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":1326924473,
-    "wof:lastmodified":1564150300,
+    "wof:lastmodified":1566672950,
     "wof:name":"La Palma",
     "wof:parent_id":1108693225,
     "wof:placetype":"locality",

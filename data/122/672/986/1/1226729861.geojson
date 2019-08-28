@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.54838,8.3885,-81.50838,8.4285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pedregoso"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226729861,
-    "wof:lastmodified":1537676515,
+    "wof:lastmodified":1566673588,
     "wof:name":"Pedregoso",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":7.53085,
     "geom:longitude":-80.026216,
     "iso:country":"PA",
+    "lbl:bbox":"-80.126216,7.43085,-79.926216,7.63085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793473,
-        "qs:id":903045,
         "qs_pg:id":903045
     },
     "wof:country":"PA",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421193477,
-    "wof:lastmodified":1497047626,
+    "wof:lastmodified":1566673429,
     "wof:name":"Pedasi",
     "wof:parent_id":421202587,
     "wof:placetype":"localadmin",

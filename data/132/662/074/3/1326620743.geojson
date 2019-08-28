@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.3888,8.89689,-78.3488,8.93689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Gu\u00e1gara"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326620743,
-    "wof:lastmodified":1537676499,
+    "wof:lastmodified":1566672986,
     "wof:name":"La Guagara",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

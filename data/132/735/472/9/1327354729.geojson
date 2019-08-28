@@ -23,8 +23,12 @@
     "gn:population":98,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.31003,7.42971,-80.27003,7.46971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Ojo de Agua"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327354729,
-    "wof:lastmodified":1537676364,
+    "wof:lastmodified":1566672973,
     "wof:name":"Ojo de Agua",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

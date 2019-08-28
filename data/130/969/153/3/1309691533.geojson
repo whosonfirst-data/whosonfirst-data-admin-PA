@@ -23,8 +23,12 @@
     "gn:population":43,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.9475,8.84139,-79.9075,8.88139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309691533,
-    "wof:lastmodified":1537092648,
+    "wof:lastmodified":1566673419,
     "wof:name":"El Broquel",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

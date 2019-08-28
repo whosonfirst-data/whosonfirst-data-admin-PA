@@ -23,8 +23,12 @@
     "gn:population":173,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.49686,8.52619,-82.45686,8.56619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Alto Majagua"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209618485,
-    "wof:lastmodified":1537676489,
+    "wof:lastmodified":1566673255,
     "wof:name":"Alto Majagua",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

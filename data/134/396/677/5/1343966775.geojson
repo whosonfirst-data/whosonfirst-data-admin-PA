@@ -23,8 +23,12 @@
     "gn:population":455,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.4033,8.55408,-82.3633,8.59408",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Higo"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343966775,
-    "wof:lastmodified":1564150409,
+    "wof:lastmodified":1566673007,
     "wof:name":"El Higo",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

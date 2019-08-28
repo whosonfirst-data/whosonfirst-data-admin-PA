@@ -10,8 +10,12 @@
     "geom:latitude":9.51667,
     "geom:longitude":-82.7,
     "iso:country":"PA",
+    "lbl:bbox":"-82.72,9.49667,-82.68,9.53667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Barro Blanco"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Barro Blanco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riverside"
     ],
     "qs:gn_country":"PA",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3714336,
         "gp:id":154860,
-        "qs:id":286611,
+        "qs_pg:id":286611,
         "wd:id":"Q2885685"
     },
     "wof:country":"PA",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421180055,
-    "wof:lastmodified":1563306781,
+    "wof:lastmodified":1566673437,
     "wof:name":"Barro Blanco",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.977856,
     "lbl:longitude":-79.865602,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Panama",
     "meso:gadm_admin":"La Chorrera",
     "meso:gadm_hasc2":"PA.PN.LC",
@@ -31,6 +33,7 @@
     "mps:longitude":-79.865602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Chorrera"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"688.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"La Chorrera",
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gp:id":26793112,
         "hasc:id":"PA.PN.LC",
-        "qs:id":1263650,
+        "qs_pg:id":1263650,
         "wd:id":"Q2217021"
     },
     "wof:country":"PA",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421171337,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1566673463,
     "wof:name":"La Chorrera",
     "wof:parent_id":-1,
     "wof:placetype":"county",

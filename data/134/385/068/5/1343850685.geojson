@@ -23,8 +23,12 @@
     "gn:population":229,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.63809,8.00978,-80.59809,8.04978",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "La Perdernal",
         "El Pedernal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343850685,
-    "wof:lastmodified":1537676437,
+    "wof:lastmodified":1566673035,
     "wof:name":"El Pedernal",
     "wof:parent_id":421166923,
     "wof:placetype":"locality",

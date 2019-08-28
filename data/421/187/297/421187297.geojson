@@ -10,8 +10,11 @@
     "geom:latitude":9.0,
     "geom:longitude":-79.51667,
     "iso:country":"PA",
+    "lbl:bbox":"-79.52167,8.995,-79.51167,9.005",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Vista Hermosa"
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3700031,
         "gp:id":160609,
-        "qs:id":1082668
+        "qs_pg:id":1082668
     },
     "wof:country":"PA",
     "wof:created":1459009508,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421187297,
-    "wof:lastmodified":1564151332,
+    "wof:lastmodified":1566673439,
     "wof:name":"Vista Hermosa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

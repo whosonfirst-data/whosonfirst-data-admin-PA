@@ -10,8 +10,12 @@
     "geom:latitude":7.81667,
     "geom:longitude":-80.4,
     "iso:country":"PA",
+    "lbl:bbox":"-80.42,7.79667,-80.38,7.83667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Agua Buena"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3715111,
         "gp:id":154533,
-        "qs:id":1204492,
+        "qs_pg:id":1204492,
         "wd:id":"Q4694427",
         "wk:page":"Agua Buena"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421177693,
-    "wof:lastmodified":1563306865,
+    "wof:lastmodified":1566673457,
     "wof:name":"Agua Buena",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

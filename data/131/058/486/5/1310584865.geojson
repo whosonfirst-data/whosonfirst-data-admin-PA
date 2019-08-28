@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.62768,7.88573,-81.58768,7.92573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pajar\u00f3n"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310584865,
-    "wof:lastmodified":1537676363,
+    "wof:lastmodified":1566673380,
     "wof:name":"Pajaron",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

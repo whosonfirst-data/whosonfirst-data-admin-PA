@@ -23,8 +23,12 @@
     "gn:population":124,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.86908,8.40276,-80.82908,8.44276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Pedregoso"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276215933,
-    "wof:lastmodified":1564150748,
+    "wof:lastmodified":1566673169,
     "wof:name":"El Pedregoso",
     "wof:parent_id":1108693199,
     "wof:placetype":"locality",

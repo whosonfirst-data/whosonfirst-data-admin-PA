@@ -10,8 +10,12 @@
     "geom:latitude":9.27472,
     "geom:longitude":-79.69528,
     "iso:country":"PA",
+    "lbl:bbox":"-79.71528,9.25472,-79.67528,9.29472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Buena Vista"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3713715,
         "gp:id":155066,
-        "qs:id":286632,
+        "qs_pg:id":286632,
         "wd:id":"Q5734977"
     },
     "wof:country":"PA",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421173309,
-    "wof:lastmodified":1563306788,
+    "wof:lastmodified":1566673439,
     "wof:name":"Buena Vista",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

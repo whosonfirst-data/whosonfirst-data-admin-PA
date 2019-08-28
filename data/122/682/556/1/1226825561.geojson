@@ -23,8 +23,12 @@
     "gn:population":1236,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.89584,8.64161,-79.85584,8.68161",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Espav\u00e9"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226825561,
-    "wof:lastmodified":1537676429,
+    "wof:lastmodified":1566673626,
     "wof:name":"El Espave",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

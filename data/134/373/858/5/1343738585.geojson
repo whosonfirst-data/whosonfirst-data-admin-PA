@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.87,8.73,-79.83,8.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":1343738585,
-    "wof:lastmodified":1564150528,
+    "wof:lastmodified":1566673064,
     "wof:name":"Santa Cruz",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

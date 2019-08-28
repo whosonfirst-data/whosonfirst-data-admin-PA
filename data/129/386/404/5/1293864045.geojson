@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.73631,8.88493,-81.69631,8.92493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Essey Arriba"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293864045,
-    "wof:lastmodified":1537676514,
+    "wof:lastmodified":1566673151,
     "wof:name":"Essey Arriba",
     "wof:parent_id":1108693223,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":9.22333,
     "geom:longitude":-79.66194,
     "iso:country":"PA",
+    "lbl:bbox":"-79.68194,9.20333,-79.64194,9.24333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nuevo San Juan"
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3703820,
         "gp:id":159245,
-        "qs:id":287159,
+        "qs_pg:id":287159,
         "wd:id":"Q7068690",
         "wk:page":"Nuevo San Juan"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421198001,
-    "wof:lastmodified":1563306826,
+    "wof:lastmodified":1566673448,
     "wof:name":"Nuevo San Juan",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

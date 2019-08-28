@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.00293,9.17239,-77.96293,9.21239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Waguitupo",
         "Wuaguitupo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226630631,
-    "wof:lastmodified":1537676331,
+    "wof:lastmodified":1566673644,
     "wof:name":"Wakitupu",
     "wof:parent_id":1108693213,
     "wof:placetype":"locality",

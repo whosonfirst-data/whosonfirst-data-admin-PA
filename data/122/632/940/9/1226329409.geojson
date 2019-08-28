@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.73112,8.40126,-81.69112,8.44126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cerro Cavilan",
         "Cerro Gavil\u00e1n"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226329409,
-    "wof:lastmodified":1537676469,
+    "wof:lastmodified":1566673614,
     "wof:name":"Cerro Gavilan",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

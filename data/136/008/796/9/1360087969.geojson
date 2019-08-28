@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.23667,8.48,-82.19667,8.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Higo"
     ],
@@ -33,8 +37,7 @@
         "El Higo"
     ],
     "name:und_x_variant":[
-        "Alto del Higo",
-        "El Higo"
+        "Alto del Higo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360087969,
-    "wof:lastmodified":1564151230,
+    "wof:lastmodified":1566673387,
     "wof:name":"El Higo",
     "wof:parent_id":421169889,
     "wof:placetype":"locality",

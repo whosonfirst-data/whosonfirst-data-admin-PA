@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.062513,
     "lbl:longitude":-77.9527,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dari\u00e9n",
     "meso:gadm_admin":"Chepigana",
     "meso:gadm_hasc2":"PA.DR.CP",
@@ -31,6 +33,7 @@
     "mps:longitude":-77.9527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chepigana"
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"7,309.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"La Palma",
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":26793100,
         "hasc:id":"PA.DR.CP",
-        "qs:id":220302,
+        "qs_pg:id":220302,
         "wd:id":"Q1651404"
     },
     "wof:country":"PA",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421170141,
-    "wof:lastmodified":1561777249,
+    "wof:lastmodified":1566673457,
     "wof:name":"Chepigana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.35333,7.93,-81.31333,7.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0644\u0627 \u067e\u0627\u0644\u0645\u06cc\u0644\u0627"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343345323,
-    "wof:lastmodified":1564150507,
+    "wof:lastmodified":1566673052,
     "wof:name":"La Palmilla",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

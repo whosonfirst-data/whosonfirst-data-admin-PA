@@ -23,8 +23,12 @@
     "gn:population":319,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.46824,8.54129,-82.42824,8.58129",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Las Ca\u00f1as"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343871343,
-    "wof:lastmodified":1537676397,
+    "wof:lastmodified":1566673064,
     "wof:name":"Las Canas",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

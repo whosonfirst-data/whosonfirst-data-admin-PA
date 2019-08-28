@@ -23,8 +23,12 @@
     "gn:population":439,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-77.82842,8.61423,-77.78842,8.65423",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Canan"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242855705,
-    "wof:lastmodified":1564151492,
+    "wof:lastmodified":1566673523,
     "wof:name":"Canan",
     "wof:parent_id":1108693203,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":11,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.7175,7.94838,-80.6775,7.98838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
     ],
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":1276759983,
-    "wof:lastmodified":1564150732,
+    "wof:lastmodified":1566673162,
     "wof:name":"Las Palmas",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

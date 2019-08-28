@@ -23,8 +23,12 @@
     "gn:population":87,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.75035,7.86444,-80.71035,7.90444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Arena"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1360106849,
-    "wof:lastmodified":1564151261,
+    "wof:lastmodified":1566673400,
     "wof:name":"La Arena",
     "wof:parent_id":1108693247,
     "wof:placetype":"locality",

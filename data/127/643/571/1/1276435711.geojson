@@ -24,8 +24,12 @@
     "gn:population":20,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.23667,8.03,-81.19667,8.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -132,8 +136,7 @@
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Santa B\u00e1rbara de las Huacas",
-        "Santa B\u00e1rbara"
+        "Santa B\u00e1rbara de las Huacas"
     ],
     "name:vol_x_preferred":[
         "Santa B\u00e1rbara"
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1276435711,
-    "wof:lastmodified":1564150741,
+    "wof:lastmodified":1566673166,
     "wof:name":"Santa Barbara",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

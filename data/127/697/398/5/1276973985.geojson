@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.43667,7.63,-80.39667,7.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "El Cerro"
     ],
@@ -81,8 +85,7 @@
         "\u0415\u043b\u044c-\u0421\u0435\u0440\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "Los Cerros",
-        "El Cerro"
+        "Los Cerros"
     ],
     "name:vie_x_preferred":[
         "El Cerro"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1276973985,
-    "wof:lastmodified":1564150839,
+    "wof:lastmodified":1566673209,
     "wof:name":"El Cerro",
     "wof:parent_id":1108693219,
     "wof:placetype":"locality",

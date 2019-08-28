@@ -23,8 +23,12 @@
     "gn:population":66,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.88667,8.03,-80.84667,8.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Palenque"
     ],
@@ -193,7 +197,7 @@
         }
     ],
     "wof:id":1293281333,
-    "wof:lastmodified":1564150688,
+    "wof:lastmodified":1566673143,
     "wof:name":"Palenque",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",

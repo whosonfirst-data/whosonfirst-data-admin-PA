@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.827857,
     "lbl:longitude":-81.358864,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Veraguas",
     "meso:gadm_admin":"Son\u00e1",
     "meso:gadm_hasc2":"PA.VR.SO",
@@ -31,6 +33,7 @@
     "mps:longitude":-81.358864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Son\u00e1"
@@ -79,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"1,531.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Son\u00e1",
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gp:id":26793146,
         "hasc:id":"PA.VR.SO",
-        "qs:id":1263671,
+        "qs_pg:id":1263671,
         "wd:id":"Q1651000"
     },
     "wof:country":"PA",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421171349,
-    "wof:lastmodified":1561777250,
+    "wof:lastmodified":1566673464,
     "wof:name":"Son\u00e1",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":786,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.84819,8.82409,-82.80819,8.86409",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Miraflores"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1326933615,
-    "wof:lastmodified":1564150298,
+    "wof:lastmodified":1566672950,
     "wof:name":"Miraflores",
     "wof:parent_id":1108693261,
     "wof:placetype":"locality",

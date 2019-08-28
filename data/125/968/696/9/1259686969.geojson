@@ -23,8 +23,12 @@
     "gn:population":161,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.6004,8.29139,-81.5604,8.33139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Guayabal"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1259686969,
-    "wof:lastmodified":1564151587,
+    "wof:lastmodified":1566673567,
     "wof:name":"Guayabal",
     "wof:parent_id":1108693277,
     "wof:placetype":"locality",

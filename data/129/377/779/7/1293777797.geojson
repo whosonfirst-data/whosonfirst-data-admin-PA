@@ -23,8 +23,12 @@
     "gn:population":44,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.55667,7.92639,-81.51667,7.96639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293777797,
-    "wof:lastmodified":1536864308,
+    "wof:lastmodified":1566673101,
     "wof:name":"Tabacal Arriba",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.85081,
     "geom:longitude":-82.570247,
     "iso:country":"PA",
+    "lbl:bbox":"-82.6702475,8.75081,-82.4702475,8.95081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cerro Punta"
@@ -50,7 +54,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793167,
-        "qs:id":1263680,
         "qs_pg:id":1263680
     },
     "wof:country":"PA",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421201563,
-    "wof:lastmodified":1564151357,
+    "wof:lastmodified":1566673454,
     "wof:name":"Cerro Punta",
     "wof:parent_id":1108693195,
     "wof:placetype":"localadmin",

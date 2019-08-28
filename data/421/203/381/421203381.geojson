@@ -10,8 +10,12 @@
     "geom:latitude":8.71667,
     "geom:longitude":-82.45,
     "iso:country":"PA",
+    "lbl:bbox":"-82.47,8.69667,-82.43,8.73667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0430\u043c\u0456\u0440\u0430"
@@ -127,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3703505,
         "gp:id":26793666,
-        "qs:id":61349
+        "qs_pg:id":61349
     },
     "wof:country":"PA",
     "wof:created":1459010149,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":421203381,
-    "wof:lastmodified":1564151325,
+    "wof:lastmodified":1566673434,
     "wof:name":"Altamira",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

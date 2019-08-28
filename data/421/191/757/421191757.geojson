@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.346483,
     "lbl:longitude":-80.552129,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cocl\u00e9",
     "meso:gadm_admin":"Nat\u00e1",
     "meso:gadm_hasc2":"PA.CC.NT",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.552129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Nat\u00e1"
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"608.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Nat\u00e1",
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gp:id":26793122,
         "hasc:id":"PA.CC.NT",
-        "qs:id":114260,
+        "qs_pg:id":114260,
         "wd:id":"Q2215891"
     },
     "wof:country":"PA",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421191757,
-    "wof:lastmodified":1561777247,
+    "wof:lastmodified":1566673449,
     "wof:name":"Nat\u00e1",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

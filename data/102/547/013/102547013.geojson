@@ -12,6 +12,7 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Enrique Adolfo Jim\u00e9nez Airport"
     ],
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":102547013,
-    "wof:lastmodified":1563305942,
+    "wof:lastmodified":1566673001,
     "wof:name":"Enrique Adolfo Jimenez Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -23,8 +23,12 @@
     "gn:population":226,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.96017,7.93563,-80.92017,7.97563",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Tigre"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1293195725,
-    "wof:lastmodified":1564150698,
+    "wof:lastmodified":1566673148,
     "wof:name":"El Tigre",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",

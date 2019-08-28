@@ -23,8 +23,12 @@
     "gn:population":26,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.16504,7.52148,-80.12504,7.56148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0645\u0627\u062f\u06cc\u0631\u0627"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209606787,
-    "wof:lastmodified":1564150964,
+    "wof:lastmodified":1566673262,
     "wof:name":"La Madera",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

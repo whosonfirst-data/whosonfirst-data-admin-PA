@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.73122,
     "lbl:longitude":-80.790451,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Herrera",
     "meso:gadm_admin":"Las Minas",
     "meso:gadm_hasc2":"PA.HE.LN",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.790451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Las Minas"
     ],
@@ -63,9 +66,9 @@
         "\u62c9\u65af\u7c73\u7d0d\u65af\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"437.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Las Minas",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108693227,
-    "wof:lastmodified":1561777231,
+    "wof:lastmodified":1566673329,
     "wof:name":"Las Minas",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

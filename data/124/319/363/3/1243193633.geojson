@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.57,7.48,-80.53,7.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "El Cacao"
     ],
@@ -33,8 +37,7 @@
         "El Cacao"
     ],
     "name:und_x_variant":[
-        "Cacao",
-        "El Cacao"
+        "Cacao"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u5361\u8003"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243193633,
-    "wof:lastmodified":1564151519,
+    "wof:lastmodified":1566673535,
     "wof:name":"El Cacao",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

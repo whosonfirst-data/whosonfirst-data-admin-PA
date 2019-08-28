@@ -23,8 +23,12 @@
     "gn:population":210,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.19008,7.95318,-81.15008,7.99318",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Los Diaz de R\u00edo de Jes\u00fas",
         "Los D\u00edaz"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327222753,
-    "wof:lastmodified":1537676378,
+    "wof:lastmodified":1566672954,
     "wof:name":"Los Diaz",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

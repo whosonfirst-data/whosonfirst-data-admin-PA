@@ -23,8 +23,12 @@
     "gn:population":113,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.31079,8.69426,-80.27079,8.73426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Boca de Chiguir\u00ed"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276235553,
-    "wof:lastmodified":1537676483,
+    "wof:lastmodified":1566673200,
     "wof:name":"Boca de Chiguiri",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

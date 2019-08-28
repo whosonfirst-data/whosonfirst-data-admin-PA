@@ -23,8 +23,12 @@
     "gn:population":58,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.20748,8.28138,-81.16748,8.32138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310495367,
-    "wof:lastmodified":1536932282,
+    "wof:lastmodified":1566673341,
     "wof:name":"Quebrada Rica",
     "wof:parent_id":1108693201,
     "wof:placetype":"locality",

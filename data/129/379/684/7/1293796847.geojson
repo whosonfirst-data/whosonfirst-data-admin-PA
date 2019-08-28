@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.41183,8.39685,-82.37183,8.43685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Jose",
         "Llano Vichal",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293796847,
-    "wof:lastmodified":1537676387,
+    "wof:lastmodified":1566673099,
     "wof:name":"Llano Bichal",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

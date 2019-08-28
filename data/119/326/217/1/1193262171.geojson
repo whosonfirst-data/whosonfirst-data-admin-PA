@@ -23,8 +23,12 @@
     "gn:population":180,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.16056,7.88167,-81.12056,7.92167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Las Huacas"
     ],
@@ -32,8 +36,7 @@
         "Las Huacas"
     ],
     "name:und_x_variant":[
-        "La Huacas",
-        "Las Huacas"
+        "La Huacas"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u65af\u74e6\u5361\u65af"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1193262171,
-    "wof:lastmodified":1564151068,
+    "wof:lastmodified":1566673304,
     "wof:name":"Las Huacas",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

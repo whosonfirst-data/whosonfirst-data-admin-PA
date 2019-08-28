@@ -10,8 +10,12 @@
     "geom:latitude":8.794154,
     "geom:longitude":-79.5611,
     "iso:country":"PA",
+    "lbl:bbox":"-79.6611,8.694154,-79.4611,8.894154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Taboga"
@@ -50,7 +54,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793543,
-        "qs:id":1316037,
         "qs_pg:id":1316037
     },
     "wof:country":"PA",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421172659,
-    "wof:lastmodified":1564151343,
+    "wof:lastmodified":1566673443,
     "wof:name":"Taboga",
     "wof:parent_id":1108693275,
     "wof:placetype":"localadmin",

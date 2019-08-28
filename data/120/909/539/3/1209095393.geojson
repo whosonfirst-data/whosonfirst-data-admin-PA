@@ -23,8 +23,12 @@
     "gn:population":107,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.03227,8.01333,-80.99227,8.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "La Gradiana",
         "La Graciana"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209095393,
-    "wof:lastmodified":1537676409,
+    "wof:lastmodified":1566673225,
     "wof:name":"La Graciana",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

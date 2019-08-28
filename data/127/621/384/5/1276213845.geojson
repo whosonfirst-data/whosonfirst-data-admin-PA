@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.73486,8.50532,-81.69486,8.54532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cerro Puerco"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276213845,
-    "wof:lastmodified":1537676515,
+    "wof:lastmodified":1566673170,
     "wof:name":"Cerro Puerco",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

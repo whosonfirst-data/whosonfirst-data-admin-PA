@@ -23,8 +23,12 @@
     "gn:population":7,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.66355,8.55975,-80.62355,8.59975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309815053,
-    "wof:lastmodified":1536918254,
+    "wof:lastmodified":1566673425,
     "wof:name":"Chirva",
     "wof:parent_id":421191757,
     "wof:placetype":"locality",

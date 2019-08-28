@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.86013,9.34931,-79.82013,9.38931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Once de Octubre"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243269923,
-    "wof:lastmodified":1537676496,
+    "wof:lastmodified":1566673536,
     "wof:name":"Once de Octubre",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

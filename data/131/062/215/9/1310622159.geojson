@@ -23,8 +23,12 @@
     "gn:population":31,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.5703,7.42306,-80.5303,7.46306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310622159,
-    "wof:lastmodified":1536748535,
+    "wof:lastmodified":1566673344,
     "wof:name":"El Guayabo",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

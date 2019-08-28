@@ -10,8 +10,12 @@
     "geom:latitude":8.990718,
     "geom:longitude":-79.582214,
     "iso:country":"PA",
+    "lbl:bbox":"-79.682214,8.890718,-79.482214,9.090718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:nld_x_preferred":[
         "Ancon"
@@ -47,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793491,
-        "qs:id":903046,
         "qs_pg:id":903046
     },
     "wof:country":"PA",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421193479,
-    "wof:lastmodified":1564151319,
+    "wof:lastmodified":1566673429,
     "wof:name":"Ancon",
     "wof:parent_id":421203467,
     "wof:placetype":"localadmin",

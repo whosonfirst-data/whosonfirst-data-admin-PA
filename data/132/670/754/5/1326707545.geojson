@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.96544,8.79727,-81.92544,8.83727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San F\u00e9lix"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326707545,
-    "wof:lastmodified":1537676511,
+    "wof:lastmodified":1566672977,
     "wof:name":"San Felix",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

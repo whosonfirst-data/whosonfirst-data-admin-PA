@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.973846,
     "lbl:longitude":-79.676468,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Panama",
     "meso:gadm_admin":"Arraij\u00e1n",
     "meso:gadm_hasc2":"PA.PN.AR",
@@ -31,6 +33,7 @@
     "mps:longitude":-79.676468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Arraij\u00e1n"
@@ -85,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"170.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Arraij\u00e1n",
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gp:id":26793085,
         "hasc:id":"PA.PN.AR",
-        "qs:id":231696,
+        "qs_pg:id":231696,
         "wd:id":"Q2216621"
     },
     "wof:country":"PA",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421203467,
-    "wof:lastmodified":1561777242,
+    "wof:lastmodified":1566673434,
     "wof:name":"Arraijan",
     "wof:parent_id":1108805611,
     "wof:placetype":"county",

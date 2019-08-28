@@ -11,11 +11,15 @@
     "geom:longitude":-78.53333,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":817,
+    "gn:population":817,
     "iso:country":"PA",
+    "lbl:bbox":"-78.55333,9.41333,-78.51333,9.45333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tigre"
     ],
     "qs:name":"Isla Tigre",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3708484,
         "gp:id":12524412,
-        "qs:id":585048
+        "qs_pg:id":585048
     },
     "wof:country":"PA",
     "wof:created":1469051844,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890430233,
-    "wof:lastmodified":1505343517,
+    "wof:lastmodified":1566673467,
     "wof:name":"Isla Tigre",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

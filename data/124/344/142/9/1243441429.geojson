@@ -23,8 +23,12 @@
     "gn:population":301,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.92659,8.79912,-81.88659,8.83912",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Calante"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243441429,
-    "wof:lastmodified":1537676511,
+    "wof:lastmodified":1566673538,
     "wof:name":"Calante",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

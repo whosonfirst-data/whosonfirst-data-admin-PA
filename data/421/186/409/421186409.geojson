@@ -10,8 +10,12 @@
     "geom:latitude":8.51667,
     "geom:longitude":-81.08333,
     "iso:country":"PA",
+    "lbl:bbox":"-81.10333,8.49667,-81.06333,8.53667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa F\u00e9"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3701196,
         "gp:id":160265,
-        "qs:id":1341490,
+        "qs_pg:id":1341490,
         "wd:id":"Q5620819",
         "wk:page":"Santa Fe, Veraguas"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421186409,
-    "wof:lastmodified":1563306813,
+    "wof:lastmodified":1566673445,
     "wof:name":"Santa Fe",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

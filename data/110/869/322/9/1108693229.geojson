@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.043726,
     "lbl:longitude":-81.512446,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Veraguas",
     "meso:gadm_admin":"Las Palmas",
     "meso:gadm_hasc2":"PA.VR.LA",
@@ -31,6 +33,7 @@
     "mps:longitude":-81.512446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Las Palmas"
     ],
@@ -60,9 +63,9 @@
         "\u62c9\u65af\u5e15\u723e\u99ac\u65af\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"1,006.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Las Palmas",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108693229,
-    "wof:lastmodified":1561777231,
+    "wof:lastmodified":1566673329,
     "wof:name":"Las Palmas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

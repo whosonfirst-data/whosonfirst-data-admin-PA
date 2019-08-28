@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.58953,7.526,-80.54953,7.566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310097205,
-    "wof:lastmodified":1537007758,
+    "wof:lastmodified":1566673349,
     "wof:name":"Mano de Piedra",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

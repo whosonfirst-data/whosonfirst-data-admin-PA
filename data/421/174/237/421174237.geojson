@@ -10,8 +10,12 @@
     "geom:latitude":8.1537,
     "geom:longitude":-77.69308,
     "iso:country":"PA",
+    "lbl:bbox":"-77.71308,8.1337,-77.67308,8.1737",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Yaviza"
@@ -46,7 +50,7 @@
     "name:spa_x_preferred":[
         "Yaviza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yavisa"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3699980,
         "gp:id":160620,
-        "qs:id":699545,
+        "qs_pg:id":699545,
         "wd:id":"Q958605"
     },
     "wof:country":"PA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421174237,
-    "wof:lastmodified":1563306780,
+    "wof:lastmodified":1566673437,
     "wof:name":"Yaviza",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

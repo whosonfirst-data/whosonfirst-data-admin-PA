@@ -23,8 +23,12 @@
     "gn:population":486,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.75811,9.01112,-79.71811,9.05112",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Huile"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327413023,
-    "wof:lastmodified":1537676421,
+    "wof:lastmodified":1566672965,
     "wof:name":"Huile",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

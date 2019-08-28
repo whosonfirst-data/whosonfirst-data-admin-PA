@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3782241.1407,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.501893,8.9883,-79.501893,8.9883",
     "geom:latitude":8.9883,
     "geom:longitude":-79.501893,
-    "gn:gn_country":"PA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PA",
+    "gn:fcode":"PPLX",
     "gn:latitude":8.98333,
     "gn:longitude":-79.5,
+    "gn:population":0,
     "iso:country":"PA",
+    "lbl:bbox":"-79.506893,8.9833,-79.496893,8.9933",
     "lbl:latitude":8.9883,
     "lbl:longitude":-79.501893,
+    "lbl:max_zoom":18.0,
     "mps:latitude":8.985842,
     "mps:longitude":-79.496727,
     "mz:hierarchy_label":0,
@@ -43,10 +45,6 @@
         "S Francisco de la Caleta",
         "Nuevo San Francisco",
         "Nuevo S Francisco"
-    ],
-    "name:unk_x_variant":[
-        "Nuevo San Francisco",
-        "San Francisco de la Caleta"
     ],
     "qs:gn_adm0_cc":"PA",
     "qs:gn_fcode":"PPLX",
@@ -96,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675789,
         102191575,
@@ -107,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3701469,
         "gp:id":160151,
-        "qs:id":1082660,
         "qs_pg:id":1082660
     },
     "wof:country":"PA",
@@ -126,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379393,
+    "wof:lastmodified":1566673073,
     "wof:name":"San Francisco de la Caleta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":18,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.305,7.97111,-81.265,8.01111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343257775,
-    "wof:lastmodified":1537037172,
+    "wof:lastmodified":1566673040,
     "wof:name":"Esclere",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

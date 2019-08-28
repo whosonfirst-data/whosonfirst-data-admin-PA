@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-77.55395,8.66374,-77.51395,8.70374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pit\u00f3"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276216549,
-    "wof:lastmodified":1564150751,
+    "wof:lastmodified":1566673171,
     "wof:name":"Pito",
     "wof:parent_id":1108693213,
     "wof:placetype":"locality",

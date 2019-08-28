@@ -23,8 +23,12 @@
     "gn:population":141,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.24092,8.16298,-81.20092,8.20298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Bisvalles"
     ],
@@ -32,8 +36,7 @@
         "Bisvalles"
     ],
     "name:und_x_variant":[
-        "Bisvaya",
-        "Bisvalles"
+        "Bisvaya"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u65af\u74e6\u5217\u65af"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1193007247,
-    "wof:lastmodified":1564151036,
+    "wof:lastmodified":1566673291,
     "wof:name":"Bisvalles",
     "wof:parent_id":1108693225,
     "wof:placetype":"locality",

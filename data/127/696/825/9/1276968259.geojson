@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.00333,7.63,-80.96333,7.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Llano de Catival",
         "Catival"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276968259,
-    "wof:lastmodified":1537676472,
+    "wof:lastmodified":1566673214,
     "wof:name":"Catival",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

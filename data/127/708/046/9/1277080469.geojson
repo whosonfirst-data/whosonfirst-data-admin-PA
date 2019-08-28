@@ -23,8 +23,12 @@
     "gn:population":11,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.65962,9.57787,-79.61962,9.61787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1277080469,
-    "wof:lastmodified":1564150717,
+    "wof:lastmodified":1566673154,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

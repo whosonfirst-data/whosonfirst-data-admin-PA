@@ -10,8 +10,12 @@
     "geom:latitude":8.38333,
     "geom:longitude":-80.11667,
     "iso:country":"PA",
+    "lbl:bbox":"-80.13667,8.36333,-80.09667,8.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Santa Clara"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3701242,
         "gp:id":160247,
-        "qs:id":1046576,
+        "qs_pg:id":1046576,
         "wd:id":"Q7419301",
         "wk:page":"Santa Clara, Cocl\u00e9"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":421176507,
-    "wof:lastmodified":1563306880,
+    "wof:lastmodified":1566673462,
     "wof:name":"Santa Clara",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

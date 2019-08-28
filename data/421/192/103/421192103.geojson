@@ -10,8 +10,12 @@
     "geom:latitude":8.86667,
     "geom:longitude":-82.55,
     "iso:country":"PA",
+    "lbl:bbox":"-82.57,8.84667,-82.53,8.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Erd\u00f6lraffinerie Paraguan\u00e1"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3714468,
         "gp:id":154789,
-        "qs:id":1165188
+        "qs_pg:id":1165188
     },
     "wof:country":"PA",
     "wof:created":1459009725,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421192103,
-    "wof:lastmodified":1501268798,
+    "wof:lastmodified":1566673427,
     "wof:name":"Bajo Grande",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

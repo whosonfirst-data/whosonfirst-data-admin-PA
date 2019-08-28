@@ -10,8 +10,12 @@
     "geom:latitude":9.358795,
     "geom:longitude":-79.90247,
     "iso:country":"PA",
+    "lbl:bbox":"-80.00247,9.258795,-79.80247,9.458795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Barrio Sur"
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793324,
-        "qs:id":903041
+        "qs_pg:id":903041
     },
     "wof:country":"PA",
     "wof:created":1459009047,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":421174883,
-    "wof:lastmodified":1564151331,
+    "wof:lastmodified":1566673437,
     "wof:name":"Barrio Sur",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

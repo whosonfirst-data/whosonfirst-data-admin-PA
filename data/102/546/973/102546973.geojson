@@ -12,6 +12,8 @@
     "iso:country":"PA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "PVE",
         "KPVE"
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":102546973,
-    "wof:lastmodified":1527638126,
+    "wof:lastmodified":1566673001,
     "wof:name":"El Porvenir Airport",
     "wof:parent_id":85675801,
     "wof:placetype":"campus",

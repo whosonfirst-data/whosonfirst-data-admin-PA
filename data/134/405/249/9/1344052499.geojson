@@ -23,8 +23,12 @@
     "gn:population":143,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.69974,9.05393,-78.65974,9.09393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Quebrada Cali"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344052499,
-    "wof:lastmodified":1537676499,
+    "wof:lastmodified":1566673058,
     "wof:name":"Quebrada Cali",
     "wof:parent_id":421176107,
     "wof:placetype":"locality",

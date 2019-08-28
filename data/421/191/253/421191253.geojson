@@ -10,8 +10,12 @@
     "geom:latitude":8.15,
     "geom:longitude":-81.18333,
     "iso:country":"PA",
+    "lbl:bbox":"-81.28333,8.05,-81.08333,8.25",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Mesa District"
@@ -31,7 +35,7 @@
     "name:spa_x_variant":[
         "La Mesa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Las Mesa"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,6 @@
     "wof:concordances":{
         "gn:id":3707227,
         "gp:id":26793615,
-        "qs:id":61280,
         "qs_pg:id":61280,
         "wd:id":"Q2216424",
         "wk:page":"La Mesa District"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421191253,
-    "wof:lastmodified":1563306832,
+    "wof:lastmodified":1566673450,
     "wof:name":"La Mesa",
     "wof:parent_id":1108693225,
     "wof:placetype":"localadmin",

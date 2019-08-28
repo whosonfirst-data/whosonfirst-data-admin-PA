@@ -23,8 +23,12 @@
     "gn:population":693,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.38533,8.52151,-80.34533,8.56151",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Las Delicias"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343860151,
-    "wof:lastmodified":1564150541,
+    "wof:lastmodified":1566673070,
     "wof:name":"Las Delicias",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

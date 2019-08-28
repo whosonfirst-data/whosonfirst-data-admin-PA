@@ -10,8 +10,12 @@
     "geom:latitude":8.10991,
     "geom:longitude":-77.73438,
     "iso:country":"PA",
+    "lbl:bbox":"-77.75438,8.08991,-77.71438,8.12991",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "El Real de Santa Mar\u00eda"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "El Real de Santa Mar\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Real de Santa Maria"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3710058,
         "gp:id":156732,
-        "qs:id":214555,
+        "qs_pg:id":214555,
         "wd:id":"Q5015515",
         "wk:page":"El Real de Santa Mar\u00eda"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421201779,
-    "wof:lastmodified":1561777248,
+    "wof:lastmodified":1566673454,
     "wof:name":"El Real de Santa Mar\u00eda",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

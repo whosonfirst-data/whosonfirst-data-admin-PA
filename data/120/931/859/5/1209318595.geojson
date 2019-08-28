@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.15053,8.91692,-82.11053,8.95692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Quebrada del Bajo"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209318595,
-    "wof:lastmodified":1537676351,
+    "wof:lastmodified":1566673226,
     "wof:name":"Quebrada del Bajo",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

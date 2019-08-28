@@ -23,8 +23,12 @@
     "gn:population":489,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.51165,8.60978,-80.47165,8.64978",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Calabazo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310508885,
-    "wof:lastmodified":1537676454,
+    "wof:lastmodified":1566673373,
     "wof:name":"El Calabazo",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

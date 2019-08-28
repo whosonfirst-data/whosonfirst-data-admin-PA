@@ -24,8 +24,12 @@
     "gn:population":46,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.14656,9.15521,-80.10656,9.19521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "R\u00edo Ca\u00f1o Claro",
         "Ca\u00f1o Claro"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277005971,
-    "wof:lastmodified":1537676474,
+    "wof:lastmodified":1566673159,
     "wof:name":"Cano Claro",
     "wof:parent_id":1108693205,
     "wof:placetype":"locality",

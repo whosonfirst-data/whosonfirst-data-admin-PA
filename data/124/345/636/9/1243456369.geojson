@@ -23,8 +23,12 @@
     "gn:population":71,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.27173,8.67061,-80.23173,8.71061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bejuco"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243456369,
-    "wof:lastmodified":1564151515,
+    "wof:lastmodified":1566673533,
     "wof:name":"Bejuco",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

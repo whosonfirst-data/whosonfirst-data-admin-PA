@@ -10,8 +10,12 @@
     "geom:latitude":8.31667,
     "geom:longitude":-81.21667,
     "iso:country":"PA",
+    "lbl:bbox":"-81.31667,8.21667,-81.11667,8.41667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ca\u00f1azas"
@@ -59,7 +63,6 @@
     "wof:concordances":{
         "gn:id":3713196,
         "gp:id":26793592,
-        "qs:id":1046615,
         "qs_pg:id":1046615,
         "wd:id":"Q13362652",
         "wk:page":"Ca\u00f1azas"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421185837,
-    "wof:lastmodified":1563306896,
+    "wof:lastmodified":1566673466,
     "wof:name":"Ca\u00f1azas",
     "wof:parent_id":1108693201,
     "wof:placetype":"localadmin",

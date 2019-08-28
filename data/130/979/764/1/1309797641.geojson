@@ -23,8 +23,12 @@
     "gn:population":157,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.27785,7.60229,-80.23785,7.64229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Lagunitas",
         "Las Lagunitas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309797641,
-    "wof:lastmodified":1537676395,
+    "wof:lastmodified":1566673412,
     "wof:name":"Las Lagunitas",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

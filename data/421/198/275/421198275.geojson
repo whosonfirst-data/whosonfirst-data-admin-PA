@@ -10,8 +10,12 @@
     "geom:latitude":8.28333,
     "geom:longitude":-81.86667,
     "iso:country":"PA",
+    "lbl:bbox":"-81.88667,8.26333,-81.84667,8.30333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San F\u00e9lix"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3701491,
         "gp:id":160145,
-        "qs:id":1117726,
+        "qs_pg:id":1117726,
         "wd:id":"Q20990954"
     },
     "wof:country":"PA",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421198275,
-    "wof:lastmodified":1561777246,
+    "wof:lastmodified":1566673447,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":421176641,
     "wof:placetype":"locality",

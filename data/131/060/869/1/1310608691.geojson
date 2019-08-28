@@ -23,8 +23,12 @@
     "gn:population":400,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.24623,8.53119,-80.20623,8.57119",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "San Juan de Dios"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310608691,
-    "wof:lastmodified":1564151220,
+    "wof:lastmodified":1566673382,
     "wof:name":"San Juan de Dios",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

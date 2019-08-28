@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.69349,8.26989,-81.65349,8.30989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Alto Caballero"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293860937,
-    "wof:lastmodified":1537676491,
+    "wof:lastmodified":1566673150,
     "wof:name":"Alto Caballero",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

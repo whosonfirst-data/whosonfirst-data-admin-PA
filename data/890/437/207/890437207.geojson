@@ -11,11 +11,15 @@
     "geom:longitude":-82.13333,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":1500,
+    "gn:population":1500,
     "iso:country":"PA",
+    "lbl:bbox":"-82.15333,9.28,-82.11333,9.32",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Old Bank Island"
     ],
     "qs:name":"Isla Bastimentos",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3714260,
         "gp:id":154866,
-        "qs:id":1046627
+        "qs_pg:id":1046627
     },
     "wof:country":"PA",
     "wof:created":1469052142,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437207,
-    "wof:lastmodified":1505343558,
+    "wof:lastmodified":1566673467,
     "wof:name":"Isla Bastimentos",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

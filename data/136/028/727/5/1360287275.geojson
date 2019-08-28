@@ -23,8 +23,12 @@
     "gn:population":135,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.25702,8.51141,-80.21702,8.55141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360287275,
-    "wof:lastmodified":1536653902,
+    "wof:lastmodified":1566673400,
     "wof:name":"Los Martinez",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

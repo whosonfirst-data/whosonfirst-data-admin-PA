@@ -10,8 +10,12 @@
     "geom:latitude":8.96667,
     "geom:longitude":-79.56667,
     "iso:country":"PA",
+    "lbl:bbox":"-79.58667,8.94667,-79.54667,8.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3711645,
         "gp:id":155777,
-        "qs:id":1082646
+        "qs_pg:id":1082646
     },
     "wof:country":"PA",
     "wof:created":1459009507,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421187281,
-    "wof:lastmodified":1500018305,
+    "wof:lastmodified":1566673438,
     "wof:name":"Diablo Heights",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

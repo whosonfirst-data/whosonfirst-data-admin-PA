@@ -24,8 +24,12 @@
     "gn:population":37,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.07722,7.55639,-81.03722,7.59639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Divorcio",
         "El Divorcio"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276645137,
-    "wof:lastmodified":1537676449,
+    "wof:lastmodified":1566673209,
     "wof:name":"El Divorcio",
     "wof:parent_id":421171341,
     "wof:placetype":"locality",

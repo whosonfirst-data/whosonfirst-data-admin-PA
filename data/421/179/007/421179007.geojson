@@ -10,8 +10,12 @@
     "geom:latitude":9.30389,
     "geom:longitude":-79.79444,
     "iso:country":"PA",
+    "lbl:bbox":"-79.81444,9.28389,-79.77444,9.32389",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "R\u00edo Rita"
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3701816,
         "gp:id":160038,
-        "qs:id":1204729,
+        "qs_pg:id":1204729,
         "wd:id":"Q7386394",
         "wk:page":"R\u00edo Rita"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421179007,
-    "wof:lastmodified":1563306873,
+    "wof:lastmodified":1566673460,
     "wof:name":"R\u00edo Rita",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

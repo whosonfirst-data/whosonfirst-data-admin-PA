@@ -23,8 +23,12 @@
     "gn:population":224,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.27559,7.68106,-81.23559,7.72106",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Tigre de Los Amarillos"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293184677,
-    "wof:lastmodified":1537676506,
+    "wof:lastmodified":1566673135,
     "wof:name":"El Tigre de Los Amarillos",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

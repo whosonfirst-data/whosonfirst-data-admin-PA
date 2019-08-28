@@ -10,8 +10,12 @@
     "geom:latitude":9.33611,
     "geom:longitude":-79.6025,
     "iso:country":"PA",
+    "lbl:bbox":"-79.7025,9.23611,-79.5025,9.43611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Salamanca"
@@ -301,7 +305,6 @@
     "wof:concordances":{
         "gn:id":3701649,
         "gp:id":26793316,
-        "qs:id":1103626,
         "qs_pg:id":1103626
     },
     "wof:country":"PA",
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":421188607,
-    "wof:lastmodified":1564151342,
+    "wof:lastmodified":1566673443,
     "wof:name":"Salamanca",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

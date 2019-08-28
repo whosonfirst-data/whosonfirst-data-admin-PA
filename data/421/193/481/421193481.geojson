@@ -10,8 +10,12 @@
     "geom:latitude":8.60834,
     "geom:longitude":-80.04924,
     "iso:country":"PA",
+    "lbl:bbox":"-80.14924,8.50834,-79.94924,8.70834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793561,
-        "qs:id":903047
+        "qs_pg:id":903047
     },
     "wof:country":"PA",
     "wof:created":1459009773,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421193481,
-    "wof:lastmodified":1500018208,
+    "wof:lastmodified":1566673430,
     "wof:name":"La Laguna",
     "wof:parent_id":421171351,
     "wof:placetype":"localadmin",

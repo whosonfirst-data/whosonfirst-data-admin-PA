@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.30772,9.25163,-82.26772,9.29163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Valle Escondido"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243085069,
-    "wof:lastmodified":1537676504,
+    "wof:lastmodified":1566673480,
     "wof:name":"Valle Escondido",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

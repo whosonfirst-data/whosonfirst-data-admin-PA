@@ -23,8 +23,12 @@
     "gn:population":39,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.50333,7.93,-80.46333,7.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "La Flora"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326723097,
-    "wof:lastmodified":1564150280,
+    "wof:lastmodified":1566672941,
     "wof:name":"La Flora",
     "wof:parent_id":421189055,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":23,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.1725,7.93611,-81.1325,7.97611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Ya\u00f1ez Abajo",
         "Y\u00e1\u00f1es Abajo",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243257799,
-    "wof:lastmodified":1537676372,
+    "wof:lastmodified":1566673507,
     "wof:name":"Los Yanez Abajo",
     "wof:parent_id":1108693263,
     "wof:placetype":"locality",

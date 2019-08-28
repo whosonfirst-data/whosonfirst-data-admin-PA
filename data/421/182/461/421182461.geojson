@@ -10,8 +10,12 @@
     "geom:latitude":8.41667,
     "geom:longitude":-80.65,
     "iso:country":"PA",
+    "lbl:bbox":"-80.75,8.31667,-80.55,8.51667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Ol\u00e1"
@@ -41,9 +45,6 @@
         "Ol\u00e1"
     ],
     "name:spa_x_preferred":[
-        "Ol\u00e1"
-    ],
-    "name:unk_x_variant":[
         "Ol\u00e1"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3703745,
         "gp:id":26793284,
-        "qs:id":911913,
+        "qs_pg:id":911913,
         "wd:id":"Q2658323",
         "wk:page":"Ol\u00e1"
     },
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":421182461,
-    "wof:lastmodified":1563306878,
+    "wof:lastmodified":1566673461,
     "wof:name":"Ola",
     "wof:parent_id":1108693249,
     "wof:placetype":"localadmin",

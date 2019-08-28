@@ -23,8 +23,12 @@
     "gn:population":59,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.4446,8.56573,-80.4046,8.60573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242689483,
-    "wof:lastmodified":1536902722,
+    "wof:lastmodified":1566673493,
     "wof:name":"La Herrada",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

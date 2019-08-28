@@ -10,8 +10,12 @@
     "geom:latitude":8.8,
     "geom:longitude":-79.55,
     "iso:country":"PA",
+    "lbl:bbox":"-79.57,8.78,-79.53,8.82",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taboga"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3700802,
         "gp:id":160377,
-        "qs:id":297809,
+        "qs_pg:id":297809,
         "wd:id":"Q21065817",
         "wk:page":"Taboga Island"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421198025,
-    "wof:lastmodified":1563306825,
+    "wof:lastmodified":1566673447,
     "wof:name":"Taboga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.11949,8.50194,-78.07949,8.54194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Delicias"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Delicia",
         "La Delica",
-        "La Delicia",
-        "Las Delicias"
+        "La Delicia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1310010649,
-    "wof:lastmodified":1564151163,
+    "wof:lastmodified":1566673354,
     "wof:name":"Las Delicias",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

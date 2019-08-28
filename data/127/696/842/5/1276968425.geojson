@@ -24,8 +24,12 @@
     "gn:population":6,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.37569,8.01371,-81.33569,8.05371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Los Mones",
         "Los Monos"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276968425,
-    "wof:lastmodified":1537676376,
+    "wof:lastmodified":1566673213,
     "wof:name":"Los Monos",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.32689,9.30524,-78.28689,9.34524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Irgand\u00ed"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1276855555,
-    "wof:lastmodified":1537676420,
+    "wof:lastmodified":1566673197,
     "wof:name":"Irgandi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

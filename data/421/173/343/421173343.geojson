@@ -10,8 +10,12 @@
     "geom:latitude":8.6,
     "geom:longitude":-82.73333,
     "iso:country":"PA",
+    "lbl:bbox":"-82.75333,8.58,-82.71333,8.62",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Andr\u00e9s"
@@ -22,7 +26,7 @@
     "name:spa_x_preferred":[
         "San Andr\u00e9s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Andreas"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3701578,
         "gp:id":160120,
-        "qs:id":287278,
+        "qs_pg:id":287278,
         "wd:id":"Q19360701"
     },
     "wof:country":"PA",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421173343,
-    "wof:lastmodified":1561777244,
+    "wof:lastmodified":1566673442,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

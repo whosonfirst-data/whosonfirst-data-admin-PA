@@ -23,8 +23,12 @@
     "gn:population":181,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.35906,8.76593,-80.31906,8.80593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Boca de Lura"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327433239,
-    "wof:lastmodified":1537676481,
+    "wof:lastmodified":1566672993,
     "wof:name":"Boca de Lura",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

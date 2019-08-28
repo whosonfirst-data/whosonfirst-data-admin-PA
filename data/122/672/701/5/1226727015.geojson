@@ -23,8 +23,12 @@
     "gn:population":240,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.82012,8.40303,-81.78012,8.44303",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u0995\u09cb\u09b2"
     ],
@@ -89,8 +93,7 @@
         "\u041a\u0430\u0440\u0430\u043a\u043e\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Caraco",
-        "Caracol"
+        "Caraco"
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u79d1\u5c14"
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1226727015,
-    "wof:lastmodified":1564151629,
+    "wof:lastmodified":1566673587,
     "wof:name":"Caracol",
     "wof:parent_id":1108693245,
     "wof:placetype":"locality",

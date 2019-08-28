@@ -23,8 +23,12 @@
     "gn:population":80,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.38022,8.81957,-80.34022,8.85957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Guayabo",
         "Toabr\u00e9 Abajo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225956003,
-    "wof:lastmodified":1537676336,
+    "wof:lastmodified":1566673586,
     "wof:name":"El Guayabo",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

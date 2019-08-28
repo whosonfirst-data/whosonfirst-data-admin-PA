@@ -10,8 +10,12 @@
     "geom:latitude":9.052698,
     "geom:longitude":-79.450831,
     "iso:country":"PA",
+    "lbl:bbox":"-79.470831,9.032698,-79.430831,9.072698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0648\u062f\u0627\u062f \u062c\u0627\u0631\u062f\u064a\u0646 \u0622\u064a\u0644 \u064a\u0628\u0631\u062a\u0627\u062f\u0648\u0631"
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793757,
-        "qs:id":484030
+        "qs_pg:id":484030
     },
     "wof:country":"PA",
     "wof:created":1459009997,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421199673,
-    "wof:lastmodified":1500018306,
+    "wof:lastmodified":1566673452,
     "wof:name":"Ciudad Jardin San Antonio",
     "wof:parent_id":421175375,
     "wof:placetype":"locality",

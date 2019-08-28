@@ -23,8 +23,12 @@
     "gn:population":176,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.6683,7.44261,-80.6283,7.48261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Pintada"
     ],
@@ -47,8 +51,7 @@
         "La Pintada"
     ],
     "name:und_x_variant":[
-        "La Pintaita",
-        "La Pintada"
+        "La Pintaita"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1210013537,
-    "wof:lastmodified":1564151028,
+    "wof:lastmodified":1566673287,
     "wof:name":"La Pintada",
     "wof:parent_id":421203469,
     "wof:placetype":"locality",

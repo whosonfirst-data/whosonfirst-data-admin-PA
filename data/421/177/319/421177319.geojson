@@ -10,8 +10,12 @@
     "geom:latitude":9.15,
     "geom:longitude":-79.61667,
     "iso:country":"PA",
+    "lbl:bbox":"-79.63667,9.13,-79.59667,9.17",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0427\u0438\u043b\u0438\u0431\u0440\u0435"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3712455,
         "gp:id":155566,
-        "qs:id":1174571,
+        "qs_pg:id":1174571,
         "wd:id":"Q5098951",
         "wk:page":"Chilibre"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421177319,
-    "wof:lastmodified":1563306867,
+    "wof:lastmodified":1566673458,
     "wof:name":"Chilibre",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":73,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.92516,7.4367,-80.88516,7.4767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "La Rusia",
         "Rusia Nueva"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326719539,
-    "wof:lastmodified":1537676345,
+    "wof:lastmodified":1566672976,
     "wof:name":"Rusia Nueva",
     "wof:parent_id":1108693239,
     "wof:placetype":"locality",

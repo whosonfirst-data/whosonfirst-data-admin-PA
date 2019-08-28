@@ -11,10 +11,14 @@
     "geom:longitude":-79.9,
     "gn:country":"PA",
     "gn:fcode":"PPL",
-    "gn:pop":4059,
+    "gn:population":4059,
     "iso:country":"PA",
+    "lbl:bbox":"-79.92,8.73,-79.88,8.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "L\u00eddice"
     ],
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":3705894,
         "gp:id":158342,
-        "qs:id":1046603,
+        "qs_pg:id":1046603,
         "wd:id":"Q931897",
         "wk:page":"L\u00eddice"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890438869,
-    "wof:lastmodified":1563306903,
+    "wof:lastmodified":1566673468,
     "wof:name":"L\u00eddice",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

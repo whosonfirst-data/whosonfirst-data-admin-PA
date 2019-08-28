@@ -10,8 +10,12 @@
     "geom:latitude":8.6,
     "geom:longitude":-80.45,
     "iso:country":"PA",
+    "lbl:bbox":"-80.47,8.58,-80.43,8.62",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Pintada"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3706931,
         "gp:id":157839,
-        "qs:id":228606,
+        "qs_pg:id":228606,
         "wd:id":"Q4845032",
         "wk:page":"La Pintada, Panama"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421202865,
-    "wof:lastmodified":1563306771,
+    "wof:lastmodified":1566673435,
     "wof:name":"La Pintada",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

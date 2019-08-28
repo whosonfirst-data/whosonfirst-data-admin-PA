@@ -23,8 +23,12 @@
     "gn:population":665,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.74862,8.61374,-82.70862,8.65374",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -526,7 +530,7 @@
         }
     ],
     "wof:id":1242686789,
-    "wof:lastmodified":1564151423,
+    "wof:lastmodified":1566673493,
     "wof:name":"San Francisco",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

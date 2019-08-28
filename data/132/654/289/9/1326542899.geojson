@@ -23,8 +23,12 @@
     "gn:population":28,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.44942,8.64684,-82.40942,8.68684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Tortuga"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1326542899,
-    "wof:lastmodified":1564150380,
+    "wof:lastmodified":1566672991,
     "wof:name":"Tortuga",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

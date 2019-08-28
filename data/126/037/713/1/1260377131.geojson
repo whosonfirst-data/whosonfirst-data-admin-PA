@@ -23,8 +23,12 @@
     "gn:population":10,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.02,8.94667,-79.98,8.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260377131,
-    "wof:lastmodified":1537080379,
+    "wof:lastmodified":1566673313,
     "wof:name":"Los Chorros de Trinidad",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

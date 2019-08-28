@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.121292,
     "lbl:longitude":-80.078579,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Col\u00f3n",
     "mps:latitude":9.114891,
     "mps:longitude":-80.073645,
@@ -172,7 +173,7 @@
         "Col\u00f3n"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb2\u0bcb\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcb\u0bb2\u0bcb\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4a\u0c32\u0c4b\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -188,9 +189,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Provincia de Col\u00f3n"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0644\u0648\u0646 \u0635\u0648\u0628\u06c1"
@@ -273,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"4,891",
     "statoids:area_mi":"1,888",
     "statoids:as_of_date":"2010-05-16",
@@ -300,7 +298,7 @@
         "gp:id":2346554,
         "hasc:id":"PA.CL",
         "iso:id":"PA-3",
-        "qs:id":1168713,
+        "qs_pg:id":1168713,
         "unlc:id":"PA-3",
         "wd:id":"Q820514",
         "wk:page":"Col\u00f3n Province"
@@ -321,11 +319,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565732212,
+    "wof:lastmodified":1566673078,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":241928,
     "wof:population_rank":10,

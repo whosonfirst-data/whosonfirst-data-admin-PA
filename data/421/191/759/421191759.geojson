@@ -10,8 +10,12 @@
     "geom:latitude":8.646593,
     "geom:longitude":-79.706668,
     "iso:country":"PA",
+    "lbl:bbox":"-79.806668,8.5465925,-79.606668,8.7465925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "Punta Chame"
@@ -51,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26793560,
-        "qs:id":114384
+        "qs_pg:id":114384
     },
     "wof:country":"PA",
     "wof:created":1459009707,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421191759,
-    "wof:lastmodified":1564151347,
+    "wof:lastmodified":1566673449,
     "wof:name":"Punta Chame",
     "wof:parent_id":421189053,
     "wof:placetype":"localadmin",

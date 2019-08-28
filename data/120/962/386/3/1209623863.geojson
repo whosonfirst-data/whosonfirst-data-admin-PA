@@ -23,8 +23,12 @@
     "gn:population":4160,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.44417,8.47601,-82.40417,8.51601",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Los Algarrobos"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Algarrobo",
-        "Algarrabo",
-        "Los Algarrobos"
+        "Algarrabo"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u963f\u723e\u52a0\u7f85\u535a\u65af"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209623863,
-    "wof:lastmodified":1564150890,
+    "wof:lastmodified":1566673230,
     "wof:name":"Los Algarrobos",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

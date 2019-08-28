@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.65333,7.61333,-80.61333,7.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Nig\u00fcito",
         "Hondo del Nig\u00fcito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310302715,
-    "wof:lastmodified":1537676421,
+    "wof:lastmodified":1566673352,
     "wof:name":"Hondo del Niguito",
     "wof:parent_id":1108693237,
     "wof:placetype":"locality",

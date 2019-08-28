@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":8.72491,
     "lbl:longitude":-80.338454,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":8.72491,
     "mps:longitude":-80.338454,
     "mz:hierarchy_label":1,
@@ -704,9 +706,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
-    "name:und_x_preferred":[
-        "Panama"
-    ],
     "name:und_x_variant":[
         "Republika Panama"
     ],
@@ -865,7 +864,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"507",
     "statoids:ds":"PA",
@@ -910,7 +909,7 @@
         "mzb:id":"panama",
         "ne:adm0_a3":"PAN",
         "nyt:id":"66204804414622269441",
-        "qs:id":224789,
+        "qs_pg:id":224789,
         "uncrt:id":"PA",
         "wd:id":"Q804",
         "wk:page":"Panama",
@@ -932,7 +931,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565732212,
+    "wof:lastmodified":1566673079,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

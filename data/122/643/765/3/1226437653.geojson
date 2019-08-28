@@ -24,8 +24,12 @@
     "gn:population":4,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.42,7.98,-81.38,8.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Cabecera Tobalico",
         "Cabecera de Tob\u00e1lico"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226437653,
-    "wof:lastmodified":1537676478,
+    "wof:lastmodified":1566673590,
     "wof:name":"Cabecera de Tobalico",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

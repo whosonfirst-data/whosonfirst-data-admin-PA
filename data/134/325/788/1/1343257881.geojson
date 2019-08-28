@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.97109,8.51754,-80.93109,8.55754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Gatucito"
     ],
@@ -32,7 +36,6 @@
         "Gatuncito"
     ],
     "name:und_x_variant":[
-        "Gatuncito",
         "Gatuncillo",
         "Gat\u00fa"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343257881,
-    "wof:lastmodified":1564150483,
+    "wof:lastmodified":1566673041,
     "wof:name":"Gatu",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

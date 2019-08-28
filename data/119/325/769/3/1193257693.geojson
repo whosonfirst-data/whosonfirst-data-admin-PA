@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.05333,8.53,-80.01333,8.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Poma"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1193257693,
-    "wof:lastmodified":1564151053,
+    "wof:lastmodified":1566673299,
     "wof:name":"La Poma",
     "wof:parent_id":421171351,
     "wof:placetype":"locality",

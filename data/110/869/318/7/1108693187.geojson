@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.014925,
     "lbl:longitude":-80.91187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Veraguas",
     "meso:gadm_admin":"Atalaya",
     "meso:gadm_hasc2":"PA.VR.AT",
@@ -31,6 +33,7 @@
     "mps:longitude":-80.91187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Atalaya"
     ],
@@ -57,9 +60,9 @@
         "\u963f\u5854\u62c9\u4e9e\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-16",
+    "src:population_date":"2010-05-16",
     "statoids:area_km":"157.0",
     "statoids:as_of_date":"2010-05-16",
     "statoids:capital":"Atalaya",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108693187,
-    "wof:lastmodified":1561777232,
+    "wof:lastmodified":1566673331,
     "wof:name":"Atalaya",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

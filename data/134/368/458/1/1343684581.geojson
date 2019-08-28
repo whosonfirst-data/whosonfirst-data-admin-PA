@@ -23,8 +23,12 @@
     "gn:population":653,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.22927,8.0054,-78.18927,8.0454",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Samb\u00fa"
     ],
@@ -32,9 +36,6 @@
         "Samb\u00fa"
     ],
     "name:spa_x_preferred":[
-        "Samb\u00fa"
-    ],
-    "name:und_x_variant":[
         "Samb\u00fa"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1343684581,
-    "wof:lastmodified":1564150491,
+    "wof:lastmodified":1566673045,
     "wof:name":"Sambu",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

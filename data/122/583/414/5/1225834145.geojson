@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.44033,7.70023,-81.40033,7.74023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cabecera de Quebrada Grande"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225834145,
-    "wof:lastmodified":1537676495,
+    "wof:lastmodified":1566673663,
     "wof:name":"Cabecera de Quebrada Grande",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

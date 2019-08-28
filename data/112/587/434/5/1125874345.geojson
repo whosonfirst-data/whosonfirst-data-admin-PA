@@ -9,15 +9,18 @@
     "geom:bbox":"-80.21667,8.56667,-80.21667,8.56667",
     "geom:latitude":8.56667,
     "geom:longitude":-80.21667,
-    "gn:gn_country":"PA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1006,
-    "gn:population":1049,
+    "gn:country":"PA",
+    "gn:fcode":"PPL",
+    "gn:population":1006,
     "iso:country":"PA",
+    "lbl:bbox":"-80.23667,8.54667,-80.19667,8.58667",
     "lbl:latitude":8.56667,
     "lbl:longitude":-80.21667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Entradero"
@@ -34,7 +37,7 @@
     "name:spa_x_preferred":[
         "Entradero"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Entradero Marica"
     ],
     "qs_pg:aaroncc":"PA",
@@ -49,7 +52,7 @@
     "qs_pg:qs_id":150249,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125874345,
-    "wof:lastmodified":1563306912,
+    "wof:lastmodified":1566673471,
     "wof:name":"El Entradero",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

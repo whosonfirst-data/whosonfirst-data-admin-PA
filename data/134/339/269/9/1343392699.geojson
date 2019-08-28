@@ -23,8 +23,12 @@
     "gn:population":537,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-78.27671,8.55508,-78.23671,8.59508",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Cucunat\u00ed"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343392699,
-    "wof:lastmodified":1564150417,
+    "wof:lastmodified":1566673010,
     "wof:name":"Cucunati",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

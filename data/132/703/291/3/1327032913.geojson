@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.46724,8.74715,-82.42724,8.78715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Volcancito"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327032913,
-    "wof:lastmodified":1537676486,
+    "wof:lastmodified":1566672974,
     "wof:name":"Volcancito",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.18667,8.28,-81.14667,8.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Varas",
         "Llano de Las Varas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226337491,
-    "wof:lastmodified":1537676386,
+    "wof:lastmodified":1566673603,
     "wof:name":"Llano de Las Varas",
     "wof:parent_id":1108693201,
     "wof:placetype":"locality",

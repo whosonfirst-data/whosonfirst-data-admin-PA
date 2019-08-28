@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-82.42548,9.22875,-82.38548,9.26875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "R\u00edo Oeste Abajo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226060569,
-    "wof:lastmodified":1537676506,
+    "wof:lastmodified":1566673648,
     "wof:name":"Rio Oeste Abajo",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

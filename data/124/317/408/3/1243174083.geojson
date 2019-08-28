@@ -23,8 +23,12 @@
     "gn:population":62,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.74798,8.5401,-80.70798,8.5801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Zapato"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243174083,
-    "wof:lastmodified":1537676430,
+    "wof:lastmodified":1566673534,
     "wof:name":"El Zapato",
     "wof:parent_id":1108693249,
     "wof:placetype":"locality",

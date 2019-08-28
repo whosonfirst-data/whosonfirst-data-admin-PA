@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.07121,9.12674,-80.03121,9.16674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Gloria"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1193143343,
-    "wof:lastmodified":1564151052,
+    "wof:lastmodified":1566673298,
     "wof:name":"La Gloria",
     "wof:parent_id":1108693205,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":251,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.12199,8.39281,-79.08199,8.43281",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Pedro Gonz\u00e1lez"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1326715805,
-    "wof:lastmodified":1564150355,
+    "wof:lastmodified":1566672976,
     "wof:name":"Pedro Gonzalez",
     "wof:parent_id":421175369,
     "wof:placetype":"locality",

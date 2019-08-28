@@ -10,8 +10,12 @@
     "geom:latitude":8.6,
     "geom:longitude":-80.13333,
     "iso:country":"PA",
+    "lbl:bbox":"-80.15333,8.58,-80.11333,8.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0412\u0443\u043b\u043a\u0430\u043d \u042d\u043b\u044c-\u0412\u0430\u043b\u044c\u0435"
@@ -81,13 +85,13 @@
     "wof:concordances":{
         "gn:id":3709826,
         "gp:id":156859,
-        "qs:id":1165198,
+        "qs_pg:id":1165198,
         "wd:id":"Q1324715",
         "wk:page":"El Valle (volcano)"
     },
     "wof:concordances_alt":{
         "gp:id":156858,
-        "qs:id":1052733
+        "qs_pg:id":1052733
     },
     "wof:country":"PA",
     "wof:created":1459009725,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421192105,
-    "wof:lastmodified":1563306742,
+    "wof:lastmodified":1566673427,
     "wof:name":"El Valle",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":252,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.78167,8.93083,-79.74167,8.97083",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209795015,
-    "wof:lastmodified":1536393286,
+    "wof:lastmodified":1566673243,
     "wof:name":"Loma Alta",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

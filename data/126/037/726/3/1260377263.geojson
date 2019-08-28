@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-79.87,8.85194,-79.83,8.89194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Volc\u00e1n Cerro Negro"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1260377263,
-    "wof:lastmodified":1564151085,
+    "wof:lastmodified":1566673313,
     "wof:name":"Cerro Negro",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

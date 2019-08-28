@@ -23,8 +23,12 @@
     "gn:population":158,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.57552,7.80362,-80.53552,7.84362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "La Colorada"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276331127,
-    "wof:lastmodified":1564150773,
+    "wof:lastmodified":1566673181,
     "wof:name":"La Colorada",
     "wof:parent_id":1108693235,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.98333,
     "geom:longitude":-79.56667,
     "iso:country":"PA",
+    "lbl:bbox":"-79.58667,8.96333,-79.54667,9.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Los R\u00edos"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3704987,
         "gp:id":158882,
-        "qs:id":898833
+        "qs_pg:id":898833
     },
     "wof:country":"PA",
     "wof:created":1459009325,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421182303,
-    "wof:lastmodified":1564151365,
+    "wof:lastmodified":1566673461,
     "wof:name":"Los R\u00edos",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

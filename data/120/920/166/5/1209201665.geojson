@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.45547,8.42344,-81.41547,8.46344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -372,7 +376,7 @@
         }
     ],
     "wof:id":1209201665,
-    "wof:lastmodified":1564150990,
+    "wof:lastmodified":1566673270,
     "wof:name":"San Antonio",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

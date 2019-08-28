@@ -23,8 +23,12 @@
     "gn:population":52,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.69008,7.63629,-80.65008,7.67629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Pitaloza Abajo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243065457,
-    "wof:lastmodified":1537676358,
+    "wof:lastmodified":1566673482,
     "wof:name":"Pitaloza Abajo",
     "wof:parent_id":1108693231,
     "wof:placetype":"locality",

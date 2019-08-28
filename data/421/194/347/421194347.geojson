@@ -10,8 +10,12 @@
     "geom:latitude":8.5,
     "geom:longitude":-82.43333,
     "iso:country":"PA",
+    "lbl:bbox":"-82.45333,8.48,-82.41333,8.52",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Los Algarrobos"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "Los Algarrobos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Algarrobo"
     ],
     "name:zho_x_preferred":[
@@ -68,10 +72,12 @@
     "wof:concordances":{
         "gn:id":3705563,
         "gp:id":26793864,
-        "qs:id":1046600,
-        "qs_pg:id":1046601,
+        "qs_pg:id":1046600,
         "wd:id":"Q6681879",
         "wk:page":"Los Algarrobos, Chiriqu\u00ed"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1046601
     },
     "wof:country":"PA",
     "wof:created":1459009802,
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421194347,
-    "wof:lastmodified":1563306747,
+    "wof:lastmodified":1566673429,
     "wof:name":"Los Algarrobos Arriba",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":677,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-80.24276,8.70207,-80.20276,8.74207",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":1343773423,
-    "wof:lastmodified":1564150454,
+    "wof:lastmodified":1566673028,
     "wof:name":"San Pedro",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

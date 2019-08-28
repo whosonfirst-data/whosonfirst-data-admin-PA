@@ -24,8 +24,12 @@
     "gn:population":33,
     "gn:timezone":"America/Panama",
     "iso:country":"PA",
+    "lbl:bbox":"-81.28646,8.0193,-81.24646,8.0593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "La Chunicosa",
         "La Chumicosa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226337627,
-    "wof:lastmodified":1537676414,
+    "wof:lastmodified":1566673602,
     "wof:name":"La Chumicosa",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",
