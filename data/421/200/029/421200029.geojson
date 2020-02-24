@@ -56,6 +56,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010009,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b03dba5300658b3fbb23dfc580fc3652",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421200029,
-    "wof:lastmodified":1566673453,
+    "wof:lastmodified":1582319481,
     "wof:name":"Pocri",
     "wof:parent_id":1108693255,
     "wof:placetype":"localadmin",

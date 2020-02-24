@@ -69,6 +69,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009456,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a054a55d1f44522e5684434323ac2c6",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421185837,
-    "wof:lastmodified":1566673466,
+    "wof:lastmodified":1582319483,
     "wof:name":"Ca\u00f1azas",
     "wof:parent_id":1108693201,
     "wof:placetype":"localadmin",

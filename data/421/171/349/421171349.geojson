@@ -110,6 +110,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008890,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7181d8a6f40f2c63296a3f583b49fd54",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421171349,
-    "wof:lastmodified":1566673464,
+    "wof:lastmodified":1582319483,
     "wof:name":"Son\u00e1",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

@@ -304,6 +304,9 @@
         "wk:page":"Chiriqu\u00ed Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"647743454a9c7b95ae76f6a3f679853d",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673077,
+    "wof:lastmodified":1582319471,
     "wof:name":"Chiriqu\u00ed",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

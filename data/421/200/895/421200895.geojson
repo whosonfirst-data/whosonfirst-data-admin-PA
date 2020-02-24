@@ -210,6 +210,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010045,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"996aaa1ddf1c68d9156d0291d1cbe4b4",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":421200895,
-    "wof:lastmodified":1561777247,
+    "wof:lastmodified":1582319481,
     "wof:name":"Balboa",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

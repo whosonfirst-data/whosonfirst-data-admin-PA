@@ -101,6 +101,9 @@
         "qs_pg:id":494922
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cdb7f5099e7f872cb27e18f154b6fe2c",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673075,
+    "wof:lastmodified":1582319469,
     "wof:name":"El Vedado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

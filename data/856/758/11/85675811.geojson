@@ -288,6 +288,9 @@
         "wk:page":"Comarca Ember\u00e1-Wounaan"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef0f96befe758ff837759a8b6e50c8e9",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673076,
+    "wof:lastmodified":1582319470,
     "wof:name":"Ember\u00e1",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

@@ -75,6 +75,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010006,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bb8a1f87ce208ef04f7980fdfd374956",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421199953,
-    "wof:lastmodified":1566673452,
+    "wof:lastmodified":1582319481,
     "wof:name":"Pese",
     "wof:parent_id":1108693253,
     "wof:placetype":"localadmin",

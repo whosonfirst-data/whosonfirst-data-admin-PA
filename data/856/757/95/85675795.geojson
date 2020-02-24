@@ -301,6 +301,9 @@
         "wk:page":"Dari\u00e9n Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8dc21137f35230fffe5458bae395963d",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673076,
+    "wof:lastmodified":1582319470,
     "wof:name":"Dari\u00e9n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

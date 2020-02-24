@@ -638,6 +638,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009626,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a535cafb441f0cd8985333e2d13be14f",
     "wof:hierarchy":[
         {
@@ -656,7 +659,7 @@
         }
     ],
     "wof:id":421189481,
-    "wof:lastmodified":1566673442,
+    "wof:lastmodified":1582319480,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421189053,
     "wof:placetype":"localadmin",

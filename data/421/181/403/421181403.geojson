@@ -110,6 +110,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009295,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b276f848bacabaf412ed7ea3bad7ccb6",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421181403,
-    "wof:lastmodified":1566673446,
+    "wof:lastmodified":1582319480,
     "wof:name":"Santa Fe",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

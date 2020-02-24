@@ -119,6 +119,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010123,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35eff9990770a9df0a1658e35a0603eb",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421202587,
-    "wof:lastmodified":1566673435,
+    "wof:lastmodified":1582319480,
     "wof:name":"Pedas\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

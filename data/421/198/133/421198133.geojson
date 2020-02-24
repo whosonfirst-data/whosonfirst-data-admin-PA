@@ -77,6 +77,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009938,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"098cdfb65ecabd28ca75c5027e640e0c",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421198133,
-    "wof:lastmodified":1566673447,
+    "wof:lastmodified":1582319481,
     "wof:name":"Gualaca",
     "wof:parent_id":421169889,
     "wof:placetype":"localadmin",

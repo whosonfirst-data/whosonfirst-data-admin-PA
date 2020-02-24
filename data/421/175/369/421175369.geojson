@@ -182,6 +182,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bff923619591ec779f9a2407727858f9",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":421175369,
-    "wof:lastmodified":1566673446,
+    "wof:lastmodified":1582319480,
     "wof:name":"Balboa",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

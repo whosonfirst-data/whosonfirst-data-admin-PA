@@ -81,6 +81,9 @@
         "wk:page":"R\u00edo Abajo"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fde1687eb1b3b406e3d86c4eef6ede71",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"R\u00edo Abajo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

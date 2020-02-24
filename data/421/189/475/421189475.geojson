@@ -52,6 +52,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009626,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c21abba36b4f7347190c66508ff2748f",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189475,
-    "wof:lastmodified":1566673442,
+    "wof:lastmodified":1582319480,
     "wof:name":"Jose Domingo Espinar",
     "wof:parent_id":421175375,
     "wof:placetype":"localadmin",

@@ -52,6 +52,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009772,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4413f7fc965f7b9f23618753466d559f",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421193477,
-    "wof:lastmodified":1566673429,
+    "wof:lastmodified":1582319479,
     "wof:name":"Pedasi",
     "wof:parent_id":421202587,
     "wof:placetype":"localadmin",

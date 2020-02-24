@@ -75,6 +75,9 @@
         "qs:id":1165214
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa01110f1dfe0563cd987e766b4c442f",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"Paitilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

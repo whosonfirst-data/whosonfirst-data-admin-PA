@@ -86,6 +86,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009111,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2f076f24f928423c2b40edb0cf444c7",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421176521,
-    "wof:lastmodified":1566673462,
+    "wof:lastmodified":1582319482,
     "wof:name":"Alanje",
     "wof:parent_id":421202705,
     "wof:placetype":"localadmin",

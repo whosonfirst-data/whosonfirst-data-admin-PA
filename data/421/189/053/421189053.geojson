@@ -120,6 +120,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34f09ea1d2f3b71187902ac2ed6c4346",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421189053,
-    "wof:lastmodified":1566673442,
+    "wof:lastmodified":1582319480,
     "wof:name":"Chame",
     "wof:parent_id":-1,
     "wof:placetype":"county",

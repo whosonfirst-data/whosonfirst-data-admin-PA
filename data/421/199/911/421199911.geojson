@@ -70,6 +70,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"824c0f960958430bb270f2d9d749ec43",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421199911,
-    "wof:lastmodified":1566673453,
+    "wof:lastmodified":1582319481,
     "wof:name":"Hornito",
     "wof:parent_id":421169889,
     "wof:placetype":"localadmin",

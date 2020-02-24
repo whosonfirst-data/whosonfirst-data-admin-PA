@@ -123,6 +123,9 @@
         "qs_pg:id":1033448
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a73a9ef6ea41c63111f8e1a67444cce4",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673073,
+    "wof:lastmodified":1582319469,
     "wof:name":"Veranillo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

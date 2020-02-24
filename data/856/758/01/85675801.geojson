@@ -312,6 +312,9 @@
         "wk:page":"Guna Yala"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5d02e2b21274d0e88d6625e6a403b5f",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673076,
+    "wof:lastmodified":1582319470,
     "wof:name":"Kuna Yala",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

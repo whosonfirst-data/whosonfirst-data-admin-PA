@@ -77,6 +77,9 @@
         "qs_pg:id":240947
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e1defd16e85ab3f162863766f5e767e",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673074,
+    "wof:lastmodified":1582319469,
     "wof:name":"La Exposici\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

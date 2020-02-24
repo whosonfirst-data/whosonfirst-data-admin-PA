@@ -75,6 +75,9 @@
         "qs_pg:id":982664
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"209ec0af9198cfc72a38c14778449ca9",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673073,
+    "wof:lastmodified":1582319469,
     "wof:name":"Dolequita",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

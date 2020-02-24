@@ -78,6 +78,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009686,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47057829f9bb86953eff514d360120eb",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421191263,
-    "wof:lastmodified":1566673450,
+    "wof:lastmodified":1582319481,
     "wof:name":"Chim\u00f3n",
     "wof:parent_id":1108693207,
     "wof:placetype":"localadmin",

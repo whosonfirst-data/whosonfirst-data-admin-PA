@@ -114,6 +114,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e81ef0eacd89ebfc77ccb7dfb360e44",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421196973,
-    "wof:lastmodified":1566673449,
+    "wof:lastmodified":1582319481,
     "wof:name":"Pinogana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

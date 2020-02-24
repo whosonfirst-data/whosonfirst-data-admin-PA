@@ -51,6 +51,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009900,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc0dfd817016792b61dd413c6018fd7f",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421197017,
-    "wof:lastmodified":1534379393,
+    "wof:lastmodified":1582319481,
     "wof:name":"Boca Chica",
     "wof:parent_id":1108693267,
     "wof:placetype":"localadmin",

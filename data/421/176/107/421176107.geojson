@@ -114,6 +114,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009095,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"537a83f20c459b6cee92c38e089c30ce",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421176107,
-    "wof:lastmodified":1566673462,
+    "wof:lastmodified":1582319482,
     "wof:name":"Chepo",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

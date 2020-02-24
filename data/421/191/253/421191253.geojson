@@ -87,6 +87,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009685,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d96a0c9690f1aca2268d940918cdacc",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421191253,
-    "wof:lastmodified":1566673450,
+    "wof:lastmodified":1582319481,
     "wof:name":"La Mesa",
     "wof:parent_id":1108693225,
     "wof:placetype":"localadmin",

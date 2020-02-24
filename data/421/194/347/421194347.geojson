@@ -81,6 +81,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009802,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13b3d718b72c296a2e637678e2f3f5df",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421194347,
-    "wof:lastmodified":1566673429,
+    "wof:lastmodified":1582319479,
     "wof:name":"Los Algarrobos Arriba",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

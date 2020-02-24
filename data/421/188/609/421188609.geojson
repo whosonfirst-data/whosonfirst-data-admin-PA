@@ -68,6 +68,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009571,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74015625cceff47c76dc950f5eedeec3",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421188609,
-    "wof:lastmodified":1566673443,
+    "wof:lastmodified":1582319480,
     "wof:name":"Nueva Providencia",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

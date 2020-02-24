@@ -56,6 +56,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afa7035e8e2b44ab60f358fe622e7789",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421189063,
-    "wof:lastmodified":1566673442,
+    "wof:lastmodified":1582319480,
     "wof:name":"Barrio Balboa",
     "wof:parent_id":421171337,
     "wof:placetype":"localadmin",

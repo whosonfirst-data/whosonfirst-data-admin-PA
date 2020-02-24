@@ -79,6 +79,9 @@
         "qs:id":474995
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c1a09f5c0f665260e4857b4c0c4caad",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"Pueblo Nuevo de Las Sabanas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

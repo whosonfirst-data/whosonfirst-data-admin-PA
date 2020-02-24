@@ -75,6 +75,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010006,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64307e1fc483cf2574394718aaec2dab",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421199957,
-    "wof:lastmodified":1566673452,
+    "wof:lastmodified":1582319481,
     "wof:name":"Los Pozos",
     "wof:parent_id":1108693231,
     "wof:placetype":"localadmin",

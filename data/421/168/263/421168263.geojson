@@ -93,6 +93,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008759,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fe7a1fa28005c598244a6784498b5fd",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421168263,
-    "wof:lastmodified":1566673426,
+    "wof:lastmodified":1582319479,
     "wof:name":"Pacora",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

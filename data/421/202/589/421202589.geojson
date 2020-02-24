@@ -125,6 +125,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010123,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c1122cd0a22d3deb0b5fa84855c9d59",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421202589,
-    "wof:lastmodified":1566673435,
+    "wof:lastmodified":1582319479,
     "wof:name":"Penonom\u00e9",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

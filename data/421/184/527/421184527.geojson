@@ -82,6 +82,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009413,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"58276fc3b781b6d8da9ce162d9b7ee97",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421184527,
-    "wof:lastmodified":1566673455,
+    "wof:lastmodified":1582319482,
     "wof:name":"Las Lomas",
     "wof:parent_id":421171339,
     "wof:placetype":"localadmin",

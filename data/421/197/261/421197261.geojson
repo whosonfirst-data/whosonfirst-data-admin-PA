@@ -55,6 +55,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009908,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3988eecf6eacb05085848fc75971eefc",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421197261,
-    "wof:lastmodified":1566673450,
+    "wof:lastmodified":1582319481,
     "wof:name":"Paja de Sombrero",
     "wof:parent_id":421169889,
     "wof:placetype":"localadmin",

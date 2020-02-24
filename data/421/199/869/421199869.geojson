@@ -81,6 +81,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010003,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1373bbbb862a8977ba829e4b55c1b26d",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421199869,
-    "wof:lastmodified":1566673452,
+    "wof:lastmodified":1582319481,
     "wof:name":"Chepo",
     "wof:parent_id":421176107,
     "wof:placetype":"localadmin",

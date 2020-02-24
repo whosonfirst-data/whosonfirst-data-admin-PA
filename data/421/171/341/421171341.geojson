@@ -125,6 +125,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008890,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"adae950984303dc915f0c1318ef4fadc",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421171341,
-    "wof:lastmodified":1566673464,
+    "wof:lastmodified":1582319483,
     "wof:name":"Montijo",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

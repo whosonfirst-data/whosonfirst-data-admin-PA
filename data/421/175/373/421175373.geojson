@@ -127,6 +127,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6cc229f306b61c35af1b22bd74cf4a5",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421175373,
-    "wof:lastmodified":1566673447,
+    "wof:lastmodified":1582319481,
     "wof:name":"Boquete",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

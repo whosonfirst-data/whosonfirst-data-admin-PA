@@ -75,6 +75,9 @@
         "qs:id":1174583
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd1026146d5fb3a539e6b78fecccf2d6",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"Coco del Mar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

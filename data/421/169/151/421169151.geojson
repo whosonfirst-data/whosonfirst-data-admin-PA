@@ -256,6 +256,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008797,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b304180e545f1ad5314efa944e1499a",
     "wof:hierarchy":[
         {
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":421169151,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1582319479,
     "wof:name":"Chiriqui",
     "wof:parent_id":421171339,
     "wof:placetype":"localadmin",

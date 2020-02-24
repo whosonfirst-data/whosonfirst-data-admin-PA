@@ -294,6 +294,9 @@
         "wk:page":"Veraguas Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77f7e0c2b3516814ac86f94ce00e9b49",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673078,
+    "wof:lastmodified":1582319471,
     "wof:name":"Veraguas",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

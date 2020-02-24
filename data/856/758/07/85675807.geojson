@@ -281,6 +281,9 @@
         "wk:page":"Ng\u00e4be-Bugl\u00e9 Comarca"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71dbc480d2146764598923e26dea529f",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673076,
+    "wof:lastmodified":1582319470,
     "wof:name":"Ng\u00f6be Bugl\u00e9",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

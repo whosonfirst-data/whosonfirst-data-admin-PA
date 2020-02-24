@@ -113,6 +113,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008839,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8409667ba31f0241b6505cd886216d50",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421170139,
-    "wof:lastmodified":1566673456,
+    "wof:lastmodified":1582319482,
     "wof:name":"Changuinola",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

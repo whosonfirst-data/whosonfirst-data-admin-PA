@@ -75,6 +75,9 @@
         "qs:id":1082650
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3479c9da0a86067d5603ce1ae4175347",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"El Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

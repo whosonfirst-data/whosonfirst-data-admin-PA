@@ -128,6 +128,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009115,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e322928e687717b4e7b82137354d79b",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421176641,
-    "wof:lastmodified":1566673462,
+    "wof:lastmodified":1582319482,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

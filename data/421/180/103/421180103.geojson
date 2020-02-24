@@ -74,6 +74,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009244,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07800c818a7f9d240bb4b37e1d7c7b15",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421180103,
-    "wof:lastmodified":1566673437,
+    "wof:lastmodified":1582319480,
     "wof:name":"Los Olivos",
     "wof:parent_id":1108693235,
     "wof:placetype":"localadmin",

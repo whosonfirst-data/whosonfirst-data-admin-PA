@@ -112,6 +112,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009707,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e38d1cdd93349914ea9842ab05626ed0",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421191757,
-    "wof:lastmodified":1566673449,
+    "wof:lastmodified":1582319481,
     "wof:name":"Nat\u00e1",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

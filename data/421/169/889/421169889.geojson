@@ -118,6 +118,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008828,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8dd0be953b8e187aaa376ab0e3beecfe",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421169889,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1582319479,
     "wof:name":"Gualaca",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

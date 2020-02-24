@@ -102,6 +102,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"484bf1a6c4a22f91cfc6a17d9385b484",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421199909,
-    "wof:lastmodified":1566673452,
+    "wof:lastmodified":1582319481,
     "wof:name":"Santiago",
     "wof:parent_id":85675791,
     "wof:placetype":"county",
