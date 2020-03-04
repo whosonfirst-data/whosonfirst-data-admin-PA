@@ -304,6 +304,9 @@
         "wk:page":"Col\u00f3n Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2634ba74000709b0ccc9528f53a3326b",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673078,
+    "wof:lastmodified":1582319471,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

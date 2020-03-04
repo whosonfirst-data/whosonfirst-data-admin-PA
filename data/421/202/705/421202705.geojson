@@ -113,6 +113,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010127,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"da8fed2205b503d496354c98c9fcdd41",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421202705,
-    "wof:lastmodified":1566673435,
+    "wof:lastmodified":1582319480,
     "wof:name":"Alanje",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

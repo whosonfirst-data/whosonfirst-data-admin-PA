@@ -106,6 +106,9 @@
         "wd:id":"Q21154277"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"534d0c00e8a71a4ce767a45d094bf49a",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673074,
+    "wof:lastmodified":1582319469,
     "wof:name":"Llano Bonito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

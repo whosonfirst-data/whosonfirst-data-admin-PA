@@ -78,6 +78,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009114,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e76e3573f08cfc867b4d5404865345de",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421176639,
-    "wof:lastmodified":1566673463,
+    "wof:lastmodified":1582319482,
     "wof:name":"Calobre",
     "wof:parent_id":1108693199,
     "wof:placetype":"localadmin",

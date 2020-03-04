@@ -75,6 +75,9 @@
         "qs:id":1082647
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bdcc5ce64ca62ea7a4aada7233fdc541",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379393,
+    "wof:lastmodified":1582319469,
     "wof:name":"El Cangrejo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -108,6 +108,9 @@
         "qs_pg:id":1082660
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d5caa8d3931766ba4e09abb9140bfa9c",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673073,
+    "wof:lastmodified":1582319469,
     "wof:name":"San Francisco de la Caleta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

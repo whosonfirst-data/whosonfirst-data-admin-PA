@@ -75,6 +75,9 @@
         "qs:id":1082642
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f84bc8e3b763c876fe8dc35bb253a1ab",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"Campo Alegre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

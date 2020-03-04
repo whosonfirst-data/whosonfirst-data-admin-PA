@@ -301,6 +301,9 @@
         "wk:page":"Cocl\u00e9 Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d992827002ba2009f93e5b634f1fbdf",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673078,
+    "wof:lastmodified":1582319471,
     "wof:name":"Cocl\u00e9",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

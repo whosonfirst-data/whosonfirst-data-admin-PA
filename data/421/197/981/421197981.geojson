@@ -304,6 +304,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009932,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"94ae99b4e247f081a7a367ff567897b0",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":421197981,
-    "wof:lastmodified":1566673451,
+    "wof:lastmodified":1582319481,
     "wof:name":"David",
     "wof:parent_id":421171339,
     "wof:placetype":"localadmin",

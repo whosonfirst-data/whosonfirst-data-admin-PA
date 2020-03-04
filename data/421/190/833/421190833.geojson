@@ -50,6 +50,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009670,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90323c8c63a3c7d4eed75cb073aa99b8",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421190833,
-    "wof:lastmodified":1566673450,
+    "wof:lastmodified":1582319481,
     "wof:name":"Cerme\u00f0o",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

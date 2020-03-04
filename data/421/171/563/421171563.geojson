@@ -84,6 +84,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008898,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a174818738b495bec0fbfc6ed15597b6",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421171563,
-    "wof:lastmodified":1566673465,
+    "wof:lastmodified":1582319483,
     "wof:name":"Remedios",
     "wof:parent_id":421176641,
     "wof:placetype":"localadmin",

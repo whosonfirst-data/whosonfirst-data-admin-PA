@@ -305,6 +305,9 @@
         "wk:page":"Bocas del Toro Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"255a4b2dce8870697c86b0f4355c7357",
     "wof:hierarchy":[
         {
@@ -320,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673075,
+    "wof:lastmodified":1582319470,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

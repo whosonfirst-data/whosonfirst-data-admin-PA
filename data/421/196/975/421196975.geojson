@@ -124,6 +124,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebb345431fcdc03d2f8b7666de3d77b7",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421196975,
-    "wof:lastmodified":1566673449,
+    "wof:lastmodified":1582319481,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

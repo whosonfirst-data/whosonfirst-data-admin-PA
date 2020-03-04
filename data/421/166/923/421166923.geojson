@@ -113,6 +113,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008707,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"509f483d334a6514924eb505da0bdda1",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421166923,
-    "wof:lastmodified":1566673426,
+    "wof:lastmodified":1582319479,
     "wof:name":"Parita",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

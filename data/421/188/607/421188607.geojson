@@ -309,6 +309,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009571,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da5b63b17da65999ee68f6530c93396d",
     "wof:hierarchy":[
         {
@@ -320,7 +323,7 @@
         }
     ],
     "wof:id":421188607,
-    "wof:lastmodified":1566673443,
+    "wof:lastmodified":1582319480,
     "wof:name":"Salamanca",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

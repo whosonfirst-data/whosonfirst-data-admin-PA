@@ -75,6 +75,9 @@
         "qs:id":297823
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a66b5ed02873b6db650359ff4311362",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"Villa Guadalupe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -77,6 +77,9 @@
         "qs:id":887571
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3f422fbef1264a59c4a4b60ba7cd4a9",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"Plaza la Ceda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

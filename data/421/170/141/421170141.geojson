@@ -113,6 +113,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008839,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"609ab87be3acf8e23fed53a5fe78a798",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421170141,
-    "wof:lastmodified":1566673457,
+    "wof:lastmodified":1582319482,
     "wof:name":"Chepigana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

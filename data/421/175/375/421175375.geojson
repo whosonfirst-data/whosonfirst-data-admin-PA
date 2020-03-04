@@ -140,6 +140,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5da9ea1608dc309a448b46a9d1ff1d86",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421175375,
-    "wof:lastmodified":1566673447,
+    "wof:lastmodified":1582319481,
     "wof:name":"San Miguelito",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

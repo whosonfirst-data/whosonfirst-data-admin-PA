@@ -95,6 +95,9 @@
         "qs_pg:id":474978
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8c04ef05d99e806c21f37330e2f02ac",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673075,
+    "wof:lastmodified":1582319469,
     "wof:name":"Loma Alegre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

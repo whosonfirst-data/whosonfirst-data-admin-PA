@@ -119,6 +119,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008885,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"89efc18a76881e7da1dfed2bc3b82bfc",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421171219,
-    "wof:lastmodified":1566673464,
+    "wof:lastmodified":1582319482,
     "wof:name":"Dolega",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

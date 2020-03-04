@@ -167,6 +167,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009571,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f59c89b41528d5d4029fb417afa22bc",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421188611,
-    "wof:lastmodified":1566673443,
+    "wof:lastmodified":1582319480,
     "wof:name":"Santa Ana",
     "wof:parent_id":1108693219,
     "wof:placetype":"localadmin",

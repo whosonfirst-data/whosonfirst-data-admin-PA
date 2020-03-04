@@ -88,6 +88,9 @@
         "wd:id":"Q3071317"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de937d872725e7ade0d7bf2a44bcc1ad",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"La Carrasquilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

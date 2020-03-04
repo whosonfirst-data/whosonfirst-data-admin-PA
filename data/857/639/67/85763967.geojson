@@ -219,6 +219,9 @@
         "qs_pg:id":211121
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8abe71bec0d32a1e22fd198d611065d8",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673074,
+    "wof:lastmodified":1582319469,
     "wof:name":"El Dorado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

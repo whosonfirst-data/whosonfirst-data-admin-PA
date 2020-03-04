@@ -81,6 +81,9 @@
         "wd:id":"Q6062305"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3a352a6e128ef6424e031a3956944bf",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1582319469,
     "wof:name":"Parque Lefevre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

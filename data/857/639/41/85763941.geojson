@@ -140,6 +140,9 @@
         "qs_pg:id":297522
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"283179b300639b03665a406bf1ced137",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673074,
+    "wof:lastmodified":1582319469,
     "wof:name":"Bella Vista",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

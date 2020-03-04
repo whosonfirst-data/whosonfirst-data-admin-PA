@@ -95,6 +95,9 @@
         "qs_pg:id":982666
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"61edf931361a804667f8120a792a9d63",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673074,
+    "wof:lastmodified":1582319469,
     "wof:name":"El Varital",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

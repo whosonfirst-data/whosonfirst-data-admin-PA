@@ -75,6 +75,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009685,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bd7effefcac4ed96d2bdcee30ad54d1",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421191257,
-    "wof:lastmodified":1566673449,
+    "wof:lastmodified":1582319481,
     "wof:name":"Llano Largo",
     "wof:parent_id":1108693235,
     "wof:placetype":"localadmin",

@@ -57,6 +57,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008819,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f48a78d267f7f818988468316e53c68",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421169663,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1582319479,
     "wof:name":"Ustupo Yantupo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

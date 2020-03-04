@@ -83,6 +83,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c68ba445615887a5545183bd0369d7c5",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421189061,
-    "wof:lastmodified":1566673443,
+    "wof:lastmodified":1582319480,
     "wof:name":"Las Lajas",
     "wof:parent_id":421189053,
     "wof:placetype":"localadmin",

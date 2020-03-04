@@ -82,6 +82,9 @@
         "qs_pg:id":1082641
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"379a332f84721c811860ea5615a8b78c",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566673075,
+    "wof:lastmodified":1582319469,
     "wof:name":"Calidonia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -288,6 +288,9 @@
         "wk:page":"Los Santos Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5be0d442094281aaeaa9ff0cbd518e9e",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673078,
+    "wof:lastmodified":1582319471,
     "wof:name":"Los Santos",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

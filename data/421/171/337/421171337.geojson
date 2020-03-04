@@ -129,6 +129,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008890,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54a25f6bfe693391d104cacca9530532",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421171337,
-    "wof:lastmodified":1566673463,
+    "wof:lastmodified":1582319482,
     "wof:name":"La Chorrera",
     "wof:parent_id":-1,
     "wof:placetype":"county",

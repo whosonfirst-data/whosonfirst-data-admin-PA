@@ -117,6 +117,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008890,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59e5fec9717fed3f2d66a3db95684c69",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421171351,
-    "wof:lastmodified":1566673465,
+    "wof:lastmodified":1582319483,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"county",

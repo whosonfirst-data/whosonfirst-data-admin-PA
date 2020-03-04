@@ -55,6 +55,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009772,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2003bfc46a23b89c6d198fb6384cdc46",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421193479,
-    "wof:lastmodified":1566673429,
+    "wof:lastmodified":1582319479,
     "wof:name":"Ancon",
     "wof:parent_id":421203467,
     "wof:placetype":"localadmin",

@@ -116,6 +116,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010153,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"25a592d6e3f9311971f1e321cae48f19",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421203467,
-    "wof:lastmodified":1566673434,
+    "wof:lastmodified":1582319479,
     "wof:name":"Arraijan",
     "wof:parent_id":1108805611,
     "wof:placetype":"county",

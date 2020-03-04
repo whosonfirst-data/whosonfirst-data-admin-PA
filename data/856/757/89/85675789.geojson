@@ -266,6 +266,9 @@
         "wk:page":"Panam\u00e1 Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb0ab21ab8c770e1bd60cbcbc6126147",
     "wof:hierarchy":[
         {
@@ -281,7 +284,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673077,
+    "wof:lastmodified":1582319471,
     "wof:name":"Panama",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

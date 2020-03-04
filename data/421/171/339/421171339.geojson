@@ -368,6 +368,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008890,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"594e057acb0e5a438a3fac41d75aad93",
     "wof:hierarchy":[
         {
@@ -378,7 +381,7 @@
         }
     ],
     "wof:id":421171339,
-    "wof:lastmodified":1566673464,
+    "wof:lastmodified":1582319482,
     "wof:name":"David",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

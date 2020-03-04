@@ -218,6 +218,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009032,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3ad030bcee411a6b7aea976bd39902d",
     "wof:hierarchy":[
         {
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":421174421,
-    "wof:lastmodified":1566673437,
+    "wof:lastmodified":1582319480,
     "wof:name":"Cocle",
     "wof:parent_id":421202589,
     "wof:placetype":"localadmin",

@@ -70,6 +70,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008876,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d3e25e3c9109ff60ec52ab88a0e8351",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421170973,
-    "wof:lastmodified":1566673457,
+    "wof:lastmodified":1582319482,
     "wof:name":"Chiriqu\u00ed Grande",
     "wof:parent_id":1108693209,
     "wof:placetype":"localadmin",

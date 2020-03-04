@@ -75,6 +75,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009158,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"497d386fd99cedfecf9aa8ec1f015e80",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421177727,
-    "wof:lastmodified":1566673458,
+    "wof:lastmodified":1582319482,
     "wof:name":"Dolega",
     "wof:parent_id":421171219,
     "wof:placetype":"localadmin",

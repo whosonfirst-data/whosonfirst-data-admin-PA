@@ -75,6 +75,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009946,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b1e496ad9261bd615359e100af89296",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421198383,
-    "wof:lastmodified":1566673448,
+    "wof:lastmodified":1582319481,
     "wof:name":"Capira",
     "wof:parent_id":421181905,
     "wof:placetype":"localadmin",

@@ -121,6 +121,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459008945,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03370ef42d80804d6b9a7c4570fc32a6",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421172507,
-    "wof:lastmodified":1566673444,
+    "wof:lastmodified":1582319480,
     "wof:name":"Las Tablas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

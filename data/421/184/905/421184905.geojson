@@ -111,6 +111,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009426,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5543a8b51c99771ea170a070418372b8",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421184905,
-    "wof:lastmodified":1566673455,
+    "wof:lastmodified":1582319482,
     "wof:name":"Besiko",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

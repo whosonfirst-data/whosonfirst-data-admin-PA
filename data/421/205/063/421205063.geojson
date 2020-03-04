@@ -56,6 +56,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010211,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1622624c99651a80ef47e24820d8a01",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421205063,
-    "wof:lastmodified":1566673436,
+    "wof:lastmodified":1582319480,
     "wof:name":"El Guasimo",
     "wof:parent_id":1108693235,
     "wof:placetype":"localadmin",

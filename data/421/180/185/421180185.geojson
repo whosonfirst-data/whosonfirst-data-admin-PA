@@ -77,6 +77,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009247,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24679b8b7ba85240593dc4837fac4d23",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421180185,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1582319480,
     "wof:name":"Tonosi",
     "wof:parent_id":421203469,
     "wof:placetype":"localadmin",

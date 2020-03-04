@@ -917,6 +917,11 @@
     },
     "wof:country":"PA",
     "wof:country_alpha3":"PAN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"350282a1f6702fdcb3370b0e60c0f72d",
     "wof:hierarchy":[
         {
@@ -931,7 +936,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673079,
+    "wof:lastmodified":1582319472,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

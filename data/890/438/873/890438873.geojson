@@ -59,6 +59,9 @@
     },
     "wof:country":"PA",
     "wof:created":1469052212,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f1e16c77dd1190a0a18f2cd7f6e01ee",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890438873,
-    "wof:lastmodified":1566673468,
+    "wof:lastmodified":1582319483,
     "wof:name":"La Palma",
     "wof:parent_id":1108693219,
     "wof:placetype":"locality",

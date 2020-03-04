@@ -288,6 +288,9 @@
         "wk:page":"Herrera Province"
     },
     "wof:country":"PA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e3e87cbc004a2b64ff449e87156bf87",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566673078,
+    "wof:lastmodified":1582319471,
     "wof:name":"Herrera",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

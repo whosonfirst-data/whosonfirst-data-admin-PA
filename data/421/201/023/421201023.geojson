@@ -529,6 +529,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010049,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5b7992fb2ede81c206993fd6fb475b6",
     "wof:hierarchy":[
         {
@@ -540,7 +543,7 @@
         }
     ],
     "wof:id":421201023,
-    "wof:lastmodified":1566673453,
+    "wof:lastmodified":1582319482,
     "wof:name":"Santiago",
     "wof:parent_id":421199909,
     "wof:placetype":"localadmin",

@@ -78,6 +78,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009244,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4db108bc36973c372c70167158e0acc6",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421180095,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1582319480,
     "wof:name":"Boqueron",
     "wof:parent_id":1108693193,
     "wof:placetype":"localadmin",

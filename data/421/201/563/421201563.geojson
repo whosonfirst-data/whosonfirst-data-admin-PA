@@ -58,6 +58,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010076,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bb2e811669837954ec31246079c7831d",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421201563,
-    "wof:lastmodified":1566673454,
+    "wof:lastmodified":1582319482,
     "wof:name":"Cerro Punta",
     "wof:parent_id":1108693195,
     "wof:placetype":"localadmin",

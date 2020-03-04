@@ -56,6 +56,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009571,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e230661bbb503f3602287087b704e64",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421188605,
-    "wof:lastmodified":1566673443,
+    "wof:lastmodified":1582319480,
     "wof:name":"La Exposicion",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

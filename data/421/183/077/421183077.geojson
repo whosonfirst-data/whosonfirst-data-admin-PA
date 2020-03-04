@@ -52,6 +52,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009357,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c796ec0d6f455d40f25a658c625321c6",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421183077,
-    "wof:lastmodified":1566673458,
+    "wof:lastmodified":1582319482,
     "wof:name":"Chiguiri Arriba",
     "wof:parent_id":421202589,
     "wof:placetype":"localadmin",

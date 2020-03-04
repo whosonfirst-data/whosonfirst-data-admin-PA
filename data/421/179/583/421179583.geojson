@@ -96,6 +96,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009226,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d8d83141c535efd23950e01b5bf5424",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421179583,
-    "wof:lastmodified":1566673461,
+    "wof:lastmodified":1582319482,
     "wof:name":"Las Cumbres",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

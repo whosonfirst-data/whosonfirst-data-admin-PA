@@ -87,6 +87,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009456,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1bc9aafb8b04a202e2fee2449c60a8cb",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421185833,
-    "wof:lastmodified":1566673466,
+    "wof:lastmodified":1582319483,
     "wof:name":"Cativa",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

@@ -112,6 +112,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8593353279e7dc6dc7b07d3b71d908f",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421189055,
-    "wof:lastmodified":1566673442,
+    "wof:lastmodified":1582319480,
     "wof:name":"Chitr\u00e9",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

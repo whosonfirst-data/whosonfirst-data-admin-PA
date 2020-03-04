@@ -119,6 +119,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"43c6694cfaab79237805160f1b10177c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421189057,
-    "wof:lastmodified":1566673443,
+    "wof:lastmodified":1582319480,
     "wof:name":"La Pintada",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

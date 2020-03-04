@@ -115,6 +115,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459009527,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70f9623d153934e939d1731934b93099",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421187881,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1582319480,
     "wof:name":"Anton",
     "wof:parent_id":1108693185,
     "wof:placetype":"localadmin",

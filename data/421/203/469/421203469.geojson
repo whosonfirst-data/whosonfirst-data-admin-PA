@@ -113,6 +113,9 @@
     },
     "wof:country":"PA",
     "wof:created":1459010153,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38e5d3c1033c3cdc45f2a14e130647bf",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421203469,
-    "wof:lastmodified":1566673434,
+    "wof:lastmodified":1582319479,
     "wof:name":"Tonos\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",
