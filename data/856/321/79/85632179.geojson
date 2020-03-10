@@ -893,9 +893,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Panama",
-        "digitalenvoy:country_code":[
-            591
-        ],
+        "digitalenvoy:country_code":591,
         "fb:id":"en.panama",
         "fifa:id":"PAN",
         "fips:code":"PM",
@@ -939,7 +937,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529203,
+    "wof:lastmodified":1583797411,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
