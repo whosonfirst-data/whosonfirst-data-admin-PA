@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.194751,
-    "geom:area_square_m":75751986936.930191,
+    "geom:area_square_m":75751986155.51413,
     "geom:bbox":"-83.052241,7.20475,-77.158488,9.648361",
     "geom:latitude":8.512102,
     "geom:longitude":-80.11246,
@@ -51,6 +51,9 @@
     ],
     "name:arg_x_preferred":[
         "Panam\u00e1"
+    ],
+    "name:ary_x_preferred":[
+        "\u067e\u0627\u0646\u0627\u0645\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0646\u0627\u0645\u0627"
@@ -130,6 +133,9 @@
     "name:chv_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
+    "name:chy_x_preferred":[
+        "Panama"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u06d5\u0646\u06d5\u0645\u0627"
     ],
@@ -146,6 +152,12 @@
         "Panam\u00e1"
     ],
     "name:dan_x_preferred":[
+        "Panama"
+    ],
+    "name:deu_at_x_preferred":[
+        "Panama"
+    ],
+    "name:deu_ch_x_preferred":[
         "Panama"
     ],
     "name:deu_x_preferred":[
@@ -171,6 +183,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bd\u03b1\u03bc\u03ac\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Panama"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Panama"
     ],
     "name:eng_x_preferred":[
         "Panama"
@@ -232,6 +250,9 @@
     ],
     "name:gag_x_preferred":[
         "Panama"
+    ],
+    "name:gcr_x_preferred":[
+        "Pannanman"
     ],
     "name:gla_x_preferred":[
         "Panama"
@@ -552,6 +573,9 @@
     "name:pol_x_preferred":[
         "Panama"
     ],
+    "name:por_br_x_preferred":[
+        "Panam\u00e1"
+    ],
     "name:por_x_preferred":[
         "Panam\u00e1"
     ],
@@ -639,6 +663,12 @@
     "name:srd_x_preferred":[
         "Panam\u00e1"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041f\u0430\u043d\u0430\u043c\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Panama"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
@@ -658,6 +688,9 @@
         "Panama"
     ],
     "name:szl_x_preferred":[
+        "Panama"
+    ],
+    "name:szy_x_preferred":[
         "Panama"
     ],
     "name:tam_x_preferred":[
@@ -699,6 +732,9 @@
     ],
     "name:tur_x_preferred":[
         "Panama"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
     "name:uig_x_preferred":[
         "\u067e\u0627\u0646\u0627\u0645\u0627"
@@ -769,8 +805,26 @@
     "name:zha_x_preferred":[
         "Panama"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u62ff\u9a6c"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5df4\u62ff\u99ac"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Panam\u00e1"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5df4\u62ff\u99ac"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5df4\u62ff\u9a6c"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5df4\u62ff\u9a6c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u62ff\u99ac"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u62ff\u9a6c"
@@ -937,7 +991,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583797411,
+    "wof:lastmodified":1587427292,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
