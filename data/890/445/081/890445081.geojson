@@ -540,6 +540,7 @@
     ],
     "wof:concordances":{
         "gn:id":3703443,
+        "ne:id":1159150667,
         "qs_pg:id":1046581,
         "wd:id":"Q3306",
         "wk:page":"Panama"
@@ -560,7 +561,8 @@
         }
     ],
     "wof:id":890445081,
-    "wof:lastmodified":1607390902,
+    "wof:lastmodified":1608688176,
+    "wof:megacity":1,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",
