@@ -40,6 +40,9 @@
     "name:eng_x_variant":[
         "Kuna Yala"
     ],
+    "name:fra_x_preferred":[
+        "Comarque Guna Yala"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108693213,
-    "wof:lastmodified":1608007639,
+    "wof:lastmodified":1627522490,
     "wof:name":"Comarca Kuna Yala",
     "wof:parent_id":85675801,
     "wof:placetype":"county",
