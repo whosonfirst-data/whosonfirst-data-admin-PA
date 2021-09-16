@@ -19,6 +19,10 @@
     "name:eng_x_preferred":[
         "Jaqu\u00e9 Airport"
     ],
+    "name:eng_x_variant":[
+        "JQE",
+        "MPJE"
+    ],
     "name:jpn_x_preferred":[
         "\u30cf\u30b1\u7a7a\u6e2f"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":102546995,
-    "wof:lastmodified":1566673001,
+    "wof:lastmodified":1631745375,
     "wof:name":"Jaque Airport",
     "wof:parent_id":85675795,
     "wof:placetype":"campus",
