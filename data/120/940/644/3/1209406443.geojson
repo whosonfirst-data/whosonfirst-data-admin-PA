@@ -78,6 +78,9 @@
         "Flores"
     ],
     "name:fas_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0632"
+    ],
+    "name:fas_x_variant":[
         "\u0641\u0644\u0648\u0631\u0633"
     ],
     "name:fin_x_preferred":[
@@ -88,6 +91,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05dc\u05d5\u05e8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u095e\u094d\u0932\u094b\u0930\u0947\u0938"
     ],
     "name:hrv_x_preferred":[
         "Flores"
@@ -215,7 +221,7 @@
         }
     ],
     "wof:id":1209406443,
-    "wof:lastmodified":1566673247,
+    "wof:lastmodified":1636495939,
     "wof:name":"Flores",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",

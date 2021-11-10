@@ -72,13 +72,28 @@
         "Chico"
     ],
     "name:ukr_x_preferred":[
+        "\u0427\u0456\u043a\u043e"
+    ],
+    "name:ukr_x_variant":[
         "\u0427\u0438\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Chico"
     ],
     "name:vol_x_preferred":[
         "Chico"
     ],
     "name:war_x_preferred":[
         "Chico"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5947\u79d1\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5947\u79d1\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +107,7 @@
         "gn:id":3712475
     },
     "wof:country":"PA",
-    "wof:geomhash":"d35d06829e78ce3889b03121a2dd06a5",
+    "wof:geomhash":"c4ca2e23c2e9d2d79679c120613f5cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1259876513,
-    "wof:lastmodified":1566673575,
+    "wof:lastmodified":1636495969,
     "wof:name":"Chico",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",
@@ -113,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.51666999999998,
+    -79.51667,
     9.26667,
-    -79.51666999999998,
+    -79.51667,
     9.26667
 ],
-  "geometry": {"coordinates":[-79.51666999999998,9.26667],"type":"Point"}
+  "geometry": {"coordinates":[-79.51667,9.26667],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062c\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09b2\u09be\u099c\u09be\u09b8"
+    ],
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
@@ -38,11 +44,32 @@
     "name:deu_x_preferred":[
         "Las Lajas"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c2 \u039b\u03ac\u03c7\u03b1\u03c2"
+    ],
     "name:fra_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05dc\u05d0\u05d7\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0932\u091c\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ind_x_preferred":[
         "Las Lajas"
     ],
     "name:ita_x_preferred":[
         "Las Lajas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30e9\u30cf\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4 \ub77c\ud558\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Las Lachasas"
@@ -63,6 +90,12 @@
         "Las Lajas N\u00famero Uno",
         "Las Lajas N\u00famero Dos"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062c\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Las Lajas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -77,7 +110,7 @@
         "gn:id":3706452
     },
     "wof:country":"PA",
-    "wof:geomhash":"444b1beb829d0393024142ce698a6d9a",
+    "wof:geomhash":"7d5c5147c8d99472b773aedfb52f04ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +128,7 @@
         }
     ],
     "wof:id":1293369577,
-    "wof:lastmodified":1566673085,
+    "wof:lastmodified":1636495928,
     "wof:name":"Las Lajas",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",
@@ -107,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.93314000000002,
+    -79.93314,
     8.90864,
-    -79.93314000000002,
+    -79.93314,
     8.90864
 ],
-  "geometry": {"coordinates":[-79.93314000000002,8.90864],"type":"Point"}
+  "geometry": {"coordinates":[-79.93313999999999,8.90864],"type":"Point"}
 }

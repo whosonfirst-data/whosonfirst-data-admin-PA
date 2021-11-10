@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Lola"
+    ],
     "name:ita_x_preferred":[
         "Lol\u00e1"
     ],
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1276962619,
-    "wof:lastmodified":1566673213,
+    "wof:lastmodified":1636495937,
     "wof:name":"Lola",
     "wof:parent_id":1108693229,
     "wof:placetype":"locality",

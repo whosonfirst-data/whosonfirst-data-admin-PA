@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0641\u064a\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09c7\u09ad\u09bf\u09a1"
+    ],
     "name:ceb_x_preferred":[
         "David"
     ],
@@ -38,7 +44,13 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d3"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u0935\u093f\u0921"
+    ],
     "name:hun_x_preferred":[
+        "David"
+    ],
+    "name:ind_x_preferred":[
         "David"
     ],
     "name:ita_x_preferred":[
@@ -89,8 +101,14 @@
     "name:spa_x_preferred":[
         "San Jos\u00e9 de David"
     ],
+    "name:swe_x_preferred":[
+        "David"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e1a\u0e34\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "David"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0432\u0438\u0434"
@@ -102,6 +120,9 @@
         "\u0688\u06cc\u0648\u0688"
     ],
     "name:vep_x_preferred":[
+        "David"
+    ],
+    "name:vie_x_preferred":[
         "David"
     ],
     "name:zho_x_preferred":[
@@ -151,7 +172,7 @@
         }
     ],
     "wof:id":421174203,
-    "wof:lastmodified":1566673436,
+    "wof:lastmodified":1636495956,
     "wof:name":"David",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

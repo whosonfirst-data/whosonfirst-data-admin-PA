@@ -32,6 +32,9 @@
     "name:ast_x_preferred":[
         "Las Cruces"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u0995\u09cd\u09b0\u09c1\u09b8\u09c7\u09b8"
+    ],
     "name:bre_x_preferred":[
         "Cruces"
     ],
@@ -39,6 +42,12 @@
         "Las Cruces"
     ],
     "name:fra_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0915\u094d\u0930\u0942\u0938\u0947\u0938"
+    ],
+    "name:ind_x_preferred":[
         "Las Cruces"
     ],
     "name:ita_x_preferred":[
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1343662357,
-    "wof:lastmodified":1566673043,
+    "wof:lastmodified":1636495924,
     "wof:name":"Las Cruces",
     "wof:parent_id":1108693205,
     "wof:placetype":"locality",

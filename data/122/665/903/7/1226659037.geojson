@@ -29,28 +29,76 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0627\u0634\u0648\u064a\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u09a4\u09be\u099a\u09c1\u09df\u09c7\u09b2\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Portachuelo"
     ],
     "name:deu_x_preferred":[
         "Portachuelo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4\u03b1\u03c7\u03bf\u03c5\u03ad\u03bb\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0627\u0686\u0648\u0626\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Portachuelo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8\u05e6'\u05d5\u05d0\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f\u093e\u091a\u094d\u092f\u0942\u0932\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Portachuelo"
+    ],
+    "name:ind_x_preferred":[
         "Portachuelo"
     ],
     "name:ita_x_preferred":[
         "Portachuelo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30bf\u30c1\u30e5\u30a8\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\ud0c0\uce04\uc5d8\ub85c"
+    ],
     "name:pol_x_preferred":[
+        "Portachuelo"
+    ],
+    "name:por_x_preferred":[
         "Portachuelo"
     ],
     "name:que_x_preferred":[
         "Portachuelo"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0430\u0447\u0443\u044d\u043b\u043e"
+    ],
     "name:spa_x_preferred":[
         "Portachuelo"
     ],
     "name:swe_x_preferred":[
+        "Portachuelo"
+    ],
+    "name:tur_x_preferred":[
+        "Portachuelo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0430\u0447\u0443\u0435\u043b\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679\u0627\u0686\u06cc\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Portachuelo"
     ],
     "name:war_x_preferred":[
@@ -83,7 +131,7 @@
         }
     ],
     "wof:id":1226659037,
-    "wof:lastmodified":1566673651,
+    "wof:lastmodified":1636495973,
     "wof:name":"Portachuelo",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

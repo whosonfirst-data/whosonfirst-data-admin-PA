@@ -17,20 +17,44 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b9\u09b0\u0995\u09cb\u09df\u09c7\u09a4\u09be"
+    ],
     "name:deu_x_preferred":[
         "Horqueta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c1\u03ba\u03b9\u03ad\u03c4\u03b1"
     ],
     "name:eus_x_preferred":[
         "Horqueta"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u06a9\u0648\u0626\u062a\u0627"
+    ],
     "name:grn_x_preferred":[
         "Ork\u00e9ta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e8\u05e7\u05d5\u05d5\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u094b\u0930\u0915\u0947\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Horqueta"
+    ],
+    "name:ind_x_preferred":[
+        "Horqueta"
     ],
     "name:ita_x_preferred":[
         "Horqueta"
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10e0\u10d9\u10d4\u10e2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub974\ucf00\ud0c0"
     ],
     "name:lit_x_preferred":[
         "Horketa"
@@ -44,10 +68,28 @@
     "name:por_x_preferred":[
         "Horqueta"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043a\u0435\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
         "La Horqueta"
     ],
     "name:spa_x_variant":[
+        "Horqueta"
+    ],
+    "name:swe_x_preferred":[
+        "Horqueta"
+    ],
+    "name:tur_x_preferred":[
+        "Horqueta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043a\u0435\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0631\u06a9\u0648\u0626\u0679\u06c1"
+    ],
+    "name:vie_x_preferred":[
         "Horqueta"
     ],
     "name:zho_x_preferred":[
@@ -98,7 +140,7 @@
         }
     ],
     "wof:id":421173751,
-    "wof:lastmodified":1566673441,
+    "wof:lastmodified":1636495957,
     "wof:name":"Horqueta",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

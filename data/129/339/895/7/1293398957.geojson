@@ -51,6 +51,9 @@
         "Entre Rios"
     ],
     "name:rus_x_preferred":[
+        "\u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u042d\u043d\u0442\u0440\u0435-\u0420\u0438\u043e\u0441"
+    ],
+    "name:rus_x_variant":[
         "\u042d\u043d\u0442\u0440\u0438-\u0420\u0438\u0443\u0441"
     ],
     "name:sco_x_preferred":[
@@ -62,8 +65,26 @@
     "name:swe_x_preferred":[
         "Entre Rios"
     ],
+    "name:tur_x_preferred":[
+        "Entre Rios"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u0442\u0440\u0435-\u0420\u0456\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0679\u0631\u06d2 \u0631\u06cc\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Entre Rios"
+    ],
     "name:vol_x_preferred":[
         "Entre Rios"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6069\u7279\u96f7\u91cc\u5965\u65af\u6e7f\u5730"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6069\u7279\u96f7\u91cc\u7d04\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +99,7 @@
         "gn:id":10347347
     },
     "wof:country":"PA",
-    "wof:geomhash":"21213f955afc00d51fa49f1f03fd3923",
+    "wof:geomhash":"29fa96dc85c561d85f212fa793e6ecb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +110,7 @@
         }
     ],
     "wof:id":1293398957,
-    "wof:lastmodified":1566673093,
+    "wof:lastmodified":1636495929,
     "wof:name":"Entre Rios",
     "wof:parent_id":421169889,
     "wof:placetype":"locality",
@@ -101,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.23855999999998,
+    -82.23856,
     8.66864,
-    -82.23855999999998,
+    -82.23856,
     8.66864
 ],
-  "geometry": {"coordinates":[-82.23855999999998,8.66864],"type":"Point"}
+  "geometry": {"coordinates":[-82.23856000000001,8.66864],"type":"Point"}
 }

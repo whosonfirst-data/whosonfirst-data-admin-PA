@@ -29,6 +29,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0633 \u0628\u0644\u0627\u0646\u0643\u0648\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c2 \u039c\u03c0\u03bb\u03ac\u03bd\u03ba\u03bf\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0633 \u0644\u0627\u0646\u06a9\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05d1\u05dc\u05e0\u05e7\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0938 \u092c\u094d\u0932\u0948\u0902\u0915\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:ind_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b9\u30d6\u30e9\u30f3\u30b3\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc2a4 \ube14\ub791\ucf54\uc2a4"
+    ],
+    "name:pol_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:por_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u0411\u043b\u0430\u043d\u043a\u043e\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0411\u043b\u0430\u043d\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0628\u0644\u06cc\u0646\u06a9\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Los Blancos"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6d1b\u65af\u5e03\u5170\u79d1\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d1b\u65af\u5e03\u862d\u79d1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +115,7 @@
         }
     ],
     "wof:id":1310678195,
-    "wof:lastmodified":1566673379,
+    "wof:lastmodified":1636495950,
     "wof:name":"Los Blancos",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

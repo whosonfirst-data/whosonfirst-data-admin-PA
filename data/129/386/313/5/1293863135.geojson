@@ -47,6 +47,12 @@
     "name:glg_x_preferred":[
         "El Tigre"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d8\u05d9\u05d2\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "El Tigre"
+    ],
     "name:ita_x_preferred":[
         "El Tigre"
     ],
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1293863135,
-    "wof:lastmodified":1566673150,
+    "wof:lastmodified":1636495932,
     "wof:name":"El Tigre",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

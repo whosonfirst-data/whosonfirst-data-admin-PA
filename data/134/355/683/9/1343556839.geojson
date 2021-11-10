@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Antonio"
+    ],
     "name:ita_x_preferred":[
         "San Antonio"
     ],
@@ -51,7 +57,7 @@
         "wk:page":"San_Antonio%2C_Panama"
     },
     "wof:country":"PA",
-    "wof:geomhash":"c51cf97947e59469b50e0e739550abbf",
+    "wof:geomhash":"dd67c783e23a69977e648621770db22e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1343556839,
-    "wof:lastmodified":1566673012,
+    "wof:lastmodified":1636495921,
     "wof:name":"San Antonio",
     "wof:parent_id":1108693187,
     "wof:placetype":"locality",
@@ -72,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.93186999999998,
+    -80.93187,
     8.0729,
-    -80.93186999999998,
+    -80.93187,
     8.0729
 ],
-  "geometry": {"coordinates":[-80.93186999999998,8.0729],"type":"Point"}
+  "geometry": {"coordinates":[-80.93187,8.0729],"type":"Point"}
 }

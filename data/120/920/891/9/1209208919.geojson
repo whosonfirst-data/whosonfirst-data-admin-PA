@@ -29,6 +29,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09ac\u09cd\u09af\u09be\u0999\u09cd\u0995\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039c\u03c0\u03ac\u03bd\u03ba\u03bf"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u092c\u0948\u0902\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "El Banco"
+    ],
+    "name:ind_x_preferred":[
+        "El Banco"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8 \ubc29\ucf54"
+    ],
+    "name:tur_x_preferred":[
+        "El Banco"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0628\u0627\u0646\u06a9\u0648"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -39,7 +63,7 @@
         "gn:id":3711440
     },
     "wof:country":"PA",
-    "wof:geomhash":"09aec5f46fe2a670f4d55b0e5260580e",
+    "wof:geomhash":"351cf8dc30eddbf9d7e55628762698b2",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1209208919,
-    "wof:lastmodified":1566673272,
+    "wof:lastmodified":1636495942,
     "wof:name":"El Banco",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
@@ -59,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.30471999999997,
+    -81.30472,
     7.66389,
-    -81.30471999999997,
+    -81.30472,
     7.66389
 ],
-  "geometry": {"coordinates":[-81.30471999999997,7.66389],"type":"Point"}
+  "geometry": {"coordinates":[-81.30472,7.66389],"type":"Point"}
 }

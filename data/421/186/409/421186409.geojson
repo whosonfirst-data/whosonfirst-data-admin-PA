@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Santa Fe"
     ],
+    "name:hun_x_preferred":[
+        "Santa Fe"
+    ],
     "name:ita_x_preferred":[
         "Santa F\u00e9"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421186409,
-    "wof:lastmodified":1566673445,
+    "wof:lastmodified":1636495958,
     "wof:name":"Santa Fe",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

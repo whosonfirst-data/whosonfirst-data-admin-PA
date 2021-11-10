@@ -35,6 +35,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf"
+    ],
     "name:eng_x_preferred":[
         "San Francisco"
     ],
@@ -45,8 +51,20 @@
     "name:fra_x_preferred":[
         "San Francisco"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092b\u093c\u094d\u0930\u0948\u0928\u094d\u0938\u093f\u0938\u094d\u0915\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "San Francisco"
+    ],
     "name:ita_x_preferred":[
         "distretto di San Francisco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54"
     ],
     "name:nld_x_preferred":[
         "San Francisco District"
@@ -59,6 +77,9 @@
     ],
     "name:srd_x_preferred":[
         "distretto de San Francisco"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648"
     ],
     "name:vie_x_preferred":[
         "San Francisco"
@@ -129,7 +150,7 @@
         }
     ],
     "wof:id":421173571,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1636495957,
     "wof:name":"San Francisco",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
         "Santa Rita"
     ],
     "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u06cc\u062a\u0627"
+    ],
+    "name:fas_x_variant":[
         "\u0627\u0633\u0646\u062a\u0627 \u0631\u06cc\u062a\u0627"
     ],
     "name:fra_x_preferred":[
@@ -46,14 +49,32 @@
     "name:glg_x_preferred":[
         "Santa Rita"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d9\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u0930\u0940\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Rita"
+    ],
     "name:ilo_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:ind_x_preferred":[
         "Santa Rita"
     ],
     "name:ita_x_preferred":[
         "Santa Rita"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30ea\u30bf"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10d8\u10e2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0 \ub9ac\ud0c0"
     ],
     "name:lit_x_preferred":[
         "Santa Rita"
@@ -93,6 +114,15 @@
     ],
     "name:swe_x_preferred":[
         "Santa Rita"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u0456\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0627 \u0631\u06cc\u0679\u0627"
     ],
     "name:vie_x_preferred":[
         "Santa Rita"
@@ -144,7 +174,7 @@
         }
     ],
     "wof:id":890429533,
-    "wof:lastmodified":1566673468,
+    "wof:lastmodified":1636495962,
     "wof:name":"Santa Rita",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

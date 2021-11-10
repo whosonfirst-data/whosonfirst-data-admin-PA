@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u042d\u0441\u043f\u0456\u0440\u044b\u0442\u0443-\u0421\u0430\u043d\u0442\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b8\u09cd\u09aa\u09bf\u09b0\u09bf\u09a4\u09c1 \u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0441\u043f\u0438\u0440\u0438\u0442\u0443 \u0421\u0430\u043d\u0442\u043e"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Espiritu Santo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03c0\u03b9\u03c1\u03af\u03c4\u03bf\u03c5 \u03a3\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:epo_x_preferred":[
         "Espiritu Santo"
@@ -74,10 +80,16 @@
     "name:glg_x_preferred":[
         "Illa Esp\u00edrito Santo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05d0\u05e1\u05e4\u05d9\u05e8\u05d9\u05d8\u05d5 \u05e1\u05e0\u05d8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0938\u094d\u092a\u093f\u0930\u093f\u0924\u0941 \u0938\u093e\u0928\u094d\u0924\u094b \u0926\u094d\u0935\u0940\u092a"
     ],
     "name:hrv_x_preferred":[
+        "Espiritu Santo"
+    ],
+    "name:hun_x_preferred":[
         "Espiritu Santo"
     ],
     "name:ilo_x_preferred":[
@@ -131,8 +143,14 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e2a\u0e1b\u0e35\u0e23\u0e35\u0e15\u0e39\u0e0b\u0e32\u0e19\u0e42\u0e15"
     ],
+    "name:tur_x_preferred":[
+        "Espiritu Santo"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u043f\u0456\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u067e\u06cc\u0631\u06cc\u062a\u0648 \u0633\u0627\u0646\u062a\u0648"
     ],
     "name:vie_x_preferred":[
         "Espiritu Santo"
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":1310091017,
-    "wof:lastmodified":1566673348,
+    "wof:lastmodified":1636495948,
     "wof:name":"Espiritu Santo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

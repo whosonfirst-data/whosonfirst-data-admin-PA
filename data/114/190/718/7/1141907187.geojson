@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.1402281105,8.3981811716,-78.1402281105,8.3981811716",
+    "geom:bbox":"-78.140228,8.398181,-78.140228,8.398181",
     "geom:latitude":8.398181,
     "geom:longitude":-78.140228,
     "iso:country":"PA",
@@ -76,10 +76,13 @@
         "\u0e25\u0e32\u0e1b\u0e31\u0e25\u0e21\u0e32"
     ],
     "name:urd_x_preferred":[
-        "\u0644\u0627 \u067e\u0627\u0644\u0645\u0627\u060c \u062f\u0627\u0631\u06cc\u0626\u0646"
+        "\u0644\u0627 \u067e\u0627\u0644\u0645\u0627"
     ],
     "name:urd_x_variant":[
-        "\u0644\u0627 \u067e\u0627\u0644\u0645\u0627"
+        "\u0644\u0627 \u067e\u0627\u0644\u0645\u0627\u060c \u062f\u0627\u0631\u06cc\u0626\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "La Palma"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5e15\u5c14\u9a6c"
@@ -192,7 +195,7 @@
     },
     "wof:country":"PA",
     "wof:created":1499130693,
-    "wof:geomhash":"b2f9e9eeba850c967feddc3da0a56af9",
+    "wof:geomhash":"84c31b1a43569a569f0222db788e5904",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":1141907187,
-    "wof:lastmodified":1566673664,
+    "wof:lastmodified":1636495975,
     "wof:name":"La Palma",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",
@@ -213,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.14022811045118,
-    8.39818117159945,
-    -78.14022811045118,
-    8.39818117159945
+    -78.140228,
+    8.398181,
+    -78.140228,
+    8.398181
 ],
-  "geometry": {"coordinates":[-78.14022811045118,8.39818117159945],"type":"Point"}
+  "geometry": {"coordinates":[-78.14022799999999,8.398181],"type":"Point"}
 }

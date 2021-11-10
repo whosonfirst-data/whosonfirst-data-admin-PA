@@ -29,6 +29,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633 \u0628\u064a\u0646\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09aa\u09bf\u09a8\u09be\u09b8"
+    ],
+    "name:deu_x_preferred":[
+        "Las Pi\u00f1as"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c2 \u03a0\u03af\u03bd\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Las Pinas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633 \u067e\u06cc\u0646\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Las Pi\u00f1as"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05e4\u05d9\u05e0\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0938 \u092a\u093f\u0928\u093e\u0938\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Las Pi\u00f1as"
+    ],
+    "name:ind_x_preferred":[
+        "Las Pinas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Pi\u00f1as"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30d4\u30cb\u30e3\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4 \ud53c\ub098\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Las Pi\u00f1as"
+    ],
+    "name:pol_x_preferred":[
+        "Las Pinas"
+    ],
+    "name:por_x_preferred":[
+        "Las Pi\u00f1as"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u041f\u0438\u0301\u043d\u044c\u044f\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Las Pi\u00f1as"
+    ],
+    "name:swe_x_preferred":[
+        "Las Pinas"
+    ],
+    "name:tur_x_preferred":[
+        "Las Pinas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u041f\u0456\u043d\u044c\u044f\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0633 \u067e\u06cc\u0646\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Las Pinas"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u65af\u76ae\u7eb3\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u65af\u76ae\u7d0d\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +130,7 @@
         }
     ],
     "wof:id":1243462117,
-    "wof:lastmodified":1566673501,
+    "wof:lastmodified":1636495964,
     "wof:name":"Las Pinas",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

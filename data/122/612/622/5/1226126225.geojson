@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05e1\u05e0\u05d8\u05d5\u05e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226126225,
-    "wof:lastmodified":1566673631,
+    "wof:lastmodified":1636495972,
     "wof:name":"Los Rios",
     "wof:parent_id":1108693225,
     "wof:placetype":"locality",

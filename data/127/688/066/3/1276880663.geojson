@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0645\u064a\u062e\u0648"
+    ],
     "name:cat_x_preferred":[
         "Bermejo"
     ],
@@ -38,14 +41,32 @@
     "name:deu_x_preferred":[
         "Bermejo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0645\u062c\u0648"
+    ],
     "name:fra_x_preferred":[
         "Bermejo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05de\u05d7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0930\u094d\u092e\u0947\u091c\u094b"
     ],
     "name:hrv_x_preferred":[
         "Bermejo"
     ],
+    "name:hun_x_preferred":[
+        "Bermejo"
+    ],
+    "name:ind_x_preferred":[
+        "Bermejo"
+    ],
     "name:ita_x_preferred":[
         "Bermejo"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\uba54\ud638"
     ],
     "name:nld_x_preferred":[
         "Bermejo"
@@ -61,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Bermejo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0645\u06cc\u062c\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +109,7 @@
         }
     ],
     "wof:id":1276880663,
-    "wof:lastmodified":1566673168,
+    "wof:lastmodified":1636495934,
     "wof:name":"Bermejo",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

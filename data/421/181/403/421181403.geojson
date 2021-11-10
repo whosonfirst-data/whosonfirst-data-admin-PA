@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Santa Fe"
     ],
+    "name:hun_x_preferred":[
+        "Santa Fe"
+    ],
     "name:ita_x_preferred":[
         "distretto di Santa F\u00e9"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421181403,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1636495958,
     "wof:name":"Santa Fe",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

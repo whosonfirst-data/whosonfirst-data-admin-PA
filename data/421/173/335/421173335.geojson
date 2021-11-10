@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u063a\u0631\u064a\u062a\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u0997\u09be\u09b0\u09bf\u09a4\u09be"
+    ],
     "name:bos_x_preferred":[
         "Margarita"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d2\u05e8\u05d9\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0917\u0930\u0940\u091f\u093e"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056f\u057f\u0565\u0575\u056c \u00ab\u0544\u0561\u0580\u0563\u0561\u0580\u056b\u057f\u0561\u00bb"
@@ -107,13 +113,22 @@
     "name:swe_x_preferred":[
         "Margarita"
     ],
+    "name:tur_x_preferred":[
+        "Margarita"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Margarita-Escondido"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u06af\u0631\u06cc\u0679\u0627"
+    ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Margarita"
+    ],
+    "name:vie_x_variant":[
         "Margarita"
     ],
     "name:zho_x_preferred":[
@@ -166,7 +181,7 @@
         }
     ],
     "wof:id":421173335,
-    "wof:lastmodified":1566673441,
+    "wof:lastmodified":1636495957,
     "wof:name":"Margarita",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

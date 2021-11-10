@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Los Santos"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e9\u05e7\u05d4 \u05d3\u05d5\u05dc\u05d9\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Los Santos"
+    ],
     "name:ita_x_preferred":[
         "Los Santos"
     ],
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1259596241,
-    "wof:lastmodified":1566673570,
+    "wof:lastmodified":1636495968,
     "wof:name":"Los Santos",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Las Palmas"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05e4\u05dc\u05de\u05d0\u05e1"
+    ],
     "name:ita_x_preferred":[
         "distretto di Las Palmas"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108693229,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1636495946,
     "wof:name":"Las Palmas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

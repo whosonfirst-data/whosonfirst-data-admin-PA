@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Los Santos"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e9\u05e7\u05d4 \u05d3\u05d5\u05dc\u05d9\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Los Santos"
+    ],
     "name:ita_x_preferred":[
         "distretto di Los Santos"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108693235,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1636495946,
     "wof:name":"Los Santos",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

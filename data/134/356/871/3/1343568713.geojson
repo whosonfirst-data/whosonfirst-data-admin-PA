@@ -48,6 +48,9 @@
         "Tambo"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0422\u0430\u043c\u0431\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0422\u0430\u043c\u0431\u043e"
     ],
     "name:spa_x_preferred":[
@@ -55,6 +58,12 @@
     ],
     "name:swe_x_preferred":[
         "Tambo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0648"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -69,7 +78,7 @@
         "gn:id":3700773
     },
     "wof:country":"PA",
-    "wof:geomhash":"7af0bd928ff5478bf5f1c8e17e11a237",
+    "wof:geomhash":"9210e9b42fedaa869e3155dce366b5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1343568713,
-    "wof:lastmodified":1566673048,
+    "wof:lastmodified":1636495925,
     "wof:name":"Tambo",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",
@@ -92,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.29373000000002,
+    -80.29373,
     8.66233,
-    -80.29373000000002,
+    -80.29373,
     8.66233
 ],
-  "geometry": {"coordinates":[-80.29373000000002,8.66233],"type":"Point"}
+  "geometry": {"coordinates":[-80.29373,8.66233],"type":"Point"}
 }
