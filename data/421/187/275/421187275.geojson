@@ -23,6 +23,9 @@
     "name:fra_x_preferred":[
         "Miss Panama"
     ],
+    "name:fra_x_variant":[
+        "Jaramillo"
+    ],
     "name:hun_x_preferred":[
         "Miss Panama"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421187275,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1690850325,
     "wof:name":"Centro Jaramillo",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

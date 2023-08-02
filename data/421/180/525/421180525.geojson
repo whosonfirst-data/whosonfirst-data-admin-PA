@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "G\u00f3mez"
     ],
+    "name:fra_x_preferred":[
+        "G\u00f3mez"
+    ],
     "name:glg_x_preferred":[
         "G\u00f3mez"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421180525,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1690850324,
     "wof:name":"G\u00f3mez",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

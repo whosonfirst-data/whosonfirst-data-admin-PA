@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "La Pintada"
     ],
+    "name:fra_x_preferred":[
+        "La Pintada"
+    ],
     "name:ita_x_preferred":[
         "La Pintada"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421202865,
-    "wof:lastmodified":1566673435,
+    "wof:lastmodified":1690850321,
     "wof:name":"La Pintada",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

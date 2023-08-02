@@ -17,16 +17,103 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Amador"
+    ],
+    "name:cat_x_preferred":[
+        "Amador"
+    ],
+    "name:ces_x_preferred":[
+        "Amador"
+    ],
+    "name:cos_x_preferred":[
+        "Amador"
+    ],
+    "name:cym_x_preferred":[
+        "Amador"
+    ],
+    "name:dan_x_preferred":[
+        "Amador"
+    ],
+    "name:deu_x_preferred":[
+        "Amador"
+    ],
     "name:eng_x_preferred":[
         "Amador"
     ],
+    "name:est_x_preferred":[
+        "Amador"
+    ],
+    "name:fin_x_preferred":[
+        "Amador"
+    ],
+    "name:fra_x_preferred":[
+        "Amador"
+    ],
+    "name:gle_x_preferred":[
+        "Amador"
+    ],
+    "name:glg_x_preferred":[
+        "Amador"
+    ],
+    "name:hrv_x_preferred":[
+        "Amador"
+    ],
+    "name:hun_x_preferred":[
+        "Amador"
+    ],
+    "name:ind_x_preferred":[
+        "Amador"
+    ],
     "name:ita_x_preferred":[
+        "Amador"
+    ],
+    "name:lav_x_preferred":[
+        "Amador"
+    ],
+    "name:lit_x_preferred":[
+        "Amador"
+    ],
+    "name:ltz_x_preferred":[
+        "Amador"
+    ],
+    "name:nld_x_preferred":[
+        "Amador"
+    ],
+    "name:nrm_x_preferred":[
+        "Amador"
+    ],
+    "name:oci_x_preferred":[
+        "Amador"
+    ],
+    "name:pol_x_preferred":[
+        "Amador"
+    ],
+    "name:por_x_preferred":[
+        "Amador"
+    ],
+    "name:ron_x_preferred":[
+        "Amador"
+    ],
+    "name:slk_x_preferred":[
+        "Amador"
+    ],
+    "name:slv_x_preferred":[
         "Amador"
     ],
     "name:spa_x_preferred":[
         "Fuerte Amador"
     ],
     "name:spa_x_variant":[
+        "Amador"
+    ],
+    "name:swe_x_preferred":[
+        "Amador"
+    ],
+    "name:tah_x_preferred":[
+        "Amador"
+    ],
+    "name:tur_x_preferred":[
         "Amador"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +159,7 @@
         }
     ],
     "wof:id":421187287,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1690850325,
     "wof:name":"Fuerte Amador",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

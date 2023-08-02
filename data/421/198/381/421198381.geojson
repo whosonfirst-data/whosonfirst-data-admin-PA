@@ -20,10 +20,16 @@
     "name:ceb_x_preferred":[
         "Son\u00e1"
     ],
+    "name:ces_x_preferred":[
+        "Son\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Son\u00e1"
     ],
     "name:ita_x_preferred":[
+        "Son\u00e1"
+    ],
+    "name:pol_x_preferred":[
         "Son\u00e1"
     ],
     "name:por_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421198381,
-    "wof:lastmodified":1566673448,
+    "wof:lastmodified":1690850338,
     "wof:name":"Sona",
     "wof:parent_id":421171349,
     "wof:placetype":"localadmin",

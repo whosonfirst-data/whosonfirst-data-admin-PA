@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Empalme"
     ],
+    "name:fra_x_preferred":[
+        "El Empalme"
+    ],
     "name:ita_x_preferred":[
         "El Empalme"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421192109,
-    "wof:lastmodified":1566673427,
+    "wof:lastmodified":1690850312,
     "wof:name":"El Empalme",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

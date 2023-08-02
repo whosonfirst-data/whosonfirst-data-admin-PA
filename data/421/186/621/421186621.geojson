@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Arraij\u00e1n"
     ],
+    "name:deu_x_preferred":[
+        "Arraij\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Arraij\u00e1n"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421186621,
-    "wof:lastmodified":1566673444,
+    "wof:lastmodified":1690850332,
     "wof:name":"Arrajan",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

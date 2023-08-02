@@ -38,7 +38,6 @@
         "Los Santos"
     ],
     "name:eng_x_variant":[
-        "Los Santos",
         "Los Santos District"
     ],
     "name:fra_x_preferred":[
@@ -53,6 +52,9 @@
     "name:ita_x_preferred":[
         "distretto di Los Santos"
     ],
+    "name:nan_x_preferred":[
+        "Los Santos Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Los Santos District"
     ],
@@ -64,6 +66,9 @@
     ],
     "name:srd_x_preferred":[
         "distretto de Los Santos"
+    ],
+    "name:tur_x_preferred":[
+        "Los Santos"
     ],
     "name:vie_x_preferred":[
         "Los Santos"
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1108693235,
-    "wof:lastmodified":1636495946,
+    "wof:lastmodified":1690850304,
     "wof:name":"Los Santos",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

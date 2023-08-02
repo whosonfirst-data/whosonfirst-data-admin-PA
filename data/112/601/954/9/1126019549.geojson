@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "El Uvito"
     ],
+    "name:fra_x_preferred":[
+        "El Uvito"
+    ],
     "name:nld_x_preferred":[
         "El Uvito"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126019549,
-    "wof:lastmodified":1566673472,
+    "wof:lastmodified":1690850364,
     "wof:name":"El Uvito",
     "wof:parent_id":421199909,
     "wof:placetype":"locality",

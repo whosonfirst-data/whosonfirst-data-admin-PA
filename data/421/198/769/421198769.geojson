@@ -26,6 +26,9 @@
     "name:ita_x_preferred":[
         "Puerto Caimito"
     ],
+    "name:pol_x_preferred":[
+        "Puerto Caimito"
+    ],
     "name:spa_x_preferred":[
         "Puerto Caimito"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421198769,
-    "wof:lastmodified":1566673448,
+    "wof:lastmodified":1690850337,
     "wof:name":"Puerto Caimito",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

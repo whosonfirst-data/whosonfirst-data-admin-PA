@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Sortov\u00e1"
     ],
+    "name:fra_x_preferred":[
+        "Sortov\u00e1"
+    ],
     "name:ita_x_preferred":[
         "Sortov\u00e1"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421173349,
-    "wof:lastmodified":1566673440,
+    "wof:lastmodified":1690850328,
     "wof:name":"Sortov\u00e1",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

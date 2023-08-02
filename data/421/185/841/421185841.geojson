@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Atalaya"
     ],
+    "name:fra_x_preferred":[
+        "Atalaya"
+    ],
     "name:ita_x_preferred":[
         "Atalaya"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:spa_x_preferred":[
         "Atalaya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u0430\u043b\u0430\u044f"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5854\u62c9\u4e9a"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421185841,
-    "wof:lastmodified":1566673466,
+    "wof:lastmodified":1690850359,
     "wof:name":"Atalaya",
     "wof:parent_id":1108693187,
     "wof:placetype":"localadmin",

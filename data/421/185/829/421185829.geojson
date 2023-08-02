@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Churuquita Chiquita"
     ],
+    "name:spa_x_preferred":[
+        "Churuquita Chiquita"
+    ],
     "name:und_x_variant":[
         "Churiquita Chiquita"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421185829,
-    "wof:lastmodified":1566673465,
+    "wof:lastmodified":1690850358,
     "wof:name":"Churuquita Chiquita",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

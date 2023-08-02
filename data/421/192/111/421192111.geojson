@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Silencio"
+    ],
     "name:eng_x_preferred":[
+        "El Silencio"
+    ],
+    "name:fra_x_preferred":[
         "El Silencio"
     ],
     "name:kat_x_preferred":[
@@ -28,6 +34,9 @@
     ],
     "name:spa_x_preferred":[
         "El Silencio"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u897f\u502b\u897f\u5967"
     ],
     "qs:gn_country":"PA",
     "qs:gn_fcode":"PPL",
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":421192111,
-    "wof:lastmodified":1566673427,
+    "wof:lastmodified":1690850312,
     "wof:name":"El Silencio",
     "wof:parent_id":421170139,
     "wof:placetype":"locality",

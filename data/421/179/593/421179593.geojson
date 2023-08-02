@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Cortezo"
     ],
+    "name:fra_x_preferred":[
+        "El Cortezo"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10da-\u10d9\u10dd\u10e0\u10e2\u10d4\u10e1\u10dd"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421179593,
-    "wof:lastmodified":1566673460,
+    "wof:lastmodified":1690850351,
     "wof:name":"El Cortezo",
     "wof:parent_id":421191757,
     "wof:placetype":"locality",

@@ -50,8 +50,14 @@
     "name:nob_x_preferred":[
         "Anc\u00f3n"
     ],
+    "name:pol_x_preferred":[
+        "Anc\u00f3n"
+    ],
     "name:por_x_preferred":[
         "Anc\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043a\u043e\u043d"
     ],
     "name:spa_x_preferred":[
         "Anc\u00f3n"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421197963,
-    "wof:lastmodified":1566673450,
+    "wof:lastmodified":1690850340,
     "wof:name":"Anc\u00f3n",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

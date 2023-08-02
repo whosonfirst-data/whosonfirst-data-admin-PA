@@ -39,7 +39,6 @@
         "Alanje"
     ],
     "name:eng_x_variant":[
-        "Alanje",
         "Alanje District"
     ],
     "name:fas_x_preferred":[
@@ -48,8 +47,14 @@
     "name:fra_x_preferred":[
         "Alanje"
     ],
+    "name:fra_x_variant":[
+        "District d'Alanje"
+    ],
     "name:ita_x_preferred":[
         "distretto di Alanje"
+    ],
+    "name:nan_x_preferred":[
+        "Alanje Ko\u0101n"
     ],
     "name:por_x_preferred":[
         "Alanje"
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":421202705,
-    "wof:lastmodified":1627522488,
+    "wof:lastmodified":1690850320,
     "wof:name":"Alanje",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

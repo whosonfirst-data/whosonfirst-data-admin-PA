@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Pocr\u00ed"
     ],
+    "name:fra_x_preferred":[
+        "Pocr\u00ed"
+    ],
     "name:ita_x_preferred":[
         "Pocr\u00ed"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421185817,
-    "wof:lastmodified":1566673465,
+    "wof:lastmodified":1690850358,
     "wof:name":"Pocr\u00ed",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

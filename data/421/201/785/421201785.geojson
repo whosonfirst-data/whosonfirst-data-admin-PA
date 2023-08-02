@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Potrerillos Abajo"
     ],
+    "name:fra_x_preferred":[
+        "Potrerillos Abajo"
+    ],
     "name:ita_x_preferred":[
         "Potrerillos Abajo"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421201785,
-    "wof:lastmodified":1566673454,
+    "wof:lastmodified":1690850344,
     "wof:name":"Potrerillos Abajo",
     "wof:parent_id":421171219,
     "wof:placetype":"locality",

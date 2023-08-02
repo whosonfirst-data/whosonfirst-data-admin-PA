@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Chichica"
     ],
+    "name:fra_x_preferred":[
+        "Chichica"
+    ],
     "name:ita_x_preferred":[
         "Chichica"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421170985,
-    "wof:lastmodified":1566673456,
+    "wof:lastmodified":1690850347,
     "wof:name":"Chichica",
     "wof:parent_id":1108693243,
     "wof:placetype":"locality",

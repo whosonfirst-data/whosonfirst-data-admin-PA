@@ -22,11 +22,17 @@
     "name:eng_x_preferred":[
         "Burica"
     ],
+    "name:fra_x_preferred":[
+        "Burica"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10e0\u10d8\u10d9\u10d0"
     ],
     "name:nld_x_preferred":[
         "Burica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u0438\u043a\u0430"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u91cc\u5361"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":890445079,
-    "wof:lastmodified":1566673469,
+    "wof:lastmodified":1690850362,
     "wof:name":"Punta de Burica",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

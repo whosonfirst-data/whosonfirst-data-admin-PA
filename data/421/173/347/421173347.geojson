@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Santa Marta"
     ],
+    "name:fra_x_preferred":[
+        "Santa Marta"
+    ],
     "name:ita_x_preferred":[
         "Santa Marta"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421173347,
-    "wof:lastmodified":1566673440,
+    "wof:lastmodified":1690850328,
     "wof:name":"Santa Marta",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

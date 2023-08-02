@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ae\u09bf\u0997\u09c7\u09b2"
+    ],
     "name:eng_x_preferred":[
         "San Miguel"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421193345,
-    "wof:lastmodified":1636495955,
+    "wof:lastmodified":1690850315,
     "wof:name":"San Miguel",
     "wof:parent_id":421175369,
     "wof:placetype":"locality",

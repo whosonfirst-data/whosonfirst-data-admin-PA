@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Tocumen"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05d5\u05de\u05df"
+    ],
     "name:ita_x_preferred":[
         "Tocumen"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421193027,
-    "wof:lastmodified":1582319479,
+    "wof:lastmodified":1690850314,
     "wof:name":"Tocumen",
     "wof:parent_id":421196975,
     "wof:placetype":"localadmin",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Horconcitos"
     ],
+    "name:fra_x_preferred":[
+        "Horconcitos"
+    ],
     "name:ita_x_preferred":[
         "Horconcitos"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421197995,
-    "wof:lastmodified":1566673451,
+    "wof:lastmodified":1690850341,
     "wof:name":"Horconcitos",
     "wof:parent_id":1108693267,
     "wof:placetype":"locality",

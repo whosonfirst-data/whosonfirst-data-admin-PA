@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Tonos\u00ed"
     ],
+    "name:fra_x_preferred":[
+        "Tonos\u00ed"
+    ],
     "name:ita_x_preferred":[
         "Tonos\u00ed"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421180185,
-    "wof:lastmodified":1582319480,
+    "wof:lastmodified":1690850325,
     "wof:name":"Tonosi",
     "wof:parent_id":421203469,
     "wof:placetype":"localadmin",

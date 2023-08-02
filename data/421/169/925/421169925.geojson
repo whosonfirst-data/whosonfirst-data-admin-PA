@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u09cd\u0995\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "San Francisco"
+    ],
     "name:eng_x_preferred":[
         "San Francisco"
     ],
     "name:ita_x_preferred":[
         "San Francisco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3"
     ],
     "name:spa_x_preferred":[
         "San Francisco"
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":421169925,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1690850317,
     "wof:name":"Quebrada San Francisco",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

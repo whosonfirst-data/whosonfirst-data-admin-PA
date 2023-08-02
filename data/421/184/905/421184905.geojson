@@ -39,13 +39,16 @@
         "Besiko"
     ],
     "name:eng_x_variant":[
-        "Besiko"
+        "Besik\u00f3"
     ],
     "name:fra_x_preferred":[
         "Besiko"
     ],
     "name:ita_x_preferred":[
         "distretto di Besiko"
+    ],
+    "name:nan_x_preferred":[
+        "Besik\u00f3 Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Distretto di Besiko"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421184905,
-    "wof:lastmodified":1627522488,
+    "wof:lastmodified":1690850346,
     "wof:name":"Besiko",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

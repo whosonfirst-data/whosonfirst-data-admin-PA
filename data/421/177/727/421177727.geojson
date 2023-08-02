@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Dolega"
     ],
+    "name:fra_x_preferred":[
+        "Dolega"
+    ],
     "name:ita_x_preferred":[
         "Dolega"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421177727,
-    "wof:lastmodified":1582319482,
+    "wof:lastmodified":1690850350,
     "wof:name":"Dolega",
     "wof:parent_id":421171219,
     "wof:placetype":"localadmin",

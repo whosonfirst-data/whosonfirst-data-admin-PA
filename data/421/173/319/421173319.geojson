@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Ca\u00f1o"
     ],
+    "name:fra_x_preferred":[
+        "El Ca\u00f1o"
+    ],
     "name:ita_x_preferred":[
         "El Ca\u00f1o"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421173319,
-    "wof:lastmodified":1566673441,
+    "wof:lastmodified":1690850330,
     "wof:name":"El Ca\u00f1o",
     "wof:parent_id":421191757,
     "wof:placetype":"locality",

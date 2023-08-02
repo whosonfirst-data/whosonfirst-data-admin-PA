@@ -17,7 +17,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
     "name:eng_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:est_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:fin_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:fit_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:mhr_x_preferred":[
         "El Quite\u00f1o Libre"
     ],
     "name:nld_x_preferred":[
@@ -29,11 +44,44 @@
     "name:nor_x_preferred":[
         "El Quite\u00f1o Libre"
     ],
+    "name:rmf_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:rus_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:sjd_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:sje_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:sju_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:sma_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:sme_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:smj_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:smn_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
+    "name:sms_x_preferred":[
+        "El Quite\u00f1o Libre"
+    ],
     "name:spa_x_preferred":[
         "El Quite\u00f1o Libre"
     ],
     "name:spa_x_variant":[
         "Quinte\u00f1o"
+    ],
+    "name:swe_x_preferred":[
+        "El Quite\u00f1o Libre"
     ],
     "name:und_x_variant":[
         "Quiteno"
@@ -85,7 +133,7 @@
         }
     ],
     "wof:id":421197787,
-    "wof:lastmodified":1566673451,
+    "wof:lastmodified":1690850342,
     "wof:name":"El Quite\u00f1o",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",

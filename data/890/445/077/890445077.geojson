@@ -28,6 +28,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0648\u0628\u0648\u0627\u0644\u0627"
     ],
+    "name:fra_x_preferred":[
+        "Tubual\u00e1"
+    ],
     "name:ita_x_preferred":[
         "Tubual\u00e1"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890445077,
-    "wof:lastmodified":1566673469,
+    "wof:lastmodified":1690850362,
     "wof:name":"Tubual\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

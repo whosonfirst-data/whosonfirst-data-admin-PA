@@ -45,7 +45,6 @@
         "Boquete"
     ],
     "name:eng_x_variant":[
-        "Boquete",
         "Boquete District"
     ],
     "name:fra_x_preferred":[
@@ -60,6 +59,9 @@
     "name:lit_x_preferred":[
         "Boket\u0117"
     ],
+    "name:nan_x_preferred":[
+        "Boquete Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Boquete"
     ],
@@ -68,6 +70,9 @@
     ],
     "name:spa_x_preferred":[
         "Bajo Boquete"
+    ],
+    "name:spa_x_variant":[
+        "Boquete"
     ],
     "name:srd_x_preferred":[
         "distretto de Boquete"
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":421175373,
-    "wof:lastmodified":1627522488,
+    "wof:lastmodified":1690850335,
     "wof:name":"Boquete",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

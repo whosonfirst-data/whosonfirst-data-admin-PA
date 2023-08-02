@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Escobal"
     ],
+    "name:fra_x_preferred":[
+        "Escobal"
+    ],
     "name:ita_x_preferred":[
         "Escobal"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421201031,
-    "wof:lastmodified":1582319482,
+    "wof:lastmodified":1690850344,
     "wof:name":"Escobal",
     "wof:parent_id":1108693211,
     "wof:placetype":"localadmin",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Ca\u00f1azas"
     ],
+    "name:fra_x_preferred":[
+        "Ca\u00f1azas"
+    ],
     "name:ita_x_preferred":[
         "Ca\u00f1azas"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890416573,
-    "wof:lastmodified":1566673468,
+    "wof:lastmodified":1690850362,
     "wof:name":"Ca\u00f1azas",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",

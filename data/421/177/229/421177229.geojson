@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Kusapin"
     ],
+    "name:eng_x_variant":[
+        "Kusap\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Kusap\u00edn"
+    ],
     "name:ita_x_preferred":[
         "Kusap\u00edn"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421177229,
-    "wof:lastmodified":1566673457,
+    "wof:lastmodified":1690850348,
     "wof:name":"Cusap\u00edn",
     "wof:parent_id":1108693223,
     "wof:placetype":"locality",

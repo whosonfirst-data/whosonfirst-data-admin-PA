@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Pes\u00e9"
     ],
+    "name:deu_x_preferred":[
+        "Pes\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Pes\u00e9"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421199953,
-    "wof:lastmodified":1582319481,
+    "wof:lastmodified":1690850342,
     "wof:name":"Pese",
     "wof:parent_id":1108693253,
     "wof:placetype":"localadmin",

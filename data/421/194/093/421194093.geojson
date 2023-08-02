@@ -35,6 +35,9 @@
     "name:spa_x_preferred":[
         "Bethania"
     ],
+    "name:spa_x_variant":[
+        "Betania"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Betania"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421194093,
-    "wof:lastmodified":1566673429,
+    "wof:lastmodified":1690850313,
     "wof:name":"Betania",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

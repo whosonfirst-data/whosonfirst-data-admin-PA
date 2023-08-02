@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Gat\u00fan"
+    ],
     "name:eng_x_preferred":[
         "Gat\u00fan"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421179575,
-    "wof:lastmodified":1566673460,
+    "wof:lastmodified":1690850351,
     "wof:name":"R\u00edo Gat\u00fan",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

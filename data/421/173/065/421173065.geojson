@@ -23,6 +23,12 @@
     "name:fra_x_preferred":[
         "Gamboa"
     ],
+    "name:ita_x_preferred":[
+        "Gamboa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30f3\u30dc\u30a2"
+    ],
     "name:nld_x_preferred":[
         "Gamboa"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421173065,
-    "wof:lastmodified":1566673440,
+    "wof:lastmodified":1690850327,
     "wof:name":"Gamboa",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

@@ -23,10 +23,16 @@
     "name:eng_x_preferred":[
         "Chigor\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Chigor\u00e9"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10d8\u10d2\u10dd\u10e0\u10d4"
     ],
     "name:nld_x_preferred":[
+        "Chigor\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Chigor\u00e9"
     ],
     "name:und_x_variant":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421201777,
-    "wof:lastmodified":1566673454,
+    "wof:lastmodified":1690850344,
     "wof:name":"Chigor\u00e9",
     "wof:parent_id":421202589,
     "wof:placetype":"locality",

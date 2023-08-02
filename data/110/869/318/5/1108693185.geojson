@@ -38,14 +38,19 @@
         "Ant\u00f3n"
     ],
     "name:eng_x_variant":[
-        "Ant\u00f3n",
         "Ant\u00f3n District"
     ],
     "name:fra_x_preferred":[
         "Anton"
     ],
+    "name:fra_x_variant":[
+        "District d'Ant\u00f3n"
+    ],
     "name:ita_x_preferred":[
         "distretto di Ant\u00f3n"
+    ],
+    "name:nan_x_preferred":[
+        "Ant\u00f3n Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ant\u00f3n District"
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1108693185,
-    "wof:lastmodified":1627522488,
+    "wof:lastmodified":1690850307,
     "wof:name":"Ant\u00f3n",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

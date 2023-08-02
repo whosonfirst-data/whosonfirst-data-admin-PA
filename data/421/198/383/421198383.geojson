@@ -17,7 +17,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Capira"
+    ],
     "name:eng_x_preferred":[
+        "Capira"
+    ],
+    "name:fra_x_preferred":[
         "Capira"
     ],
     "name:ita_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421198383,
-    "wof:lastmodified":1582319481,
+    "wof:lastmodified":1690850336,
     "wof:name":"Capira",
     "wof:parent_id":421181905,
     "wof:placetype":"localadmin",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Giral"
     ],
+    "name:fra_x_preferred":[
+        "El Giral"
+    ],
     "name:nld_x_preferred":[
         "El Giral"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421197789,
-    "wof:lastmodified":1566673451,
+    "wof:lastmodified":1690850342,
     "wof:name":"El Giral",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

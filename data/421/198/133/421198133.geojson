@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Gualaca"
     ],
+    "name:fra_x_preferred":[
+        "Gualaca"
+    ],
     "name:ita_x_preferred":[
         "Gualaca"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421198133,
-    "wof:lastmodified":1582319481,
+    "wof:lastmodified":1690850335,
     "wof:name":"Gualaca",
     "wof:parent_id":421169889,
     "wof:placetype":"localadmin",

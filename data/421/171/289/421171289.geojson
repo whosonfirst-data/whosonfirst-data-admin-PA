@@ -20,10 +20,16 @@
     "name:eng_x_preferred":[
         "Veracruz"
     ],
+    "name:fra_x_preferred":[
+        "Veracruz"
+    ],
     "name:ita_x_preferred":[
         "Veracruz"
     ],
     "name:nah_x_preferred":[
+        "Veracruz"
+    ],
+    "name:pol_x_preferred":[
         "Veracruz"
     ],
     "name:spa_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":421171289,
-    "wof:lastmodified":1566673464,
+    "wof:lastmodified":1690850356,
     "wof:name":"Veracruz",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

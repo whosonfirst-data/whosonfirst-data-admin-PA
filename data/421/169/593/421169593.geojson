@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Coloncito"
     ],
+    "name:fra_x_preferred":[
+        "Coloncito"
+    ],
     "name:nld_x_preferred":[
         "Coloncito"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421169593,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1690850316,
     "wof:name":"Coloncito",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

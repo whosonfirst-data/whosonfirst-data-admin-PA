@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Garachin\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Garachin\u00e9"
+    ],
     "name:ita_x_preferred":[
         "Garachin\u00e9"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421198271,
-    "wof:lastmodified":1566673448,
+    "wof:lastmodified":1690850337,
     "wof:name":"Garachin\u00e9",
     "wof:parent_id":421170141,
     "wof:placetype":"locality",

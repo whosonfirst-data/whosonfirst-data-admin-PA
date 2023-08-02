@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Nuevo Guarar\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Nuevo Guarar\u00e9"
+    ],
     "name:und_x_variant":[
         "Nueva Guarare"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421173337,
-    "wof:lastmodified":1566673439,
+    "wof:lastmodified":1690850326,
     "wof:name":"Nuevo Guarar\u00e9",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

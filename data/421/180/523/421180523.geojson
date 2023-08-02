@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Finca Corredor"
     ],
+    "name:fra_x_preferred":[
+        "Finca Corredor"
+    ],
     "name:kat_x_preferred":[
         "\u10e4\u10d8\u10dc\u10d9\u10d0-\u10d9\u10dd\u10e0\u10d4\u10d3\u10dd\u10e0\u10d8"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421180523,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1690850325,
     "wof:name":"Finca Corredor",
     "wof:parent_id":1108693189,
     "wof:placetype":"locality",

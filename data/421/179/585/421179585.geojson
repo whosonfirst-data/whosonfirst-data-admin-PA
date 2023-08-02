@@ -23,10 +23,16 @@
     "name:eng_x_preferred":[
         "La Mitra"
     ],
+    "name:fra_x_preferred":[
+        "La Mitra"
+    ],
     "name:nld_x_preferred":[
         "La Mitra"
     ],
     "name:por_x_preferred":[
+        "La Mitra"
+    ],
+    "name:spa_x_preferred":[
         "La Mitra"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421179585,
-    "wof:lastmodified":1566673461,
+    "wof:lastmodified":1690850352,
     "wof:name":"La Mitra",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

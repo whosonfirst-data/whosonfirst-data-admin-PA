@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Cerme\u00f1o"
     ],
+    "name:fra_x_preferred":[
+        "Cerme\u00f1o"
+    ],
     "name:ita_x_preferred":[
         "Cerme\u00f1o"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421199519,
-    "wof:lastmodified":1566673452,
+    "wof:lastmodified":1690850343,
     "wof:name":"Cerme\u00f1o",
     "wof:parent_id":421181905,
     "wof:placetype":"locality",

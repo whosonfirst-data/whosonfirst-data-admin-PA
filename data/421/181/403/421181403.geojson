@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ab\u09c7"
+    ],
     "name:eng_x_preferred":[
         "Santa F\u00e9"
     ],
@@ -51,8 +54,17 @@
     "name:ita_x_preferred":[
         "distretto di Santa F\u00e9"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30d5\u30a7"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Fe Ko\u0101n"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Santa Fe"
+    ],
+    "name:spa_x_variant":[
+        "Santa Fe"
     ],
     "name:srd_x_preferred":[
         "distretto de Santa F\u00e9"
@@ -63,8 +75,14 @@
     "name:vie_x_preferred":[
         "Santa F\u00e9"
     ],
+    "name:yue_x_preferred":[
+        "\u8056\u9054\u83f2"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u5927\u83f2\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u8056\u9054\u83f2"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":421181403,
-    "wof:lastmodified":1636495958,
+    "wof:lastmodified":1690850334,
     "wof:name":"Santa Fe",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

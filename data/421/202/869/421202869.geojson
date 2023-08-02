@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Caldeira"
     ],
+    "name:fra_x_variant":[
+        "Caldera"
+    ],
     "name:gle_x_preferred":[
         "Caild\u00e9ara"
     ],
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":421202869,
-    "wof:lastmodified":1636495956,
+    "wof:lastmodified":1690850319,
     "wof:name":"Caldera",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",
