@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Nuevo Arraij\u00e1n"
     ],
+    "name:fra_x_preferred":[
+        "Nuevo Arraij\u00e1n"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10e3\u10d4\u10d5\u10dd-\u10d0\u10e0\u10d0\u10d8\u10ee\u10d0\u10dc\u10d8"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421185827,
-    "wof:lastmodified":1566673465,
+    "wof:lastmodified":1690850357,
     "wof:name":"Nuevo Arraij\u00e1n",
     "wof:parent_id":421203467,
     "wof:placetype":"locality",

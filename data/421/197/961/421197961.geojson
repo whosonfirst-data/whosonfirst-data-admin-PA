@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Boquete"
+    ],
     "name:ceb_x_preferred":[
         "Boquete"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Boquete"
+    ],
+    "name:fra_x_preferred":[
+        "Bajo Boquete"
     ],
     "name:ita_x_preferred":[
         "Bajo Boquete"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421197961,
-    "wof:lastmodified":1566673451,
+    "wof:lastmodified":1690850342,
     "wof:name":"Boquete",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

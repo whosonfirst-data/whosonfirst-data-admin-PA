@@ -40,7 +40,6 @@
     ],
     "name:eng_x_variant":[
         "Kuna de Madungand\u00ed",
-        "Chepo",
         "Chepo District"
     ],
     "name:fra_x_preferred":[
@@ -48,6 +47,12 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Chepo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30dd\u5730\u533a"
+    ],
+    "name:nan_x_preferred":[
+        "Chepo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Chepo District"
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":421176107,
-    "wof:lastmodified":1627522489,
+    "wof:lastmodified":1690850354,
     "wof:name":"Chepo",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

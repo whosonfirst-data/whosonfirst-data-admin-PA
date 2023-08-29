@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Entradero"
     ],
+    "name:fra_x_preferred":[
+        "Entradero"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10dc\u10e2\u10e0\u10d0\u10d3\u10d4\u10e0\u10dd"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125874345,
-    "wof:lastmodified":1566673471,
+    "wof:lastmodified":1690850363,
     "wof:name":"El Entradero",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

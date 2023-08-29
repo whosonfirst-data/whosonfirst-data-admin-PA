@@ -26,6 +26,9 @@
     "name:epo_x_preferred":[
         "Las Minas"
     ],
+    "name:fra_x_preferred":[
+        "Las Minas"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u057d \u0544\u056b\u0576\u0561\u057d"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421173705,
-    "wof:lastmodified":1566673441,
+    "wof:lastmodified":1690850329,
     "wof:name":"Las Minas",
     "wof:parent_id":1108693227,
     "wof:placetype":"localadmin",

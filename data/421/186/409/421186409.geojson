@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ab\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Santa F\u00e9"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30d5\u30a7"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30f3\u30bf\u30fb\u30d5\u30a7"
     ],
     "name:lit_x_preferred":[
         "Santa F\u0117"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421186409,
-    "wof:lastmodified":1636495958,
+    "wof:lastmodified":1690850332,
     "wof:name":"Santa Fe",
     "wof:parent_id":421181403,
     "wof:placetype":"locality",

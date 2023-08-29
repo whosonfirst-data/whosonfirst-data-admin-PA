@@ -49,6 +49,9 @@
     "name:ita_x_preferred":[
         "distretto di Kusap\u00edn"
     ],
+    "name:nan_x_preferred":[
+        "Kusap\u00edn Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Distretto di Kusap\u00edn"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Kusap\u00edn"
+    ],
+    "name:spa_x_variant":[
+        "Saborik\u00e4te"
     ],
     "name:srd_x_preferred":[
         "distretto de Kusap\u00edn"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108693223,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1690850305,
     "wof:name":"Kusap\u00edn",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

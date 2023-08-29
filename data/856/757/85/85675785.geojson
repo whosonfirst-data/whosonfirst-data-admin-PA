@@ -45,6 +45,9 @@
     "name:ces_x_preferred":[
         "Los Santos"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Los Santos"
+    ],
     "name:dan_x_preferred":[
         "Los Santos Province"
     ],
@@ -126,6 +129,9 @@
     "name:msa_x_preferred":[
         "Los Santos Province"
     ],
+    "name:nan_x_preferred":[
+        "Los Santos S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Los Santos"
     ],
@@ -185,6 +191,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Los Santos"
+    ],
+    "name:war_x_preferred":[
+        "Los Santos"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u6851\u6258\u65af\u7701"
@@ -312,7 +321,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495928,
+    "wof:lastmodified":1690850299,
     "wof:name":"Los Santos",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

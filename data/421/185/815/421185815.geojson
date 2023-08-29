@@ -20,8 +20,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u0629 \u0628\u0648\u0643\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u062f\u0629 \u0628\u0648\u0643\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Bocas del Toro"
+    ],
+    "name:aym_x_preferred":[
+        "Bocas del Toro"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u043e\u043a\u0430\u0441-\u0434\u044d\u043b\u044c-\u0422\u043e\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u043a\u0430\u0441-\u0434\u044d\u043b\u044c-\u0422\u043e\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u0995\u09be\u09b8 \u09a6\u09c7\u09b2 \u09a4\u09cb\u09b0\u09cb"
@@ -30,6 +42,12 @@
         "Bocas del Toro"
     ],
     "name:ceb_x_preferred":[
+        "Bocas del Toro"
+    ],
+    "name:ces_x_preferred":[
+        "Bocas del Toro"
+    ],
+    "name:dan_x_preferred":[
         "Bocas del Toro"
     ],
     "name:deu_x_preferred":[
@@ -43,6 +61,9 @@
     ],
     "name:eng_x_variant":[
         "Bocas Town"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0633 \u062a\u0627\u0648\u0646"
     ],
     "name:fra_x_preferred":[
         "Bocas del Toro"
@@ -95,7 +116,13 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043a\u0430\u0441-\u0434\u0435\u043b\u044c-\u0422\u043e\u0440\u043e"
     ],
+    "name:slk_x_preferred":[
+        "Bocas del Toro"
+    ],
     "name:spa_x_preferred":[
+        "Bocas del Toro"
+    ],
+    "name:swe_x_preferred":[
         "Bocas del Toro"
     ],
     "name:tha_x_preferred":[
@@ -258,7 +285,7 @@
         }
     ],
     "wof:id":421185815,
-    "wof:lastmodified":1636495961,
+    "wof:lastmodified":1690850359,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":1108693191,
     "wof:placetype":"locality",

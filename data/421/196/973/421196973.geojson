@@ -40,7 +40,6 @@
     ],
     "name:eng_x_variant":[
         "Kuna de Wargand\u00ed",
-        "Pinogana",
         "Pinogana District"
     ],
     "name:fra_x_preferred":[
@@ -49,8 +48,17 @@
     "name:ita_x_preferred":[
         "distretto di Pinogana"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30ce\u30ac\u30ca\u5730\u533a"
+    ],
+    "name:nan_x_preferred":[
+        "Pinogana Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Pinogana District"
+    ],
+    "name:pol_x_preferred":[
+        "Pinogana"
     ],
     "name:por_x_preferred":[
         "Pinogana"
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":421196973,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1690850338,
     "wof:name":"Pinogana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

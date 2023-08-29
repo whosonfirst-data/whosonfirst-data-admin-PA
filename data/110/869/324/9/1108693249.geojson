@@ -38,14 +38,19 @@
         "Ol\u00e1"
     ],
     "name:eng_x_variant":[
-        "Ol\u00e1",
         "Ol\u00e1 District"
     ],
     "name:fra_x_preferred":[
         "Ola"
     ],
+    "name:fra_x_variant":[
+        "District d'Ol\u00e1"
+    ],
     "name:ita_x_preferred":[
         "distretto di Ol\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ol\u00e1 Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ol\u00e1 District"
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1108693249,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1690850302,
     "wof:name":"Ol\u00e1",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

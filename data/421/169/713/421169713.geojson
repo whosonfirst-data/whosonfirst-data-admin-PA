@@ -23,6 +23,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u06a9\u0627\u0644\u0627\u062f \u062f\u0627\u06cc\u0632"
     ],
+    "name:fra_x_preferred":[
+        "Alcalde D\u00edaz"
+    ],
     "name:ita_x_preferred":[
         "Alcalde D\u00edaz"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421169713,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1690850316,
     "wof:name":"Alcalded\u00edaz",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

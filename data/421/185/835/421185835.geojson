@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Capellan\u00eda"
     ],
+    "name:fra_x_preferred":[
+        "Capellan\u00eda"
+    ],
     "name:ita_x_preferred":[
         "Capellan\u00eda"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421185835,
-    "wof:lastmodified":1566673466,
+    "wof:lastmodified":1690850358,
     "wof:name":"Capellan\u00eda",
     "wof:parent_id":421191757,
     "wof:placetype":"locality",

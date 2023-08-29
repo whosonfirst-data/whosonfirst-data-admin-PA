@@ -133,6 +133,9 @@
     "name:war_x_preferred":[
         "Santa Rita"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u9e97\u5854"
+    ],
     "qs:name":"Santa Rita",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":890429533,
-    "wof:lastmodified":1636495962,
+    "wof:lastmodified":1690850362,
     "wof:name":"Santa Rita",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

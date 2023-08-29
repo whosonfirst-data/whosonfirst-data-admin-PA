@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Roble"
     ],
+    "name:fra_x_preferred":[
+        "El Roble"
+    ],
     "name:ita_x_preferred":[
         "El Roble"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421197991,
-    "wof:lastmodified":1566673450,
+    "wof:lastmodified":1690850340,
     "wof:name":"El Roble",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

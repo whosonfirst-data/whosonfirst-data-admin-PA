@@ -20,7 +20,13 @@
     "name:eng_x_preferred":[
         "La Concepci\u00f3n"
     ],
+    "name:fra_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
     "name:ita_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:pol_x_preferred":[
         "La Concepci\u00f3n"
     ],
     "name:spa_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421174777,
-    "wof:lastmodified":1566673436,
+    "wof:lastmodified":1690850322,
     "wof:name":"La Concepci\u00f3n",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

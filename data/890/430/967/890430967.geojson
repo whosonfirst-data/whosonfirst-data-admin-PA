@@ -19,14 +19,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:aar_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ace_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:afr_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:aka_x_preferred":[
+        "Guadalupe"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u062f\u0627\u0644\u0648\u0628\u064a"
     ],
     "name:arg_x_preferred":[
         "Guadalupe"
     ],
+    "name:ast_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:atj_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:avk_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:bar_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:bis_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:bos_x_preferred":[
+        "Guadalupe"
+    ],
     "name:bre_x_preferred":[
         "Guadalupe"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0430\u0434\u0430\u043b\u0443\u043f\u0435"
     ],
     "name:cat_x_preferred":[
         "Guadalupe"
@@ -37,7 +70,28 @@
     "name:ces_x_preferred":[
         "Guadalupe"
     ],
+    "name:cor_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:cos_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:cym_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:dan_x_preferred":[
+        "Guadalupe"
+    ],
     "name:deu_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:dsb_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:egl_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:eml_x_preferred":[
         "Guadalupe"
     ],
     "name:eng_x_preferred":[
@@ -46,28 +100,103 @@
     "name:epo_x_preferred":[
         "Guadalupe"
     ],
+    "name:est_x_preferred":[
+        "Guadalupe"
+    ],
     "name:eus_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ewe_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ext_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:fao_x_preferred":[
         "Guadalupe"
     ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0627\u062f\u0644\u0648\u067e"
     ],
+    "name:fij_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:fin_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:fit_x_preferred":[
+        "Guadalupe"
+    ],
     "name:fra_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:frc_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:frp_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:frr_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:fry_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ful_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:fur_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:gla_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:gle_x_preferred":[
         "Guadalupe"
     ],
     "name:glg_x_preferred":[
         "Guadalupe"
     ],
+    "name:glv_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:gsw_x_preferred":[
+        "Guadalupe"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05e8\u05d9 \u05d2\u05d5\u05d5\u05d0\u05d3\u05dc\u05d5\u05e4\u05d4"
     ],
+    "name:hrv_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:hsb_x_preferred":[
+        "Guadalupe"
+    ],
     "name:hun_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ido_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ile_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ilo_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ina_x_preferred":[
         "Guadalupe"
     ],
     "name:ind_x_preferred":[
         "Guadalupe"
     ],
+    "name:isl_x_preferred":[
+        "Guadalupe"
+    ],
     "name:ita_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:jav_x_preferred":[
         "Guadalupe"
     ],
     "name:jpn_x_preferred":[
@@ -76,28 +205,94 @@
     "name:kat_x_preferred":[
         "\u10d2\u10d5\u10d0\u10d3\u10d0\u10da\u10e3\u10de\u10d4"
     ],
+    "name:kon_x_preferred":[
+        "Guadalupe"
+    ],
     "name:kor_x_preferred":[
         "\uacfc\ub2ec\ub8e8\ud398"
     ],
+    "name:ksh_x_preferred":[
+        "Guadalupe"
+    ],
     "name:lad_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:lfn_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:lij_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:lim_x_preferred":[
         "Guadalupe"
     ],
     "name:lit_x_preferred":[
         "Gvadalup\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:min_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:mlg_x_preferred":[
+        "Guadalupe"
+    ],
     "name:msa_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:mus_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:mwl_x_preferred":[
         "Guadalupe"
     ],
     "name:nah_x_preferred":[
         "Guadalupe"
     ],
+    "name:nap_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:nds_x_preferred":[
+        "Guadalupe"
+    ],
     "name:nld_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:nno_x_preferred":[
         "Guadalupe"
     ],
     "name:nob_x_preferred":[
         "Guadalupe"
     ],
+    "name:nrm_x_preferred":[
+        "Guadalupe"
+    ],
     "name:oci_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:olo_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:pam_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:pap_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:pcd_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:pdc_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:pdt_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:pfl_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:pms_x_preferred":[
         "Guadalupe"
     ],
     "name:pol_x_preferred":[
@@ -106,22 +301,85 @@
     "name:por_x_preferred":[
         "Guadalupe"
     ],
+    "name:rmy_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:roh_x_preferred":[
+        "Guadalupe"
+    ],
     "name:ron_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:rup_x_preferred":[
         "Guadalupe"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u0430\u0434\u0430\u043b\u0443\u043f\u0435"
     ],
+    "name:scn_x_preferred":[
+        "Guadalupe"
+    ],
     "name:sco_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:sdc_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:sei_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:sgs_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:sli_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:slk_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:slv_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:sme_x_preferred":[
         "Guadalupe"
     ],
     "name:spa_x_preferred":[
         "Guadalupe"
     ],
+    "name:sqi_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:srd_x_preferred":[
+        "Guadalupe"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0432\u0430\u0434\u0430\u043b\u0443\u043f"
     ],
+    "name:stq_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:sun_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:swa_x_preferred":[
+        "Guadalupe"
+    ],
     "name:swe_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:szl_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:tah_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:tgl_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:tpi_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:tur_x_preferred":[
         "Guadalupe"
     ],
     "name:ukr_x_preferred":[
@@ -130,13 +388,49 @@
     "name:und_x_variant":[
         "La Laguna"
     ],
+    "name:uzb_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:vec_x_preferred":[
+        "Guadalupe"
+    ],
     "name:vie_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:vls_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:vmf_x_preferred":[
         "Guadalupe"
     ],
     "name:vol_x_preferred":[
         "Guadalupe"
     ],
+    "name:vro_x_preferred":[
+        "Guadalupe"
+    ],
     "name:war_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:wln_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:wol_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:xho_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:yor_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:zea_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u8fbe\u5362\u4f69"
+    ],
+    "name:zul_x_preferred":[
         "Guadalupe"
     ],
     "qs:name":"Guadalupe",
@@ -180,7 +474,7 @@
         }
     ],
     "wof:id":890430967,
-    "wof:lastmodified":1566673467,
+    "wof:lastmodified":1690850360,
     "wof:name":"Guadalupe",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

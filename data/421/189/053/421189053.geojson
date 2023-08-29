@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Distrito Chame"
+    ],
     "name:deu_x_preferred":[
         "Chame"
     ],
@@ -42,7 +45,6 @@
         "Chame"
     ],
     "name:eng_x_variant":[
-        "Chame",
         "Chame District"
     ],
     "name:fra_x_preferred":[
@@ -50,6 +52,9 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Chame"
+    ],
+    "name:nan_x_preferred":[
+        "Chame Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Chame"
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":421189053,
-    "wof:lastmodified":1627522489,
+    "wof:lastmodified":1690850330,
     "wof:name":"Chame",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -29,6 +29,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06a9\u0627\u062a\u0648\u067e\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Achutupu"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c1\u30e5\u30c8\u30a5\u30dd"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421176523,
-    "wof:lastmodified":1566673463,
+    "wof:lastmodified":1690850356,
     "wof:name":"Achutupo N\u00famero Dos",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

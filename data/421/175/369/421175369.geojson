@@ -57,7 +57,6 @@
         "Balboa"
     ],
     "name:eng_x_variant":[
-        "Balboa",
         "Balboa District"
     ],
     "name:epo_x_preferred":[
@@ -102,6 +101,9 @@
     "name:lit_x_preferred":[
         "Balboa"
     ],
+    "name:nan_x_preferred":[
+        "Balboa Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Balboa"
     ],
@@ -122,6 +124,9 @@
     ],
     "name:sco_x_preferred":[
         "Balboa"
+    ],
+    "name:sco_x_variant":[
+        "Balboa Destrict"
     ],
     "name:slv_x_preferred":[
         "Balboa"
@@ -213,7 +218,7 @@
         }
     ],
     "wof:id":421175369,
-    "wof:lastmodified":1636495959,
+    "wof:lastmodified":1690850334,
     "wof:name":"Balboa",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Los Pozos"
+    ],
     "name:ceb_x_preferred":[
         "Los Pozos"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421199957,
-    "wof:lastmodified":1582319481,
+    "wof:lastmodified":1690850343,
     "wof:name":"Los Pozos",
     "wof:parent_id":1108693231,
     "wof:placetype":"localadmin",

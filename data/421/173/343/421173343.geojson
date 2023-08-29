@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "San Andr\u00e9s"
     ],
+    "name:fra_x_preferred":[
+        "San Andr\u00e9s"
+    ],
     "name:ita_x_preferred":[
         "San Andr\u00e9s"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421173343,
-    "wof:lastmodified":1566673442,
+    "wof:lastmodified":1690850330,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

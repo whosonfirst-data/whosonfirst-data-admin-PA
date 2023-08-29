@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Corregimiento Curund\u00fa"
+    ],
     "name:eng_x_preferred":[
         "Curund\u00fa"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421187277,
-    "wof:lastmodified":1566673439,
+    "wof:lastmodified":1690850326,
     "wof:name":"Curund\u00fa",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

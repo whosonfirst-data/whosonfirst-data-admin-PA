@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Cart\u00ed Sugtupu"
     ],
+    "name:fra_x_preferred":[
+        "Cart\u00ed Sugdupu"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30c6\u30a3"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421201771,
-    "wof:lastmodified":1566673454,
+    "wof:lastmodified":1690850344,
     "wof:name":"Cart\u00ed Suitupo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

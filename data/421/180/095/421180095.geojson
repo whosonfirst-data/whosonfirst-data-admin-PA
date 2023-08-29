@@ -23,8 +23,14 @@
     "name:eng_x_preferred":[
         "Boquer\u00f3n"
     ],
+    "name:fra_x_preferred":[
+        "Boquer\u00f3n"
+    ],
     "name:ita_x_preferred":[
         "Boquer\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30b1\u30ed\u30f3"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10d9\u10d4\u10e0\u10dd\u10dc\u10d8"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421180095,
-    "wof:lastmodified":1582319480,
+    "wof:lastmodified":1690850324,
     "wof:name":"Boqueron",
     "wof:parent_id":1108693193,
     "wof:placetype":"localadmin",

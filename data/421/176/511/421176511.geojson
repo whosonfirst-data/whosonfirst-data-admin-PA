@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
     "name:eng_x_preferred":[
         "Santa Mar\u00eda"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421176511,
-    "wof:lastmodified":1566673462,
+    "wof:lastmodified":1690850354,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108693273,
     "wof:placetype":"locality",

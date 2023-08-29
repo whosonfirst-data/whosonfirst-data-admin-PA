@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "La Espigadilla"
     ],
+    "name:fra_x_preferred":[
+        "La Espigadilla"
+    ],
     "name:ita_x_preferred":[
         "La Espigadilla"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421191259,
-    "wof:lastmodified":1566673449,
+    "wof:lastmodified":1690850339,
     "wof:name":"La Espigadilla",
     "wof:parent_id":1108693235,
     "wof:placetype":"localadmin",

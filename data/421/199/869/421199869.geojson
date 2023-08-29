@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Chepo"
     ],
+    "name:pol_x_preferred":[
+        "Chepo"
+    ],
     "name:spa_x_preferred":[
         "Chepo"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421199869,
-    "wof:lastmodified":1582319481,
+    "wof:lastmodified":1690850343,
     "wof:name":"Chepo",
     "wof:parent_id":421176107,
     "wof:placetype":"localadmin",

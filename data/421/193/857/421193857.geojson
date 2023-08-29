@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Portobelo"
     ],
+    "name:gle_x_preferred":[
+        "Portobelo"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d1\u05dc\u05d5"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ub974\ud1a0\ubca8\ub85c"
+    ],
+    "name:lat_x_preferred":[
+        "Portus Bellus"
     ],
     "name:lit_x_preferred":[
         "Portobelas"
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":421193857,
-    "wof:lastmodified":1566673429,
+    "wof:lastmodified":1690850314,
     "wof:name":"Portobelo",
     "wof:parent_id":1108693257,
     "wof:placetype":"locality",

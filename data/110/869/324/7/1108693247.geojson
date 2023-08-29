@@ -38,14 +38,19 @@
         "Oc\u00fa"
     ],
     "name:eng_x_variant":[
-        "Oc\u00fa",
         "Oc\u00fa District"
     ],
     "name:fra_x_preferred":[
         "Ocu"
     ],
+    "name:fra_x_variant":[
+        "District d'Oc\u00fa"
+    ],
     "name:ita_x_preferred":[
         "distretto di Oc\u00fa"
+    ],
+    "name:nan_x_preferred":[
+        "Oc\u00fa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Oc\u00fa District"
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1108693247,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1690850303,
     "wof:name":"Oc\u00fa",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

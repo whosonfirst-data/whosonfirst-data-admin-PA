@@ -23,6 +23,9 @@
     "name:ita_x_preferred":[
         "Punta Chame"
     ],
+    "name:ron_x_preferred":[
+        "Punta Chame"
+    ],
     "name:spa_x_preferred":[
         "Punta Chame"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421181567,
-    "wof:lastmodified":1566673445,
+    "wof:lastmodified":1690850333,
     "wof:name":"Punta Chame",
     "wof:parent_id":421189053,
     "wof:placetype":"locality",

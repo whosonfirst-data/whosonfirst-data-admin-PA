@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Guarumal"
     ],
+    "name:fra_x_preferred":[
+        "Guarumal"
+    ],
     "name:ita_x_preferred":[
         "Guarumal"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421167799,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1690850316,
     "wof:name":"Guarumal",
     "wof:parent_id":421202705,
     "wof:placetype":"locality",

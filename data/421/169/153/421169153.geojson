@@ -23,6 +23,15 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0644\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0644\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Col\u00f3n City"
+    ],
+    "name:aym_x_preferred":[
+        "Col\u00f3n"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u043e\u043d"
     ],
@@ -53,13 +62,28 @@
     "name:eng_x_preferred":[
         "Col\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "Col\u00f3n City"
+    ],
     "name:epo_x_preferred":[
         "Kolonurbo"
+    ],
+    "name:fao_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Col\u00f3n"
     ],
     "name:fra_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:gle_x_preferred":[
+        "Cathair Col\u00f3n"
+    ],
+    "name:glg_x_preferred":[
         "Col\u00f3n"
     ],
     "name:guj_x_preferred":[
@@ -84,6 +108,9 @@
         "Col\u00f3n"
     ],
     "name:ind_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:isl_x_preferred":[
         "Col\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -122,11 +149,17 @@
     "name:nld_x_preferred":[
         "Col\u00f3n"
     ],
+    "name:nno_x_preferred":[
+        "Col\u00f3n"
+    ],
     "name:nob_x_preferred":[
         "Col\u00f3n"
     ],
     "name:nor_x_preferred":[
         "Col\u00f3n"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d"
     ],
     "name:pol_x_preferred":[
         "Col\u00f3n"
@@ -140,7 +173,19 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbd\u0ddd\u0db1\u0dca"
     ],
+    "name:sje_x_preferred":[
+        "Col\u00f3n"
+    ],
     "name:slv_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:sma_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:sme_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:smj_x_preferred":[
         "Col\u00f3n"
     ],
     "name:spa_x_preferred":[
@@ -149,11 +194,20 @@
     "name:spa_x_variant":[
         "Ciudad de Col\u00f3n"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Col\u00f3n"
+    ],
     "name:swe_x_preferred":[
         "Col\u00f3n"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bca\u0bb2\u0bcb\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c32\u0c4b\u0c28\u0c4d"
@@ -178,6 +232,12 @@
     ],
     "name:urd_x_variant":[
         "\u06a9\u0648\u0644\u0648\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Kolon"
+    ],
+    "name:vec_x_preferred":[
+        "Col\u00f3n"
     ],
     "name:vie_x_preferred":[
         "Colon"
@@ -330,7 +390,7 @@
         }
     ],
     "wof:id":421169153,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1690850317,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

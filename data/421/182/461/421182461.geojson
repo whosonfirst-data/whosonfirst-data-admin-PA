@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ol\u00e1"
     ],
+    "name:fra_x_preferred":[
+        "Ol\u00e1"
+    ],
     "name:glg_x_preferred":[
         "Ol\u00e1"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421182461,
-    "wof:lastmodified":1566673461,
+    "wof:lastmodified":1690850353,
     "wof:name":"Ola",
     "wof:parent_id":1108693249,
     "wof:placetype":"localadmin",

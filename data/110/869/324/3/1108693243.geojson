@@ -38,13 +38,16 @@
         "M\u00fcna"
     ],
     "name:eng_x_variant":[
-        "M\u00fcna"
+        "M\u00fcna District"
     ],
     "name:fra_x_preferred":[
         "M\u00fcna"
     ],
     "name:ita_x_preferred":[
         "distretto di M\u00fcna"
+    ],
+    "name:nan_x_preferred":[
+        "M\u00fcna Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Distretto di M\u00fcna"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108693243,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1690850303,
     "wof:name":"M\u00fcna",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

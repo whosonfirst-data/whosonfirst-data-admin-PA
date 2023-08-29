@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Bisira"
     ],
+    "name:fra_x_preferred":[
+        "Bisira"
+    ],
     "name:ita_x_preferred":[
         "Bisira"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421170979,
-    "wof:lastmodified":1566673456,
+    "wof:lastmodified":1690850347,
     "wof:name":"Bisira",
     "wof:parent_id":1108693221,
     "wof:placetype":"locality",

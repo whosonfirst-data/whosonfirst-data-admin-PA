@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Enrique Adolfo Jim\u00e9nez Airport"
     ],
+    "name:deu_x_preferred":[
+        "Enrique Adolfo Jim\u00e9nez Airport"
+    ],
     "name:eng_x_preferred":[
         "Enrique Adolfo Jim\u00e9nez Airport"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102547013,
-    "wof:lastmodified":1566673001,
+    "wof:lastmodified":1690850295,
     "wof:name":"Enrique Adolfo Jimenez Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

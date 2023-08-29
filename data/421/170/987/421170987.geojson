@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "La Estrella"
     ],
+    "name:fra_x_preferred":[
+        "La Estrella"
+    ],
     "name:ita_x_preferred":[
         "La Estrella"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421170987,
-    "wof:lastmodified":1566673457,
+    "wof:lastmodified":1690850348,
     "wof:name":"La Estrella",
     "wof:parent_id":1108693195,
     "wof:placetype":"locality",

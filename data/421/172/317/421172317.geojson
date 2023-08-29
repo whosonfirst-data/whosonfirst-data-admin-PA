@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Puerto Pil\u00f3n"
     ],
+    "name:pol_x_preferred":[
+        "Puerto Pil\u00f3n"
+    ],
     "name:spa_x_preferred":[
         "Puerto Pil\u00f3n"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421172317,
-    "wof:lastmodified":1566673444,
+    "wof:lastmodified":1690850331,
     "wof:name":"Puerto Pil\u00f3n",
     "wof:parent_id":1108693211,
     "wof:placetype":"locality",

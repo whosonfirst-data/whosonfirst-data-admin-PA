@@ -41,6 +41,9 @@
     "name:spa_x_preferred":[
         "Parita"
     ],
+    "name:vie_x_preferred":[
+        "Parita"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u91cc\u5854"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421173703,
-    "wof:lastmodified":1566673441,
+    "wof:lastmodified":1690850329,
     "wof:name":"Parita",
     "wof:parent_id":421166923,
     "wof:placetype":"localadmin",

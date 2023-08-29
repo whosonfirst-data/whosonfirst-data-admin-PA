@@ -39,7 +39,6 @@
         "Chepigana"
     ],
     "name:eng_x_variant":[
-        "Chepigana",
         "Chepigana District"
     ],
     "name:fra_x_preferred":[
@@ -48,8 +47,14 @@
     "name:ita_x_preferred":[
         "distretto di Chepigana"
     ],
+    "name:nan_x_preferred":[
+        "Chepigana Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Chepigana District"
+    ],
+    "name:pol_x_preferred":[
+        "Chepigana"
     ],
     "name:por_x_preferred":[
         "Chepigana"
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":421170141,
-    "wof:lastmodified":1627522489,
+    "wof:lastmodified":1690850348,
     "wof:name":"Chepigana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

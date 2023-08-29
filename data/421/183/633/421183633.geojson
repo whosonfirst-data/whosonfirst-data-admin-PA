@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Alto Boquete"
     ],
+    "name:fra_x_preferred":[
+        "Alto Boquete"
+    ],
     "name:ita_x_preferred":[
         "Alto Boquete"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421183633,
-    "wof:lastmodified":1566673459,
+    "wof:lastmodified":1690850350,
     "wof:name":"Alto Boquete",
     "wof:parent_id":421175373,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "La Cabima"
     ],
+    "name:fra_x_preferred":[
+        "La Cabima"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d0-\u10d9\u10d0\u10d1\u10d8\u10db\u10d0"
     ],
@@ -30,6 +33,9 @@
         "La Cabima"
     ],
     "name:pol_x_preferred":[
+        "La Cabima"
+    ],
+    "name:spa_x_preferred":[
         "La Cabima"
     ],
     "name:und_x_variant":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421198761,
-    "wof:lastmodified":1566673448,
+    "wof:lastmodified":1690850337,
     "wof:name":"La Cabima",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

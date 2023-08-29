@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u09cd\u0995\u09cb"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421198273,
-    "wof:lastmodified":1636495959,
+    "wof:lastmodified":1690850336,
     "wof:name":"San Francisco",
     "wof:parent_id":421171349,
     "wof:placetype":"locality",

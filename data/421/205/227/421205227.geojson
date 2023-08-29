@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Macaracas"
     ],
+    "name:fra_x_preferred":[
+        "Macaracas"
+    ],
     "name:ita_x_preferred":[
         "Macaracas"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421205227,
-    "wof:lastmodified":1566673436,
+    "wof:lastmodified":1690850321,
     "wof:name":"Macaracas",
     "wof:parent_id":1108693237,
     "wof:placetype":"localadmin",

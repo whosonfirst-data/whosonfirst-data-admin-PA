@@ -35,6 +35,9 @@
     "name:ron_x_preferred":[
         "Aeroportul Jaqu\u00e9"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u514b\u673a\u573a"
+    ],
     "oa:elevation_ft":"29",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102546995,
-    "wof:lastmodified":1631745375,
+    "wof:lastmodified":1690850295,
     "wof:name":"Jaque Airport",
     "wof:parent_id":85675795,
     "wof:placetype":"campus",

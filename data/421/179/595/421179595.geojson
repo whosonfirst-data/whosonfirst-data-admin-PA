@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "El Cop\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "El Cop\u00e9"
     ],
     "name:eng_x_preferred":[
+        "El Cop\u00e9"
+    ],
+    "name:fra_x_preferred":[
         "El Cop\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421179595,
-    "wof:lastmodified":1566673460,
+    "wof:lastmodified":1690850351,
     "wof:name":"El Cop\u00e9",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",

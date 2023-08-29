@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Tijeras"
     ],
+    "name:fra_x_preferred":[
+        "Tijeras"
+    ],
     "name:ita_x_preferred":[
         "Tijeras"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421180531,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1690850324,
     "wof:name":"Tijera",
     "wof:parent_id":1108693193,
     "wof:placetype":"locality",

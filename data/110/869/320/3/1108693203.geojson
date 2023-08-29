@@ -46,8 +46,20 @@
     "name:ita_x_preferred":[
         "distretto di C\u00e9maco"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30de\u30b3\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ub9c8\ucf54\uad6c"
+    ],
+    "name:nan_x_preferred":[
+        "C\u00e9maco Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Distretto di C\u00e9maco"
+    ],
+    "name:pol_x_preferred":[
+        "C\u00e9maco"
     ],
     "name:por_x_preferred":[
         "C\u00e9maco"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1108693203,
-    "wof:lastmodified":1627522489,
+    "wof:lastmodified":1690850306,
     "wof:name":"C\u00e9maco",
     "wof:parent_id":85675811,
     "wof:placetype":"county",

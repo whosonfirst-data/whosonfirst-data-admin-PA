@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Calobre"
     ],
+    "name:fra_x_preferred":[
+        "Calobre"
+    ],
     "name:ita_x_preferred":[
         "Calobre"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421176639,
-    "wof:lastmodified":1582319482,
+    "wof:lastmodified":1690850355,
     "wof:name":"Calobre",
     "wof:parent_id":1108693199,
     "wof:placetype":"localadmin",

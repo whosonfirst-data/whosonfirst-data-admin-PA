@@ -26,6 +26,9 @@
     "name:eng_x_variant":[
         "Pedas\u00ed township"
     ],
+    "name:fra_x_preferred":[
+        "Pedas\u00ed"
+    ],
     "name:ita_x_preferred":[
         "Pedas\u00ed"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421193859,
-    "wof:lastmodified":1566673429,
+    "wof:lastmodified":1690850313,
     "wof:name":"Pedas\u00ed",
     "wof:parent_id":421202587,
     "wof:placetype":"locality",

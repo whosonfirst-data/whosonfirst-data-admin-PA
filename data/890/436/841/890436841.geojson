@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Caimitillo"
     ],
+    "name:fra_x_preferred":[
+        "Caimitillo"
+    ],
     "name:nld_x_preferred":[
         "Caimitillo"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890436841,
-    "wof:lastmodified":1566673468,
+    "wof:lastmodified":1690850361,
     "wof:name":"Caimitillo",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",

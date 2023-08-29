@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Cerro Cama"
     ],
+    "name:fra_x_preferred":[
+        "Cerro Cama"
+    ],
     "name:nld_x_preferred":[
         "Cerro Cama"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890437955,
-    "wof:lastmodified":1566673467,
+    "wof:lastmodified":1690850361,
     "wof:name":"Cerro Cama",
     "wof:parent_id":421171337,
     "wof:placetype":"locality",

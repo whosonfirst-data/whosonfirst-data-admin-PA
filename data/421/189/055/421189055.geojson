@@ -39,14 +39,19 @@
         "Chitr\u00e9"
     ],
     "name:eng_x_variant":[
-        "Chitr\u00e9",
         "Chitr\u00e9 District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u06cc\u062a\u0631\u0647"
     ],
     "name:fra_x_preferred":[
         "Chitr\u00e9"
     ],
     "name:ita_x_preferred":[
         "distretto di Chitr\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "Chitr\u00e9 Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Chitr\u00e9 District"
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":421189055,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1690850330,
     "wof:name":"Chitr\u00e9",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09cb \u09a6\u09cb\u09ae\u09bf\u0999\u09cd\u0997\u09cb"
+    ],
     "name:eng_x_preferred":[
         "Santo Domingo"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421176665,
-    "wof:lastmodified":1636495961,
+    "wof:lastmodified":1690850356,
     "wof:name":"Santo Domingo",
     "wof:parent_id":421172507,
     "wof:placetype":"locality",

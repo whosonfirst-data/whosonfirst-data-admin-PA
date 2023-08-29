@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ant\u00f3n"
     ],
+    "name:fra_x_preferred":[
+        "Ant\u00f3n"
+    ],
     "name:ita_x_preferred":[
         "Ant\u00f3n"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421176517,
-    "wof:lastmodified":1566673462,
+    "wof:lastmodified":1690850354,
     "wof:name":"Ant\u00f3n",
     "wof:parent_id":1108693185,
     "wof:placetype":"locality",

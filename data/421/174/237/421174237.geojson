@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Yaviza"
+    ],
     "name:deu_x_preferred":[
         "Yaviza"
     ],
@@ -45,6 +48,9 @@
         "Yaviza"
     ],
     "name:por_x_preferred":[
+        "Yaviza"
+    ],
+    "name:ron_x_preferred":[
         "Yaviza"
     ],
     "name:spa_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421174237,
-    "wof:lastmodified":1566673437,
+    "wof:lastmodified":1690850323,
     "wof:name":"Yaviza",
     "wof:parent_id":421196973,
     "wof:placetype":"locality",

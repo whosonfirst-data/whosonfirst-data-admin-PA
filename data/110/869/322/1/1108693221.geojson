@@ -43,6 +43,9 @@
     "name:ita_x_preferred":[
         "distretto di Kankint\u00fa"
     ],
+    "name:nan_x_preferred":[
+        "Kankint\u00fa Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Kankint\u00fa"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108693221,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1690850305,
     "wof:name":"Kankint\u00fa",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

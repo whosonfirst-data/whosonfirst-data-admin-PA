@@ -45,6 +45,9 @@
     "name:ces_x_preferred":[
         "Herrera"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Herrera"
+    ],
     "name:dan_x_preferred":[
         "Herrera Province"
     ],
@@ -126,6 +129,9 @@
     "name:msa_x_preferred":[
         "Herrera Province"
     ],
+    "name:nan_x_preferred":[
+        "Herrera S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Herrera"
     ],
@@ -185,6 +191,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Herrera"
+    ],
+    "name:war_x_preferred":[
+        "Herrera"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u96f7\u62c9\u7701"
@@ -312,7 +321,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495927,
+    "wof:lastmodified":1690850299,
     "wof:name":"Herrera",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Cristo"
     ],
+    "name:fra_x_preferred":[
+        "El Cristo"
+    ],
     "name:ita_x_preferred":[
         "El Cristo"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421203383,
-    "wof:lastmodified":1566673433,
+    "wof:lastmodified":1690850319,
     "wof:name":"El Cristo",
     "wof:parent_id":1108693183,
     "wof:placetype":"locality",

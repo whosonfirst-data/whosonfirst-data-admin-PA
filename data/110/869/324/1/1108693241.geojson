@@ -38,13 +38,17 @@
         "Mirono"
     ],
     "name:eng_x_variant":[
-        "Miron\u00f3"
+        "Miron\u00f3",
+        "Miron\u00f3 District"
     ],
     "name:fra_x_preferred":[
         "Mirono"
     ],
     "name:ita_x_preferred":[
         "distretto di Miron\u00f3"
+    ],
+    "name:nan_x_preferred":[
+        "Miron\u00f3 Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Distretto di Miron\u00f3"
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1108693241,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1690850303,
     "wof:name":"Miron\u00f3",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

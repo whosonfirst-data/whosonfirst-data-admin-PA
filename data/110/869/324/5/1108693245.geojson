@@ -38,13 +38,16 @@
         "Nole Duima"
     ],
     "name:eng_x_variant":[
-        "Nole Duima"
+        "Nole Duima District"
     ],
     "name:fra_x_preferred":[
         "Nole Duima"
     ],
     "name:ita_x_preferred":[
         "distretto di Nole Duima"
+    ],
+    "name:nan_x_preferred":[
+        "Nole Duima Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Distretto di Nole Duima"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108693245,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1690850303,
     "wof:name":"Nole Duima",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

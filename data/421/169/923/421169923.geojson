@@ -27,7 +27,8 @@
         "Mulatupo"
     ],
     "name:eng_x_variant":[
-        "Mulatupo o Sasardi"
+        "Mulatupo o Sasardi",
+        "Mula-Dup / Sachar'dii"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30e9\u30c8\u30a5\u30dd"
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":421169923,
-    "wof:lastmodified":1566673431,
+    "wof:lastmodified":1690850317,
     "wof:name":"Mulatupo Sasard\u00ed",
     "wof:parent_id":1108693213,
     "wof:placetype":"locality",

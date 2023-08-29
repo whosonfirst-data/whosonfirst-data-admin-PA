@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Jaqu\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Jaqu\u00e9"
+    ],
     "name:ita_x_preferred":[
         "Jaqu\u00e9"
     ],
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421198267,
-    "wof:lastmodified":1566673447,
+    "wof:lastmodified":1690850336,
     "wof:name":"Jaqu\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

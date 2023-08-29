@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Punta Laurel"
     ],
+    "name:fra_x_preferred":[
+        "Punta Laurel"
+    ],
     "name:ita_x_preferred":[
         "Punta Laurel"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890452047,
-    "wof:lastmodified":1566673467,
+    "wof:lastmodified":1690850361,
     "wof:name":"Punta Laurel",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

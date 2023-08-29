@@ -35,21 +35,29 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Distrito Arraij\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Arraij\u00e1n"
     ],
     "name:eng_x_variant":[
-        "Arraij\u00e1n",
         "Arraij\u00e1n District"
     ],
     "name:fra_x_preferred":[
         "Arraijan"
+    ],
+    "name:fra_x_variant":[
+        "District d'Arraij\u00e1n"
     ],
     "name:ita_x_preferred":[
         "distretto di Arraij\u00e1n"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10d0\u10d8\u10ee\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Arraij\u00e1n Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Arraij\u00e1n District"
@@ -132,7 +140,7 @@
         }
     ],
     "wof:id":421203467,
-    "wof:lastmodified":1627522488,
+    "wof:lastmodified":1690850319,
     "wof:name":"Arraijan",
     "wof:parent_id":1108805611,
     "wof:placetype":"county",

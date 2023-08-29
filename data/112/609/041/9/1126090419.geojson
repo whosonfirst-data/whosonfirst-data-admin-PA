@@ -23,6 +23,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Parque Lefevre"
+    ],
     "name:eng_x_preferred":[
         "Parque Lefevre"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126090419,
-    "wof:lastmodified":1566673472,
+    "wof:lastmodified":1690850365,
     "wof:name":"Parque Lefevre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

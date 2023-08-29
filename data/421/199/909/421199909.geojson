@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Santiago"
+    ],
     "name:eng_x_preferred":[
         "Santiago"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud2f0\uc544\uace0"
+    ],
+    "name:nan_x_preferred":[
+        "Santiago Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Santiago"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421199909,
-    "wof:lastmodified":1636495959,
+    "wof:lastmodified":1690850342,
     "wof:name":"Santiago",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

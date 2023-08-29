@@ -23,16 +23,31 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0645\u0627\u0633 \u0643\u0627\u0631\u0627\u0633\u0643\u0648\u064a\u0644\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Tom\u00e1s Mar\u00eda Carrasquilla Naranjo"
+    ],
+    "name:dan_x_preferred":[
+        "Tom\u00e1s Carrasquilla"
+    ],
     "name:deu_x_preferred":[
         "Tom\u00e1s Carrasquilla"
     ],
     "name:eng_x_preferred":[
         "Thom\u00e1s Carrasquilla"
     ],
+    "name:eng_x_variant":[
+        "Tom\u00e1s Carrasquilla"
+    ],
     "name:fra_x_preferred":[
         "Tom\u00e1s Carrasquilla"
     ],
     "name:gla_x_preferred":[
+        "Tom\u00e1s Carrasquilla"
+    ],
+    "name:ita_x_preferred":[
         "Tom\u00e1s Carrasquilla"
     ],
     "name:jpn_x_preferred":[
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":1126064315,
-    "wof:lastmodified":1566673472,
+    "wof:lastmodified":1690850364,
     "wof:name":"La Carrasquilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

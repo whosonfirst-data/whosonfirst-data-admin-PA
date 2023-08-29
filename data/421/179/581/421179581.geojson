@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Las Lomas"
     ],
+    "name:fra_x_preferred":[
+        "Las Lomas"
+    ],
     "name:ita_x_preferred":[
         "Las Lomas"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421179581,
-    "wof:lastmodified":1566673460,
+    "wof:lastmodified":1690850351,
     "wof:name":"Las Lomas",
     "wof:parent_id":421171339,
     "wof:placetype":"locality",
