@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114304,
-    "geom:area_square_m":1401474289.32054,
+    "geom:area_square_m":1401473901.454445,
     "geom:bbox":"-81.051331,7.20475,-80.611426,7.755107",
     "geom:latitude":7.444615,
     "geom:longitude":-80.835373,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Montijo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.421592,
     "lbl:longitude":-80.817008,
     "lbl:max_zoom":10.0,
@@ -73,7 +79,7 @@
     },
     "wof:country":"PA",
     "wof:created":1474328615,
-    "wof:geomhash":"fd00683c6bae4051767ecc02f276daad",
+    "wof:geomhash":"815c805f82c2fdd099e40f86c88768a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108693239,
-    "wof:lastmodified":1690850303,
+    "wof:lastmodified":1694498067,
     "wof:name":"Mariato",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

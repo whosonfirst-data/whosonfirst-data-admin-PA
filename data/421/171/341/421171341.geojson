@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064569,
-    "geom:area_square_m":791440338.136682,
+    "geom:area_square_m":791440796.828649,
     "geom:bbox":"-81.894112,7.228278,-81.005253,8.057354",
     "geom:latitude":7.569455,
     "geom:longitude":-81.549111,
     "iso:country":"PA",
     "label:eng_x_preferred_longname":[
         "Montijo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":7.490747,
     "lbl:longitude":-81.792909,
@@ -131,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"398d69526f22f9cdcf05902a17295050",
+    "wof:geomhash":"f609beb379805f16edc615864ef9ed17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421171341,
-    "wof:lastmodified":1690850357,
+    "wof:lastmodified":1694492486,
     "wof:name":"Montijo",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

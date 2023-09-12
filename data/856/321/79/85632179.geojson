@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.194751,
-    "geom:area_square_m":75751986155.507248,
+    "geom:area_square_m":75751986155.512909,
     "geom:bbox":"-83.052241,7.20475,-77.158488,9.648361",
     "geom:latitude":8.512102,
     "geom:longitude":-80.11246,
@@ -14,6 +14,9 @@
     "iso:country":"PA",
     "itu:country_code":[
         "507"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "PA"
@@ -1061,7 +1064,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"507",
     "statoids:ds":"PA",
     "statoids:fifa":"PAN",
@@ -1120,7 +1124,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"af4c256b71a0b02aaf2da24f4ba51761",
+    "wof:geomhash":"bf8db499934a23f346c19f3652d857aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1134,12 +1138,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850300,
+    "wof:lastmodified":1694492059,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":3864170,
-    "wof:population_rank":12,
+    "wof:population":4246439,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-pa",
     "wof:shortcode":"PA",
     "wof:superseded_by":[],
