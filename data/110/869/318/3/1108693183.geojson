@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038815,
-    "geom:area_square_m":475036436.120146,
+    "geom:area_square_m":475036458.840527,
     "geom:bbox":"-80.74557,8.093201,-80.473274,8.326651",
     "geom:latitude":8.209287,
     "geom:longitude":-80.604999,
@@ -106,9 +106,10 @@
         "hasc:id":"PA.CC.AG",
         "wd:id":"Q2216595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328564,
-    "wof:geomhash":"7dc481f2d17ef38b7f49e0df2a973083",
+    "wof:geomhash":"355f22df5fa2a852d94293d5c0fb8f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108693183,
-    "wof:lastmodified":1690850307,
+    "wof:lastmodified":1695886124,
     "wof:name":"Aguadulce",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

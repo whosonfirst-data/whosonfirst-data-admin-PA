@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083458,
-    "geom:area_square_m":1019894582.430371,
+    "geom:area_square_m":1019895290.457374,
     "geom:bbox":"-78.916664,8.360806,-78.41854,8.968449",
     "geom:latitude":8.774887,
     "geom:longitude":-78.644025,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.PN.CN",
         "wd:id":"Q2216594"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328588,
-    "wof:geomhash":"d42e458bd7cabf75e1635700292aa9de",
+    "wof:geomhash":"8b658c0081f474ee1cf6713dfe3361f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693207,
-    "wof:lastmodified":1627522489,
+    "wof:lastmodified":1695886126,
     "wof:name":"Chim\u00e1n",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

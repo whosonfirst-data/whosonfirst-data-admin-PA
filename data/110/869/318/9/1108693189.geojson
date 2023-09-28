@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048913,
-    "geom:area_square_m":598456117.154037,
+    "geom:area_square_m":598455734.18755,
     "geom:bbox":"-83.052241,8.028139,-82.703198,8.582205",
     "geom:latitude":8.321569,
     "geom:longitude":-82.881396,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.CH.BR",
         "wd:id":"Q522183"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328571,
-    "wof:geomhash":"f50e85aa59aeafca15a529b89810a4e1",
+    "wof:geomhash":"7a07bac1e6c55c07c8dac23f74735f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693189,
-    "wof:lastmodified":1690850307,
+    "wof:lastmodified":1695886124,
     "wof:name":"Bar\u00fa",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

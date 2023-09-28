@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066524,
-    "geom:area_square_m":813822727.732671,
+    "geom:area_square_m":813823061.856375,
     "geom:bbox":"-80.951256,8.178205,-80.701297,8.595713",
     "geom:latitude":8.36871,
     "geom:longitude":-80.83192,
@@ -86,9 +86,10 @@
         "hasc:id":"PA.VR.CB",
         "wd:id":"Q921735"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328579,
-    "wof:geomhash":"be21405d8b49e770ac6e345d9243781b",
+    "wof:geomhash":"507da4a629c399598a7f8ca95288dbe3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108693199,
-    "wof:lastmodified":1627522489,
+    "wof:lastmodified":1695886126,
     "wof:name":"Calobre",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

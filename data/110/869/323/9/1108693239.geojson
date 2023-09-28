@@ -77,6 +77,7 @@
         "hasc:id":"PA.VR.MT",
         "wd:id":"Q1650967"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328615,
     "wof:geomhash":"815c805f82c2fdd099e40f86c88768a5",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108693239,
-    "wof:lastmodified":1694498067,
+    "wof:lastmodified":1695886127,
     "wof:name":"Mariato",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

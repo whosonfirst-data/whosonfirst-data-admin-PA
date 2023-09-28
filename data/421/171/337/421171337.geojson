@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07461,
-    "geom:area_square_m":911259100.663472,
+    "geom:area_square_m":911259100.663632,
     "geom:bbox":"-79.9898090706,8.77759841515,-79.706497192,9.19534032296",
     "geom:latitude":8.980324,
     "geom:longitude":-79.862918,
@@ -127,12 +127,13 @@
         "qs_pg:id":1263650,
         "wd:id":"Q2217021"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008890,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"54a25f6bfe693391d104cacca9530532",
+    "wof:geomhash":"17b7ce47a060ebb2443cd80d5a80eae8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421171337,
-    "wof:lastmodified":1582319482,
+    "wof:lastmodified":1695886697,
     "wof:name":"La Chorrera",
     "wof:parent_id":-1,
     "wof:placetype":"county",

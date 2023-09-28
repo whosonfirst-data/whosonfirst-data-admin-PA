@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071485,
-    "geom:area_square_m":873848548.624179,
+    "geom:area_square_m":873848066.544891,
     "geom:bbox":"-82.836724,8.439266,-82.540454,8.918215",
     "geom:latitude":8.660645,
     "geom:longitude":-82.678587,
@@ -100,9 +100,10 @@
         "hasc:id":"PA.CH.BG",
         "wd:id":"Q955035"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328577,
-    "wof:geomhash":"26d178f9e3d8f042b42a9e4cb7d9298d",
+    "wof:geomhash":"5fe44c31fd8359855ae85c6b73c76eab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108693195,
-    "wof:lastmodified":1690850309,
+    "wof:lastmodified":1695886125,
     "wof:name":"Bugaba",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

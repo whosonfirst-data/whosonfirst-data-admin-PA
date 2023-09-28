@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065984,
-    "geom:area_square_m":807080344.116428,
+    "geom:area_square_m":807081009.098155,
     "geom:bbox":"-81.792647,8.227794,-81.496225,8.628189",
     "geom:latitude":8.434777,
     "geom:longitude":-81.631531,
@@ -88,9 +88,10 @@
         "hasc:id":"PA.NB.MU",
         "wd:id":"Q656667"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328618,
-    "wof:geomhash":"007478c1a64b7ed968ded2946573fa38",
+    "wof:geomhash":"af49375acd7f480c834f52155ea01367",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693243,
-    "wof:lastmodified":1690850303,
+    "wof:lastmodified":1695886128,
     "wof:name":"M\u00fcna",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

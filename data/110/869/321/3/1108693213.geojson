@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186971,
-    "geom:area_square_m":2282517394.403632,
+    "geom:area_square_m":2282517394.404227,
     "geom:bbox":"-79.278296,8.520338,-77.357987,9.564917",
     "geom:latitude":9.145604,
     "geom:longitude":-78.270912,
@@ -66,12 +66,13 @@
     "wof:concordances":{
         "hasc:id":"PA.SB.KY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85675801
     ],
     "wof:country":"PA",
     "wof:created":1474328594,
-    "wof:geomhash":"ad5290256dd9ec218f7b8dab68b48a87",
+    "wof:geomhash":"3bb5d7e83bf4293797b3a3b7842df226",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108693213,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1695886126,
     "wof:name":"Comarca Kuna Yala",
     "wof:parent_id":85675801,
     "wof:placetype":"county",

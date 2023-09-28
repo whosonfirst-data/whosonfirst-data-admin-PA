@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028233,
-    "geom:area_square_m":345303766.136596,
+    "geom:area_square_m":345303849.557912,
     "geom:bbox":"-81.98946,8.320402,-81.803122,8.657096",
     "geom:latitude":8.459429,
     "geom:longitude":-81.877607,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.NB.MR",
         "wd:id":"Q598049"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328616,
-    "wof:geomhash":"b3d813ad2306381ef7f727785e0ddeb3",
+    "wof:geomhash":"024f1b7ce35765a346b243bc9d349159",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693241,
-    "wof:lastmodified":1690850303,
+    "wof:lastmodified":1695886128,
     "wof:name":"Miron\u00f3",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

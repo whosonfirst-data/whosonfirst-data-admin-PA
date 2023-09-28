@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023029,
-    "geom:area_square_m":282233440.625147,
+    "geom:area_square_m":282233667.957619,
     "geom:bbox":"-80.238645,7.525079,-80.064829,7.759336",
     "geom:latitude":7.631895,
     "geom:longitude":-80.158695,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.LS.PC",
         "wd:id":"Q2216539"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328631,
-    "wof:geomhash":"792f5a0b290d605ed9d0757fc13810ba",
+    "wof:geomhash":"ac8fc30c5a60624a8fa82ecb356ce98a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693255,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1695886128,
     "wof:name":"Pocr\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

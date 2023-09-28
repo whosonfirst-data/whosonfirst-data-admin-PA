@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00424,
-    "geom:area_square_m":51769345.036324,
+    "geom:area_square_m":51769265.307684,
     "geom:bbox":"-79.544892,9.027815,-79.437522,9.091365",
     "geom:latitude":9.06006,
     "geom:longitude":-79.489176,
@@ -152,12 +152,13 @@
         "qs_pg:id":368817,
         "wd:id":"Q932699"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009065,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"424cf5b6e9ee698bac3f8c8a0e78d4f9",
+    "wof:geomhash":"87532a895a66b60ef30e26f72e65c4af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421175375,
-    "wof:lastmodified":1690850335,
+    "wof:lastmodified":1695886697,
     "wof:name":"San Miguelito",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

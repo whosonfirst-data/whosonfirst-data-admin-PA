@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12031,
-    "geom:area_square_m":1468336107.181064,
+    "geom:area_square_m":1468337126.01589,
     "geom:bbox":"-80.105967,8.959416,-79.535978,9.477513",
     "geom:latitude":9.243652,
     "geom:longitude":-79.81305,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.CL.CL",
         "wd:id":"Q2071684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328592,
-    "wof:geomhash":"cf761c3f930a9afbb7e53634323bedd4",
+    "wof:geomhash":"dc50f0a6a87efe22b0f38a47fa5d4ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693211,
-    "wof:lastmodified":1690850310,
+    "wof:lastmodified":1695886126,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

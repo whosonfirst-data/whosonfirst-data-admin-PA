@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017395,
-    "geom:area_square_m":212460176.81791,
+    "geom:area_square_m":212459973.987906,
     "geom:bbox":"-82.323135,8.856011,-82.029896,9.135086",
     "geom:latitude":8.981524,
     "geom:longitude":-82.20287,
@@ -97,9 +97,10 @@
         "hasc:id":"PA.BC.CG",
         "wd:id":"Q515794"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328590,
-    "wof:geomhash":"9ddd7a10617ea58393778c98f72f00c5",
+    "wof:geomhash":"855e7c65fae13ed597243c18156525f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108693209,
-    "wof:lastmodified":1690850306,
+    "wof:lastmodified":1695886126,
     "wof:name":"Chiriqu\u00ed Grande",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

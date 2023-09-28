@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035058,
-    "geom:area_square_m":428180256.719359,
+    "geom:area_square_m":428179953.346072,
     "geom:bbox":"-79.79705,8.863305,-79.560753,9.122946",
     "geom:latitude":8.988116,
     "geom:longitude":-79.684514,
@@ -125,12 +125,13 @@
         "qs_pg:id":231696,
         "wd:id":"Q2216621"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459010153,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53a4c24c09eaf1b4b4e4847aefeea83d",
+    "wof:geomhash":"916a64e044cdc22b17c3407845f2d292",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421203467,
-    "wof:lastmodified":1690850319,
+    "wof:lastmodified":1695886124,
     "wof:name":"Arraijan",
     "wof:parent_id":1108805611,
     "wof:placetype":"county",

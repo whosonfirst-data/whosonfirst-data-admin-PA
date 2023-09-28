@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040781,
-    "geom:area_square_m":499115383.306567,
+    "geom:area_square_m":499115383.30653,
     "geom:bbox":"-81.7637164732,8.00750070276,-81.5129016184,8.36660285883",
     "geom:latitude":8.194923,
     "geom:longitude":-81.647396,
@@ -95,9 +95,10 @@
         "hasc:id":"PA.CH.TL",
         "wd:id":"Q1014642"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328651,
-    "wof:geomhash":"21c784148edd998603f9411866a7e52e",
+    "wof:geomhash":"c540007567da84b56361f54fe9359d82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108693277,
-    "wof:lastmodified":1566673331,
+    "wof:lastmodified":1695886594,
     "wof:name":"Tol\u00e9",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

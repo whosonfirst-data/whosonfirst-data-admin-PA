@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056331,
-    "geom:area_square_m":689216443.381797,
+    "geom:area_square_m":689216595.310584,
     "geom:bbox":"-82.320305,8.161195,-81.941863,8.475752",
     "geom:latitude":8.316262,
     "geom:longitude":-82.114018,
@@ -119,9 +119,10 @@
         "hasc:id":"PA.CH.SL",
         "wd:id":"Q2071697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328642,
-    "wof:geomhash":"58f0426d0d862e3818e09ecb4afd9228",
+    "wof:geomhash":"5197b21681fa5fd1cefed19410341107",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108693267,
-    "wof:lastmodified":1636495946,
+    "wof:lastmodified":1695886704,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

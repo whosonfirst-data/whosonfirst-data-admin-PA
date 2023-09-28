@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329721,
-    "geom:area_square_m":4024269178.924366,
+    "geom:area_square_m":4024269132.127394,
     "geom:bbox":"-82.936112,8.811255,-82.289381,9.618956",
     "geom:latitude":9.229236,
     "geom:longitude":-82.640005,
@@ -125,12 +125,13 @@
         "qs_pg:id":220301,
         "wd:id":"Q2216073"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008839,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11958f3a0edc9c3d57c23f89923fd2a3",
+    "wof:geomhash":"003ceb9d736abe3da4a70a9b89136931",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421170139,
-    "wof:lastmodified":1690850347,
+    "wof:lastmodified":1695886124,
     "wof:name":"Changuinola",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

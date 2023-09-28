@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013531,
-    "geom:area_square_m":165645923.841838,
+    "geom:area_square_m":165646083.122497,
     "geom:bbox":"-80.819113,8.044252,-80.554913,8.144549",
     "geom:latitude":8.101058,
     "geom:longitude":-80.691172,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.HE.ST",
         "wd:id":"Q3711451"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328647,
-    "wof:geomhash":"cba9c27d9dd5588c2f021820d014d47b",
+    "wof:geomhash":"5bd781e5efd1f0218d41dd3495df12b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693273,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1695886129,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

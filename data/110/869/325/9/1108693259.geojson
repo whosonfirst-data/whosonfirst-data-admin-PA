@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013752,
-    "geom:area_square_m":168296107.002815,
+    "geom:area_square_m":168296107.00275,
     "geom:bbox":"-81.8617913886,8.133250237,-81.7170450556,8.31413707324",
     "geom:latitude":8.224422,
     "geom:longitude":-81.794159,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"PA.CH.RM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328634,
-    "wof:geomhash":"cc198ede47e5591682bde1eb08803974",
+    "wof:geomhash":"e4bb0c1118fb525fd2a3076ccefa95b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108693259,
-    "wof:lastmodified":1566673329,
+    "wof:lastmodified":1695886594,
     "wof:name":"Remedios",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

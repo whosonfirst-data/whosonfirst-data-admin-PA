@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058604,
-    "geom:area_square_m":718215330.940804,
+    "geom:area_square_m":718215207.066288,
     "geom:bbox":"-80.508123,7.47089,-80.163113,7.838288",
     "geom:latitude":7.641549,
     "geom:longitude":-80.308119,
@@ -152,12 +152,13 @@
         "qs_pg:id":1313004,
         "wd:id":"Q2217049"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008945,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f029363ad444a34d7be8cd1edadc94f3",
+    "wof:geomhash":"440e1660a40be0b1ae5e71d723f4c1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421172507,
-    "wof:lastmodified":1636495958,
+    "wof:lastmodified":1695886704,
     "wof:name":"Las Tablas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

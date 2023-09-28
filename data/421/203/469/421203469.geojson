@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105439,
-    "geom:area_square_m":1292869007.65511,
+    "geom:area_square_m":1292869133.874597,
     "geom:bbox":"-80.729363,7.229583,-80.210741,7.563144",
     "geom:latitude":7.413705,
     "geom:longitude":-80.505766,
@@ -114,12 +114,13 @@
         "qs_pg:id":231697,
         "wd:id":"Q2216393"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459010153,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"83f4f51b1673b33c64830640cafa2b7e",
+    "wof:geomhash":"820622747a1f0778b0b63cf2a10cffd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421203469,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886129,
     "wof:name":"Tonos\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

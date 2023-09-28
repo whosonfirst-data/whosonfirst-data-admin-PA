@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050718,
-    "geom:area_square_m":621151139.056517,
+    "geom:area_square_m":621151112.461302,
     "geom:bbox":"-80.952524,7.773174,-80.649772,8.072473",
     "geom:latitude":7.925014,
     "geom:longitude":-80.811376,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.HE.OC",
         "wd:id":"Q2216607"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328622,
-    "wof:geomhash":"0a92a60d21107f22d0e1acee632b74ea",
+    "wof:geomhash":"323bf14582b12066a9cf2fbf15ae115e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693247,
-    "wof:lastmodified":1690850303,
+    "wof:lastmodified":1695886128,
     "wof:name":"Oc\u00fa",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

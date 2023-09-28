@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151357,
-    "geom:area_square_m":1848699786.205562,
+    "geom:area_square_m":1848699983.377932,
     "geom:bbox":"-80.873091,8.624301,-80.190466,9.196",
     "geom:latitude":8.962355,
     "geom:longitude":-80.521524,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.CL.DN",
         "wd:id":"Q2217007"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328597,
-    "wof:geomhash":"07fd5d215988d7de52b7b81f56cbf546",
+    "wof:geomhash":"5adf454848cecacd6609b8ec4148426c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693217,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1695886126,
     "wof:name":"Donoso",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

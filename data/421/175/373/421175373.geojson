@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04035,
-    "geom:area_square_m":493125430.851705,
+    "geom:area_square_m":493125395.519739,
     "geom:bbox":"-82.556128,8.594837,-82.260214,8.880654",
     "geom:latitude":8.750324,
     "geom:longitude":-82.414362,
@@ -133,12 +133,13 @@
         "qs_pg:id":368807,
         "wd:id":"Q893253"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009065,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b80c4cfd37f4e0e94c725780d719ac81",
+    "wof:geomhash":"a39ba12280d3d242d2112128f4aea90d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421175373,
-    "wof:lastmodified":1690850335,
+    "wof:lastmodified":1695886123,
     "wof:name":"Boquete",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

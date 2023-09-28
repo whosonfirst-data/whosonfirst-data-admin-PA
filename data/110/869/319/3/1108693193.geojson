@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023889,
-    "geom:area_square_m":292052538.250846,
+    "geom:area_square_m":292053003.696821,
     "geom:bbox":"-82.626076,8.450833,-82.52083,8.806056",
     "geom:latitude":8.617392,
     "geom:longitude":-82.573503,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.CH.BN",
         "wd:id":"Q2216576"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328575,
-    "wof:geomhash":"b6f1a6dc4f2b59dc1544ea46c4894617",
+    "wof:geomhash":"75036d2499044bffdb086f9cf5992c61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693193,
-    "wof:lastmodified":1690850309,
+    "wof:lastmodified":1695886594,
     "wof:name":"Boquer\u00f3n",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061663,
-    "geom:area_square_m":754044453.938112,
+    "geom:area_square_m":754044272.613384,
     "geom:bbox":"-82.17895,8.328543,-81.900332,8.767386",
     "geom:latitude":8.529946,
     "geom:longitude":-82.031914,
@@ -115,12 +115,13 @@
         "qs_pg:id":1014778,
         "wd:id":"Q3710719"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009426,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"270f12a4cd3d3db14ba34cdaa26e8610",
+    "wof:geomhash":"87400d2cca7b5c076cfa2ca00cb90385",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421184905,
-    "wof:lastmodified":1690850346,
+    "wof:lastmodified":1695886124,
     "wof:name":"Besiko",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

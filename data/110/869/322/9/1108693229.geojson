@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083343,
-    "geom:area_square_m":1020325295.682989,
+    "geom:area_square_m":1020324947.154986,
     "geom:bbox":"-81.687738,7.839389,-81.363944,8.39854",
     "geom:latitude":8.078299,
     "geom:longitude":-81.508789,
@@ -92,9 +92,10 @@
         "hasc:id":"PA.VR.LA",
         "wd:id":"Q1650981"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328608,
-    "wof:geomhash":"908c458bf009613f126fc4c0ed8db7ef",
+    "wof:geomhash":"1d2e81f70c4f3e82eca115cbb35bafd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108693229,
-    "wof:lastmodified":1636495946,
+    "wof:lastmodified":1695886704,
     "wof:name":"Las Palmas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

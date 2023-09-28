@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03722,
-    "geom:area_square_m":455313754.858999,
+    "geom:area_square_m":455314087.083283,
     "geom:bbox":"-82.795136,8.277361,-82.451637,8.463654",
     "geom:latitude":8.381877,
     "geom:longitude":-82.623549,
@@ -119,12 +119,13 @@
         "qs_pg:id":226345,
         "wd:id":"Q8193110"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459010127,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a778ddb45958572792fa9a75b7f6e236",
+    "wof:geomhash":"9bdb9b47a3f811c2d098eca98d845a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421202705,
-    "wof:lastmodified":1690850320,
+    "wof:lastmodified":1695886124,
     "wof:name":"Alanje",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

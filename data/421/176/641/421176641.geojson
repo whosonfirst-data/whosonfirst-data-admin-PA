@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018458,
-    "geom:area_square_m":225868091.471012,
+    "geom:area_square_m":225868091.470998,
     "geom:bbox":"-81.9893978647,8.16060880232,-81.8286314496,8.34581633583",
     "geom:latitude":8.257536,
     "geom:longitude":-81.90191,
@@ -126,12 +126,13 @@
         "qs_pg:id":990179,
         "wd:id":"Q2217004"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009115,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e322928e687717b4e7b82137354d79b",
+    "wof:geomhash":"b6cfdae1aeef2dedaebcd6c3d04999f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421176641,
-    "wof:lastmodified":1582319482,
+    "wof:lastmodified":1695886698,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

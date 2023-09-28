@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027947,
-    "geom:area_square_m":341748032.515245,
+    "geom:area_square_m":341747734.213451,
     "geom:bbox":"-80.115971,8.406437,-79.902293,8.652292",
     "geom:latitude":8.529212,
     "geom:longitude":-80.028045,
@@ -144,12 +144,13 @@
         "qs_pg:id":1242681,
         "wd:id":"Q2072542"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008890,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f7590141de57653e0d5d7d232979aa2",
+    "wof:geomhash":"095ab74d8960b71e40e54221434e829d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421171351,
-    "wof:lastmodified":1690850357,
+    "wof:lastmodified":1695886705,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"county",
