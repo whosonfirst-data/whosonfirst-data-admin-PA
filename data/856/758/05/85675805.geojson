@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384606,
-    "geom:area_square_m":4694296216.52823,
+    "geom:area_square_m":4694296291.547486,
     "geom:bbox":"-82.936112,8.811255,-82.008163,9.618956",
     "geom:latitude":9.217239,
     "geom:longitude":-82.582335,
@@ -306,6 +306,7 @@
         "gn:id":3713954,
         "gp:id":2346551,
         "hasc:id":"PA.BC",
+        "iso:code":"PA-1",
         "iso:id":"PA-1",
         "nyt:id":"N6546044179490659521",
         "qs_pg:id":423869,
@@ -313,11 +314,12 @@
         "wd:id":"Q217138",
         "wk:page":"Bocas del Toro Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"094fe97c3b65082680aac7fa711bfa84",
+    "wof:geomhash":"33c0a268125c25ffa64cfa5c1293c536",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850296,
+    "wof:lastmodified":1695884351,
     "wof:name":"Bocas del Toro",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340926,
-    "geom:area_square_m":4171907452.089035,
+    "geom:area_square_m":4171907452.08926,
     "geom:bbox":"-78.3134856108,7.59604880549,-77.284593,8.79133178747",
     "geom:latitude":8.251863,
     "geom:longitude":-77.760286,
@@ -281,17 +281,19 @@
         "gn:id":7303686,
         "gp:id":28358286,
         "hasc:id":"PA.EM",
+        "iso:code":"PA-EM",
         "iso:id":"PA-EM",
         "qs_pg:id":64643,
         "unlc:id":"PA-EM",
         "wd:id":"Q1141041",
         "wk:page":"Comarca Ember\u00e1-Wounaan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef0f96befe758ff837759a8b6e50c8e9",
+    "wof:geomhash":"1bc3912522484f167ffe64fe94556dae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1582319470,
+    "wof:lastmodified":1695884352,
     "wof:name":"Ember\u00e1",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

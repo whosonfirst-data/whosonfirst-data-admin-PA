@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.405745,
-    "geom:area_square_m":4961319427.79191,
+    "geom:area_square_m":4961319372.970658,
     "geom:bbox":"-80.828116,8.093201,-80.045615,9.056336",
     "geom:latitude":8.550989,
     "geom:longitude":-80.42957,
@@ -306,17 +306,19 @@
         "gn:id":3712162,
         "gp:id":2346553,
         "hasc:id":"PA.CC",
+        "iso:code":"PA-2",
         "iso:id":"PA-2",
         "qs_pg:id":318544,
         "unlc:id":"PA-2",
         "wd:id":"Q825799",
         "wk:page":"Cocl\u00e9 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27cefe55472bb438030741d24873cc6e",
+    "wof:geomhash":"0c811c21c174084ce1d48b26752e11ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850299,
+    "wof:lastmodified":1695884352,
     "wof:name":"Cocl\u00e9",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

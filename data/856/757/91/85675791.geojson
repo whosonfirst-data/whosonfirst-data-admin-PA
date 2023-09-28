@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.875748,
-    "geom:area_square_m":10721053327.542027,
+    "geom:area_square_m":10721052438.437355,
     "geom:bbox":"-81.894112,7.20475,-80.611426,8.889305",
     "geom:latitude":8.078899,
     "geom:longitude":-81.135637,
@@ -311,17 +311,19 @@
         "gn:id":3700159,
         "gp:id":2346560,
         "hasc:id":"PA.VR",
+        "iso:code":"PA-9",
         "iso:id":"PA-9",
         "qs_pg:id":219593,
         "unlc:id":"PA-9",
         "wd:id":"Q593137",
         "wk:page":"Veraguas Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09e2a9c97045f00c11c7f72acff57b6f",
+    "wof:geomhash":"05b7cbea9b7ccc29614b768d1c746953",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850299,
+    "wof:lastmodified":1695884835,
     "wof:name":"Veraguas",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

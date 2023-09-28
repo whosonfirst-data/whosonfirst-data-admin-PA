@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.312035,
-    "geom:area_square_m":3824580956.994836,
+    "geom:area_square_m":3824581393.242945,
     "geom:bbox":"-80.729363,7.229583,-79.99247,8.005972",
     "geom:latitude":7.586402,
     "geom:longitude":-80.39155,
@@ -296,17 +296,19 @@
         "gn:id":3704961,
         "gp:id":2346557,
         "hasc:id":"PA.LS",
+        "iso:code":"PA-7",
         "iso:id":"PA-7",
         "qs_pg:id":894956,
         "unlc:id":"PA-7",
         "wd:id":"Q911278",
         "wk:page":"Los Santos Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dda26e3f4f75ab1325d2287a7a2fbab",
+    "wof:geomhash":"dfe75392bfd705355c19e07c72e2ac90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850299,
+    "wof:lastmodified":1695884835,
     "wof:name":"Los Santos",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

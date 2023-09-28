@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401956,
-    "geom:area_square_m":4906488851.656958,
+    "geom:area_square_m":4906490562.499024,
     "geom:bbox":"-80.873091,8.624301,-79.072297,9.634694",
     "geom:latitude":9.185669,
     "geom:longitude":-80.017502,
@@ -318,17 +318,19 @@
         "gn:id":3712073,
         "gp:id":2346554,
         "hasc:id":"PA.CL",
+        "iso:code":"PA-3",
         "iso:id":"PA-3",
         "qs_pg:id":1168713,
         "unlc:id":"PA-3",
         "wd:id":"Q820514",
         "wk:page":"Col\u00f3n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd2326fb1ef8954fd659622235c15281",
+    "wof:geomhash":"ef8aaca719739a0eac1e9a22690d643a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850298,
+    "wof:lastmodified":1695884352,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

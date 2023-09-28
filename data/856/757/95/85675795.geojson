@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.003122,
-    "geom:area_square_m":12277613504.306852,
+    "geom:area_square_m":12277614928.224072,
     "geom:bbox":"-78.508152,7.225743,-77.158488,9.099759",
     "geom:latitude":8.167728,
     "geom:longitude":-77.919659,
@@ -303,17 +303,19 @@
         "gn:id":3711671,
         "gp:id":2346555,
         "hasc:id":"PA.DA",
+        "iso:code":"PA-5",
         "iso:id":"PA-5",
         "qs_pg:id":318545,
         "unlc:id":"PA-5",
         "wd:id":"Q688660",
         "wk:page":"Dari\u00e9n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3a473a642405abbc5e23b3596ed891c2",
+    "wof:geomhash":"ebe8e222bd8f935d6fbc9db6d50de803",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850297,
+    "wof:lastmodified":1695884351,
     "wof:name":"Dari\u00e9n",
     "wof:parent_id":85632179,
     "wof:placetype":"region",
