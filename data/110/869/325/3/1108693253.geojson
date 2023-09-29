@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023728,
-    "geom:area_square_m":290623910.261243,
+    "geom:area_square_m":290623858.948543,
     "geom:bbox":"-80.726703,7.809072,-80.495905,7.97829",
     "geom:latitude":7.895169,
     "geom:longitude":-80.615802,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.HE.PS",
         "wd:id":"Q2217039"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328628,
-    "wof:geomhash":"6abd0adc86dc9fed367ecd2aaaef63d8",
+    "wof:geomhash":"75157c8f48bb735d6f0b40e44bf88179",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693253,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1695886128,
     "wof:name":"Pes\u00e9",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

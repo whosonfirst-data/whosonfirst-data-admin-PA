@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066781,
-    "geom:area_square_m":816994247.020039,
+    "geom:area_square_m":816994362.607889,
     "geom:bbox":"-81.488815,8.244856,-81.091029,8.51588",
     "geom:latitude":8.358524,
     "geom:longitude":-81.285268,
@@ -86,9 +86,10 @@
         "hasc:id":"PA.VR.CZ",
         "wd:id":"Q1651005"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328581,
-    "wof:geomhash":"247d177be75dc27e9eff30a9a10ea127",
+    "wof:geomhash":"5591e03d1d05e4384efa04da80125d35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108693201,
-    "wof:lastmodified":1627522489,
+    "wof:lastmodified":1695886126,
     "wof:name":"Ca\u00f1azas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144361,
-    "geom:area_square_m":1764225317.939077,
+    "geom:area_square_m":1764225236.281044,
     "geom:bbox":"-81.949364,8.499052,-81.15734,9.18825",
     "geom:latitude":8.75981,
     "geom:longitude":-81.511683,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.NB.KS",
         "wd:id":"Q751010"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328602,
-    "wof:geomhash":"6ef3b00fb5672a0616d886fa429356ad",
+    "wof:geomhash":"8260f4cf824efa311b8506ac8d537284",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693223,
-    "wof:lastmodified":1690850305,
+    "wof:lastmodified":1695886127,
     "wof:name":"Kusap\u00edn",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

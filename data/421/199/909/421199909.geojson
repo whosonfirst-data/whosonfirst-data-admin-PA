@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079853,
-    "geom:area_square_m":977700376.349808,
+    "geom:area_square_m":977700009.19003,
     "geom:bbox":"-81.148463,7.728416,-80.694549,8.254216",
     "geom:latitude":8.036454,
     "geom:longitude":-80.967739,
@@ -148,12 +148,13 @@
         "qs_pg:id":510446,
         "wd:id":"Q3711454"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459010004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b9601844cf56cfdcfd60ae2b41f1df40",
+    "wof:geomhash":"32c69101c8326b66d3abb514b73267f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":421199909,
-    "wof:lastmodified":1690850342,
+    "wof:lastmodified":1695886704,
     "wof:name":"Santiago",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

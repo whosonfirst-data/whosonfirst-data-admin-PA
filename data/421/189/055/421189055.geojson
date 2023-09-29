@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007363,
-    "geom:area_square_m":90159068.785041,
+    "geom:area_square_m":90158773.819729,
     "geom:bbox":"-80.508111,7.923423,-80.391722,8.029135",
     "geom:latitude":7.97579,
     "geom:longitude":-80.448952,
@@ -118,12 +118,13 @@
         "qs_pg:id":1110014,
         "wd:id":"Q2216071"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009603,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9475c2c434382a15aa704ebb4a32cf74",
+    "wof:geomhash":"b12e298bf32971600883fc647abcabbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421189055,
-    "wof:lastmodified":1690850330,
+    "wof:lastmodified":1695886126,
     "wof:name":"Chitr\u00e9",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

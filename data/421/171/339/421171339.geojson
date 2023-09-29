@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075269,
-    "geom:area_square_m":920684597.920507,
+    "geom:area_square_m":920684318.324647,
     "geom:bbox":"-82.564673,8.088555,-82.207541,8.763444",
     "geom:latitude":8.418525,
     "geom:longitude":-82.388611,
@@ -369,12 +369,13 @@
         "qs_pg:id":1263656,
         "wd:id":"Q2215578"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008890,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"38cffba283d842cb1a4bb2d615466b15",
+    "wof:geomhash":"4e8579df00f85f4fff6b3e1f78f803bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -384,7 +385,7 @@
         }
     ],
     "wof:id":421171339,
-    "wof:lastmodified":1636495961,
+    "wof:lastmodified":1695886704,
     "wof:name":"David",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404261,
-    "geom:area_square_m":4946971740.7008,
+    "geom:area_square_m":4946972359.229254,
     "geom:bbox":"-78.157208,7.507522,-77.158488,9.099759",
     "geom:latitude":8.243325,
     "geom:longitude":-77.689673,
@@ -123,12 +123,13 @@
         "qs_pg:id":1263652,
         "wd:id":"Q2216562"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009899,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5605b4acb52bf21daad3ac93b8ebad2",
+    "wof:geomhash":"ec2c94a9b35cb48a724cda60e008cd15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421196973,
-    "wof:lastmodified":1690850338,
+    "wof:lastmodified":1695886128,
     "wof:name":"Pinogana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01771,
-    "geom:area_square_m":216977093.36813,
+    "geom:area_square_m":216977182.058909,
     "geom:bbox":"-80.438535,7.63637,-80.243986,7.899383",
     "geom:latitude":7.777473,
     "geom:longitude":-80.35387,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"PA.LS.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328599,
-    "wof:geomhash":"523ec62f7f6ad3fab9c9d26d7659caeb",
+    "wof:geomhash":"50f8d8a250f98332e0e0f66631ceaacf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108693219,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1695886127,
     "wof:name":"Guarar\u00e9",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

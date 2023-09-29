@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.598861,
-    "geom:area_square_m":7330641763.607227,
+    "geom:area_square_m":7330642568.994978,
     "geom:bbox":"-78.508152,7.225743,-77.691982,8.977625",
     "geom:latitude":8.116697,
     "geom:longitude":-78.074911,
@@ -119,12 +119,13 @@
         "qs_pg:id":220302,
         "wd:id":"Q1651404"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008839,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24e448e366b63953f3934316ae878749",
+    "wof:geomhash":"c47b6d495d1363d4306e32fb2ec0fa12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421170141,
-    "wof:lastmodified":1690850348,
+    "wof:lastmodified":1695886125,
     "wof:name":"Chepigana",
     "wof:parent_id":85675795,
     "wof:placetype":"county",

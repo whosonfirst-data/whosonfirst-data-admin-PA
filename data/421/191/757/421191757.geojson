@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04891,
-    "geom:area_square_m":598309938.839926,
+    "geom:area_square_m":598309574.743032,
     "geom:bbox":"-80.828116,8.22325,-80.39325,8.583952",
     "geom:latitude":8.391756,
     "geom:longitude":-80.58498,
@@ -113,12 +113,13 @@
         "qs_pg:id":114260,
         "wd:id":"Q2215891"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009707,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6727cd87633d97f70eb0d537ec714709",
+    "wof:geomhash":"ac4d14aa1145101b58a4977d205b3e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421191757,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1695886127,
     "wof:name":"Nat\u00e1",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

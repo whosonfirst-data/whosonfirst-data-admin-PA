@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036308,
-    "geom:area_square_m":444253787.197906,
+    "geom:area_square_m":444253175.513544,
     "geom:bbox":"-81.123687,8.179809,-80.817384,8.418748",
     "geom:latitude":8.299077,
     "geom:longitude":-81.005018,
@@ -135,12 +135,13 @@
         "qs_pg:id":510441,
         "wd:id":"Q2073037"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"579c4342bd32304029407f12a12f2797",
+    "wof:geomhash":"b7f39384b19595d6f9df95179d1003db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421173571,
-    "wof:lastmodified":1636495957,
+    "wof:lastmodified":1695886704,
     "wof:name":"San Francisco",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

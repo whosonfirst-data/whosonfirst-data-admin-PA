@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012724,
-    "geom:area_square_m":155797774.47913,
+    "geom:area_square_m":155797887.71213,
     "geom:bbox":"-80.974609,7.947825,-80.842603,8.085554",
     "geom:latitude":8.017716,
     "geom:longitude":-80.910613,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.VR.AT",
         "wd:id":"Q1650993"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328569,
-    "wof:geomhash":"903df6f994e26af551588443594177be",
+    "wof:geomhash":"639bd4f44cc66600e480040f0b1d896c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693187,
-    "wof:lastmodified":1690850307,
+    "wof:lastmodified":1695886124,
     "wof:name":"Atalaya",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

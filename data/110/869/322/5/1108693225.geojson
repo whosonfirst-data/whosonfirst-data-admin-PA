@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042374,
-    "geom:area_square_m":518649877.56799,
+    "geom:area_square_m":518649877.567932,
     "geom:bbox":"-81.3880920344,8.037896393,-81.0858035245,8.26793077977",
     "geom:latitude":8.168632,
     "geom:longitude":-81.225659,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.VR.LM",
         "wd:id":"Q2216424"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328604,
-    "wof:geomhash":"09b7e314805f2823dca4e68711b0c6cf",
+    "wof:geomhash":"88ab3d255c7cebf1c1ceea40ff2d02be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693225,
-    "wof:lastmodified":1566673329,
+    "wof:lastmodified":1695886594,
     "wof:name":"La Mesa",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

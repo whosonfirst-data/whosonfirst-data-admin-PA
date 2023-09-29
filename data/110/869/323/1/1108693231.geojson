@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032504,
-    "geom:area_square_m":398305641.184291,
+    "geom:area_square_m":398305606.004963,
     "geom:bbox":"-80.783321,7.538934,-80.558706,7.841196",
     "geom:latitude":7.692548,
     "geom:longitude":-80.669281,
@@ -92,9 +92,10 @@
         "hasc:id":"PA.HE.LZ",
         "wd:id":"Q2217030"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328610,
-    "wof:geomhash":"1a59e9dc8a7484d0cc752411f849a11a",
+    "wof:geomhash":"d9d46672ab06dffe8c719b9e688481f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108693231,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1695886127,
     "wof:name":"Los Pozos",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041276,
-    "geom:area_square_m":505832857.130188,
+    "geom:area_square_m":505832850.627022,
     "geom:bbox":"-80.714106,7.537726,-80.412607,7.813506",
     "geom:latitude":7.657935,
     "geom:longitude":-80.541537,
@@ -92,9 +92,10 @@
         "hasc:id":"PA.LS.MC",
         "wd:id":"Q2216055"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328613,
-    "wof:geomhash":"84b2a38aeb62bff88c2785082be0bedf",
+    "wof:geomhash":"a21ece9aba1f3bf460f6cea258067734",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108693237,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1695886127,
     "wof:name":"Macaracas",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

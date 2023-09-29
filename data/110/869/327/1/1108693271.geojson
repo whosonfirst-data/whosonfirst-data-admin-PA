@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059856,
-    "geom:area_square_m":729988100.449564,
+    "geom:area_square_m":729988618.469887,
     "geom:bbox":"-79.576955,9.3518,-79.072297,9.603167",
     "geom:latitude":9.497231,
     "geom:longitude":-79.302951,
@@ -110,9 +110,10 @@
         "hasc:id":"PA.CL.SI",
         "wd:id":"Q3585237"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328645,
-    "wof:geomhash":"e22b008176e6143bacc1760d6a6dd375",
+    "wof:geomhash":"4b589328a92f5ae9b0bf592a47c250b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108693271,
-    "wof:lastmodified":1636495946,
+    "wof:lastmodified":1695886704,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

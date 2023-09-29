@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043389,
-    "geom:area_square_m":530266483.77477,
+    "geom:area_square_m":530266617.355135,
     "geom:bbox":"-82.919962,8.57491,-82.687365,8.921354",
     "geom:latitude":8.748423,
     "geom:longitude":-82.793878,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.CH.RN",
         "wd:id":"Q2216549"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328635,
-    "wof:geomhash":"32898fbb7cfc278062544e079c6a0f4e",
+    "wof:geomhash":"e377667291d1bfec719f5b8f6f0cef7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693261,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1695886129,
     "wof:name":"Renacimiento",
     "wof:parent_id":85675767,
     "wof:placetype":"county",

@@ -1103,6 +1103,7 @@
         "hasc:id":"PA",
         "icao:code":"HP",
         "ioc:id":"PAN",
+        "iso:code":"PA",
         "itu:id":"PNR",
         "loc:id":"n79068688",
         "m49:code":"591",
@@ -1117,6 +1118,7 @@
         "wk:page":"Panama",
         "wmo:id":"PM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:country_alpha3":"PAN",
     "wof:geom_alt":[
@@ -1138,7 +1140,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639513,
+    "wof:lastmodified":1695881168,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032828,
-    "geom:area_square_m":400363709.585978,
+    "geom:area_square_m":400363511.436828,
     "geom:bbox":"-79.804352,9.367512,-79.520588,9.634694",
     "geom:latitude":9.495271,
     "geom:longitude":-79.643702,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.CL.PB",
         "wd:id":"Q1650732"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328632,
-    "wof:geomhash":"cb98b06bed54d8c105db31d87a22bb68",
+    "wof:geomhash":"7c692225a4db651256a7208021803340",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693257,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1695886128,
     "wof:name":"Portobelo",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

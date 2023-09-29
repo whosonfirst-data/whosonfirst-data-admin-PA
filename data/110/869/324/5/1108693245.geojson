@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014554,
-    "geom:area_square_m":178024492.553299,
+    "geom:area_square_m":178024314.251574,
     "geom:bbox":"-81.841331,8.270148,-81.737158,8.56486",
     "geom:latitude":8.410586,
     "geom:longitude":-81.79349,
@@ -88,9 +88,10 @@
         "hasc:id":"PA.NB.ND",
         "wd:id":"Q3711257"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328621,
-    "wof:geomhash":"08c128797136cd39bf344608b3d4e4b1",
+    "wof:geomhash":"72e36238bef1d64a56d98c620bd59b71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693245,
-    "wof:lastmodified":1690850303,
+    "wof:lastmodified":1695886128,
     "wof:name":"Nole Duima",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

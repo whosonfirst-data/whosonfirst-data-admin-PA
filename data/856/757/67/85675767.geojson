@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.542955,
-    "geom:area_square_m":6640186132.401863,
+    "geom:area_square_m":6640185287.614379,
     "geom:bbox":"-83.052241,8.007501,-81.512902,8.921354",
     "geom:latitude":8.487159,
     "geom:longitude":-82.402449,
@@ -312,17 +312,19 @@
         "gn:id":3712410,
         "gp:id":2346552,
         "hasc:id":"PA.CH",
+        "iso:code":"PA-4",
         "iso:id":"PA-4",
         "qs_pg:id":1222799,
         "unlc:id":"PA-4",
         "wd:id":"Q739651",
         "wk:page":"Chiriqu\u00ed Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a71e2f9d856cef15cfc2f9cac3df5c7",
+    "wof:geomhash":"cc38b8091e8753bbeb0d5e9944e6da98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -337,7 +339,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850298,
+    "wof:lastmodified":1695884352,
     "wof:name":"Chiriqu\u00ed",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

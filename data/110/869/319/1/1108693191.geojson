@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037489,
-    "geom:area_square_m":457566860.786722,
+    "geom:area_square_m":457567185.432972,
     "geom:bbox":"-82.42972,9.022421,-82.008163,9.443417",
     "geom:latitude":9.221106,
     "geom:longitude":-82.251195,
@@ -103,9 +103,10 @@
         "hasc:id":"PA.BC.BT",
         "wd:id":"Q2702428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328573,
-    "wof:geomhash":"4a8689e4a58dd296663d436b16265ed7",
+    "wof:geomhash":"f45a3e79adfb7b8e990d53f53dcfdb40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108693191,
-    "wof:lastmodified":1690850308,
+    "wof:lastmodified":1695886124,
     "wof:name":"Bocas Del Toro",
     "wof:parent_id":85675805,
     "wof:placetype":"county",

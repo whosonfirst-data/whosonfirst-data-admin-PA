@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060434,
-    "geom:area_square_m":739175787.314465,
+    "geom:area_square_m":739176057.784142,
     "geom:bbox":"-80.386713,8.288083,-80.045615,8.657202",
     "geom:latitude":8.446627,
     "geom:longitude":-80.203599,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.CC.AN",
         "wd:id":"Q2216997"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328566,
-    "wof:geomhash":"51b3efc667b83ba5e6debfdada658434",
+    "wof:geomhash":"8d7b17854322b9fc594fc8841785e23c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693185,
-    "wof:lastmodified":1690850307,
+    "wof:lastmodified":1695886124,
     "wof:name":"Ant\u00f3n",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

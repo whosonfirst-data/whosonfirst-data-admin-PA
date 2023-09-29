@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.72177,
-    "geom:area_square_m":8813200697.480808,
+    "geom:area_square_m":8813200925.368832,
     "geom:bbox":"-79.69148,8.205167,-78.062597,9.498281",
     "geom:latitude":9.06861,
     "geom:longitude":-78.850315,
@@ -289,17 +289,19 @@
         "gn:id":3703433,
         "gp:id":2346558,
         "hasc:id":"PA.PM",
+        "iso:code":"PA-8",
         "iso:id":"PA-8",
         "qs_pg:id":1168711,
         "unlc:id":"PA-8",
         "wd:id":"Q557506",
         "wk:page":"Panam\u00e1 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bbc58ccd746e7ee44af1467d4edfb3a",
+    "wof:geomhash":"cb0ca751162e468c6af7467e3dce7acd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -314,7 +316,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850298,
+    "wof:lastmodified":1695884834,
     "wof:name":"Panama",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00055,
-    "geom:area_square_m":6716382.779302,
+    "geom:area_square_m":6716292.612666,
     "geom:bbox":"-79.573387,8.773945,-79.540886,8.805056",
     "geom:latitude":8.789828,
     "geom:longitude":-79.558504,
@@ -89,9 +89,10 @@
         "hasc:id":"PA.PN.TB",
         "wd:id":"Q2072534"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328650,
-    "wof:geomhash":"cced492c970ff01731e72d4651f8283b",
+    "wof:geomhash":"54a04743790d201a83ef6f2aaaecc9b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693275,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1695886129,
     "wof:name":"Taboga",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

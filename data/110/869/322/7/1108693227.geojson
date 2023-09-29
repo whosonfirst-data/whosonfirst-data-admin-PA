@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038305,
-    "geom:area_square_m":469336706.693716,
+    "geom:area_square_m":469336844.248328,
     "geom:bbox":"-80.95604,7.569312,-80.685509,7.864217",
     "geom:latitude":7.732415,
     "geom:longitude":-80.799674,
@@ -92,9 +92,10 @@
         "hasc:id":"PA.HE.LN",
         "wd:id":"Q2216080"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328606,
-    "wof:geomhash":"1db4669daf24a1caaf66ef072174f986",
+    "wof:geomhash":"06c33ace870949878d0ebec759d4edfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108693227,
-    "wof:lastmodified":1627522490,
+    "wof:lastmodified":1695886127,
     "wof:name":"Las Minas",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

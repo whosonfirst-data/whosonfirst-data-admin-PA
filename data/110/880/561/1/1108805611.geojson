@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24825,
-    "geom:area_square_m":3033282516.108324,
+    "geom:area_square_m":3033281032.916072,
     "geom:bbox":"-80.172155,8.406437,-79.560753,9.19534",
     "geom:latitude":8.827273,
     "geom:longitude":-79.904311,
@@ -57,11 +57,13 @@
     "wof:concordances":{
         "fips:code":"PM13",
         "hasc:id":"PA.PO",
+        "iso:code":"PA-10",
         "iso:id":"PA-10"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:created":1485478874,
-    "wof:geomhash":"a7194cd772b0b385a4f3cbe0553231e9",
+    "wof:geomhash":"7721da5efb8211138645d21ee0398c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +78,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1695884756,
     "wof:name":"Panama Oeste",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

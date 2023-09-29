@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194787,
-    "geom:area_square_m":2385855135.509861,
+    "geom:area_square_m":2385855118.145341,
     "geom:bbox":"-80.95604,7.538934,-80.391722,8.144549",
     "geom:latitude":7.874893,
     "geom:longitude":-80.70536,
@@ -296,17 +296,19 @@
         "gn:id":3708710,
         "gp:id":2346556,
         "hasc:id":"PA.HE",
+        "iso:code":"PA-6",
         "iso:id":"PA-6",
         "qs_pg:id":894955,
         "unlc:id":"PA-6",
         "wd:id":"Q842886",
         "wk:page":"Herrera Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de2cc34d2ac09de578f3e00346fde983",
+    "wof:geomhash":"179ca2fee0d7627e70fe837df6d859bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850299,
+    "wof:lastmodified":1695884834,
     "wof:name":"Herrera",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

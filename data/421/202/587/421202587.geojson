@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030825,
-    "geom:area_square_m":377883084.268667,
+    "geom:area_square_m":377883039.98634,
     "geom:bbox":"-80.246187,7.410611,-79.99247,7.647361",
     "geom:latitude":7.508072,
     "geom:longitude":-80.106652,
@@ -125,12 +125,13 @@
         "qs_pg:id":224823,
         "wd:id":"Q2216610"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459010123,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d2a9cca2404a260b505bffecc31de5e5",
+    "wof:geomhash":"62f6196fd689339e3e6a6f6bffb212c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421202587,
-    "wof:lastmodified":1690850320,
+    "wof:lastmodified":1695886127,
     "wof:name":"Pedas\u00ed",
     "wof:parent_id":85675785,
     "wof:placetype":"county",

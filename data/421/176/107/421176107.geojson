@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.435077,
-    "geom:area_square_m":5311853264.032524,
+    "geom:area_square_m":5311853028.153035,
     "geom:bbox":"-79.27791,8.808291,-78.062597,9.395422",
     "geom:latitude":9.116003,
     "geom:longitude":-78.6524,
@@ -120,12 +120,13 @@
         "qs_pg:id":1331296,
         "wd:id":"Q2215925"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009095,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"beac745d5b295eaba98fa94ca8c1e56f",
+    "wof:geomhash":"7e2fd4cdc2851d1c35ea4323822bc0c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421176107,
-    "wof:lastmodified":1690850354,
+    "wof:lastmodified":1695886125,
     "wof:name":"Chepo",
     "wof:parent_id":85675789,
     "wof:placetype":"county",

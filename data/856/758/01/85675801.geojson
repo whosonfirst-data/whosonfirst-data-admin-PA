@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186971,
-    "geom:area_square_m":2282517394.403632,
+    "geom:area_square_m":2282517394.404227,
     "geom:bbox":"-79.278296,8.520338,-77.357987,9.564917",
     "geom:latitude":9.145604,
     "geom:longitude":-78.270912,
@@ -323,12 +323,14 @@
         "gn:id":3701537,
         "gp:id":2346559,
         "hasc:id":"PA.SB",
+        "iso:code":"PA-KY",
         "iso:id":"PA-KY",
         "qs_pg:id":423870,
         "unlc:id":"PA-KY",
         "wd:id":"Q919017",
         "wk:page":"Guna Yala"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108693213
     ],
@@ -336,7 +338,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad5290256dd9ec218f7b8dab68b48a87",
+    "wof:geomhash":"3bb5d7e83bf4293797b3a3b7842df226",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -351,7 +353,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850297,
+    "wof:lastmodified":1695884834,
     "wof:name":"Kuna Yala",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

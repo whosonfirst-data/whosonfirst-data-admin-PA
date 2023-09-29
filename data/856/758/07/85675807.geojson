@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.558721,
-    "geom:area_square_m":6829908436.640213,
+    "geom:area_square_m":6829908436.640495,
     "geom:bbox":"-82.4207813104,8.14153325444,-81.1431707785,9.188249588",
     "geom:latitude":8.659151,
     "geom:longitude":-81.767462,
@@ -274,17 +274,19 @@
         "gn:id":7303688,
         "gp:id":28358287,
         "hasc:id":"PA.NB",
+        "iso:code":"PA-NB",
         "iso:id":"PA-NB",
         "qs_pg:id":64640,
         "unlc:id":"PA-NB",
         "wd:id":"Q1129783",
         "wk:page":"Ng\u00e4be-Bugl\u00e9 Comarca"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"71dbc480d2146764598923e26dea529f",
+    "wof:geomhash":"229f2bd3fbd2048d778e837a31add54d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -299,7 +301,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1582319470,
+    "wof:lastmodified":1695884352,
     "wof:name":"Ng\u00f6be Bugl\u00e9",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

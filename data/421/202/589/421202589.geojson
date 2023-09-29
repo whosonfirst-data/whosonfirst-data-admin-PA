@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141498,
-    "geom:area_square_m":1729662268.742975,
+    "geom:area_square_m":1729662612.129439,
     "geom:bbox":"-80.526121,8.300966,-80.110406,9.056336",
     "geom:latitude":8.667976,
     "geom:longitude":-80.308143,
@@ -128,12 +128,13 @@
         "qs_pg:id":224824,
         "wd:id":"Q2216569"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459010123,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce0ba949b5398560fe8b1b71d246daa1",
+    "wof:geomhash":"9859d7d25a1ccf2e4f227888db221550",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421202589,
-    "wof:lastmodified":1690850320,
+    "wof:lastmodified":1695886697,
     "wof:name":"Penonom\u00e9",
     "wof:parent_id":85675771,
     "wof:placetype":"county",

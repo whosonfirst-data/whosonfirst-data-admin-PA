@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0308,
-    "geom:area_square_m":376542227.070704,
+    "geom:area_square_m":376542037.530469,
     "geom:bbox":"-80.071414,8.520674,-79.693275,8.703168",
     "geom:latitude":8.620919,
     "geom:longitude":-79.914201,
@@ -126,12 +126,13 @@
         "qs_pg:id":1110013,
         "wd:id":"Q431342"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459009603,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d41b93fa1c0c8e7dae8c3001b325483",
+    "wof:geomhash":"7169af8fc0a1be808d7884b2f1931303",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421189053,
-    "wof:lastmodified":1690850330,
+    "wof:lastmodified":1695886125,
     "wof:name":"Chame",
     "wof:parent_id":-1,
     "wof:placetype":"county",

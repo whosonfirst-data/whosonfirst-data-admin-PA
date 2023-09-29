@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028638,
-    "geom:area_square_m":350632745.687136,
+    "geom:area_square_m":350632839.539728,
     "geom:bbox":"-80.715851,7.950687,-80.449649,8.119951",
     "geom:latitude":8.034063,
     "geom:longitude":-80.579232,
@@ -114,12 +114,13 @@
         "qs_pg:id":114261,
         "wd:id":"Q2216637"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008707,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba60f139ca99c3be6d6cd015708572f9",
+    "wof:geomhash":"b92d54c37c3ae7dd554a1d4e0547b13a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421166923,
-    "wof:lastmodified":1627522491,
+    "wof:lastmodified":1695886127,
     "wof:name":"Parita",
     "wof:parent_id":85675781,
     "wof:placetype":"county",

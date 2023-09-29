@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097432,
-    "geom:area_square_m":1193545811.969864,
+    "geom:area_square_m":1193545452.317733,
     "geom:bbox":"-78.313486,7.596049,-77.943756,8.09321",
     "geom:latitude":7.824554,
     "geom:longitude":-78.128608,
@@ -97,9 +97,10 @@
         "hasc:id":"PA.EM.SB",
         "wd:id":"Q3711428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328638,
-    "wof:geomhash":"eae26b2bebf2c2301def1ae00e47464b",
+    "wof:geomhash":"85204c688862559c8cb55f1e7c7bc920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108693265,
-    "wof:lastmodified":1690850309,
+    "wof:lastmodified":1695886129,
     "wof:name":"Samb\u00fa",
     "wof:parent_id":85675811,
     "wof:placetype":"county",

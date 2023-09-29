@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124151,
-    "geom:area_square_m":1520728068.726718,
+    "geom:area_square_m":1520728150.24011,
     "geom:bbox":"-81.594193,7.609083,-81.16803,8.146676",
     "geom:latitude":7.860303,
     "geom:longitude":-81.344365,
@@ -111,12 +111,13 @@
         "qs_pg:id":1263671,
         "wd:id":"Q1651000"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008890,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ba8fd134c9d9a811a61def799e79d74",
+    "wof:geomhash":"897851c0f9af072ac0644d53a349dff6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421171349,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1695886128,
     "wof:name":"Son\u00e1",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

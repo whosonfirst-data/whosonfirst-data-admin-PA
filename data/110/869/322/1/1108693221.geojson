@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199478,
-    "geom:area_square_m":2437596574.913168,
+    "geom:area_square_m":2437596947.637708,
     "geom:bbox":"-82.420781,8.498186,-81.613183,9.146045",
     "geom:latitude":8.792121,
     "geom:longitude":-81.980882,
@@ -85,9 +85,10 @@
         "hasc:id":"PA.NB.KK",
         "wd:id":"Q2659227"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328600,
-    "wof:geomhash":"3db20b6c3a5dedb9c025124fa543e287",
+    "wof:geomhash":"3e716d35ba9de192721b5d2b9f5ce6a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108693221,
-    "wof:lastmodified":1690850305,
+    "wof:lastmodified":1695886127,
     "wof:name":"Kankint\u00fa",
     "wof:parent_id":85675807,
     "wof:placetype":"county",

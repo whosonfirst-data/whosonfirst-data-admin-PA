@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037605,
-    "geom:area_square_m":459101148.234682,
+    "geom:area_square_m":459101323.198681,
     "geom:bbox":"-80.201393,8.950767,-79.987984,9.286908",
     "geom:latitude":9.132791,
     "geom:longitude":-80.106641,
@@ -94,9 +94,10 @@
         "hasc:id":"PA.CL.CR",
         "wd:id":"Q2786644"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328584,
-    "wof:geomhash":"878f1c54689a4049a41f45bbba936b0c",
+    "wof:geomhash":"8cf4e1b4203edfd3fb0f49a06a2edc13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693205,
-    "wof:lastmodified":1690850306,
+    "wof:lastmodified":1695886126,
     "wof:name":"Chagres",
     "wof:parent_id":85675775,
     "wof:placetype":"county",

@@ -129,6 +129,7 @@
         "qs_pg:id":1263657,
         "wd:id":"Q1650967"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1459008890,
     "wof:geom_alt":[
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421171341,
-    "wof:lastmodified":1694492486,
+    "wof:lastmodified":1695886698,
     "wof:name":"Montijo",
     "wof:parent_id":85675791,
     "wof:placetype":"county",

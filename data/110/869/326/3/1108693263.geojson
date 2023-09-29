@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026034,
-    "geom:area_square_m":318825721.621114,
+    "geom:area_square_m":318825561.576313,
     "geom:bbox":"-81.245993,7.818139,-81.070511,8.073716",
     "geom:latitude":7.951424,
     "geom:longitude":-81.153434,
@@ -86,9 +86,10 @@
         "hasc:id":"PA.VR.RJ",
         "wd:id":"Q1650989"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PA",
     "wof:created":1474328636,
-    "wof:geomhash":"6c2fe9efb2179741327a583f9394825b",
+    "wof:geomhash":"61075558c337b73c52f49d70b54e62c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108693263,
-    "wof:lastmodified":1627522492,
+    "wof:lastmodified":1695886129,
     "wof:name":"R\u00edo de Jes\u00fas",
     "wof:parent_id":85675791,
     "wof:placetype":"county",
