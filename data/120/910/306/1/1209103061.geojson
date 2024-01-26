@@ -36,12 +36,18 @@
         "La Corocito"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85632179
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3707869
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3707880
+        ]
     },
     "wof:country":"PA",
     "wof:geomhash":"9a5ed027f1f9e2a0accd306f6a99412d",
@@ -52,13 +58,17 @@
         }
     ],
     "wof:id":1209103061,
-    "wof:lastmodified":1566673279,
+    "wof:lastmodified":1706240567,
     "wof:name":"La Corocita",
     "wof:parent_id":85632179,
     "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259480017
+    ],
     "wof:tags":[]
 },
   "bbox": [

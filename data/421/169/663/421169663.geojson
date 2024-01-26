@@ -9,6 +9,20 @@
     "geom:bbox":"-78.56667,9.45,-78.56667,9.45",
     "geom:latitude":9.45,
     "geom:longitude":-78.56667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ustupo Yantupo",
+    "gn:cc2":"PA",
+    "gn:country_code":"PA",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3700266,
+    "gn:latitude":9.45,
+    "gn:longitude":-78.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ustupo Yantupo",
+    "gn:population":0,
+    "gn:timezone":"America/Panama",
     "iso:country":"PA",
     "lbl:bbox":"-78.58667,9.43,-78.54667,9.47",
     "lbl:max_zoom":18.0,
@@ -53,7 +67,12 @@
         "qs_pg:id":228621
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1046571
+        "gn:id":[
+            3700266
+        ],
+        "qs_pg:id":[
+            1046571
+        ]
     },
     "wof:country":"PA",
     "wof:created":1459008819,
@@ -70,13 +89,15 @@
         }
     ],
     "wof:id":421169663,
-    "wof:lastmodified":1582319479,
+    "wof:lastmodified":1706240567,
     "wof:name":"Ustupo Yantupo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293276637
+    ],
     "wof:tags":[]
 },
   "bbox": [
