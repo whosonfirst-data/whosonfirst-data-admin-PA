@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-80.38333,7.71667,-80.38333,7.71667",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "La Palma"
@@ -212,14 +214,16 @@
         }
     ],
     "wof:id":1343753477,
-    "wof:lastmodified":1636495926,
+    "wof:lastmodified":1706240567,
     "wof:name":"La Palma",
     "wof:parent_id":1108693219,
     "wof:placetype":"locality",
     "wof:population":1283,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890438873
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
