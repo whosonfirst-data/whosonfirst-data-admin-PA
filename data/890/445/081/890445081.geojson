@@ -120,6 +120,9 @@
     "name:eng_x_preferred":[
         "Panama City"
     ],
+    "name:eng_x_variant":[
+        "Panama"
+    ],
     "name:epo_x_preferred":[
         "Panamurbo"
     ],
@@ -568,16 +571,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:population":"wk",
     "wd:latitude":"8.616667",
     "wd:longitude":"-80.366667",
-    "wd:population":3864170,
     "wd:wordcount":10790,
     "wof:belongsto":[
         102191575,
         85632179,
-        85675789,
-        421196975
+        421196975,
+        85675789
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -588,7 +589,7 @@
         "ne:id":1159150667,
         "qs_pg:id":1046581,
         "wd:id":"Q3306",
-        "wk:page":"Panama"
+        "wk:page":"Panama_City"
     },
     "wof:country":"PA",
     "wof:created":1469052496,
@@ -606,12 +607,12 @@
         }
     ],
     "wof:id":890445081,
-    "wof:lastmodified":1690850363,
+    "wof:lastmodified":1734999502,
     "wof:megacity":1,
     "wof:name":"Panam\u00e1",
     "wof:parent_id":421196975,
     "wof:placetype":"locality",
-    "wof:population":3864170,
+    "wof:population":1132969,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pa",
     "wof:superseded_by":[],
